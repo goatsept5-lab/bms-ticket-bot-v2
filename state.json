@@ -827,7 +827,79 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-04T00:07:20.092336"
+    },
+    "CBMC_13945_20261005_NORMAL": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "09:35 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-04T21:50:51.849472"
+    },
+    "CBMC_13906_20261005_NORMAL": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "04:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-04T21:50:52.464629"
+    },
+    "CBMC_13930_20261005_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-04T21:50:53.032441"
+    },
+    "CBMC_13941_20261005_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "12:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-04T21:50:53.600346"
+    },
+    "CBMC_13922_20261005_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-04T21:50:54.181034"
+    },
+    "CBMC_13901_20261005_NORMAL": {
+      "movie": "Don't Trouble The Trouble (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-04T21:50:54.756073"
+    },
+    "CBMC_13902_20261005_NORMAL": {
+      "movie": "Avaraachan & Sons - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-04T21:50:55.341204"
+    },
+    "CBMC_13905_20261005_NORMAL": {
+      "movie": "Avengers Endgame: Encore (MS - Infinity Vision) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-04T21:50:55.920518"
     }
   },
-  "last_heartbeat": "2026-10-04T21:35:15.969709"
+  "last_heartbeat": "2026-10-04T21:50:56.517801"
 }
