@@ -1286,7 +1286,187 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-05T07:39:47.690263"
+    },
+    "CBMC_13993_20261007_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:27.034453"
+    },
+    "CBMC_14015_20261007_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "04:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:27.643518"
+    },
+    "CBMC_14036_20261007_NORMAL": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "08:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:28.197806"
+    },
+    "CBMC_13988_20261007_NORMAL": {
+      "movie": "Sigma - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "11:35 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:28.742465"
+    },
+    "CBMC_14010_20261007_NORMAL": {
+      "movie": "Sigma - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:29.282649"
+    },
+    "CBMC_14018_20261007_NORMAL": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "11:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:29.849804"
+    },
+    "CBMC_14020_20261007_NORMAL": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "04:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:30.382647"
+    },
+    "CBMC_14042_20261007_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "09:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:31.258332"
+    },
+    "CBMC_13999_20261007_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "12:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:31.859831"
+    },
+    "CBMC_13997_20261007_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:32.451332"
+    },
+    "CBMC_14024_20261007_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "12:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T13:42:33.015837"
+    },
+    "CBMC_14025_20261007_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "03:55 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T13:42:33.554281"
+    },
+    "CBMC_14027_20261007_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T13:42:34.113647"
+    },
+    "CBMC_14043_20261007_NORMAL": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "07:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:34.656336"
+    },
+    "CBMC_13994_20261007_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "02:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-05T13:42:35.223470"
+    },
+    "CBMC_13992_20261007_NORMAL": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:35.770096"
+    },
+    "CBMC_13995_20261007_NORMAL": {
+      "movie": "Don't Trouble The Trouble (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T13:42:36.294756"
+    },
+    "CBMC_14006_20261007_NORMAL": {
+      "movie": "Verity - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "07:30 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-05T13:42:36.839213"
+    },
+    "CBMC_13996_20261007_NORMAL": {
+      "movie": "Avaraachan & Sons - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T13:42:37.381419"
+    },
+    "CBMC_14007_20261007_NORMAL": {
+      "movie": "Digger - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:10 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-05T13:42:37.955395"
     }
   },
-  "last_heartbeat": "2026-10-05T13:24:54.354699"
+  "last_heartbeat": "2026-10-05T13:42:37.955562"
 }
