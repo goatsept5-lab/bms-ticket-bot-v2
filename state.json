@@ -1475,7 +1475,16 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-05T17:16:37.058979"
+    },
+    "PVHR_43270_20261006_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261006",
+      "time": "01:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T17:46:30.081339"
     }
   },
-  "last_heartbeat": "2026-10-05T17:31:36.328523"
+  "last_heartbeat": "2026-10-05T17:46:30.261467"
 }
