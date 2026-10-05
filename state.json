@@ -1241,7 +1241,52 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-05T06:41:00.362916"
+    },
+    "INTO_91289_20261005_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261005",
+      "time": "12:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T07:39:45.144979"
+    },
+    "INTO_91258_20261005_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261005",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T07:39:45.788044"
+    },
+    "INTO_91228_20261005_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261005",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T07:39:46.417123"
+    },
+    "INTO_91277_20261005_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Telugu) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261005",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T07:39:47.058293"
+    },
+    "INTO_91279_20261005_EXECUTIVE": {
+      "movie": "Avaraachan & Sons - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261005",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T07:39:47.690263"
     }
   },
-  "last_heartbeat": "2026-10-05T07:21:35.106373"
+  "last_heartbeat": "2026-10-05T07:39:49.195483"
 }
