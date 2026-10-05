@@ -1484,7 +1484,79 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-05T17:46:30.081339"
+    },
+    "CBMC_13978_20261005_NORMAL": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "11:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T17:58:45.454992"
+    },
+    "CBMC_13957_20261005_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T17:58:46.088012"
+    },
+    "CBMC_13984_20261005_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "12:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T17:58:46.720528"
+    },
+    "CBMC_13985_20261005_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "03:55 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T17:58:47.348676"
+    },
+    "CBMC_13954_20261005_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "02:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-05T17:58:47.983959"
+    },
+    "CBMC_13955_20261005_NORMAL": {
+      "movie": "Don't Trouble The Trouble (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-05T17:58:48.601872"
+    },
+    "CBMC_13956_20261005_NORMAL": {
+      "movie": "Avaraachan & Sons - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-05T17:58:49.233292"
+    },
+    "CBMC_13967_20261005_NORMAL": {
+      "movie": "Digger - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261005",
+      "time": "10:10 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-05T17:58:49.865730"
     }
   },
-  "last_heartbeat": "2026-10-05T17:46:30.261467"
+  "last_heartbeat": "2026-10-05T17:58:50.365069"
 }
