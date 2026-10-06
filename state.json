@@ -1781,7 +1781,70 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-05T23:26:58.041449"
+    },
+    "CBMC_13957_20261008_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-06T02:00:04.115927"
+    },
+    "CBMC_13984_20261008_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "12:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-06T02:00:04.854925"
+    },
+    "CBMC_13985_20261008_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "03:55 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-06T02:00:05.530544"
+    },
+    "CBMC_13954_20261008_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "02:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-06T02:00:06.240339"
+    },
+    "CBMC_13955_20261008_NORMAL": {
+      "movie": "Don't Trouble The Trouble (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-06T02:00:06.963558"
+    },
+    "CBMC_13956_20261008_NORMAL": {
+      "movie": "Avaraachan & Sons - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-06T02:00:07.670039"
+    },
+    "CBMC_13967_20261008_NORMAL": {
+      "movie": "Digger - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "10:10 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-06T02:00:08.322560"
     }
   },
-  "last_heartbeat": "2026-10-06T01:51:18.251886"
+  "last_heartbeat": "2026-10-06T02:00:08.322636"
 }
