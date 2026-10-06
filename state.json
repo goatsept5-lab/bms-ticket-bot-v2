@@ -2150,7 +2150,25 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-06T02:42:04.722880"
+    },
+    "INTO_91368_20261008_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261008",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-06T13:38:46.654789"
+    },
+    "INTO_91364_20261008_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261008",
+      "time": "07:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-06T13:38:47.289472"
     }
   },
-  "last_heartbeat": "2026-10-06T13:23:41.200123"
+  "last_heartbeat": "2026-10-06T13:38:47.528093"
 }
