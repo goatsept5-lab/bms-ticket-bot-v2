@@ -3446,7 +3446,16 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-07T18:59:16.231891"
+    },
+    "INTO_91368_20261007_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261007",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:12:28.779742"
     }
   },
-  "last_heartbeat": "2026-10-07T18:59:16.232292"
+  "last_heartbeat": "2026-10-07T19:12:29.518419"
 }
