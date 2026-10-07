@@ -3320,7 +3320,25 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-07T14:52:23.611576"
+    },
+    "PVHR_43489_20261009_CLASSIC": {
+      "movie": "96 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T15:51:12.190197"
+    },
+    "PVHR_43400_20261009_CLASSIC": {
+      "movie": "Sigma - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "09:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T15:51:12.881932"
     }
   },
-  "last_heartbeat": "2026-10-07T15:31:21.020600"
+  "last_heartbeat": "2026-10-07T15:51:12.975642"
 }
