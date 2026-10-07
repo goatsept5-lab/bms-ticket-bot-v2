@@ -3410,7 +3410,34 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-07T16:23:25.425499"
+    },
+    "INTO_91297_20261007_EXECUTIVE": {
+      "movie": "Sigma - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261007",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:40:44.601240"
+    },
+    "CBMC_14002_20261007_NORMAL": {
+      "movie": "Avengers Endgame: Encore (MS - Infinity Vision) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T16:40:45.732478"
+    },
+    "CBMC_14022_20261007_NORMAL": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:40:46.297902"
     }
   },
-  "last_heartbeat": "2026-10-07T16:23:25.550463"
+  "last_heartbeat": "2026-10-07T16:40:46.842001"
 }
