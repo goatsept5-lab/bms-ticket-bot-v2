@@ -3455,7 +3455,286 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-07T19:12:28.779742"
+    },
+    "PVHR_43351_20261007_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:50.741357"
+    },
+    "PVHR_43341_20261007_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "11:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:51.296043"
+    },
+    "PVHR_43342_20261007_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "01:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:51.856066"
+    },
+    "PVHR_43363_20261007_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "04:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:52.407916"
+    },
+    "PVHR_43344_20261007_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:52.976190"
+    },
+    "PVHR_43361_20261007_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:05 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:53.496384"
+    },
+    "PVHR_43325_20261007_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "03:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:54.040373"
+    },
+    "PVHR_43327_20261007_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:54.597246"
+    },
+    "PVHR_43321_20261007_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "03:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:55.176278"
+    },
+    "PVHR_43322_20261007_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:55.706401"
+    },
+    "PVHR_43323_20261007_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:56.251758"
+    },
+    "PVHR_43333_20261007_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "01:15 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:41:56.802635"
+    },
+    "PVHR_43334_20261007_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "04:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:41:57.343407"
+    },
+    "PVHR_43335_20261007_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "07:35 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:41:57.905985"
+    },
+    "PVHR_43336_20261007_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:41:58.461690"
+    },
+    "PVHR_43343_20261007_CLASSIC": {
+      "movie": "Spider-Man: Brand New Day (3D) - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "04:00 PM",
+      "category": "CLASSIC",
+      "price": 96.74,
+      "alerted_at": "2026-10-07T19:41:59.008932"
+    },
+    "PVHR_43358_20261007_CLASSIC": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "04:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:41:59.624951"
+    },
+    "PVHR_43360_20261007_CLASSIC": {
+      "movie": "Yezhu Kadal Yezhu Malai - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:42:00.172117"
+    },
+    "PVHR_43348_20261007_CLASSIC": {
+      "movie": "Digger - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "05:00 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:00.704516"
+    },
+    "PVHR_43350_20261007_CLASSIC": {
+      "movie": "Digger - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:30 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:01.263699"
+    },
+    "PVHR_43365_20261007_CLASSIC": {
+      "movie": "The Third Murder - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:20 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:42:01.846083"
+    },
+    "PVHR_43355_20261007_CLASSIC": {
+      "movie": "Thella Kaagitham - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261007",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:42:02.387704"
+    },
+    "CBMC_14067_20261007_NORMAL": {
+      "movie": "Sigma - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "03:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:42:03.737620"
+    },
+    "CBMC_14057_20261007_NORMAL": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "12:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:42:04.299142"
+    },
+    "CBMC_14054_20261007_NORMAL": {
+      "movie": "Don't Trouble The Trouble (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "12:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T19:42:04.877226"
+    },
+    "CBMC_14053_20261007_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "02:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:05.412385"
+    },
+    "CBMC_14082_20261007_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:05.979267"
+    },
+    "CBMC_14076_20261007_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "03:45 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:42:06.515784"
+    },
+    "CBMC_14078_20261007_NORMAL": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T19:42:07.051373"
+    },
+    "CBMC_14064_20261007_NORMAL": {
+      "movie": "Verity - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "07:30 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:07.600394"
+    },
+    "CBMC_14065_20261007_NORMAL": {
+      "movie": "Digger - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:10 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T19:42:08.188395"
     }
   },
-  "last_heartbeat": "2026-10-07T19:28:43.506457"
+  "last_heartbeat": "2026-10-07T19:42:09.854045"
 }
