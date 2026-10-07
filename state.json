@@ -3437,7 +3437,16 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-07T16:40:46.297902"
+    },
+    "CBMC_14162_20261009_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "12:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T18:59:16.231891"
     }
   },
-  "last_heartbeat": "2026-10-07T18:42:22.020497"
+  "last_heartbeat": "2026-10-07T18:59:16.232292"
 }
