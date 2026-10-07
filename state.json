@@ -3734,7 +3734,16 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-07T19:42:08.188395"
+    },
+    "CBMC_14060_20261007_NORMAL": {
+      "movie": "Avengers Endgame: Encore (MS - Infinity Vision) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261007",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-07T20:30:32.926270"
     }
   },
-  "last_heartbeat": "2026-10-07T20:14:20.539314"
+  "last_heartbeat": "2026-10-07T20:30:35.247155"
 }
