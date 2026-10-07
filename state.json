@@ -3338,7 +3338,79 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-07T15:51:12.881932"
+    },
+    "INTO_91392_20261009_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "11:55 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:21.633731"
+    },
+    "INTO_91399_20261009_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "01:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:22.190791"
+    },
+    "INTO_91400_20261009_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:22.705452"
+    },
+    "INTO_91402_20261009_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "01:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:23.242197"
+    },
+    "INTO_91403_20261009_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:23.766654"
+    },
+    "INTO_91404_20261009_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-07T16:23:24.291128"
+    },
+    "INTO_91390_20261009_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T16:23:24.838501"
+    },
+    "INTO_91391_20261009_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-07T16:23:25.425499"
     }
   },
-  "last_heartbeat": "2026-10-07T16:04:25.824286"
+  "last_heartbeat": "2026-10-07T16:23:25.550463"
 }
