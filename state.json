@@ -4094,7 +4094,124 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-08T14:46:05.491982"
+    },
+    "CBMC_14074_20261008_NORMAL": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261008",
+      "time": "08:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:10.236266"
+    },
+    "CBMC_14243_20261010_NORMAL": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "12:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:11.746869"
+    },
+    "CBMC_14216_20261010_NORMAL": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "03:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:12.303223"
+    },
+    "CBMC_14229_20261010_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "10:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:12.855275"
+    },
+    "CBMC_14244_20261010_NORMAL": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "10:30 AM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:13.451735"
+    },
+    "CBMC_14220_20261010_NORMAL": {
+      "movie": "Kitti - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "12:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:14.040097"
+    },
+    "CBMC_14214_20261010_NORMAL": {
+      "movie": "All Pass - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T15:00:14.632888"
+    },
+    "CBMC_14217_20261010_NORMAL": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:15.189955"
+    },
+    "CBMC_14228_20261010_NORMAL": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:15.753859"
+    },
+    "CBMC_14225_20261010_NORMAL": {
+      "movie": "Other Mommy - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "06:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:16.404823"
+    },
+    "CBMC_14226_20261010_NORMAL": {
+      "movie": "Other Mommy - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:17.015124"
+    },
+    "CBMC_14221_20261010_NORMAL": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "07:05 PM",
+      "category": "NORMAL",
+      "price": 57.12,
+      "alerted_at": "2026-10-08T15:00:17.572571"
+    },
+    "CBMC_14215_20261010_NORMAL": {
+      "movie": "Verity - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261010",
+      "time": "08:15 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:00:18.155475"
     }
   },
-  "last_heartbeat": "2026-10-08T14:46:06.168695"
+  "last_heartbeat": "2026-10-08T15:00:18.155727"
 }
