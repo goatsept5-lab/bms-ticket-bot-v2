@@ -3941,7 +3941,70 @@
       "category": "CLASSIC",
       "price": 57.12,
       "alerted_at": "2026-10-08T05:48:14.638647"
+    },
+    "CBMC_14211_20261009_NORMAL": {
+      "movie": "Kitti - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "01:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T12:01:29.269414"
+    },
+    "CBMC_14210_20261009_NORMAL": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "03:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T12:01:29.837300"
+    },
+    "CBMC_14207_20261009_NORMAL": {
+      "movie": "All Pass - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T12:01:30.385218"
+    },
+    "CBMC_14209_20261009_NORMAL": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T12:01:30.974363"
+    },
+    "CBMC_14208_20261009_NORMAL": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T12:01:31.544604"
+    },
+    "CBMC_14204_20261009_NORMAL": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 57.12,
+      "alerted_at": "2026-10-08T12:01:32.172782"
+    },
+    "CBMC_14213_20261009_NORMAL": {
+      "movie": "Verity - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "08:15 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T12:01:32.753482"
     }
   },
-  "last_heartbeat": "2026-10-08T11:51:04.633778"
+  "last_heartbeat": "2026-10-08T12:01:32.976057"
 }
