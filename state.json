@@ -3761,7 +3761,97 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-08T01:51:24.875466"
+    },
+    "PVHR_43411_20261010_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "09:05 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:02.243518"
+    },
+    "PVHR_43453_20261010_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "09:35 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:02.965828"
+    },
+    "PVHR_43454_20261010_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:03.612076"
+    },
+    "PVHR_43455_20261010_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "03:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:04.272036"
+    },
+    "PVHR_43456_20261010_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:04.975206"
+    },
+    "PVHR_43457_20261010_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:05.638514"
+    },
+    "PVHR_43490_20261010_CLASSIC": {
+      "movie": "96 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T02:43:06.269326"
+    },
+    "PVHR_43475_20261010_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "04:20 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-08T02:43:06.972336"
+    },
+    "PVHR_43477_20261010_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-08T02:43:07.630699"
+    },
+    "PVHR_43483_20261010_CLASSIC": {
+      "movie": "Hanuman Ansh - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "06:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-08T02:43:08.344789"
     }
   },
-  "last_heartbeat": "2026-10-08T02:29:32.896708"
+  "last_heartbeat": "2026-10-08T02:43:08.470449"
 }
