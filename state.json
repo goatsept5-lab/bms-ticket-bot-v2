@@ -4211,7 +4211,25 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-08T15:00:18.155475"
+    },
+    "CBMC_14224_20261009_NORMAL": {
+      "movie": "Other Mommy - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "06:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:33:26.911808"
+    },
+    "CBMC_14223_20261009_NORMAL": {
+      "movie": "Other Mommy - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261009",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T15:33:27.591614"
     }
   },
-  "last_heartbeat": "2026-10-08T15:14:29.594781"
+  "last_heartbeat": "2026-10-08T15:33:27.838841"
 }
