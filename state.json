@@ -3932,7 +3932,16 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-08T02:54:40.639370"
+    },
+    "PVHR_43484_20261010_CLASSIC": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 57.12,
+      "alerted_at": "2026-10-08T05:48:14.638647"
     }
   },
-  "last_heartbeat": "2026-10-08T05:32:15.289570"
+  "last_heartbeat": "2026-10-08T05:48:14.804877"
 }
