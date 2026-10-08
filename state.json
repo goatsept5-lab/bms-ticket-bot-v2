@@ -4067,7 +4067,34 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-08T13:56:34.256512"
+    },
+    "INTO_91355_20261008_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261008",
+      "time": "07:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-08T14:46:04.093025"
+    },
+    "INTO_91387_20261008_EXECUTIVE": {
+      "movie": "Digger - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261008",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T14:46:04.788246"
+    },
+    "INTO_91377_20261008_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261008",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-08T14:46:05.491982"
     }
   },
-  "last_heartbeat": "2026-10-08T14:28:43.488769"
+  "last_heartbeat": "2026-10-08T14:46:06.168695"
 }
