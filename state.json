@@ -4670,7 +4670,124 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-09T03:46:11.566433"
+    },
+    "INTO_91506_20261011_EXECUTIVE": {
+      "movie": "Verity - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "09:50 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T08:24:22.912820"
+    },
+    "INTO_91514_20261011_EXECUTIVE": {
+      "movie": "Comrade Kalyan - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T08:24:23.537003"
+    },
+    "INTO_91450_20261011_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T08:24:24.145906"
+    },
+    "INTO_91451_20261011_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T08:24:24.764439"
+    },
+    "INTO_91502_20261011_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:05 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T08:24:25.412655"
+    },
+    "INTO_91503_20261011_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T08:24:26.023927"
+    },
+    "INTO_91504_20261011_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:40 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T08:24:26.737584"
+    },
+    "INTO_91516_20261011_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T08:24:27.360390"
+    },
+    "INTO_91437_20261011_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "11:55 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T08:24:27.984643"
+    },
+    "INTO_91458_20261011_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "01:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T08:24:28.622593"
+    },
+    "INTO_91439_20261011_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T08:24:29.229912"
+    },
+    "INTO_91441_20261011_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T08:24:29.839745"
+    },
+    "INTO_91517_20261011_EXECUTIVE": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T08:24:30.445370"
     }
   },
-  "last_heartbeat": "2026-10-09T08:05:42.418582"
+  "last_heartbeat": "2026-10-09T08:24:30.606763"
 }
