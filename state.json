@@ -4607,7 +4607,70 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-09T01:23:58.929102"
+    },
+    "PVHR_43497_20261009_CLASSIC": {
+      "movie": "Hanuman Ansh - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "11:50 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T03:46:08.348647"
+    },
+    "PVHR_43409_20261009_CLASSIC": {
+      "movie": "Hanuman Ansh (Telugu) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "03:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T03:46:08.879894"
+    },
+    "PVHR_43492_20261009_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "07:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T03:46:09.403778"
+    },
+    "PVHR_43496_20261009_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "12:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T03:46:09.951413"
+    },
+    "PVHR_43493_20261009_CLASSIC": {
+      "movie": "Other Mommy - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "03:35 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T03:46:10.490432"
+    },
+    "PVHR_43410_20261009_CLASSIC": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 57.12,
+      "alerted_at": "2026-10-09T03:46:11.047703"
+    },
+    "PVHR_43494_20261009_CLASSIC": {
+      "movie": "Comrade Kalyan - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "10:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T03:46:11.566433"
     }
   },
-  "last_heartbeat": "2026-10-09T03:28:59.396312"
+  "last_heartbeat": "2026-10-09T03:46:13.150982"
 }
