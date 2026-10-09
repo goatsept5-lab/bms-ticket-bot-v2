@@ -4886,7 +4886,106 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-09T19:01:57.302962"
+    },
+    "PVHR_43411_20261009_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "09:05 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T21:28:33.289147"
+    },
+    "PVHR_43498_20261009_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "07:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T21:28:33.893696"
+    },
+    "PVHR_43456_20261009_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-09T21:28:34.511644"
+    },
+    "PVHR_43503_20261009_CLASSIC": {
+      "movie": "Hanuman Ansh - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "11:50 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:35.122789"
+    },
+    "PVHR_43483_20261009_CLASSIC": {
+      "movie": "Hanuman Ansh - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "06:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:35.736189"
+    },
+    "PVHR_43511_20261009_CLASSIC": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:36.337945"
+    },
+    "PVHR_43502_20261009_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "12:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:36.963229"
+    },
+    "PVHR_43475_20261009_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "04:20 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:37.584186"
+    },
+    "PVHR_43477_20261009_CLASSIC": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:38.202442"
+    },
+    "PVHR_43512_20261009_CLASSIC": {
+      "movie": "Gondhal - Marathi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "04:15 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T21:28:38.817160"
+    },
+    "PVHR_43484_20261009_CLASSIC": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261009",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 57.12,
+      "alerted_at": "2026-10-09T21:28:39.427401"
     }
   },
-  "last_heartbeat": "2026-10-09T21:13:13.928547"
+  "last_heartbeat": "2026-10-09T21:28:40.028798"
 }
