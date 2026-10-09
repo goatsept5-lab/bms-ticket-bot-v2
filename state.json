@@ -5039,7 +5039,16 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-09T23:12:09.971957"
+    },
+    "PVHR_43473_20261011_CLASSIC": {
+      "movie": "Other Mommy - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "06:25 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T23:49:59.211728"
     }
   },
-  "last_heartbeat": "2026-10-09T23:38:19.905837"
+  "last_heartbeat": "2026-10-09T23:49:59.338849"
 }
