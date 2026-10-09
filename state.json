@@ -4985,7 +4985,25 @@
       "category": "CLASSIC",
       "price": 57.12,
       "alerted_at": "2026-10-09T21:28:39.427401"
+    },
+    "INTO_91501_20261009_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-09T22:50:16.791689"
+    },
+    "INTO_91512_20261009_EXECUTIVE": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261009",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-09T22:50:17.494187"
     }
   },
-  "last_heartbeat": "2026-10-09T22:36:21.660843"
+  "last_heartbeat": "2026-10-09T22:50:18.592761"
 }
