@@ -5138,7 +5138,16 @@
       "category": "CLASSIC",
       "price": 57.12,
       "alerted_at": "2026-10-10T03:20:09.529360"
+    },
+    "INTO_91422_20261010_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T03:51:01.645045"
     }
   },
-  "last_heartbeat": "2026-10-10T03:36:46.915704"
+  "last_heartbeat": "2026-10-10T03:51:02.150508"
 }
