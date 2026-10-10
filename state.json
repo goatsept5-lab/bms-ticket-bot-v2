@@ -5588,7 +5588,34 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-10T16:34:41.026599"
+    },
+    "MCSK_16417_20261011_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261011",
+      "time": "12:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T17:20:39.510225"
+    },
+    "MCSK_16418_20261011_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261011",
+      "time": "03:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T17:20:40.121478"
+    },
+    "MCSK_16419_20261011_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261011",
+      "time": "06:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T17:20:40.744681"
     }
   },
-  "last_heartbeat": "2026-10-10T17:07:16.977993"
+  "last_heartbeat": "2026-10-10T17:20:41.383181"
 }
