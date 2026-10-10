@@ -5147,7 +5147,16 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-10T03:51:01.645045"
+    },
+    "PVHR_43421_20261010_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T04:14:28.945660"
     }
   },
-  "last_heartbeat": "2026-10-10T04:00:48.616456"
+  "last_heartbeat": "2026-10-10T04:14:30.711529"
 }
