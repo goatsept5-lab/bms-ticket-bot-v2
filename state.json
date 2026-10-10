@@ -5813,7 +5813,25 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-10T22:33:34.393614"
+    },
+    "PVHR_43638_20261011_CLASSIC": {
+      "movie": "96 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T22:46:10.919516"
+    },
+    "PVHR_43474_20261011_CLASSIC": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "09:30 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T22:46:11.393031"
     }
   },
-  "last_heartbeat": "2026-10-10T22:33:35.315376"
+  "last_heartbeat": "2026-10-10T22:46:11.828799"
 }
