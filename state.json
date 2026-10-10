@@ -5291,7 +5291,16 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-10T14:58:14.875681"
+    },
+    "CBMC_14259_20261012_NORMAL": {
+      "movie": "Premada Oorali - Kannada",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261012",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:05:14.676345"
     }
   },
-  "last_heartbeat": "2026-10-10T15:57:03.267152"
+  "last_heartbeat": "2026-10-10T16:05:14.676611"
 }
