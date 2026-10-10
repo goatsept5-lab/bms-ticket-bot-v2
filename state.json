@@ -5156,7 +5156,43 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-10T04:14:28.945660"
+    },
+    "INTO_91452_20261012_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "09:55 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T04:30:22.188318"
+    },
+    "INTO_91442_20261012_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T04:30:22.881280"
+    },
+    "INTO_91501_20261012_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T04:30:23.554092"
+    },
+    "INTO_91512_20261012_EXECUTIVE": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T04:30:24.246561"
     }
   },
-  "last_heartbeat": "2026-10-10T04:14:30.711529"
+  "last_heartbeat": "2026-10-10T04:30:24.636484"
 }
