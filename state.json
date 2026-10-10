@@ -1,50 +1,5 @@
 {
   "alerts": {
-    "INTO_91195_20261004_EXECUTIVE": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261004",
-      "time": "07:15 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-10-03T08:10:11.021287"
-    },
-    "INTO_91196_20261004_EXECUTIVE": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261004",
-      "time": "10:30 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-10-03T08:10:11.676672"
-    },
-    "INTO_91178_20261004_EXECUTIVE": {
-      "movie": "Dorothy - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261004",
-      "time": "10:35 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T08:10:12.334904"
-    },
-    "INTO_91348_20261004_EXECUTIVE": {
-      "movie": "Anbil Avan - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261004",
-      "time": "04:20 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T08:10:12.934825"
-    },
-    "INTO_91175_20261004_EXECUTIVE": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261004",
-      "time": "12:40 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T08:10:13.548755"
-    },
     "MCSK_16171_20261005_SPECIAL": {
       "movie": "Anbil Avan - Tamil",
       "theatre": "Miraj Cinemas: Sekaran Mall",
@@ -4771,5 +4726,5 @@
       "alerted_at": "2026-10-10T04:30:24.246561"
     }
   },
-  "last_heartbeat": "2026-10-10T08:07:11.031966"
+  "last_heartbeat": "2026-10-10T08:23:01.923574"
 }
