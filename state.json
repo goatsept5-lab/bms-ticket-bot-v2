@@ -5804,7 +5804,16 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-10T20:35:39.816471"
+    },
+    "PVHR_43515_20261010_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261010",
+      "time": "03:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T22:33:34.393614"
     }
   },
-  "last_heartbeat": "2026-10-10T22:19:46.917616"
+  "last_heartbeat": "2026-10-10T22:33:35.315376"
 }
