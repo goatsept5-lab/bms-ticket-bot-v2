@@ -1,68 +1,5 @@
 {
   "alerts": {
-    "MCSK_16171_20261005_SPECIAL": {
-      "movie": "Anbil Avan - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "12:40 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:33.382239"
-    },
-    "MCSK_16150_20261005_SPECIAL": {
-      "movie": "Meesaya Murukku 2 - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "03:40 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:33.873340"
-    },
-    "MCSK_16151_20261005_SPECIAL": {
-      "movie": "Baththa - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "07:00 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:34.371098"
-    },
-    "MCSK_16158_20261005_SPECIAL": {
-      "movie": "Dorothy - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "12:55 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:34.880878"
-    },
-    "MCSK_16160_20261005_SPECIAL": {
-      "movie": "Dorothy - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "07:30 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:35.393941"
-    },
-    "MCSK_16159_20261005_SPECIAL": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "04:10 PM",
-      "category": "SPECIAL",
-      "price": 59.43,
-      "alerted_at": "2026-10-03T18:23:35.896189"
-    },
-    "MCSK_16164_20261005_SPECIAL": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261005",
-      "time": "07:05 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-03T18:23:36.414773"
-    },
     "PVHR_43050_20261004_CLASSIC": {
       "movie": "Baththa - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -5617,5 +5554,5 @@
       "alerted_at": "2026-10-10T17:20:40.744681"
     }
   },
-  "last_heartbeat": "2026-10-10T18:14:13.252783"
+  "last_heartbeat": "2026-10-10T18:31:45.252510"
 }
