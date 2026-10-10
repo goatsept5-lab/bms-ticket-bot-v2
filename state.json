@@ -5300,7 +5300,295 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-10T16:05:14.676345"
+    },
+    "INTO_91521_20261012_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:21.507480"
+    },
+    "INTO_91522_20261012_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:22.130684"
+    },
+    "INTO_91523_20261012_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:22.752366"
+    },
+    "INTO_91524_20261012_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "11:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:23.618800"
+    },
+    "INTO_91626_20261012_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:24.281558"
+    },
+    "INTO_91628_20261012_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "06:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:24.918398"
+    },
+    "INTO_91611_20261012_EXECUTIVE": {
+      "movie": "Sigma - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:25.541301"
+    },
+    "INTO_91596_20261012_EXECUTIVE": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-10T16:34:26.147381"
+    },
+    "INTO_91598_20261012_EXECUTIVE": {
+      "movie": "The Social Reckoning - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T16:34:26.780604"
+    },
+    "INTO_91581_20261012_EXECUTIVE": {
+      "movie": "Comrade Kalyan - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:27.388865"
+    },
+    "INTO_91566_20261012_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "01:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:28.018187"
+    },
+    "INTO_91568_20261012_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:28.635821"
+    },
+    "INTO_91551_20261012_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "01:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:29.253200"
+    },
+    "INTO_91582_20261012_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:29.868291"
+    },
+    "INTO_91553_20261012_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:30.491476"
+    },
+    "INTO_91554_20261012_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:31.108428"
+    },
+    "INTO_91536_20261012_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "02:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:31.714699"
+    },
+    "INTO_91538_20261012_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "08:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:32.333578"
+    },
+    "INTO_91552_20261012_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Telugu) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:32.949822"
+    },
+    "INTO_91612_20261012_EXECUTIVE": {
+      "movie": "Hanuman Ansh (Telugu) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "03:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:33.575658"
+    },
+    "INTO_91627_20261012_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-10T16:34:34.207494"
+    },
+    "INTO_91629_20261012_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T16:34:34.833981"
+    },
+    "INTO_91597_20261012_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-10T16:34:35.446269"
+    },
+    "INTO_91583_20261012_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T16:34:36.079584"
+    },
+    "INTO_91599_20261012_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-10T16:34:36.692386"
+    },
+    "INTO_91567_20261012_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:37.303681"
+    },
+    "INTO_91569_20261012_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-10T16:34:37.923448"
+    },
+    "INTO_91537_20261012_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:38.539408"
+    },
+    "INTO_91539_20261012_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:39.185977"
+    },
+    "INTO_91613_20261012_EXECUTIVE": {
+      "movie": "Thenmavin Kombath - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 57.12,
+      "alerted_at": "2026-10-10T16:34:39.798114"
+    },
+    "INTO_91584_20261012_EXECUTIVE": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T16:34:40.419886"
+    },
+    "INTO_91614_20261012_EXECUTIVE": {
+      "movie": "Verity - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261012",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-10T16:34:41.026599"
     }
   },
-  "last_heartbeat": "2026-10-10T16:19:43.352298"
+  "last_heartbeat": "2026-10-10T16:34:41.194920"
 }
