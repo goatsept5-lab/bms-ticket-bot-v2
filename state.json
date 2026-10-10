@@ -5714,7 +5714,70 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-10T18:49:28.150786"
+    },
+    "INTO_91506_20261010_EXECUTIVE": {
+      "movie": "Verity - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "09:50 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T19:01:21.629485"
+    },
+    "INTO_91502_20261010_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "10:05 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T19:01:22.256122"
+    },
+    "INTO_91503_20261010_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T19:01:22.907877"
+    },
+    "INTO_91504_20261010_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "10:40 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T19:01:23.645300"
+    },
+    "INTO_91516_20261010_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-10T19:01:24.277503"
+    },
+    "INTO_91439_20261010_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T19:01:24.882986"
+    },
+    "INTO_91517_20261010_EXECUTIVE": {
+      "movie": "Baa Baa Black Sheep - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261010",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-10T19:01:25.486675"
     }
   },
-  "last_heartbeat": "2026-10-10T18:49:28.732908"
+  "last_heartbeat": "2026-10-10T19:01:26.888272"
 }
