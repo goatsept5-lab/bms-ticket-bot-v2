@@ -6290,7 +6290,124 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-11T18:53:45.670038"
+    },
+    "INTO_91521_20261011_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:23:59.505222"
+    },
+    "INTO_91522_20261011_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:00.053010"
+    },
+    "INTO_91523_20261011_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:00.605967"
+    },
+    "INTO_91628_20261011_EXECUTIVE": {
+      "movie": "Mandaadi - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "06:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:01.174037"
+    },
+    "INTO_91566_20261011_EXECUTIVE": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "01:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:01.712984"
+    },
+    "INTO_91553_20261011_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "07:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:02.258190"
+    },
+    "INTO_91612_20261011_EXECUTIVE": {
+      "movie": "Hanuman Ansh (Telugu) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "03:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-11T22:24:02.807324"
+    },
+    "INTO_91627_20261011_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-11T22:24:03.355402"
+    },
+    "INTO_91629_20261011_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-11T22:24:03.914849"
+    },
+    "INTO_91569_20261011_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T22:24:04.477529"
+    },
+    "INTO_91537_20261011_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-11T22:24:05.017273"
+    },
+    "INTO_91539_20261011_EXECUTIVE": {
+      "movie": "Drishyam The Conclusion - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-11T22:24:05.577743"
+    },
+    "INTO_91614_20261011_EXECUTIVE": {
+      "movie": "Verity - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-11T22:24:06.133776"
     }
   },
-  "last_heartbeat": "2026-10-11T22:08:42.409486"
+  "last_heartbeat": "2026-10-11T22:24:07.292140"
 }
