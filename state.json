@@ -6281,7 +6281,34 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-11T10:53:09.059140"
+    },
+    "CBMC_14193_20261011_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261011",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T16:27:15.415940"
+    },
+    "CBMC_14179_20261011_NORMAL": {
+      "movie": "Meesaya Murukku 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261011",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T16:27:15.987618"
+    },
+    "CBMC_14233_20261011_NORMAL": {
+      "movie": "Other Mommy - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261011",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-11T16:27:16.643236"
     }
   },
-  "last_heartbeat": "2026-10-11T16:12:10.462779"
+  "last_heartbeat": "2026-10-11T16:27:18.014288"
 }
