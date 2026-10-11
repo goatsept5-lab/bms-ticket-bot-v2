@@ -6182,7 +6182,25 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-11T02:08:33.382794"
+    },
+    "INTO_91457_20261011_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "09:55 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T02:38:10.525726"
+    },
+    "INTO_91438_20261011_EXECUTIVE": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "02:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T02:38:11.033462"
     }
   },
-  "last_heartbeat": "2026-10-11T02:23:09.657684"
+  "last_heartbeat": "2026-10-11T02:38:11.376404"
 }
