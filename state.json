@@ -6227,7 +6227,16 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-11T05:38:05.146210"
+    },
+    "PVHR_43443_20261011_CLASSIC": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "12:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T07:08:29.734829"
     }
   },
-  "last_heartbeat": "2026-10-11T06:57:04.783490"
+  "last_heartbeat": "2026-10-11T07:08:30.451256"
 }
