@@ -6200,7 +6200,25 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-11T02:38:11.033462"
+    },
+    "PVHR_43442_20261011_CLASSIC": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "09:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T04:14:58.564812"
+    },
+    "PVHR_43425_20261011_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261011",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T04:14:59.093183"
     }
   },
-  "last_heartbeat": "2026-10-11T04:01:03.709257"
+  "last_heartbeat": "2026-10-11T04:14:59.957417"
 }
