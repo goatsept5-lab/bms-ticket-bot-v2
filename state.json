@@ -6236,7 +6236,52 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-11T07:08:29.734829"
+    },
+    "INTO_91429_20261011_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T10:53:06.542480"
+    },
+    "INTO_91467_20261011_EXECUTIVE": {
+      "movie": "Heart of the Beast - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-11T10:53:07.172848"
+    },
+    "INTO_91475_20261011_EXECUTIVE": {
+      "movie": "Other Mommy - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-11T10:53:07.794701"
+    },
+    "INTO_91459_20261011_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T10:53:08.415028"
+    },
+    "INTO_91461_20261011_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261011",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-11T10:53:09.059140"
     }
   },
-  "last_heartbeat": "2026-10-11T10:40:39.950243"
+  "last_heartbeat": "2026-10-11T10:53:11.607372"
 }
