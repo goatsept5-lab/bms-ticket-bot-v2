@@ -1,50 +1,5 @@
 {
   "alerts": {
-    "PVHR_43179_20261005_CLASSIC": {
-      "movie": "Sigma - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261005",
-      "time": "12:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-04T22:00:25.165552"
-    },
-    "PVHR_43175_20261005_CLASSIC": {
-      "movie": "Baththa - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261005",
-      "time": "12:05 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-04T22:00:25.695185"
-    },
-    "PVHR_43201_20261005_CLASSIC": {
-      "movie": "Meesaya Murukku 2 - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261005",
-      "time": "11:50 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-04T22:00:26.184847"
-    },
-    "PVHR_43211_20261005_CLASSIC": {
-      "movie": "Dorothy - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261005",
-      "time": "12:20 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-04T22:00:26.668295"
-    },
-    "PVHR_43229_20261005_CLASSIC": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261005",
-      "time": "12:20 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-04T22:00:27.172167"
-    },
     "INTO_91321_20261006_EXECUTIVE": {
       "movie": "Baththa - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -6337,5 +6292,5 @@
       "alerted_at": "2026-10-11T18:53:45.670038"
     }
   },
-  "last_heartbeat": "2026-10-11T21:58:19.960509"
+  "last_heartbeat": "2026-10-11T22:08:42.409486"
 }
