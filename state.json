@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "PVHR_43270_20261006_CLASSIC": {
-      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261006",
-      "time": "01:35 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-05T17:46:30.081339"
-    },
     "CBMC_13978_20261005_NORMAL": {
       "movie": "Yezhu Kadal Yezhu Malai - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -6409,5 +6400,5 @@
       "alerted_at": "2026-10-12T17:15:59.041005"
     }
   },
-  "last_heartbeat": "2026-10-12T17:33:21.000885"
+  "last_heartbeat": "2026-10-12T17:49:44.019612"
 }
