@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "INTO_91317_20261006_EXECUTIVE": {
-      "movie": "Baththa - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261006",
-      "time": "10:00 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-05T17:16:37.058979"
-    },
     "PVHR_43270_20261006_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -6418,5 +6409,5 @@
       "alerted_at": "2026-10-12T17:15:59.041005"
     }
   },
-  "last_heartbeat": "2026-10-12T17:15:59.041252"
+  "last_heartbeat": "2026-10-12T17:33:21.000885"
 }
