@@ -6290,7 +6290,52 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-13T01:35:48.301908"
+    },
+    "INTO_91646_20261015_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-13T03:23:59.491571"
+    },
+    "INTO_91651_20261015_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-13T03:23:59.983467"
+    },
+    "INTO_91647_20261015_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-13T03:24:00.479660"
+    },
+    "INTO_91652_20261015_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-13T03:24:00.992175"
+    },
+    "INTO_91654_20261015_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "11:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-13T03:24:01.488987"
     }
   },
-  "last_heartbeat": "2026-10-13T03:06:10.238539"
+  "last_heartbeat": "2026-10-13T03:24:01.671276"
 }
