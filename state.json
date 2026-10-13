@@ -1,23 +1,5 @@
 {
   "alerts": {
-    "INTO_91368_20261008_EXECUTIVE": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261008",
-      "time": "07:15 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-06T13:38:46.654789"
-    },
-    "INTO_91364_20261008_EXECUTIVE": {
-      "movie": "Meesaya Murukku 2 - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261008",
-      "time": "07:50 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-06T13:38:47.289472"
-    },
     "CBMC_14037_20261006_NORMAL": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -6544,5 +6526,5 @@
       "alerted_at": "2026-10-13T10:23:15.895789"
     }
   },
-  "last_heartbeat": "2026-10-13T13:14:46.702045"
+  "last_heartbeat": "2026-10-13T13:39:52.319786"
 }
