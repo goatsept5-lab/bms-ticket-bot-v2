@@ -1,23 +1,5 @@
 {
   "alerts": {
-    "CBMC_14162_20261009_NORMAL": {
-      "movie": "Baththa - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261009",
-      "time": "12:15 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-07T18:59:16.231891"
-    },
-    "INTO_91368_20261007_EXECUTIVE": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261007",
-      "time": "07:15 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-07T19:12:28.779742"
-    },
     "PVHR_43351_20261007_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -5320,5 +5302,5 @@
       "alerted_at": "2026-10-14T15:52:27.145759"
     }
   },
-  "last_heartbeat": "2026-10-14T18:51:42.274278"
+  "last_heartbeat": "2026-10-14T19:20:39.586369"
 }
