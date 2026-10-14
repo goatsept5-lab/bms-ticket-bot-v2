@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "CBMC_14060_20261007_NORMAL": {
-      "movie": "Avengers Endgame: Encore (MS - Infinity Vision) - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261007",
-      "time": "10:05 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-07T20:30:32.926270"
-    },
     "INTO_91453_20261010_EXECUTIVE": {
       "movie": "Meesaya Murukku 2 - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -5023,5 +5014,5 @@
       "alerted_at": "2026-10-14T15:52:27.145759"
     }
   },
-  "last_heartbeat": "2026-10-14T20:14:25.533157"
+  "last_heartbeat": "2026-10-14T20:41:14.523106"
 }
