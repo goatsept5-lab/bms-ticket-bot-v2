@@ -1,32 +1,5 @@
 {
   "alerts": {
-    "INTO_91235_20261007_EXECUTIVE": {
-      "movie": "Baththa - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261007",
-      "time": "07:25 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-07T14:37:45.202914"
-    },
-    "INTO_91286_20261007_EXECUTIVE": {
-      "movie": "Heart of the Beast - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261007",
-      "time": "07:30 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-10-07T14:37:45.838726"
-    },
-    "MCSK_16229_20261009_SPECIAL": {
-      "movie": "Baththa - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261009",
-      "time": "07:10 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-07T14:37:47.953403"
-    },
     "CBMC_14166_20261009_NORMAL": {
       "movie": "Baththa - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -5545,5 +5518,5 @@
       "alerted_at": "2026-10-13T16:32:00.424771"
     }
   },
-  "last_heartbeat": "2026-10-14T14:17:26.378768"
+  "last_heartbeat": "2026-10-14T14:49:04.153653"
 }
