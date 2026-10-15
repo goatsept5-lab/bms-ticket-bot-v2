@@ -1,32 +1,5 @@
 {
   "alerts": {
-    "INTO_91355_20261008_EXECUTIVE": {
-      "movie": "Baththa - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261008",
-      "time": "07:25 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T14:46:04.093025"
-    },
-    "INTO_91387_20261008_EXECUTIVE": {
-      "movie": "Digger - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261008",
-      "time": "07:30 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T14:46:04.788246"
-    },
-    "INTO_91377_20261008_EXECUTIVE": {
-      "movie": "Heart of the Beast - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261008",
-      "time": "07:30 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T14:46:05.491982"
-    },
     "CBMC_14074_20261008_NORMAL": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -4870,5 +4843,5 @@
       "alerted_at": "2026-10-15T14:16:42.781893"
     }
   },
-  "last_heartbeat": "2026-10-15T14:16:42.952417"
+  "last_heartbeat": "2026-10-15T14:48:45.134520"
 }
