@@ -1,95 +1,5 @@
 {
   "alerts": {
-    "CBMC_14211_20261008_NORMAL": {
-      "movie": "Kitti - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "01:05 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T18:40:05.102752"
-    },
-    "CBMC_14116_20261008_NORMAL": {
-      "movie": "Sigma - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "01:10 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T18:40:05.656846"
-    },
-    "CBMC_14207_20261008_NORMAL": {
-      "movie": "All Pass - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "03:20 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T18:40:06.231820"
-    },
-    "CBMC_14163_20261008_NORMAL": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "03:30 PM",
-      "category": "NORMAL",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T18:40:06.802821"
-    },
-    "CBMC_14173_20261008_NORMAL": {
-      "movie": "Mandaadi - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "03:40 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T18:40:07.378468"
-    },
-    "CBMC_14209_20261008_NORMAL": {
-      "movie": "The Social Reckoning - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "05:20 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T18:40:07.920179"
-    },
-    "CBMC_14208_20261008_NORMAL": {
-      "movie": "The Social Reckoning - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "10:05 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T18:40:08.518251"
-    },
-    "CBMC_14224_20261008_NORMAL": {
-      "movie": "Other Mommy - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "06:00 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T18:40:09.076638"
-    },
-    "CBMC_14204_20261008_NORMAL": {
-      "movie": "Thenmavin Kombath - Malayalam",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "06:50 PM",
-      "category": "NORMAL",
-      "price": 57.12,
-      "alerted_at": "2026-10-08T18:40:09.645295"
-    },
-    "CBMC_14213_20261008_NORMAL": {
-      "movie": "Verity - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261008",
-      "time": "08:15 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T18:40:10.182569"
-    },
     "INTO_91420_20261009_EXECUTIVE": {
       "movie": "Hanuman Ansh (Telugu) - Telugu",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -4661,7 +4571,268 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-15T14:16:42.781893"
+    },
+    "PVHR_43853_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "09:05 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:33.887433"
+    },
+    "PVHR_43759_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "09:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:34.523983"
+    },
+    "PVHR_43749_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "09:20 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:35.128408"
+    },
+    "PVHR_43739_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "09:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:35.744869"
+    },
+    "PVHR_43730_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:36.360003"
+    },
+    "PVHR_43760_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:36.964177"
+    },
+    "PVHR_43854_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:37.571090"
+    },
+    "PVHR_43750_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:38.191303"
+    },
+    "PVHR_43740_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:38.848523"
+    },
+    "PVHR_43731_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:39.481148"
+    },
+    "PVHR_43761_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "03:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:40.084298"
+    },
+    "PVHR_43751_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "04:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:40.706696"
+    },
+    "PVHR_43741_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:41.316173"
+    },
+    "PVHR_43732_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "07:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:41.923140"
+    },
+    "PVHR_43742_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:42.528579"
+    },
+    "PVHR_43733_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:43.176553"
+    },
+    "PVHR_43753_20261017_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "11:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:43.793439"
+    },
+    "PVHR_43833_20261017_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:44.400599"
+    },
+    "PVHR_43835_20261017_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:45.092501"
+    },
+    "PVHR_43849_20261017_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "12:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:45.710819"
+    },
+    "PVHR_43850_20261017_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "06:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:46.332782"
+    },
+    "PVHR_43841_20261017_CLASSIC": {
+      "movie": "Street Fighter (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "01:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:46.961078"
+    },
+    "PVHR_43843_20261017_CLASSIC": {
+      "movie": "Street Fighter (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:47.576115"
+    },
+    "PVHR_43834_20261017_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:48.211659"
+    },
+    "PVHR_43855_20261017_CLASSIC": {
+      "movie": "Whalefall - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "03:55 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-15T18:42:48.867890"
+    },
+    "PVHR_43842_20261017_CLASSIC": {
+      "movie": "Nayyi Navelli - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "04:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-15T18:42:49.468422"
+    },
+    "PVHR_43844_20261017_CLASSIC": {
+      "movie": "Nayyi Navelli - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "10:30 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-15T18:42:50.077624"
+    },
+    "PVHR_43856_20261017_CLASSIC": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "06:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-15T18:42:50.716559"
+    },
+    "PVHR_43836_20261017_CLASSIC": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261017",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T18:42:51.320214"
     }
   },
-  "last_heartbeat": "2026-10-15T18:09:30.912166"
+  "last_heartbeat": "2026-10-15T18:42:51.446290"
 }
