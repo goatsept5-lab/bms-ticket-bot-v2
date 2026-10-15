@@ -4823,7 +4823,79 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-14T15:52:27.145759"
+    },
+    "INTO_91725_20261015_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:47:57.915912"
+    },
+    "INTO_91730_20261015_EXECUTIVE": {
+      "movie": "Comrade Kalyan - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261015",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-15T05:47:58.481026"
+    },
+    "MCSK_16507_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "04:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:00.890264"
+    },
+    "MCSK_16567_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "07:25 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:01.477264"
+    },
+    "MCSK_16508_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "07:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:02.093171"
+    },
+    "MCSK_16513_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "07:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:02.658861"
+    },
+    "MCSK_16509_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:03.233226"
+    },
+    "MCSK_16514_20261016_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261016",
+      "time": "11:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T05:48:03.799994"
     }
   },
-  "last_heartbeat": "2026-10-15T05:17:47.092412"
+  "last_heartbeat": "2026-10-15T05:48:04.851340"
 }
