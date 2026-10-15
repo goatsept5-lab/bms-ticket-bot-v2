@@ -1,68 +1,5 @@
 {
   "alerts": {
-    "PVHR_43498_20261010_CLASSIC": {
-      "movie": "Anbil Avan - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "07:15 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T13:56:30.704898"
-    },
-    "PVHR_43503_20261010_CLASSIC": {
-      "movie": "Hanuman Ansh - Hindi",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "11:50 AM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:31.307074"
-    },
-    "PVHR_43482_20261010_CLASSIC": {
-      "movie": "Hanuman Ansh (Telugu) - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "03:05 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:31.911040"
-    },
-    "PVHR_43511_20261010_CLASSIC": {
-      "movie": "Baa Baa Black Sheep - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "12:00 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:32.500198"
-    },
-    "PVHR_43502_20261010_CLASSIC": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "12:40 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:33.090020"
-    },
-    "PVHR_43512_20261010_CLASSIC": {
-      "movie": "Gondhal - Marathi",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "04:15 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:33.664622"
-    },
-    "PVHR_43500_20261010_CLASSIC": {
-      "movie": "Comrade Kalyan - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "10:25 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T13:56:34.256512"
-    },
     "INTO_91355_20261008_EXECUTIVE": {
       "movie": "Baththa - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -4832,7 +4769,106 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-15T10:02:09.252570"
+    },
+    "CBMC_14659_20261016_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:37.228460"
+    },
+    "CBMC_14634_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:37.768968"
+    },
+    "CBMC_14509_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "09:10 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:38.326954"
+    },
+    "CBMC_14457_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "09:20 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:38.935494"
+    },
+    "CBMC_14430_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "09:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:39.589061"
+    },
+    "CBMC_14396_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "12:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:40.123543"
+    },
+    "CBMC_14391_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "12:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:40.661968"
+    },
+    "CBMC_14458_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "12:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:41.191311"
+    },
+    "CBMC_14386_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "12:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:41.712672"
+    },
+    "CBMC_14431_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "01:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:42.254128"
+    },
+    "CBMC_14623_20261016_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261016",
+      "time": "01:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-15T14:16:42.781893"
     }
   },
-  "last_heartbeat": "2026-10-15T13:41:28.070486"
+  "last_heartbeat": "2026-10-15T14:16:42.952417"
 }
