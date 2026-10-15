@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "PVHR_43484_20261010_CLASSIC": {
-      "movie": "Thenmavin Kombath - Malayalam",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "10:15 PM",
-      "category": "CLASSIC",
-      "price": 57.12,
-      "alerted_at": "2026-10-08T05:48:14.638647"
-    },
     "CBMC_14211_20261009_NORMAL": {
       "movie": "Kitti - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -4897,5 +4888,5 @@
       "alerted_at": "2026-10-15T05:48:03.799994"
     }
   },
-  "last_heartbeat": "2026-10-15T05:48:04.851340"
+  "last_heartbeat": "2026-10-15T06:12:44.315451"
 }
