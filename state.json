@@ -1,32 +1,5 @@
 {
   "alerts": {
-    "INTO_91420_20261009_EXECUTIVE": {
-      "movie": "Hanuman Ansh (Telugu) - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261009",
-      "time": "03:50 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T22:31:49.828498"
-    },
-    "INTO_91499_20261009_EXECUTIVE": {
-      "movie": "Heart of the Beast - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261009",
-      "time": "10:20 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T22:31:50.450098"
-    },
-    "INTO_91497_20261009_EXECUTIVE": {
-      "movie": "Baa Baa Black Sheep - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261009",
-      "time": "10:10 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T22:31:51.073853"
-    },
     "PVHR_43416_20261011_CLASSIC": {
       "movie": "Baththa - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -4834,5 +4807,5 @@
       "alerted_at": "2026-10-15T18:42:51.320214"
     }
   },
-  "last_heartbeat": "2026-10-15T22:12:28.637215"
+  "last_heartbeat": "2026-10-15T22:38:50.733815"
 }
