@@ -1,23 +1,5 @@
 {
   "alerts": {
-    "INTO_91453_20261010_EXECUTIVE": {
-      "movie": "Meesaya Murukku 2 - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261010",
-      "time": "01:15 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-08T01:51:24.375195"
-    },
-    "INTO_91436_20261010_EXECUTIVE": {
-      "movie": "Drishyam The Conclusion - Hindi",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261010",
-      "time": "10:40 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-10-08T01:51:24.875466"
-    },
     "PVHR_43411_20261010_CLASSIC": {
       "movie": "Baththa - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -5014,5 +4996,5 @@
       "alerted_at": "2026-10-14T15:52:27.145759"
     }
   },
-  "last_heartbeat": "2026-10-15T01:44:02.109587"
+  "last_heartbeat": "2026-10-15T02:10:12.174576"
 }
