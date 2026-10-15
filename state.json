@@ -1,23 +1,5 @@
 {
   "alerts": {
-    "CBMC_14224_20261009_NORMAL": {
-      "movie": "Other Mommy - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261009",
-      "time": "06:00 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T15:33:26.911808"
-    },
-    "CBMC_14223_20261009_NORMAL": {
-      "movie": "Other Mommy - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261009",
-      "time": "10:45 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-10-08T15:33:27.591614"
-    },
     "INTO_91509_20261010_EXECUTIVE": {
       "movie": "Comrade Kalyan - Telugu",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -4726,5 +4708,5 @@
       "alerted_at": "2026-10-15T14:16:42.781893"
     }
   },
-  "last_heartbeat": "2026-10-15T15:18:10.113147"
+  "last_heartbeat": "2026-10-15T15:51:57.842589"
 }
