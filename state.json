@@ -4238,7 +4238,16 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-16T14:54:50.238196"
+    },
+    "INTO_91929_20261016_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261016",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-16T22:38:06.678342"
     }
   },
-  "last_heartbeat": "2026-10-16T22:11:59.955398"
+  "last_heartbeat": "2026-10-16T22:38:07.501404"
 }
