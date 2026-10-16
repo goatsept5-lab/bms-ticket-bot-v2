@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "PVHR_43473_20261011_CLASSIC": {
-      "movie": "Other Mommy - English",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261011",
-      "time": "06:25 PM",
-      "category": "CLASSIC",
-      "price": 61.74,
-      "alerted_at": "2026-10-09T23:49:59.211728"
-    },
     "PVHR_43498_20261012_CLASSIC": {
       "movie": "Anbil Avan - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -4195,5 +4186,5 @@
       "alerted_at": "2026-10-16T22:38:06.678342"
     }
   },
-  "last_heartbeat": "2026-10-16T23:42:37.613641"
+  "last_heartbeat": "2026-10-16T23:58:37.579572"
 }
