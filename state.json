@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "PVHR_43421_20261010_CLASSIC": {
-      "movie": "Anbil Avan - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "09:25 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T04:14:28.945660"
-    },
     "INTO_91452_20261012_EXECUTIVE": {
       "movie": "Anbil Avan - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -4456,5 +4447,5 @@
       "alerted_at": "2026-10-17T03:37:05.693566"
     }
   },
-  "last_heartbeat": "2026-10-17T04:03:09.858352"
+  "last_heartbeat": "2026-10-17T04:27:30.944765"
 }
