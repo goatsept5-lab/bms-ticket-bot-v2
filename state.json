@@ -1,23 +1,5 @@
 {
   "alerts": {
-    "CBMC_14238_20261010_NORMAL": {
-      "movie": "Kitti - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261010",
-      "time": "12:50 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T19:49:06.083985"
-    },
-    "CBMC_14240_20261010_NORMAL": {
-      "movie": "Thenmavin Kombath - Malayalam",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261010",
-      "time": "07:05 PM",
-      "category": "NORMAL",
-      "price": 57.12,
-      "alerted_at": "2026-10-10T19:49:06.567294"
-    },
     "MCSK_16419_20261010_SPECIAL": {
       "movie": "Baththa - Tamil",
       "theatre": "Miraj Cinemas: Sekaran Mall",
@@ -3295,5 +3277,5 @@
       "alerted_at": "2026-10-17T03:37:05.693566"
     }
   },
-  "last_heartbeat": "2026-10-17T19:30:30.360528"
+  "last_heartbeat": "2026-10-17T19:50:41.755776"
 }
