@@ -1,32 +1,5 @@
 {
   "alerts": {
-    "PVHR_43515_20261010_CLASSIC": {
-      "movie": "Baththa - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261010",
-      "time": "03:05 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T22:33:34.393614"
-    },
-    "PVHR_43638_20261011_CLASSIC": {
-      "movie": "96 - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261011",
-      "time": "12:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T22:46:10.919516"
-    },
-    "PVHR_43474_20261011_CLASSIC": {
-      "movie": "The Social Reckoning - English",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261011",
-      "time": "09:30 PM",
-      "category": "CLASSIC",
-      "price": 61.74,
-      "alerted_at": "2026-10-10T22:46:11.393031"
-    },
     "CBMC_14318_20261013_NORMAL": {
       "movie": "Baththa - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
@@ -3313,5 +3286,5 @@
       "alerted_at": "2026-10-17T21:07:18.519064"
     }
   },
-  "last_heartbeat": "2026-10-17T22:28:41.319547"
+  "last_heartbeat": "2026-10-17T22:48:14.808010"
 }
