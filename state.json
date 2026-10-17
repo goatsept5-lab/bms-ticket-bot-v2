@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "MCSK_16419_20261010_SPECIAL": {
-      "movie": "Baththa - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261010",
-      "time": "06:50 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T20:35:39.816471"
-    },
     "PVHR_43515_20261010_CLASSIC": {
       "movie": "Baththa - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -3275,7 +3266,34 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-17T03:37:05.693566"
+    },
+    "CBMC_14668_20261018_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261018",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-17T20:49:33.317619"
+    },
+    "CBMC_14637_20261018_NORMAL": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261018",
+      "time": "12:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-17T20:49:33.971589"
+    },
+    "CBMC_14643_20261018_NORMAL": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261018",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-17T20:49:34.639293"
     }
   },
-  "last_heartbeat": "2026-10-17T20:26:12.361430"
+  "last_heartbeat": "2026-10-17T20:49:34.748329"
 }
