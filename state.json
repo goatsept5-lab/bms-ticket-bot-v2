@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "CBMC_14259_20261012_NORMAL": {
-      "movie": "Premada Oorali - Kannada",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261012",
-      "time": "10:05 PM",
-      "category": "NORMAL",
-      "price": 59.43,
-      "alerted_at": "2026-10-10T16:05:14.676345"
-    },
     "INTO_91521_20261012_EXECUTIVE": {
       "movie": "Baththa - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -3844,5 +3835,5 @@
       "alerted_at": "2026-10-17T03:37:05.693566"
     }
   },
-  "last_heartbeat": "2026-10-17T16:05:14.149463"
+  "last_heartbeat": "2026-10-17T16:28:04.414388"
 }
