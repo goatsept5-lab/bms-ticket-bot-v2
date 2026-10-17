@@ -1,14 +1,5 @@
 {
   "alerts": {
-    "INTO_91422_20261010_EXECUTIVE": {
-      "movie": "Baththa - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261010",
-      "time": "09:00 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-10-10T03:51:01.645045"
-    },
     "PVHR_43421_20261010_CLASSIC": {
       "movie": "Anbil Avan - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -4465,5 +4456,5 @@
       "alerted_at": "2026-10-17T03:37:05.693566"
     }
   },
-  "last_heartbeat": "2026-10-17T03:37:06.142944"
+  "last_heartbeat": "2026-10-17T04:03:09.858352"
 }
