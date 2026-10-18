@@ -769,7 +769,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240784_20261018_SECOND CLASS": {
@@ -1000,7 +1000,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241027_20261018_SECOND CLASS": {
@@ -1429,7 +1429,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T10:37:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91723_20261018_EXECUTIVE": {
@@ -3947,8 +3947,8 @@
       "time": "12:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T11:17:52+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T11:57:52+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48087_20261018_PEARL": {
@@ -3958,9 +3958,9 @@
       "time": "01:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T11:42:51+05:30",
+      "alerted_at": "2026-10-18T11:57:52+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14639_20261018_NORMAL": {
       "movie": "Anbil Avan - Tamil",
@@ -3981,7 +3981,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T11:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14670_20261018_NORMAL": {
@@ -3992,6 +3992,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-18T11:42:51+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14520_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T11:57:52+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
