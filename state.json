@@ -376,8 +376,8 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T19:33:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T20:18:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43846_20261018_CLASSIC": {
@@ -2350,7 +2350,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43894_20261019_CLASSIC": {
@@ -4165,7 +4165,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T20:03:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4176,7 +4176,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:33:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14597_20261019_NORMAL": {
@@ -4517,7 +4517,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14525_20261019_NORMAL": {
@@ -4651,6 +4651,17 @@
       "alerted_at": "2026-10-18T19:43:24+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48181_20261018_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261018",
+      "time": "11:35 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T20:18:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
