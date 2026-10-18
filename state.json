@@ -440,8 +440,9 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-17T21:07:18.050840",
-      "sold_out": true
+      "alerted_at": "2026-10-18T11:17:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "MCSK_16592_20261018_SPECIAL": {
       "movie": "Baththa - Tamil",
@@ -1360,8 +1361,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T10:57:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T11:17:52+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_91783_20261018_EXECUTIVE": {
@@ -1504,7 +1505,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91704_20261018_EXECUTIVE": {
@@ -3936,6 +3937,17 @@
       "price": 59.43,
       "alerted_at": "2026-10-18T07:57:51+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_14667_20261018_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261018",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T11:17:52+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
