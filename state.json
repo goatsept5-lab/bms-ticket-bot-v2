@@ -126,7 +126,8 @@
       "time": "12:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:50.096245"
+      "alerted_at": "2026-10-17T03:36:50.096245",
+      "sold_out": true
     },
     "PVHR_43929_20261018_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -591,7 +592,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T08:07:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241024_20261018_SECOND CLASS": {
@@ -899,7 +900,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240824_20261018_SECOND CLASS": {
@@ -1305,9 +1306,9 @@
       "time": "12:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-18T10:17:52+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91774_20261018_EXECUTIVE": {
       "movie": "Comrade Kalyan - Telugu",
@@ -1316,9 +1317,9 @@
       "time": "12:15 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-18T10:17:52+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91721_20261018_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1393,8 +1394,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T10:17:52+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91776_20261018_EXECUTIVE": {
