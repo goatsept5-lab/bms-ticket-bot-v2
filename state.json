@@ -223,7 +223,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T22:08:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43768_20261018_CLASSIC": {
@@ -2521,7 +2521,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43954_20261019_CLASSIC": {
@@ -2586,8 +2586,8 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43772_20261019_CLASSIC": {
@@ -2620,7 +2620,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T22:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43871_20261019_CLASSIC": {
@@ -4456,8 +4456,8 @@
       "time": "07:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T21:48:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48094_20261018_PEARL": {
@@ -5480,7 +5480,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-18T22:48:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48120_20261019_PEARL": {
@@ -5491,6 +5491,83 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T22:08:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48125_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "01:25 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48110_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "01:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48126_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "04:40 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48121_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "04:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48127_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "07:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48122_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "08:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48112_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "08:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T22:58:24+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
