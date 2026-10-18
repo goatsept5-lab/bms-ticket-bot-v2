@@ -2714,7 +2714,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T16:33:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16550_20261020_SPECIAL": {
