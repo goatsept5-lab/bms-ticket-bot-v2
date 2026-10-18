@@ -3907,6 +3907,17 @@
       "alerted_at": "2026-10-18T07:42:51+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_91791_20261018_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261018",
+      "time": "09:25 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-18T07:52:51+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
