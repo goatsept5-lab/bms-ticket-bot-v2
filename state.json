@@ -251,7 +251,8 @@
       "time": "12:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:57.268554"
+      "alerted_at": "2026-10-17T03:36:57.268554",
+      "sold_out": true
     },
     "PVHR_43839_20261018_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -344,7 +345,8 @@
       "time": "04:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:37:02.897899"
+      "alerted_at": "2026-10-17T03:37:02.897899",
+      "sold_out": true
     },
     "PVHR_43932_20261018_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -633,7 +635,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241032_20261018_SECOND CLASS": {
@@ -709,8 +711,8 @@
       "time": "01:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T09:57:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241031_20261018_SECOND CLASS": {
@@ -776,7 +778,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240766_20261018_SECOND CLASS": {
@@ -864,7 +866,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240800_20261018_SECOND CLASS": {
@@ -1282,7 +1284,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:57:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91700_20261018_EXECUTIVE": {
