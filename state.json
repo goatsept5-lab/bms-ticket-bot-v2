@@ -477,8 +477,9 @@
       "time": "07:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-17T23:39:30.300526",
-      "sold_out": true
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "MAYJ_240532_20261018_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -2248,7 +2249,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43971_20261019_CLASSIC": {
@@ -3930,8 +3931,8 @@
       "time": "10:20 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T18:43:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48119_20261019_PEARL": {
@@ -4018,8 +4019,8 @@
       "time": "07:35 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T11:57:52+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48092_20261018_PEARL": {
@@ -4161,8 +4162,8 @@
       "time": "09:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T18:43:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4315,8 +4316,8 @@
       "time": "07:25 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T18:03:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16539_20261019_SPECIAL": {
@@ -4503,6 +4504,72 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T18:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14600_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "04:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14525_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "07:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14531_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14521_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14602_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "11:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14516_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:03:25+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
