@@ -189,8 +189,8 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T10:57:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T12:32:52+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43949_20261018_CLASSIC": {
@@ -220,7 +220,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T10:57:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43768_20261018_CLASSIC": {
@@ -434,7 +434,8 @@
       "time": "05:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-17T20:49:34.639293"
+      "alerted_at": "2026-10-17T20:49:34.639293",
+      "sold_out": true
     },
     "MCSK_16528_20261018_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
@@ -784,7 +785,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240981_20261018_SECOND CLASS": {
@@ -938,7 +939,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T12:22:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240767_20261018_SECOND CLASS": {
@@ -1081,7 +1082,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240801_20261018_SECOND CLASS": {
@@ -1378,7 +1379,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T12:22:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91793_20261018_EXECUTIVE": {
@@ -1432,8 +1433,8 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-18T12:07:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T12:32:52+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91723_20261018_EXECUTIVE": {
@@ -1499,7 +1500,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91714_20261018_EXECUTIVE": {
@@ -2445,7 +2446,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43771_20261019_CLASSIC": {
@@ -3886,7 +3887,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16543_20261019_SPECIAL": {
@@ -4007,6 +4008,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T11:57:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48092_20261018_PEARL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261018",
+      "time": "01:30 PM",
+      "category": "PEARL",
+      "price": 59.0,
+      "alerted_at": "2026-10-18T12:32:52+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48093_20261018_PEARL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261018",
+      "time": "05:05 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T12:32:52+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
