@@ -424,5 +424,6 @@
       "alerted_at": "2026-10-17T23:39:30.300526"
     }
   },
-  "fail_streak": 2
+  "fail_streak": 3,
+  "outage_alerted": true
 }
