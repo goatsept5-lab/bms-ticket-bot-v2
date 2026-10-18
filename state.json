@@ -357,7 +357,9 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-17T03:37:02.333010"
+      "alerted_at": "2026-10-18T21:18:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_43930_20261018_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -376,9 +378,9 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T20:18:25+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-18T21:18:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_43846_20261018_CLASSIC": {
       "movie": "Nayyi Navelli - Hindi",
@@ -1496,7 +1498,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-18T20:53:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91887_20261018_EXECUTIVE": {
@@ -1672,7 +1674,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91916_20261019_EXECUTIVE": {
@@ -2497,7 +2499,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43964_20261019_CLASSIC": {
@@ -4532,7 +4534,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T20:48:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14531_20261019_NORMAL": {
@@ -4554,7 +4556,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14602_20261019_NORMAL": {
@@ -4960,8 +4962,8 @@
       "time": "01:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T21:18:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240703_20261019_SECOND CLASS": {
@@ -5434,6 +5436,17 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T20:58:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48124_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "10:15 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T21:18:25+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
