@@ -4027,8 +4027,8 @@
       "time": "07:35 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T21:48:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48092_20261018_PEARL": {
@@ -4456,8 +4456,8 @@
       "time": "07:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T18:03:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T21:48:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48094_20261018_PEARL": {
@@ -4545,7 +4545,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14521_20261019_NORMAL": {
@@ -4589,7 +4589,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:13:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14529_20261019_NORMAL": {
@@ -5458,7 +5458,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T21:28:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48109_20261019_PEARL": {
