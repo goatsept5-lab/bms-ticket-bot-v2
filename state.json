@@ -376,8 +376,9 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:37:03.459795",
-      "sold_out": true
+      "alerted_at": "2026-10-18T19:33:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "PVHR_43846_20261018_CLASSIC": {
       "movie": "Nayyi Navelli - Hindi",
@@ -407,7 +408,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-18T16:48:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43840_20261018_CLASSIC": {
@@ -1480,7 +1481,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91777_20261018_EXECUTIVE": {
@@ -2249,8 +2250,8 @@
       "time": "09:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T19:13:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:33:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43971_20261019_CLASSIC": {
@@ -4174,8 +4175,8 @@
       "time": "09:20 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T15:28:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:33:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14597_20261019_NORMAL": {
@@ -4230,7 +4231,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T18:48:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14518_20261019_NORMAL": {
@@ -4461,7 +4462,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T18:33:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14678_20261019_NORMAL": {
