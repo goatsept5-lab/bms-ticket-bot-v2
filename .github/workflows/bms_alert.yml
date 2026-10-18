@@ -1,36 +1,70 @@
-name: BookMyShow Rs60 Ticket Alert Bot
+name: BMS Budget Ticket Alert Bot
 
+# GitHub delays */5 cron runs by 10-30 minutes, so a single long-running job
+# checks every INTERVAL_SECONDS instead. The hourly cron only queues the next
+# watcher, which takes over as soon as the current one finishes (concurrency
+# keeps exactly one running and one waiting).
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '7 * * * *'
   workflow_dispatch:
+    inputs:
+      run_minutes:
+        description: 'Minutes this watcher keeps checking (max 340)'
+        default: '340'
 
 permissions:
   contents: write
 
+concurrency:
+  group: bms-watcher
+  cancel-in-progress: false
+
 jobs:
-  bms-checker:
+  watch:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      RUN_MINUTES: ${{ inputs.run_minutes || '340' }}
+      INTERVAL_SECONDS: '300'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Run BMS Ticket Scanner
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python checker.py
-      - name: Persist State
+          python -m playwright install --with-deps chromium
+
+      - name: Check BookMyShow every 5 minutes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          git diff --staged --quiet || (git commit -m "chore: update state [skip ci]" && git push)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          end=$(( $(date +%s) + RUN_MINUTES * 60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            started=$(date +%s)
+            # Pick up code changes pushed while this watcher is running
+            git pull -q --rebase origin "$GITHUB_REF_NAME" || git rebase --abort || true
+            timeout 240 python checker.py || echo "::warning::Check cycle failed or BookMyShow was unreachable"
+            if ! git diff --quiet -- state.json; then
+              git add state.json
+              git commit -q -m "chore: update state [skip ci]"
+              if ! { git pull -q --rebase origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME"; }; then
+                git rebase --abort 2>/dev/null || true
+                echo "::warning::Could not push state.json, will retry next cycle"
+              fi
+            fi
+            now=$(date +%s)
+            pause=$(( INTERVAL_SECONDS - (now - started) ))
+            if [ "$pause" -gt $(( end - now )) ]; then pause=$(( end - now )); fi
+            if [ "$pause" -gt 0 ]; then sleep "$pause"; fi
+          done
