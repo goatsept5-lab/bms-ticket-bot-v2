@@ -314,8 +314,9 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:37:00.019321",
-      "sold_out": true
+      "alerted_at": "2026-10-18T15:33:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "PVHR_43838_20261018_CLASSIC": {
       "movie": "Anbil Avan - Tamil",
@@ -1200,7 +1201,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T15:08:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240964_20261018_SECOND CLASS": {
@@ -1210,8 +1211,8 @@
       "time": "11:59 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T15:33:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241033_20261019_SECOND CLASS": {
