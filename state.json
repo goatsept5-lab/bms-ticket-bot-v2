@@ -4510,7 +4510,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T18:58:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14600_20261019_NORMAL": {
@@ -4531,8 +4531,8 @@
       "time": "07:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T20:48:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14531_20261019_NORMAL": {
@@ -5379,6 +5379,17 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16545_20261020_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T20:48:25+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
