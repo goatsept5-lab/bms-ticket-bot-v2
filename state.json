@@ -376,7 +376,8 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:37:03.459795"
+      "alerted_at": "2026-10-17T03:37:03.459795",
+      "sold_out": true
     },
     "PVHR_43846_20261018_CLASSIC": {
       "movie": "Nayyi Navelli - Hindi",
@@ -2249,7 +2250,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:13:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43971_20261019_CLASSIC": {
@@ -2634,7 +2635,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43979_20261019_CLASSIC": {
@@ -2645,7 +2646,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43969_20261019_CLASSIC": {
@@ -4163,7 +4164,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4174,7 +4175,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T15:28:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14597_20261019_NORMAL": {
@@ -4627,6 +4628,17 @@
       "alerted_at": "2026-10-18T19:13:25+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14644_20261018_NORMAL": {
+      "movie": "Street Fighter - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261018",
+      "time": "08:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-18T19:23:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
