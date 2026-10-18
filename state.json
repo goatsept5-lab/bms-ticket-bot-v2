@@ -1005,7 +1005,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240991_20261018_SECOND CLASS": {
@@ -1159,7 +1159,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T17:43:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240959_20261018_SECOND CLASS": {
@@ -1818,8 +1818,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T18:33:07+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91829_20261019_EXECUTIVE": {
@@ -3931,7 +3931,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48119_20261019_PEARL": {
@@ -4228,7 +4228,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T17:58:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14518_20261019_NORMAL": {
@@ -4450,6 +4450,17 @@
       "alerted_at": "2026-10-18T18:03:07+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "ACON_48094_20261018_PEARL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261018",
+      "time": "08:20 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-18T18:33:07+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
