@@ -1027,7 +1027,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240700_20261018_SECOND CLASS": {
@@ -1071,7 +1071,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240561_20261018_SECOND CLASS": {
@@ -1214,7 +1214,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T18:03:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241033_20261019_SECOND CLASS": {
@@ -1643,7 +1643,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91940_20261019_EXECUTIVE": {
@@ -3930,8 +3930,8 @@
       "time": "10:20 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T18:43:07+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48119_20261019_PEARL": {
@@ -4161,8 +4161,8 @@
       "time": "09:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T15:28:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T18:43:07+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4239,7 +4239,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T18:23:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14524_20261019_NORMAL": {
@@ -4250,7 +4250,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T16:13:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16594_20261019_SPECIAL": {
