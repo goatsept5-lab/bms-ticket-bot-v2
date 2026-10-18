@@ -379,7 +379,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T22:48:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43846_20261018_CLASSIC": {
@@ -1773,7 +1773,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91918_20261019_EXECUTIVE": {
@@ -2400,7 +2400,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43884_20261019_CLASSIC": {
@@ -2619,8 +2619,8 @@
       "time": "07:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T22:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T23:08:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43871_20261019_CLASSIC": {
@@ -4072,7 +4072,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T22:48:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48089_20261018_PEARL": {
@@ -5479,8 +5479,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 61.74,
-      "alerted_at": "2026-10-18T22:48:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T23:08:25+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48120_20261019_PEARL": {
@@ -5568,6 +5568,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T22:58:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16589_20261018_SPECIAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261018",
+      "time": "10:50 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-18T23:08:25+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
