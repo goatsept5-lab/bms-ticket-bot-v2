@@ -88,7 +88,7 @@ async (desc) => {
     el.dispatchEvent(new Event('change', { bubbles: true }));
   };
   const btn = await waitFor(() => document.querySelector('button[aria-label="Open accessibility seat selection"]'));
-  if (!btn) return { error: 'seat panel button not found' };
+  if (!btn) return { error: 'seat panel button not found | ' + document.title + ' | ' + document.body.innerText.trim().slice(0, 200) };
   btn.click();
   const qty = await waitFor(() => document.getElementById('quantity-select'));
   if (!qty) return { error: 'seat panel did not open' };
