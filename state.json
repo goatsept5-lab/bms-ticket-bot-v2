@@ -420,7 +420,9 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:37:05.693566"
+      "alerted_at": "2026-10-18T20:43:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_14668_20261018_NORMAL": {
       "movie": "Ranabaali - Telugu",
@@ -4651,7 +4653,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:43:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48181_20261018_PEARL": {
