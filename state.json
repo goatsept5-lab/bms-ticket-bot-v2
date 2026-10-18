@@ -190,7 +190,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T10:57:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43949_20261018_CLASSIC": {
@@ -444,7 +444,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T11:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16592_20261018_SPECIAL": {
@@ -454,8 +454,9 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-17T21:07:18.519064",
-      "sold_out": true
+      "alerted_at": "2026-10-18T12:22:51+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "CBMC_14601_20261019_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -936,8 +937,8 @@
       "time": "08:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T12:22:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240767_20261018_SECOND CLASS": {
@@ -1365,8 +1366,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T12:07:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T12:22:51+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_91783_20261018_EXECUTIVE": {
@@ -1376,8 +1377,8 @@
       "time": "03:55 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T12:22:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91793_20261018_EXECUTIVE": {
@@ -1432,7 +1433,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T12:07:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91723_20261018_EXECUTIVE": {
@@ -3951,7 +3952,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T11:57:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48087_20261018_PEARL": {
