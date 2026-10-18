@@ -179,8 +179,8 @@
       "time": "07:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T13:38:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T13:58:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43931_20261018_CLASSIC": {
@@ -211,8 +211,9 @@
       "time": "09:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:54.480352",
-      "sold_out": true
+      "alerted_at": "2026-10-18T13:58:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     },
     "PVHR_43738_20261018_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -334,7 +335,9 @@
       "time": "03:55 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-17T03:37:01.134001"
+      "alerted_at": "2026-10-18T13:58:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_43944_20261018_CLASSIC": {
       "movie": "Ranabaali - Telugu",
@@ -789,8 +792,8 @@
       "time": "04:05 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T13:58:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240981_20261018_SECOND CLASS": {
@@ -844,8 +847,8 @@
       "time": "04:15 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T13:58:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240724_20261018_SECOND CLASS": {
@@ -1725,7 +1728,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91917_20261019_EXECUTIVE": {
@@ -4002,7 +4005,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-18T13:48:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14520_20261019_NORMAL": {
@@ -4068,7 +4071,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T13:08:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16629_20261018_SPECIAL": {
