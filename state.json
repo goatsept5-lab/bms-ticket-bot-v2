@@ -405,7 +405,9 @@
       "time": "06:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-17T03:37:05.095175"
+      "alerted_at": "2026-10-18T16:48:07+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_43840_20261018_CLASSIC": {
       "movie": "Dorothy - Tamil",
