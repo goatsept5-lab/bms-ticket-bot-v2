@@ -662,7 +662,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240558_20261018_SECOND CLASS": {
@@ -1420,8 +1420,8 @@
       "time": "07:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T08:37:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91703_20261018_EXECUTIVE": {
