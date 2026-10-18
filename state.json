@@ -179,7 +179,8 @@
       "time": "07:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:52.855314"
+      "alerted_at": "2026-10-17T03:36:52.855314",
+      "sold_out": true
     },
     "PVHR_43931_20261018_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -270,7 +271,8 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:57.802084"
+      "alerted_at": "2026-10-17T03:36:57.802084",
+      "sold_out": true
     },
     "PVHR_43851_20261018_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -452,7 +454,8 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-17T21:07:18.519064"
+      "alerted_at": "2026-10-17T21:07:18.519064",
+      "sold_out": true
     },
     "CBMC_14601_20261019_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -1363,7 +1366,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T12:07:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91783_20261018_EXECUTIVE": {
