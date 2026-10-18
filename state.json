@@ -398,7 +398,9 @@
       "time": "10:30 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-17T03:37:04.536882"
+      "alerted_at": "2026-10-18T20:33:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_43860_20261018_CLASSIC": {
       "movie": "Prahaar - Hindi",
