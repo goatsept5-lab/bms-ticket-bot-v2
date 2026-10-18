@@ -40,6 +40,7 @@ MAX_BUDGET_PRICE = float(os.environ.get("MAX_BUDGET_PRICE", "75"))
 SOON_MINUTES     = int(os.environ.get("SOON_MINUTES", "15"))
 MAX_DATES        = int(os.environ.get("MAX_DATES", "7"))
 MAX_SEAT_LOOKUPS = int(os.environ.get("MAX_SEAT_LOOKUPS", "12"))
+SEAT_MAP_SECONDS = 75  # total time budget so alerts still go out within the cycle
 REOPEN_COOLDOWN  = timedelta(minutes=30)
 FAIL_ALERT_AFTER = 3
 STATE_FILE       = "state.json"
@@ -79,7 +80,7 @@ SEAT_PANEL_JS = """
 async (desc) => {
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   const waitFor = async (fn) => {
-    for (let t = 0; t < 15000; t += 250) { const v = fn(); if (v) return v; await sleep(250); }
+    for (let t = 0; t < 8000; t += 250) { const v = fn(); if (v) return v; await sleep(250); }
     return null;
   };
   const pick = (el, value) => {
@@ -297,7 +298,9 @@ def scan(session, state, now):
 
 def add_seat_maps(hits, now):
     """Best effort: set hit["rows"] = {row: [free, total]} for the soonest shows."""
-    targets = sorted(hits, key=lambda h: h["start"] or now)[:MAX_SEAT_LOOKUPS]
+    targets  = sorted(hits, key=lambda h: h["start"] or now)[:MAX_SEAT_LOOKUPS]
+    deadline = time.monotonic() + SEAT_MAP_SECONDS
+    failures = 0
     try:
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
@@ -305,14 +308,20 @@ def add_seat_maps(hits, now):
             page = browser.new_page(user_agent=BROWSER_UA, locale="en-IN",
                                     timezone_id="Asia/Kolkata", viewport={"width": 1366, "height": 900})
             for h in targets:
+                if time.monotonic() > deadline or failures >= 2:
+                    logging.warning("Seat maps: stopping early (time budget or repeated failures)")
+                    break
                 try:
-                    page.goto(h["url"], wait_until="domcontentloaded", timeout=30000)
+                    page.goto(h["url"], wait_until="domcontentloaded", timeout=20000)
                     result = page.evaluate(SEAT_PANEL_JS, h["category"])
                     if result.get("error"):
+                        failures += 1
                         logging.warning(f"Seat map {h['key']}: {result['error']}")
                     else:
+                        failures = 0
                         h["rows"] = result["rows"]
                 except Exception as e:
+                    failures += 1
                     logging.warning(f"Seat map {h['key']}: {type(e).__name__}: {e}")
             browser.close()
     except Exception as e:
