@@ -793,7 +793,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T13:58:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240981_20261018_SECOND CLASS": {
@@ -837,7 +837,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240823_20261018_SECOND CLASS": {
@@ -848,7 +848,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T13:58:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240724_20261018_SECOND CLASS": {
@@ -1035,7 +1035,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T13:18:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240843_20261018_SECOND CLASS": {
@@ -1057,7 +1057,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T11:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240849_20261018_SECOND CLASS": {
@@ -1200,7 +1200,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240964_20261018_SECOND CLASS": {
@@ -1397,9 +1397,9 @@
       "time": "04:05 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-18T14:08:06+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91801_20261018_EXECUTIVE": {
       "movie": "Nayyi Navelli - Hindi",
@@ -3983,7 +3983,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T13:48:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14640_20261018_NORMAL": {
@@ -4070,8 +4070,8 @@
       "time": "08:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T13:08:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T14:08:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16629_20261018_SPECIAL": {
@@ -4115,6 +4115,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T13:28:07+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14719_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T14:08:06+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
