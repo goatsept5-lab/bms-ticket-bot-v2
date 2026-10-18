@@ -1,26 +1,55 @@
-import os
+"""BookMyShow budget-seat alert bot for Chennai theatres.
+
+Each run scans every bookable date at the target theatres and sends a Telegram
+alert when a budget seat class (<= MAX_BUDGET_PRICE) has seats. A show that was
+already alerted is alerted again when it starts within SOON_MINUTES, or when a
+sold-out class opens up again. Free seats per row are read from BMS's
+accessibility seat panel in headless Chromium (best effort).
+"""
 import json
 import logging
+import os
+import sys
+import time
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
 import requests
 from curl_cffi import requests as bms_req
-from datetime import datetime, timedelta
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID")
 
+IST = ZoneInfo("Asia/Kolkata")
+UTC = ZoneInfo("UTC")
+
+# Venue codes from BMS's Chennai cinema list
 TARGET_THEATRES = {
-    "INTO": {"name": "INOX: The Marina Mall, OMR",            "slug": "inox-the-marina-mall-omr"},
-    "PVHR": {"name": "PVR: Heritage RSL ECR",                 "slug": "pvr-heritage-rsl-ecr-chennai"},
-    "MCSK": {"name": "Miraj Cinemas: Sekaran Mall",           "slug": "miraj-cinemas-sekaran-mall-perrumbakkam"},
-    "TVHP": {"name": "The Vijay Park Multiplex: Injambakkam", "slug": "the-vijay-park-multiplex-injambakkam-ecr-4k-atmos"},
-    "CBMC": {"name": "Cinepolis: BSR Mall, OMR",              "slug": "cinepolis-bsr-mall-omr-thoraipakkam"},
+    "INTO": "INOX: The Marina Mall, OMR",
+    "PVHR": "PVR: Heritage RSL ECR",
+    "MCSK": "Miraj Cinemas: Sekaran Mall",
+    "TVHP": "The Vijay Park Multiplex: Injambakkam",
+    "CBMC": "Cinepolis: BSR Mall, OMR",
+    "MAYJ": "MAYAJAAL Multiplex: ECR",
+    "ACON": "AGS Cinemas OMR: Navalur (Vivira Mall)",
 }
 
-MAX_BUDGET_PRICE  = 75.0
-BUDGET_CATEGORIES = {"EXECUTIVE","CLASSIC","SPECIAL","NORMAL","BUDGET","SECOND CLASS","FRONT ROW"}
-STATE_FILE        = "state.json"
+MAX_BUDGET_PRICE = float(os.environ.get("MAX_BUDGET_PRICE", "75"))
+SOON_MINUTES     = int(os.environ.get("SOON_MINUTES", "15"))
+MAX_DATES        = int(os.environ.get("MAX_DATES", "7"))
+MAX_SEAT_LOOKUPS = int(os.environ.get("MAX_SEAT_LOOKUPS", "12"))
+REOPEN_COOLDOWN  = timedelta(minutes=30)
+FAIL_ALERT_AFTER = 3
+STATE_FILE       = "state.json"
+
+# Category AvailStatus, as checked against live seat maps:
+# 3 = plenty of seats, 2 = filling fast, 1 = last few seats, 0 = sold out
+AVAIL_LABELS = {"3": "Available", "2": "Filling fast", "1": "Almost full"}
+
+SHOWTIMES_URL   = "https://in.bookmyshow.com/api/v3/mobile/showtimes/byvenue?dateCode={date}&venueCode={venue}"
+SEAT_LAYOUT_URL = "https://in.bookmyshow.com/movies/chennai/seat-layout/{event}/{venue}/{session}/{date}"
 
 BMS_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -30,118 +59,338 @@ BMS_HEADERS = {
     "Accept-Language": "en-IN,en;q=0.9",
 }
 
+# Runs inside the seat-layout page: opens BMS's accessibility seat panel and
+# returns {row: [free, total]} for one price class. The panel only lists rows
+# that still have a free seat.
+SEAT_PANEL_JS = """
+async (desc) => {
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  const waitFor = async (fn) => {
+    for (let t = 0; t < 15000; t += 250) { const v = fn(); if (v) return v; await sleep(250); }
+    return null;
+  };
+  const pick = (el, value) => {
+    Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype, 'value').set.call(el, value);
+    el.dispatchEvent(new Event('change', { bubbles: true }));
+  };
+  const btn = await waitFor(() => document.querySelector('button[aria-label="Open accessibility seat selection"]'));
+  if (!btn) return { error: 'seat panel button not found' };
+  btn.click();
+  const qty = await waitFor(() => document.getElementById('quantity-select'));
+  if (!qty) return { error: 'seat panel did not open' };
+  pick(qty, '1');
+  await sleep(400);
+  const catSel = document.getElementById('category-select');
+  const opt = [...catSel.options].find(o => o.value && o.textContent.split(' - ')[0].trim().toUpperCase() === desc);
+  if (!opt) return { rows: {} };
+  pick(catSel, opt.value);
+  await sleep(500);
+  const rowSel = document.getElementById('row-select');
+  const rows = {};
+  for (const o of [...rowSel.options].filter(o => o.value)) {
+    pick(rowSel, o.value);
+    await sleep(350);
+    const seats = [...document.querySelectorAll('button[aria-label*=" in row "]')].map(b => b.getAttribute('aria-label'));
+    rows[o.textContent.split(' Row ').pop().trim()] = [seats.filter(s => s.startsWith('Select')).length, seats.length];
+  }
+  return { rows };
+}
+"""
+
+
+def parse_bms_time(value):
+    try:
+        return datetime.strptime(value, "%Y%m%d%H%M").replace(tzinfo=IST)
+    except (TypeError, ValueError):
+        return None
+
+
+def alerted_at(entry):
+    try:
+        ts = datetime.fromisoformat(entry.get("alerted_at", ""))
+    except (TypeError, ValueError):
+        return datetime(2000, 1, 1, tzinfo=IST)
+    # Older entries were written as naive UTC timestamps by the runner
+    return ts if ts.tzinfo else ts.replace(tzinfo=UTC)
+
+
+def format_date(date_code):
+    try:
+        return datetime.strptime(date_code, "%Y%m%d").strftime("%a %d %b")
+    except (TypeError, ValueError):
+        return date_code
+
+
 def load_state():
+    state = {}
     if os.path.exists(STATE_FILE):
         try:
-            with open(STATE_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception as e:
-            logging.warning(f"State read failed: {e}")
-    return {"alerts": {}, "last_heartbeat": ""}
+            with open(STATE_FILE, encoding="utf-8") as f:
+                state = json.load(f)
+        except (OSError, ValueError) as e:
+            logging.error(f"State read failed, starting fresh: {e}")
+    if not isinstance(state, dict):
+        state = {}
+    state.setdefault("alerts", {})
+    state.setdefault("fail_streak", 0)
+    state.pop("last_heartbeat", None)  # changed every run and forced a commit per run
+    return state
 
-def save_state(state):
-    try:
-        from datetime import timedelta
-        cutoff = (datetime.now() - timedelta(days=7)).isoformat()
-        state["alerts"] = {k: v for k, v in state.get("alerts", {}).items()
-                           if isinstance(v, dict) and v.get("alerted_at", "") > cutoff}
-        state["last_heartbeat"] = datetime.now().isoformat()
-        with open(STATE_FILE, "w", encoding="utf-8") as f:
-            json.dump(state, f, indent=2)
-    except Exception as e:
-        logging.error(f"State save failed: {e}")
 
-def send_telegram(movie_name, theatre_name, show_date, show_time,
-                  screen_name, category, price, booking_url, status_desc):
+def save_state(state, today_code):
+    # Shows dated before today can't be booked any more
+    state["alerts"] = {k: v for k, v in state["alerts"].items()
+                       if isinstance(v, dict) and v.get("date", "") >= today_code}
+    tmp = STATE_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2)
+        f.write("\n")
+    os.replace(tmp, STATE_FILE)
+
+
+def send_telegram(text):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         logging.error("Telegram credentials missing!")
         return False
-    try:
-        formatted_date = datetime.strptime(show_date, "%Y%m%d").strftime("%a, %d %b %Y")
-    except Exception:
-        formatted_date = show_date
-    message = (
-        f"BUDGET TICKET ALERT (Rs60 TICKET OPEN!)\n\n"
-        f"Movie: {movie_name}\n"
-        f"Theatre: {theatre_name}\n"
-        f"Date: {formatted_date}\n"
-        f"Time: {show_time} ({screen_name})\n"
-        f"Class: {category} (Base: Rs{price:.2f})\n"
-        f"Status: {status_desc}\n\n"
-        f"Seats go super fast! Book immediately:\n"
-        f"{booking_url}"
-    )
     url     = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {"chat_id": TELEGRAM_CHAT_ID, "text": message}
-    for attempt in range(3):
+    payload = {"chat_id": TELEGRAM_CHAT_ID, "text": text, "disable_web_page_preview": True}
+    for attempt in range(1, 4):
         try:
             resp = requests.post(url, json=payload, timeout=15)
-            if resp.status_code == 200:
-                logging.info(f"Telegram sent: {movie_name} @ {theatre_name}")
+            try:
+                body = resp.json()
+            except ValueError:
+                body = {}
+            if resp.status_code == 200 and body.get("ok"):
                 return True
-            logging.warning(f"Attempt {attempt+1}: {resp.status_code} {resp.text}")
-        except Exception as e:
-            logging.warning(f"Attempt {attempt+1} error: {e}")
+            if resp.status_code == 429:
+                time.sleep(min(int(body.get("parameters", {}).get("retry_after", 5)), 30))
+                continue
+            logging.warning(f"Telegram attempt {attempt}: HTTP {resp.status_code} {body.get('description', '')}")
+            if 400 <= resp.status_code < 500:
+                return False  # bad token or chat id; retrying won't help
+        except requests.RequestException as e:
+            # Not logging the exception text: it can contain the URL, which holds the bot token
+            logging.warning(f"Telegram attempt {attempt}: {type(e).__name__}")
+        time.sleep(2 * attempt)
     return False
 
-def check_tickets():
-    state  = load_state()
-    alerts = state.get("alerts", {})
-    now    = datetime.now()
-    dates  = [(now + timedelta(days=i)).strftime("%Y%m%d") for i in range(3)]
-    new_alerts = 0
 
-    for date_code in dates:
-        logging.info(f"--- Checking {date_code} ---")
-        for venue_code, info in TARGET_THEATRES.items():
-            url = (f"https://in.bookmyshow.com/api/v3/mobile/showtimes/byvenue"
-                   f"?dateCode={date_code}&venueCode={venue_code}")
-            try:
-                r = bms_req.get(url, headers=BMS_HEADERS, timeout=12, impersonate="chrome120")
-                if r.status_code != 200:
-                    logging.warning(f"{venue_code} HTTP {r.status_code}")
-                    continue
-                data = r.json()
-                show_details = data.get("ShowDetails", [])
-                if not show_details:
-                    continue
-                for ev in show_details[0].get("Event", []):
-                    for cev in ev.get("ChildEvents", []):
-                        movie_name = cev.get("EventName", "Movie")
-                        for st in cev.get("ShowTimes", []):
-                            session_id  = st.get("SessionId")
-                            show_time   = st.get("ShowTime")
-                            screen_name = st.get("ScreenName", "Main Audi")
-                            for cat in st.get("Categories", []):
-                                desc         = cat.get("PriceDesc", "").strip().upper()
-                                price        = float(cat.get("CurPrice", 0))
-                                avail_status = str(cat.get("AvailStatus", "0"))
-                                is_budget    = (price <= MAX_BUDGET_PRICE) or (desc in BUDGET_CATEGORIES and price <= 100.0)
-                                is_available = avail_status in {"1","2","3"}
-                                if is_budget and is_available:
-                                    label     = "Available" if avail_status in {"1","3"} else "Fast Filling"
-                                    alert_key = f"{venue_code}_{session_id}_{date_code}_{desc}"
-                                    if alert_key not in alerts:
-                                        booking_url = (f"https://in.bookmyshow.com/cinemas/chennai/"
-                                                       f"{info['slug']}/buytickets/{venue_code}/{date_code}")
-                                        if send_telegram(movie_name, info["name"], date_code,
-                                                         show_time, screen_name, desc,
-                                                         price, booking_url, label):
-                                            alerts[alert_key] = {
-                                                "movie": movie_name, "theatre": info["name"],
-                                                "date": date_code, "time": show_time,
-                                                "category": desc, "price": price,
-                                                "alerted_at": datetime.now().isoformat()
-                                            }
-                                            new_alerts += 1
-                                    else:
-                                        logging.debug(f"Already alerted: {alert_key}")
-            except Exception as ex:
-                logging.error(f"Error @ {venue_code}: {ex}")
+def fetch_showtimes(session, venue, date_code):
+    url = SHOWTIMES_URL.format(date=date_code, venue=venue)
+    for _ in range(2):
+        try:
+            r = session.get(url, headers=BMS_HEADERS, timeout=12)
+            if r.status_code == 200:
+                return r.json()
+            logging.warning(f"{venue} {date_code}: HTTP {r.status_code}")
+        except Exception as e:
+            logging.warning(f"{venue} {date_code}: {type(e).__name__}: {e}")
+        time.sleep(2)
+    return None
 
-    state["alerts"] = alerts
-    save_state(state)
-    logging.info(f"Done. New alerts sent: {new_alerts}")
+
+def iter_categories(data):
+    for day in data.get("ShowDetails") or []:
+        for ev in day.get("Event") or []:
+            for child in ev.get("ChildEvents") or []:
+                for show in child.get("ShowTimes") or []:
+                    for cat in show.get("Categories") or []:
+                        yield day, child, show, cat
+
+
+def check_category(venue, day, child, show, cat, alerts, now):
+    """Return an alert for this seat class, or None if there's nothing to send."""
+    try:
+        price = float(cat.get("CurPrice") or 0)
+    except (TypeError, ValueError):
+        return None
+    if not 0 < price <= MAX_BUDGET_PRICE:
+        return None
+    session_id = show.get("SessionId")
+    date_code  = show.get("ShowDateCode") or day.get("Date")
+    if not session_id or not date_code:
+        return None
+    desc   = (cat.get("PriceDesc") or "").strip().upper()
+    key    = f"{venue}_{session_id}_{date_code}_{desc}"
+    prev   = alerts.get(key)
+    status = str(cat.get("AvailStatus", "0"))
+
+    if status not in AVAIL_LABELS:
+        if prev is not None:
+            prev["sold_out"] = True
+        return None
+
+    start  = parse_bms_time(show.get("ShowDateTime"))
+    cutoff = parse_bms_time(show.get("CutOffDateTime")) or start
+    if cutoff and cutoff < now:
+        return None
+    mins_to_start = (start - now).total_seconds() / 60 if start else None
+    soon = mins_to_start is not None and 0 <= mins_to_start <= SOON_MINUTES
+
+    if prev is None:
+        kind = "new"
+    elif prev.get("sold_out") and now - alerted_at(prev) >= REOPEN_COOLDOWN:
+        kind = "reopened"
+    elif soon and not prev.get("soon_alerted"):
+        kind = "soon"
+    else:
+        return None
+
+    return {
+        "key": key, "kind": kind, "soon": soon, "mins": mins_to_start,
+        "venue": venue, "theatre": TARGET_THEATRES[venue],
+        "movie": child.get("EventName") or "Movie", "date": date_code,
+        "time": show.get("ShowTime") or "", "screen": show.get("ScreenName") or "",
+        "category": desc, "price": price, "status": status, "start": start,
+        "url": SEAT_LAYOUT_URL.format(event=child.get("EventCode"), venue=venue,
+                                      session=session_id, date=date_code),
+    }
+
+
+def scan(session, state, now):
+    """Check every bookable date at every theatre. Returns (hits, ok_requests, failed_requests)."""
+    hits, keys, ok, failed = [], set(), 0, 0
+    for venue in TARGET_THEATRES:
+        dates, seen = [now.strftime("%Y%m%d")], set()
+        while dates and len(seen) < MAX_DATES:
+            date_code = dates.pop(0)
+            if date_code in seen:
+                continue
+            seen.add(date_code)
+            data = fetch_showtimes(session, venue, date_code)
+            time.sleep(0.5)
+            if data is None:
+                failed += 1
+                continue
+            ok += 1
+            if len(seen) == 1:
+                # BMS lists the dates this venue has opened for booking
+                dates += [d.get("DateCode") for d in data.get("ShowDatesArray") or []
+                          if d.get("DateCode") and not d.get("isDisabled")]
+            for day, child, show, cat in iter_categories(data):
+                try:
+                    hit = check_category(venue, day, child, show, cat, state["alerts"], now)
+                except Exception as e:
+                    logging.warning(f"{venue} {date_code}: skipped a seat class ({type(e).__name__}: {e})")
+                    continue
+                if hit and hit["key"] not in keys:
+                    keys.add(hit["key"])
+                    hits.append(hit)
+    return hits, ok, failed
+
+
+def add_seat_maps(hits, now):
+    """Best effort: set hit["rows"] = {row: [free, total]} for the soonest shows."""
+    targets = sorted(hits, key=lambda h: h["start"] or now)[:MAX_SEAT_LOOKUPS]
+    try:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(user_agent=BMS_HEADERS["User-Agent"], locale="en-IN",
+                                    timezone_id="Asia/Kolkata", viewport={"width": 1366, "height": 900})
+            for h in targets:
+                try:
+                    page.goto(h["url"], wait_until="domcontentloaded", timeout=30000)
+                    result = page.evaluate(SEAT_PANEL_JS, h["category"])
+                    if result.get("error"):
+                        logging.warning(f"Seat map {h['key']}: {result['error']}")
+                    else:
+                        h["rows"] = result["rows"]
+                except Exception as e:
+                    logging.warning(f"Seat map {h['key']}: {type(e).__name__}: {e}")
+            browser.close()
+    except Exception as e:
+        logging.warning(f"Seat maps unavailable: {type(e).__name__}: {e}")
+
+
+def format_hit(h):
+    lines = []
+    if h["kind"] == "reopened":
+        lines.append("🔁 SEATS OPENED UP AGAIN")
+    if h["soon"]:
+        lines.append(f"⏰ STARTS IN {max(int(h['mins']), 0)} MIN")
+    lines.append(f"🎬 {h['movie']}")
+    lines.append(f"📅 {format_date(h['date'])} · {h['time']} · {h['screen']}")
+    lines.append(f"💺 {h['category']} ₹{h['price']:.2f} · {AVAIL_LABELS[h['status']]}")
+    rows = h.get("rows")
+    if rows:
+        free   = sum(r[0] for r in rows.values())
+        detail = " · ".join(f"Row {name} {r[0]}/{r[1]}" for name, r in sorted(rows.items()))
+        lines.append(f"🪑 {free} free: {detail}")
+    elif rows is not None:
+        lines.append("🪑 No free seats on the map right now (may have just sold out)")
+    lines.append(f"👉 {h['url']}")
+    return "\n".join(lines)
+
+
+def record_alert(state, h, now):
+    prev = state["alerts"].get(h["key"], {})
+    state["alerts"][h["key"]] = {
+        "movie": h["movie"], "theatre": h["theatre"], "date": h["date"], "time": h["time"],
+        "category": h["category"], "price": h["price"],
+        "alerted_at": now.isoformat(timespec="seconds"),
+        "sold_out": False, "soon_alerted": h["soon"] or prev.get("soon_alerted", False),
+    }
+
+
+def send_alerts(hits, state, now):
+    """One Telegram message per theatre (split if long). Returns how many alerts were delivered."""
+    by_venue = {}
+    for h in sorted(hits, key=lambda h: h["start"] or now):
+        by_venue.setdefault(h["venue"], []).append(h)
+    sent = 0
+    for venue, venue_hits in by_venue.items():
+        header = f"🎟️ BUDGET SEATS · {TARGET_THEATRES[venue]}"
+        chunks, current, size = [], [], len(header)
+        for h in venue_hits:
+            block = format_hit(h)
+            if current and size + len(block) + 2 > 3800:
+                chunks.append(current)
+                current, size = [], len(header)
+            current.append((h, block))
+            size += len(block) + 2
+        if current:
+            chunks.append(current)
+        for chunk in chunks:
+            if send_telegram(header + "\n\n" + "\n\n".join(block for _, block in chunk)):
+                for h, _ in chunk:
+                    record_alert(state, h, now)
+                sent += len(chunk)
+            time.sleep(1)
+    return sent
+
+
+def check_health(state, ok, failed):
+    """Warn on Telegram when BMS has been unreachable for several runs. Returns False on a failed run."""
+    if ok == 0:
+        state["fail_streak"] += 1
+        if state["fail_streak"] == FAIL_ALERT_AFTER:
+            send_telegram(f"⚠️ BMS bot: BookMyShow unreachable for {FAIL_ALERT_AFTER} checks in a row "
+                          f"({failed} failed requests). No alerts until it recovers.")
+        return False
+    if state["fail_streak"] >= FAIL_ALERT_AFTER:
+        send_telegram("✅ BMS bot: BookMyShow is reachable again, alerts resumed.")
+    state["fail_streak"] = 0
+    return True
+
+
+def main():
+    now     = datetime.now(IST)
+    state   = load_state()
+    session = bms_req.Session(impersonate="chrome120")
+    try:
+        hits, ok, failed = scan(session, state, now)
+    finally:
+        session.close()
+    logging.info(f"BMS requests: {ok} ok, {failed} failed. Alerts to send: {len(hits)}")
+    if hits:
+        add_seat_maps(hits, now)
+        logging.info(f"Telegram alerts delivered: {send_alerts(hits, state, now)}/{len(hits)}")
+    healthy = check_health(state, ok, failed)
+    save_state(state, now.strftime("%Y%m%d"))
+    return 0 if healthy else 1
+
 
 if __name__ == "__main__":
-    check_tickets()
+    sys.exit(main())
