@@ -480,7 +480,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240532_20261018_SECOND CLASS": {
@@ -1481,7 +1481,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:43:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91777_20261018_EXECUTIVE": {
@@ -4165,7 +4165,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T19:43:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4230,8 +4230,8 @@
       "time": "12:35 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T18:48:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:53:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14518_20261019_NORMAL": {
@@ -4264,7 +4264,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T16:33:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16536_20261019_SPECIAL": {
