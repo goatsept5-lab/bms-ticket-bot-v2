@@ -277,7 +277,8 @@
       "time": "06:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-17T03:36:58.893055"
+      "alerted_at": "2026-10-17T03:36:58.893055",
+      "sold_out": true
     },
     "PVHR_43845_20261018_CLASSIC": {
       "movie": "Street Fighter (Tamil) - Tamil",
