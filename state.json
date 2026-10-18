@@ -1480,8 +1480,8 @@
       "time": "10:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:43:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91777_20261018_EXECUTIVE": {
@@ -3857,7 +3857,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16540_20261019_SPECIAL": {
@@ -4164,8 +4164,8 @@
       "time": "09:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T19:03:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-18T19:43:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14517_20261019_NORMAL": {
@@ -4638,6 +4638,17 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-18T19:23:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91693_20261018_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261018",
+      "time": "07:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-18T19:43:24+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
