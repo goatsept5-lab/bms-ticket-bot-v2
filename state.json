@@ -384,9 +384,9 @@
       "time": "04:40 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T11:47:52+05:30",
+      "alerted_at": "2026-10-18T14:43:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_43848_20261018_CLASSIC": {
       "movie": "Nayyi Navelli - Hindi",
@@ -870,7 +870,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241026_20261018_SECOND CLASS": {
@@ -1145,7 +1145,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240611_20261018_SECOND CLASS": {
@@ -1200,7 +1200,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T14:13:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240964_20261018_SECOND CLASS": {
