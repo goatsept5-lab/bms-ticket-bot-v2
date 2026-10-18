@@ -184,6 +184,8 @@ def fetch_showtimes(session, venue, date_code):
             if r.status_code == 200:
                 return r.json()
             logging.warning(f"{venue} {date_code}: HTTP {r.status_code}")
+            if 400 <= r.status_code < 500:
+                return None  # blocked or bad request; retrying won't help
         except Exception as e:
             logging.warning(f"{venue} {date_code}: {type(e).__name__}: {e}")
         time.sleep(2)
@@ -364,12 +366,14 @@ def send_alerts(hits, state, now):
 def check_health(state, ok, failed):
     """Warn on Telegram when BMS has been unreachable for several runs. Returns False on a failed run."""
     if ok == 0:
-        state["fail_streak"] += 1
-        if state["fail_streak"] == FAIL_ALERT_AFTER:
+        # Capped so a long outage doesn't change state.json (and commit) every run
+        state["fail_streak"] = min(state["fail_streak"] + 1, FAIL_ALERT_AFTER)
+        if state["fail_streak"] == FAIL_ALERT_AFTER and not state.get("outage_alerted"):
+            state["outage_alerted"] = True
             send_telegram(f"⚠️ BMS bot: BookMyShow unreachable for {FAIL_ALERT_AFTER} checks in a row "
                           f"({failed} failed requests). No alerts until it recovers.")
         return False
-    if state["fail_streak"] >= FAIL_ALERT_AFTER:
+    if state.pop("outage_alerted", False):
         send_telegram("✅ BMS bot: BookMyShow is reachable again, alerts resumed.")
     state["fail_streak"] = 0
     return True
