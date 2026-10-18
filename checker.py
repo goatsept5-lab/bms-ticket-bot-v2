@@ -48,15 +48,28 @@ STATE_FILE       = "state.json"
 # 3 = plenty of seats, 2 = filling fast, 1 = last few seats, 0 = sold out
 AVAIL_LABELS = {"3": "Available", "2": "Filling fast", "1": "Almost full"}
 
-SHOWTIMES_URL   = "https://in.bookmyshow.com/api/v3/mobile/showtimes/byvenue?dateCode={date}&venueCode={venue}"
+# Same request the BMS website's cinema page makes
+SHOWTIMES_URL   = ("https://in.bookmyshow.com/api/v3/mobile/showtimes/byvenue"
+                   "?dateCode={date}&venueCode={venue}&regionCode=CHEN&memberId=&appCode=WEBV2&lsId=")
 SEAT_LAYOUT_URL = "https://in.bookmyshow.com/movies/chennai/seat-layout/{event}/{venue}/{session}/{date}"
 
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+# Headers the BMS website sends with its API calls (User-Agent comes from curl_cffi's impersonation)
 BMS_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Referer":    "https://in.bookmyshow.com/",
-    "Origin":     "https://in.bookmyshow.com",
-    "Accept":     "application/json, text/plain, */*",
-    "Accept-Language": "en-IN,en;q=0.9",
+    "Referer":              "https://in.bookmyshow.com/",
+    "Origin":               "https://in.bookmyshow.com",
+    "Accept":               "application/json, text/plain, */*",
+    "Accept-Language":      "en-IN,en;q=0.9",
+    "x-app-code":           "WEB",
+    "x-platform":           "WEB",
+    "x-platform-code":      "WEB",
+    "x-region-code":        "CHEN",
+    "x-region-slug":        "chennai",
+    "x-geohash":            "tf3",
+    "x-latitude":           "13.056",
+    "x-longitude":          "80.206",
+    "x-location-selection": "manual",
 }
 
 # Runs inside the seat-layout page: opens BMS's accessibility seat panel and
@@ -289,7 +302,7 @@ def add_seat_maps(hits, now):
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
             browser = p.chromium.launch()
-            page = browser.new_page(user_agent=BMS_HEADERS["User-Agent"], locale="en-IN",
+            page = browser.new_page(user_agent=BROWSER_UA, locale="en-IN",
                                     timezone_id="Asia/Kolkata", viewport={"width": 1366, "height": 900})
             for h in targets:
                 try:
@@ -382,7 +395,7 @@ def check_health(state, ok, failed):
 def main():
     now     = datetime.now(IST)
     state   = load_state()
-    session = bms_req.Session(impersonate="chrome120")
+    session = bms_req.Session(impersonate="chrome")
     try:
         hits, ok, failed = scan(session, state, now)
     finally:
