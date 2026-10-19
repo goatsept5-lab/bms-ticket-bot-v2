@@ -4080,6 +4080,28 @@
       "alerted_at": "2026-10-19T15:08:58+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48182_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "11:35 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-19T15:13:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48113_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "11:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-19T15:13:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
