@@ -206,7 +206,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-19T11:18:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91855_20261019_EXECUTIVE": {
@@ -1030,8 +1030,8 @@
       "time": "03:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T13:03:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43895_20261019_CLASSIC": {
@@ -3308,7 +3308,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T11:38:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240539_20261019_SECOND CLASS": {
@@ -3440,7 +3440,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240704_20261019_SECOND CLASS": {
@@ -3451,7 +3451,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T11:38:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240939_20261019_SECOND CLASS": {
@@ -3924,7 +3924,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-19T11:28:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14684_20261019_NORMAL": {
