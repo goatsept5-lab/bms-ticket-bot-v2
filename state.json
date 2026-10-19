@@ -3913,7 +3913,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T15:03:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14674_20261019_NORMAL": {
@@ -4177,7 +4177,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T16:58:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14538_20261020_NORMAL": {
@@ -4454,6 +4454,17 @@
       "alerted_at": "2026-10-19T19:09:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_91857_20261019_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261019",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-19T19:14:11+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
