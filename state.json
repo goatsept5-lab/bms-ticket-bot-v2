@@ -216,9 +216,9 @@
       "time": "12:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-19T12:28:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91916_20261019_EXECUTIVE": {
       "movie": "Crazy Kalyanam - Telugu",
@@ -997,8 +997,8 @@
       "time": "01:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-19T11:33:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T12:28:57+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_43959_20261019_CLASSIC": {
@@ -3363,7 +3363,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240564_20261019_SECOND CLASS": {
@@ -3462,7 +3462,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240540_20261019_SECOND CLASS": {
@@ -3836,7 +3836,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-18T22:58:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48127_20261019_PEARL": {
@@ -3891,7 +3891,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T10:38:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14673_20261019_NORMAL": {
@@ -3979,6 +3979,39 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-19T12:18:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91841_20261019_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261019",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T12:28:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91826_20261019_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261019",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T12:28:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91899_20261019_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261019",
+      "time": "12:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T12:28:57+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
