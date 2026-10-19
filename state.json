@@ -404,7 +404,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91890_20261020_EXECUTIVE": {
@@ -3605,7 +3605,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240705_20261019_SECOND CLASS": {
@@ -4089,7 +4089,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T17:59:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48113_20261019_PEARL": {
