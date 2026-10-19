@@ -1306,7 +1306,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43980_20261019_CLASSIC": {
@@ -4465,6 +4465,127 @@
       "alerted_at": "2026-10-19T19:14:11+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14685_20261019_NORMAL": {
+      "movie": "Street Fighter - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "08:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_241005_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240591_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:40 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240731_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240616_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:55 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240960_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:57 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241003_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:58 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240706_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_240965_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241007_20261019_SECOND CLASS": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261019",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16549_20261020_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261020",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T19:24:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
