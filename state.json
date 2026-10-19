@@ -349,7 +349,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-19T20:54:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91889_20261019_EXECUTIVE": {
@@ -536,7 +536,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91891_20261020_EXECUTIVE": {
@@ -1482,7 +1482,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43889_20261020_CLASSIC": {
@@ -2736,7 +2736,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T20:54:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16604_20261020_SPECIAL": {
@@ -4111,7 +4111,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T16:08:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14537_20261020_NORMAL": {
@@ -4320,7 +4320,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14606_20261020_NORMAL": {
@@ -4596,6 +4596,17 @@
       "price": 54.35,
       "alerted_at": "2026-10-19T20:29:11+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_14686_20261019_NORMAL": {
+      "movie": "Whalefall - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-19T22:04:11+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
