@@ -3737,7 +3737,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T20:58:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16548_20261020_SPECIAL": {
@@ -3748,7 +3748,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T20:58:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16553_20261020_SPECIAL": {
@@ -4121,8 +4121,8 @@
       "time": "09:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-19T16:58:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T21:04:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14720_20261020_NORMAL": {
@@ -4242,8 +4242,8 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T21:04:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14539_20261020_NORMAL": {
@@ -4297,8 +4297,8 @@
       "time": "07:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T21:04:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14579_20261020_NORMAL": {
@@ -4342,7 +4342,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14563_20261020_NORMAL": {
@@ -4595,7 +4595,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T20:29:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
