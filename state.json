@@ -172,9 +172,9 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-19T06:28:46+05:30",
+      "alerted_at": "2026-10-19T07:18:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91898_20261019_EXECUTIVE": {
       "movie": "Ranabaali - Telugu",
@@ -2416,9 +2416,9 @@
       "time": "09:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-19T07:18:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16599_20261019_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
@@ -3065,9 +3065,9 @@
       "time": "09:15 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T07:18:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240562_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -3076,9 +3076,9 @@
       "time": "09:15 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T07:18:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240587_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
