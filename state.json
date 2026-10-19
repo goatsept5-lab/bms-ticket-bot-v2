@@ -150,9 +150,9 @@
       "time": "09:05 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-19T07:08:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91840_20261019_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -821,9 +821,9 @@
       "time": "09:05 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-19T07:08:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_43893_20261019_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2637,7 +2637,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T07:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16536_20261019_SPECIAL": {
@@ -3021,9 +3021,9 @@
       "time": "09:05 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T07:08:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240942_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -3032,9 +3032,9 @@
       "time": "09:05 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T07:08:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240877_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
