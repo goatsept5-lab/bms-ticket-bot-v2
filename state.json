@@ -106,9 +106,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-19T08:48:47+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91869_20261019_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1284,7 +1284,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T22:18:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43872_20261019_CLASSIC": {
@@ -2439,7 +2439,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16538_20261019_SPECIAL": {
@@ -2659,7 +2659,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T16:33:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16637_20261019_SPECIAL": {
@@ -3871,6 +3871,17 @@
       "alerted_at": "2026-10-18T22:58:24+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14682_20261019_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "09:45 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-19T08:48:47+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
