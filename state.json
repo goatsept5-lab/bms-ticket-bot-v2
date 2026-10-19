@@ -29,8 +29,8 @@
       "time": "01:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T11:08:47+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241035_20261019_SECOND CLASS": {
@@ -206,7 +206,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-19T10:18:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91855_20261019_EXECUTIVE": {
@@ -393,7 +393,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91815_20261020_EXECUTIVE": {
@@ -1119,7 +1119,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43974_20261019_CLASSIC": {
@@ -3242,7 +3242,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240613_20261019_SECOND CLASS": {
@@ -3285,8 +3285,8 @@
       "time": "01:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T21:18:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T11:08:47+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240703_20261019_SECOND CLASS": {
@@ -3626,8 +3626,8 @@
       "time": "08:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T11:08:47+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240541_20261019_SECOND CLASS": {
@@ -3813,8 +3813,8 @@
       "time": "01:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T22:58:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T11:08:47+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48126_20261019_PEARL": {
