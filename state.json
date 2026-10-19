@@ -4034,7 +4034,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48123_20261019_PEARL": {
