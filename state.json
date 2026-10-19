@@ -3120,9 +3120,9 @@
       "time": "10:05 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T08:08:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241006_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
