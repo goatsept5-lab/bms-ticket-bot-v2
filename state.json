@@ -3681,8 +3681,8 @@
       "time": "11:15 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T17:13:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240891_20261019_SECOND CLASS": {
@@ -3869,7 +3869,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T14:53:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14682_20261019_NORMAL": {
@@ -4342,6 +4342,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:03:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14563_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "01:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T17:13:57+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
