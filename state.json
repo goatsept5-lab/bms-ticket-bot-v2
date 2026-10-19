@@ -74,7 +74,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241039_20261020_SECOND CLASS": {
@@ -228,7 +228,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91900_20261019_EXECUTIVE": {
@@ -3307,8 +3307,8 @@
       "time": "04:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-19T11:38:47+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T13:13:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240539_20261019_SECOND CLASS": {
@@ -3923,8 +3923,8 @@
       "time": "03:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-19T11:28:47+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T13:13:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14684_20261019_NORMAL": {
@@ -3957,7 +3957,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T12:08:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91870_20261019_EXECUTIVE": {
@@ -4014,6 +4014,28 @@
       "alerted_at": "2026-10-19T12:28:57+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14681_20261019_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "10:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T13:13:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14676_20261019_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "10:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-19T13:13:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
