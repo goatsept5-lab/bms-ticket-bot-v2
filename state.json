@@ -3638,7 +3638,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T15:38:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240886_20261019_SECOND CLASS": {
@@ -3649,7 +3649,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240946_20261019_SECOND CLASS": {
@@ -4078,7 +4078,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T15:08:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48182_20261019_PEARL": {
