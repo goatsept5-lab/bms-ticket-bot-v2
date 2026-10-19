@@ -3341,7 +3341,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T14:08:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241045_20261019_SECOND CLASS": {
@@ -3352,7 +3352,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T14:13:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240879_20261019_SECOND CLASS": {
@@ -3428,9 +3428,9 @@
       "time": "05:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
+      "alerted_at": "2026-10-19T15:03:58+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240914_20261019_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -3912,8 +3912,8 @@
       "time": "11:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-19T11:28:47+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T15:03:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14674_20261019_NORMAL": {
