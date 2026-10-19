@@ -4298,7 +4298,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T21:04:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14579_20261020_NORMAL": {
@@ -4606,7 +4606,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-19T22:04:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48139_20261020_PEARL": {
