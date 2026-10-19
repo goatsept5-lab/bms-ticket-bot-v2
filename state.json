@@ -62,8 +62,8 @@
       "time": "10:10 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241038_20261020_SECOND CLASS": {
@@ -700,8 +700,8 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91853_20261021_EXECUTIVE": {
@@ -1075,7 +1075,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-19T14:13:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43978_20261019_CLASSIC": {
@@ -3484,7 +3484,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T16:08:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241019_20261019_SECOND CLASS": {
@@ -4034,7 +4034,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-19T16:18:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48123_20261019_PEARL": {
@@ -4045,7 +4045,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T14:53:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16600_20261019_SPECIAL": {
@@ -4067,7 +4067,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T14:43:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48116_20261019_PEARL": {
@@ -4111,6 +4111,94 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T16:08:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14537_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14720_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14722_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14646_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:10 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14603_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:30 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14562_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14538_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "12:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14578_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "12:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T16:58:57+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
