@@ -3483,8 +3483,8 @@
       "time": "07:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T16:08:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241019_20261019_SECOND CLASS": {
@@ -3659,8 +3659,8 @@
       "time": "11:05 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T16:08:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240566_20261019_SECOND CLASS": {
@@ -3692,8 +3692,8 @@
       "time": "11:20 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T16:08:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240881_20261019_SECOND CLASS": {
@@ -4100,6 +4100,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T15:13:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48144_20261020_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261020",
+      "time": "10:15 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-19T16:08:58+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
