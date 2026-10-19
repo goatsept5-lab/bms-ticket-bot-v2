@@ -1053,7 +1053,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-19T13:58:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43870_20261019_CLASSIC": {
@@ -1251,7 +1251,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43975_20261019_CLASSIC": {
@@ -3484,7 +3484,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241019_20261019_SECOND CLASS": {
@@ -3693,7 +3693,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240881_20261019_SECOND CLASS": {
@@ -4034,7 +4034,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-19T15:48:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48123_20261019_PEARL": {
