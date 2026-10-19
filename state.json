@@ -514,7 +514,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91818_20261020_EXECUTIVE": {
@@ -2757,8 +2757,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-19T19:49:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T20:29:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16551_20261020_SPECIAL": {
@@ -4276,7 +4276,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14564_20261020_NORMAL": {
@@ -4386,7 +4386,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:29:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14580_20261020_NORMAL": {
@@ -4430,7 +4430,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-19T19:09:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14541_20261020_NORMAL": {
@@ -4440,8 +4440,8 @@
       "time": "10:40 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-19T19:09:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T20:29:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14607_20261020_NORMAL": {
@@ -4485,7 +4485,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T19:24:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240591_20261019_SECOND CLASS": {
@@ -4586,6 +4586,17 @@
       "alerted_at": "2026-10-19T19:24:12+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "MCSK_16642_20261019_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261019",
+      "time": "10:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T20:29:11+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
