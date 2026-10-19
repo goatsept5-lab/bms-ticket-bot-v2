@@ -30,7 +30,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T11:08:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241035_20261019_SECOND CLASS": {
@@ -205,8 +205,8 @@
       "time": "12:15 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-19T10:18:47+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T11:18:47+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_91855_20261019_EXECUTIVE": {
@@ -921,7 +921,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-19T10:23:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43963_20261019_CLASSIC": {
@@ -3187,7 +3187,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T10:43:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241041_20261019_SECOND CLASS": {
@@ -3253,7 +3253,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241042_20261019_SECOND CLASS": {
@@ -3893,6 +3893,17 @@
       "alerted_at": "2026-10-19T10:38:46+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14673_20261019_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T11:18:47+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
