@@ -305,7 +305,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-19T13:43:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91828_20261019_EXECUTIVE": {
@@ -3868,8 +3868,8 @@
       "time": "08:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-19T14:03:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T14:53:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14682_20261019_NORMAL": {
@@ -3913,7 +3913,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-19T11:28:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14674_20261019_NORMAL": {
@@ -4044,8 +4044,8 @@
       "time": "11:25 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-19T13:53:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T14:53:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16600_20261019_SPECIAL": {
