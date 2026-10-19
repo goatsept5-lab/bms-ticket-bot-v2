@@ -3286,7 +3286,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-19T11:48:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240703_20261019_SECOND CLASS": {
@@ -3341,7 +3341,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241045_20261019_SECOND CLASS": {
@@ -3506,7 +3506,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240910_20261019_SECOND CLASS": {
@@ -3923,9 +3923,9 @@
       "time": "03:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-19T13:13:58+05:30",
+      "alerted_at": "2026-10-19T13:23:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14684_20261019_NORMAL": {
       "movie": "Prahaar - Hindi",
@@ -3979,7 +3979,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-19T12:18:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91841_20261019_EXECUTIVE": {
