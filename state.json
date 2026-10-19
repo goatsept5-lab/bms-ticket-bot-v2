@@ -1097,7 +1097,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-19T14:43:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43965_20261019_CLASSIC": {
@@ -2791,7 +2791,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-18T16:33:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16537_20261019_SPECIAL": {
@@ -3495,7 +3495,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240885_20261019_SECOND CLASS": {
@@ -3637,8 +3637,8 @@
       "time": "11:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-19T15:38:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T17:29:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_240886_20261019_SECOND CLASS": {
@@ -4033,8 +4033,8 @@
       "time": "10:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-19T17:03:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-19T17:29:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48123_20261019_PEARL": {
@@ -4353,6 +4353,39 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T17:13:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14725_20261019_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "06:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T17:29:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48117_20261019_PEARL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "08:20 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-19T17:29:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14534_20261020_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "04:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T17:29:12+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
