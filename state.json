@@ -3297,7 +3297,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240889_20261019_SECOND CLASS": {
@@ -3308,7 +3308,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240539_20261019_SECOND CLASS": {
@@ -3451,7 +3451,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T20:38:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240939_20261019_SECOND CLASS": {
@@ -3802,9 +3802,9 @@
       "time": "01:25 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-18T22:58:24+05:30",
+      "alerted_at": "2026-10-19T11:28:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48110_20261019_PEARL": {
       "movie": "Jailer 2 - Tamil",
@@ -3904,6 +3904,50 @@
       "alerted_at": "2026-10-19T11:18:47+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48128_20261019_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261019",
+      "time": "11:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-19T11:28:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14674_20261019_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-19T11:28:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14684_20261019_NORMAL": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-19T11:28:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14680_20261019_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261019",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-19T11:28:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
