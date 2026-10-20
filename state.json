@@ -371,7 +371,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91838_20261021_EXECUTIVE": {
@@ -3583,7 +3583,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T23:10:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48133_20261020_PEARL": {
@@ -3607,6 +3607,17 @@
       "alerted_at": "2026-10-20T23:00:21+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_16644_20261020_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261020",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T23:30:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
