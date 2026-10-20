@@ -2724,8 +2724,8 @@
       "time": "11:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T10:49:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T18:40:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14688_20261020_NORMAL": {
