@@ -227,8 +227,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T17:55:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91892_20261021_EXECUTIVE": {
@@ -953,8 +953,8 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T17:55:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44011_20261020_CLASSIC": {
@@ -2648,7 +2648,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91874_20261020_EXECUTIVE": {
@@ -3242,7 +3242,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44062_20261022_CLASSIC": {
@@ -3253,7 +3253,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44063_20261022_CLASSIC": {
@@ -3264,7 +3264,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44060_20261022_CLASSIC": {
@@ -3275,8 +3275,19 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_14695_20261020_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T17:55:08+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
