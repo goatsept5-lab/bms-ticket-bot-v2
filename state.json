@@ -2647,8 +2647,8 @@
       "time": "08:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T18:05:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91874_20261020_EXECUTIVE": {
