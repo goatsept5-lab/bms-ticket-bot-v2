@@ -1614,7 +1614,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T07:04:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16606_20261020_SPECIAL": {
@@ -2009,9 +2009,9 @@
       "time": "10:45 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-20T00:14:24+05:30",
+      "alerted_at": "2026-10-20T08:49:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240902_20261020_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -2692,6 +2692,17 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14697_20261020_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "09:45 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-20T08:49:38+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
