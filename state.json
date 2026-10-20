@@ -195,7 +195,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T21:00:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91849_20261020_EXECUTIVE": {
@@ -228,7 +228,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T21:10:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91892_20261021_EXECUTIVE": {
@@ -953,9 +953,9 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-20T17:55:08+05:30",
+      "alerted_at": "2026-10-20T21:15:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44011_20261020_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -964,9 +964,9 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-20T21:15:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_43779_20261021_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -3505,9 +3505,9 @@
       "time": "11:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T20:35:08+05:30",
+      "alerted_at": "2026-10-20T21:15:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
