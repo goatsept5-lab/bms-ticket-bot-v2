@@ -690,7 +690,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T11:04:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43994_20261020_CLASSIC": {
@@ -799,8 +799,8 @@
       "time": "07:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T11:24:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43901_20261020_CLASSIC": {
@@ -2252,7 +2252,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T10:49:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240593_20261020_SECOND CLASS": {
@@ -2736,6 +2736,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T11:14:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14693_20261020_NORMAL": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "12:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T11:24:57+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
