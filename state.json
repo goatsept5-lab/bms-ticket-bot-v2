@@ -722,8 +722,8 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T10:39:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T13:19:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43984_20261020_CLASSIC": {
@@ -2769,7 +2769,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T13:09:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14699_20261020_NORMAL": {
@@ -2791,7 +2791,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T12:19:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48145_20261020_PEARL": {
