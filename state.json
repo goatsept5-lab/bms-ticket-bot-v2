@@ -898,8 +898,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T17:10:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44006_20261020_CLASSIC": {
@@ -2857,7 +2857,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T17:00:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48131_20261020_PEARL": {
@@ -2879,7 +2879,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T13:09:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48142_20261020_PEARL": {
@@ -2901,7 +2901,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T13:09:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16609_20261020_SPECIAL": {
@@ -3187,6 +3187,39 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48136_20261020_PEARL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261020",
+      "time": "05:05 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-20T17:10:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44057_20261021_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261021",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T17:10:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44058_20261021_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261021",
+      "time": "11:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T17:10:09+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
