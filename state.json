@@ -767,7 +767,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-20T16:45:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43990_20261020_CLASSIC": {
@@ -899,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:10:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44006_20261020_CLASSIC": {
@@ -3330,6 +3330,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T19:20:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14700_20261020_NORMAL": {
+      "movie": "Street Fighter - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "08:20 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-20T19:30:08+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
