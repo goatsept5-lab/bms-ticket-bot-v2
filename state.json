@@ -30,7 +30,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T15:14:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241040_20261020_SECOND CLASS": {
@@ -778,7 +778,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T15:34:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44005_20261020_CLASSIC": {
@@ -2912,7 +2912,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T14:19:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16554_20261020_SPECIAL": {
@@ -2922,8 +2922,8 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-20T14:54:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T15:44:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14752_20261020_NORMAL": {
@@ -2989,7 +2989,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T14:44:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91876_20261020_EXECUTIVE": {
