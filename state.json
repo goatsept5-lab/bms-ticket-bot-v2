@@ -217,7 +217,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T14:44:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91819_20261020_EXECUTIVE": {
@@ -2560,7 +2560,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240895_20261020_SECOND CLASS": {
@@ -2856,9 +2856,9 @@
       "time": "04:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-20T13:09:56+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "ACON_48131_20261020_PEARL": {
       "movie": "Jailer 2 - Tamil",
@@ -2923,7 +2923,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T15:44:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14752_20261020_NORMAL": {
@@ -3034,6 +3034,160 @@
       "price": 59.43,
       "alerted_at": "2026-10-20T16:10:09+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44065_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "12:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44066_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44067_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44068_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "11:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44069_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "09:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44070_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "12:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44071_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44072_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44073_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "11:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44074_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "09:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44075_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "12:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44076_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44077_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44078_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "11:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T16:40:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
