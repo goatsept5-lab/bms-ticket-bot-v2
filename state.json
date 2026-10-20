@@ -139,9 +139,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91859_20261020_EXECUTIVE": {
       "movie": "Nayyi Navelli - Hindi",
@@ -173,7 +173,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-19T21:34:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91833_20261020_EXECUTIVE": {
@@ -216,8 +216,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91819_20261020_EXECUTIVE": {
@@ -701,7 +701,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-20T13:59:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43890_20261020_CLASSIC": {
@@ -755,9 +755,9 @@
       "time": "04:40 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-20T14:44:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_43995_20261020_CLASSIC": {
       "movie": "Prahaar - Hindi",
@@ -2516,7 +2516,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241017_20261020_SECOND CLASS": {
@@ -2923,7 +2923,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T13:39:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14752_20261020_NORMAL": {
@@ -2980,6 +2980,50 @@
       "alerted_at": "2026-10-20T14:09:57+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_91946_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "03:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91876_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91905_20261020_EXECUTIVE": {
+      "movie": "Street Fighter - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91847_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T14:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
