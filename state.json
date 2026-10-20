@@ -3483,9 +3483,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T20:25:09+05:30",
+      "alerted_at": "2026-10-20T20:50:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91948_20261020_EXECUTIVE": {
       "movie": "Whalefall - English",
@@ -3494,9 +3494,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-20T20:25:09+05:30",
+      "alerted_at": "2026-10-20T20:50:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91878_20261020_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
