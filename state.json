@@ -205,8 +205,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T21:10:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91834_20261020_EXECUTIVE": {
@@ -216,8 +216,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T14:44:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T21:10:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91819_20261020_EXECUTIVE": {
@@ -227,8 +227,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T20:05:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T21:10:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91892_20261021_EXECUTIVE": {
@@ -942,9 +942,9 @@
       "time": "11:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-20T21:10:08+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_43986_20261020_CLASSIC": {
       "movie": "Ranabaali - Telugu",
@@ -3307,9 +3307,9 @@
       "time": "11:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-20T20:55:09+05:30",
+      "alerted_at": "2026-10-20T21:10:08+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48143_20261020_PEARL": {
       "movie": "Jailer 2 - Tamil",
