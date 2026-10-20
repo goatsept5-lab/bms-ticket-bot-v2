@@ -3288,6 +3288,17 @@
       "alerted_at": "2026-10-20T17:55:08+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_43985_20261020_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261020",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T18:20:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
