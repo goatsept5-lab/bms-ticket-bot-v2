@@ -51,9 +51,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91890_20261020_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -62,9 +62,9 @@
       "time": "09:05 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91845_20261020_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -601,8 +601,8 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43983_20261020_CLASSIC": {
@@ -2650,6 +2650,50 @@
       "alerted_at": "2026-10-20T08:09:37+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_91874_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91919_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91944_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_91903_20261020_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "09:25 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-20T08:44:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
