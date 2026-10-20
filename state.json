@@ -745,7 +745,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43999_20261020_CLASSIC": {
@@ -800,7 +800,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43901_20261020_CLASSIC": {
@@ -2230,7 +2230,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T10:44:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240568_20261020_SECOND CLASS": {
@@ -2262,9 +2262,9 @@
       "time": "01:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-20T11:14:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MAYJ_240733_20261020_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -2727,6 +2727,17 @@
       "alerted_at": "2026-10-20T10:49:57+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14688_20261020_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T11:14:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
