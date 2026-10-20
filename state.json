@@ -536,7 +536,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T08:04:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43775_20261020_CLASSIC": {
@@ -1977,7 +1977,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-19T19:24:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48139_20261020_PEARL": {
@@ -2186,7 +2186,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T10:34:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240543_20261020_SECOND CLASS": {
@@ -2241,7 +2241,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240923_20261020_SECOND CLASS": {
@@ -2251,9 +2251,9 @@
       "time": "12:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-20T08:09:37+05:30",
+      "alerted_at": "2026-10-20T10:49:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240593_20261020_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -2705,6 +2705,28 @@
       "alerted_at": "2026-10-20T08:49:38+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "PVHR_44055_20261020_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261020",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T10:49:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44056_20261020_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261020",
+      "time": "11:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T10:49:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
