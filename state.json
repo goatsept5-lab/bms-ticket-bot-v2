@@ -41,7 +41,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91815_20261020_EXECUTIVE": {
@@ -2857,7 +2857,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48131_20261020_PEARL": {
@@ -2922,8 +2922,8 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-20T15:44:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T16:50:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14752_20261020_NORMAL": {
@@ -3000,7 +3000,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T14:44:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91905_20261020_EXECUTIVE": {
@@ -3011,7 +3011,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-20T14:44:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91847_20261020_EXECUTIVE": {
