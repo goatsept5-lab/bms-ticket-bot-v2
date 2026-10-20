@@ -3044,7 +3044,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44066_20261023_CLASSIC": {
@@ -3055,7 +3055,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44067_20261023_CLASSIC": {
@@ -3066,7 +3066,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44068_20261023_CLASSIC": {
@@ -3077,7 +3077,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44069_20261024_CLASSIC": {
@@ -3231,7 +3231,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T17:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44061_20261022_CLASSIC": {
@@ -3386,6 +3386,94 @@
       "price": 54.35,
       "alerted_at": "2026-10-20T19:45:09+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44079_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44080_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44081_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44082_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44083_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44084_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "03:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44085_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44086_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
