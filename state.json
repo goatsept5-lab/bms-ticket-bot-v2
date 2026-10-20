@@ -3033,7 +3033,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-10-20T16:10:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
