@@ -3605,7 +3605,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T23:00:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16644_20261020_SPECIAL": {
