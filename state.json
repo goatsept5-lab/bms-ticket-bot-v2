@@ -183,8 +183,8 @@
       "time": "08:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T20:25:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91891_20261020_EXECUTIVE": {
@@ -194,8 +194,8 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T20:25:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91849_20261020_EXECUTIVE": {
@@ -3330,7 +3330,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T19:20:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14700_20261020_NORMAL": {
@@ -3473,6 +3473,28 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T20:15:08+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91907_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T20:25:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91948_20261020_EXECUTIVE": {
+      "movie": "Whalefall - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-20T20:25:09+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
