@@ -777,8 +777,8 @@
       "time": "06:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T12:59:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T14:34:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44005_20261020_CLASSIC": {
@@ -2427,9 +2427,9 @@
       "time": "04:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-20T08:09:37+05:30",
+      "alerted_at": "2026-10-20T14:34:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_240734_20261020_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
