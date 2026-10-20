@@ -84,9 +84,9 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-20T07:19:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91816_20261020_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1514,9 +1514,9 @@
       "time": "09:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-18T16:33:06+05:30",
+      "alerted_at": "2026-10-20T07:19:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16608_20261020_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
