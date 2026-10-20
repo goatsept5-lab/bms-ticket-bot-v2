@@ -2757,9 +2757,9 @@
       "time": "03:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-20T13:09:56+05:30",
+      "alerted_at": "2026-10-20T13:24:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14694_20261020_NORMAL": {
       "movie": "Baththa - Tamil",
