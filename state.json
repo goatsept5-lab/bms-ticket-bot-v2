@@ -657,7 +657,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-19T20:54:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43776_20261020_CLASSIC": {
@@ -1515,7 +1515,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T07:19:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16608_20261020_SPECIAL": {
@@ -2065,7 +2065,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240932_20261020_SECOND CLASS": {
@@ -2076,7 +2076,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240922_20261020_SECOND CLASS": {
