@@ -899,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T19:35:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44006_20261020_CLASSIC": {
@@ -2647,8 +2647,8 @@
       "time": "08:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-10-20T18:45:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T19:45:09+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_91874_20261020_EXECUTIVE": {
@@ -3343,6 +3343,50 @@
       "alerted_at": "2026-10-20T19:30:08+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_91922_20261020_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "07:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T19:45:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91947_20261020_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "07:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T19:45:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91848_20261020_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261020",
+      "time": "07:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T19:45:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14611_20261021_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261021",
+      "time": "07:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T19:45:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
