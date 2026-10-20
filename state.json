@@ -2724,9 +2724,9 @@
       "time": "11:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T18:40:09+05:30",
+      "alerted_at": "2026-10-20T21:20:08+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14688_20261020_NORMAL": {
       "movie": "Drones - Tamil",
@@ -3308,7 +3308,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-20T21:10:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48143_20261020_PEARL": {
@@ -3506,6 +3506,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-20T21:15:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14691_20261020_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "10:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-20T21:20:08+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
