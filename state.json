@@ -3296,8 +3296,8 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T18:20:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T19:10:09+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48148_20261020_PEARL": {
