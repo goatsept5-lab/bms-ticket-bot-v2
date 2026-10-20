@@ -227,8 +227,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T17:55:08+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-20T18:30:08+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91892_20261021_EXECUTIVE": {
@@ -2725,7 +2725,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T10:49:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14688_20261020_NORMAL": {
