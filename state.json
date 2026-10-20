@@ -2274,7 +2274,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T11:19:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241047_20261020_SECOND CLASS": {
@@ -2285,7 +2285,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T11:34:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_240618_20261020_SECOND CLASS": {
@@ -2318,7 +2318,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-10-20T08:09:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_240708_20261020_SECOND CLASS": {
@@ -2749,6 +2749,39 @@
       "alerted_at": "2026-10-20T11:24:57+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14689_20261020_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-20T11:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14694_20261020_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "03:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-20T11:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14699_20261020_NORMAL": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261020",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-20T11:44:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
