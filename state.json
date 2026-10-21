@@ -535,9 +535,9 @@
       "time": "06:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T16:46:11+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44030_20261021_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -579,8 +579,8 @@
       "time": "07:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T16:46:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44015_20261021_CLASSIC": {
@@ -602,7 +602,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44050_20261021_CLASSIC": {
@@ -1625,7 +1625,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T16:36:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14612_20261021_NORMAL": {
