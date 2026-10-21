@@ -436,9 +436,9 @@
       "time": "03:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T13:40:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44044_20261021_CLASSIC": {
       "movie": "Anbil Avan - Tamil",
@@ -447,9 +447,9 @@
       "time": "03:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T13:40:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44019_20261021_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
