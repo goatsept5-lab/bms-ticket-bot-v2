@@ -117,9 +117,9 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-20T19:55:08+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91853_20261021_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -139,9 +139,9 @@
       "time": "07:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T02:00:20+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91838_20261021_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -172,8 +172,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T11:30:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91839_20261021_EXECUTIVE": {
@@ -183,8 +183,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91824_20261021_EXECUTIVE": {
@@ -194,8 +194,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T15:21:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_43779_20261021_CLASSIC": {
@@ -2097,8 +2097,8 @@
       "time": "08:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T17:26:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91972_20261022_EXECUTIVE": {
@@ -2350,8 +2350,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T16:36:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91963_20261024_EXECUTIVE": {
@@ -2482,9 +2482,20 @@
       "time": "07:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-21T17:26:12+05:30",
+      "alerted_at": "2026-10-21T17:56:12+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
+    },
+    "CBMC_14710_20261021_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261021",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T17:56:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
