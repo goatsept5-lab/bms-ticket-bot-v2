@@ -1416,7 +1416,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14558_20261021_NORMAL": {
@@ -1988,6 +1988,50 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44117_20261022_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44118_20261022_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44119_20261022_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44120_20261022_CLASSIC": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:50:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
