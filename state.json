@@ -3440,7 +3440,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92019_20261023_EXECUTIVE": {
@@ -3451,7 +3451,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92015_20261023_EXECUTIVE": {
@@ -3462,7 +3462,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92021_20261023_EXECUTIVE": {
@@ -3550,6 +3550,94 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92065_20261024_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "09:20 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92066_20261024_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92067_20261024_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92069_20261024_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92070_20261025_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "09:20 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92071_20261025_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92072_20261025_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92074_20261025_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T23:56:34+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
