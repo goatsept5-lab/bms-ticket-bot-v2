@@ -459,7 +459,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T13:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44034_20261021_CLASSIC": {
@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44015_20261021_CLASSIC": {
@@ -1020,7 +1020,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T13:55:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44079_20261022_CLASSIC": {
@@ -1624,8 +1624,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T16:06:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T16:36:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14612_20261021_NORMAL": {
@@ -2164,7 +2164,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-21T12:30:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91995_20261022_EXECUTIVE": {
@@ -2350,8 +2350,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T14:45:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T16:36:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91963_20261024_EXECUTIVE": {
@@ -2452,6 +2452,17 @@
       "alerted_at": "2026-10-21T16:06:12+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_91910_20261021_EXECUTIVE": {
+      "movie": "Street Fighter - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261021",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-21T16:36:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
