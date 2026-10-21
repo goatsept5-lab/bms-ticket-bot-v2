@@ -722,8 +722,8 @@
       "time": "11:15 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44051_20261021_CLASSIC": {
@@ -2714,7 +2714,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-21T20:26:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16676_20261023_SPECIAL": {
@@ -2725,7 +2725,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16680_20261023_SPECIAL": {
@@ -2736,7 +2736,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16677_20261023_SPECIAL": {
@@ -2747,7 +2747,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16684_20261023_SPECIAL": {
@@ -2758,7 +2758,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16681_20261023_SPECIAL": {
@@ -2769,7 +2769,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16678_20261023_SPECIAL": {
@@ -2780,7 +2780,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16682_20261023_SPECIAL": {
@@ -2791,7 +2791,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16685_20261023_SPECIAL": {
@@ -2802,7 +2802,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16679_20261023_SPECIAL": {
@@ -2813,7 +2813,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16686_20261023_SPECIAL": {
@@ -2824,7 +2824,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16683_20261023_SPECIAL": {
@@ -2835,6 +2835,303 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44125_20261022_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "09:40 PM",
+      "category": "CLASSIC",
+      "price": 66.74,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16701_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "09:05 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16687_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "09:15 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16697_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16688_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "12:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16702_20261024_SPECIAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "03:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16698_20261024_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "04:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16689_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "04:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16699_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "07:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16703_20261024_SPECIAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "07:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16690_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "07:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16704_20261024_SPECIAL": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16700_20261024_SPECIAL": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "10:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16691_20261024_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261024",
+      "time": "11:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16705_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "09:05 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16692_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "09:15 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16706_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16693_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "12:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16710_20261025_SPECIAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "03:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16707_20261025_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "04:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16694_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "04:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16708_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "07:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16711_20261025_SPECIAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "07:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16695_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "07:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16712_20261025_SPECIAL": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16709_20261025_SPECIAL": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "10:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16696_20261025_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261025",
+      "time": "11:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T20:46:34+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
