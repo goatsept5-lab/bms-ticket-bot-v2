@@ -569,7 +569,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44020_20261021_CLASSIC": {
@@ -767,7 +767,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-20T14:09:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16563_20261021_SPECIAL": {
@@ -1504,7 +1504,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T14:00:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14549_20261021_NORMAL": {
@@ -1514,8 +1514,8 @@
       "time": "04:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T14:10:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T14:45:56+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_14610_20261021_NORMAL": {
@@ -1603,7 +1603,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T14:35:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14561_20261021_NORMAL": {
@@ -2350,8 +2350,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T12:50:55+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T14:45:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91963_20261024_EXECUTIVE": {
