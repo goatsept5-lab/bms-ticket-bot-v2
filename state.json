@@ -426,7 +426,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T13:10:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43781_20261021_CLASSIC": {
@@ -481,7 +481,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T14:00:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_43880_20261021_CLASSIC": {
@@ -1526,7 +1526,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T14:20:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14569_20261021_NORMAL": {
@@ -1591,8 +1591,8 @@
       "time": "07:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T14:25:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14585_20261021_NORMAL": {
@@ -1603,7 +1603,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14561_20261021_NORMAL": {
@@ -1635,8 +1635,8 @@
       "time": "11:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T10:50:55+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T14:25:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14571_20261021_NORMAL": {
@@ -2065,7 +2065,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T14:00:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91969_20261022_EXECUTIVE": {
@@ -2430,6 +2430,17 @@
       "alerted_at": "2026-10-21T13:10:56+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14704_20261021_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261021",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T14:25:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
