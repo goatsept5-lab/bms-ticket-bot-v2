@@ -679,7 +679,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44021_20261021_CLASSIC": {
@@ -3156,6 +3156,17 @@
       "alerted_at": "2026-10-21T21:21:34+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "INTO_91928_20261021_EXECUTIVE": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261021",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T23:26:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
