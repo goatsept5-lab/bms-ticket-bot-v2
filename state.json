@@ -326,9 +326,9 @@
       "time": "12:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T10:20:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44043_20261021_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -337,9 +337,9 @@
       "time": "12:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T10:20:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44033_20261021_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
