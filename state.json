@@ -151,7 +151,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91893_20261021_EXECUTIVE": {
@@ -755,8 +755,8 @@
       "time": "07:25 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-20T14:09:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T12:15:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16558_20261021_SPECIAL": {
@@ -1470,8 +1470,8 @@
       "time": "01:30 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T11:30:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T12:15:55+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_14751_20261021_NORMAL": {
@@ -2032,6 +2032,39 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16556_20261021_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261021",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:15:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MCSK_16639_20261021_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261021",
+      "time": "12:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:15:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MCSK_16557_20261021_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261021",
+      "time": "04:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:15:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
