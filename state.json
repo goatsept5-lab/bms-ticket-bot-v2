@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T09:10:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44047_20261021_CLASSIC": {
@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T07:30:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44037_20261021_CLASSIC": {
@@ -304,8 +304,8 @@
       "time": "10:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-21T09:30:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_43780_20261021_CLASSIC": {
@@ -1240,6 +1240,171 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T09:50:56+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "MCSK_16645_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "11:00 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16653_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "11:30 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16649_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16646_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "03:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16654_20261022_SPECIAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "03:05 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16658_20261022_SPECIAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "03:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16650_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "04:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16647_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "06:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16655_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "06:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16659_20261022_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "07:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16651_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "07:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16648_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "10:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16656_20261022_SPECIAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "10:15 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16660_20261022_SPECIAL": {
+      "movie": "Street Fighter (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16652_20261022_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261022",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T10:15:56+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
