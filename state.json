@@ -195,7 +195,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_43779_20261021_CLASSIC": {
@@ -766,8 +766,8 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-20T14:09:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T14:51:11+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16563_20261021_SPECIAL": {
