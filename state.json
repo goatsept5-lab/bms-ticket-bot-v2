@@ -371,7 +371,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:30:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44023_20261021_CLASSIC": {
@@ -393,7 +393,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44048_20261021_CLASSIC": {
@@ -1746,6 +1746,248 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:30:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44101_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "11:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44095_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "11:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44124_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "12:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44111_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "12:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44115_20261022_CLASSIC": {
+      "movie": "Street Fighter (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44106_20261022_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44099_20261022_CLASSIC": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "02:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44114_20261022_CLASSIC": {
+      "movie": "Nayyi Navelli - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44123_20261022_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44105_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44110_20261022_CLASSIC": {
+      "movie": "Whalefall - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:50 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44113_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "06:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44109_20261022_CLASSIC": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "06:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44100_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "06:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44121_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44104_20261022_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "07:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44107_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "09:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44112_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "09:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44103_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44098_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44102_20261022_CLASSIC": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:10 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44122_20261022_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T11:40:56+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
