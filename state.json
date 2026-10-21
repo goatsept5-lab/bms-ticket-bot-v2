@@ -1449,7 +1449,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:30:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14568_20261021_NORMAL": {
@@ -1471,7 +1471,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:15:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14751_20261021_NORMAL": {
@@ -1482,7 +1482,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14583_20261021_NORMAL": {
@@ -2329,6 +2329,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:30:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44088_20261022_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261022",
+      "time": "03:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:40:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
