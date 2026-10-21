@@ -73,9 +73,9 @@
       "time": "04:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T14:10:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91822_20261021_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -491,9 +491,9 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T14:10:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44024_20261021_CLASSIC": {
       "movie": "Ranabaali - Telugu",
@@ -502,9 +502,9 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T14:10:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44049_20261021_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -1514,9 +1514,9 @@
       "time": "04:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T14:05:56+05:30",
+      "alerted_at": "2026-10-21T14:10:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14610_20261021_NORMAL": {
       "movie": "Jailer 2 - Tamil",
