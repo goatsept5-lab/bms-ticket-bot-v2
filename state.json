@@ -327,7 +327,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:20:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44043_20261021_CLASSIC": {
@@ -348,9 +348,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-21T09:40:56+05:30",
+      "alerted_at": "2026-10-21T10:25:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44028_20261021_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -359,9 +359,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T10:25:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44013_20261021_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -404,7 +404,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-18T07:42:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44038_20261021_CLASSIC": {
@@ -899,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44076_20261025_CLASSIC": {
@@ -1251,7 +1251,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16653_20261022_SPECIAL": {
@@ -1262,7 +1262,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16649_20261022_SPECIAL": {
@@ -1273,7 +1273,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16646_20261022_SPECIAL": {
@@ -1284,7 +1284,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16654_20261022_SPECIAL": {
@@ -1295,7 +1295,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16658_20261022_SPECIAL": {
@@ -1306,7 +1306,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16650_20261022_SPECIAL": {
@@ -1317,7 +1317,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16647_20261022_SPECIAL": {
@@ -1328,7 +1328,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16655_20261022_SPECIAL": {
@@ -1339,7 +1339,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16659_20261022_SPECIAL": {
@@ -1350,7 +1350,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16651_20261022_SPECIAL": {
@@ -1361,7 +1361,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16648_20261022_SPECIAL": {
@@ -1372,7 +1372,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16656_20261022_SPECIAL": {
@@ -1383,7 +1383,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16660_20261022_SPECIAL": {
@@ -1394,7 +1394,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16652_20261022_SPECIAL": {
@@ -1405,7 +1405,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
