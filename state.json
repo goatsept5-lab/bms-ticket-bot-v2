@@ -1900,7 +1900,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92036_20261024_EXECUTIVE": {
@@ -1943,8 +1943,8 @@
       "time": "07:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92048_20261024_EXECUTIVE": {
@@ -1966,7 +1966,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92049_20261024_EXECUTIVE": {
@@ -1977,7 +1977,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92050_20261025_EXECUTIVE": {
@@ -2131,7 +2131,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-22T00:36:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92055_20261024_EXECUTIVE": {
@@ -2307,7 +2307,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92084_20261024_EXECUTIVE": {
@@ -2494,6 +2494,94 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T00:16:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92032_20261023_EXECUTIVE": {
+      "movie": "Hope - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "05:20 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92033_20261023_EXECUTIVE": {
+      "movie": "Doosra - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "08:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92034_20261023_EXECUTIVE": {
+      "movie": "Pehla Pyaar Doosri Baar - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92094_20261024_EXECUTIVE": {
+      "movie": "Hope - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "05:20 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92096_20261024_EXECUTIVE": {
+      "movie": "Pehla Pyaar Doosri Baar - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92098_20261025_EXECUTIVE": {
+      "movie": "Hope - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "05:20 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92099_20261025_EXECUTIVE": {
+      "movie": "Doosra - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "08:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92100_20261025_EXECUTIVE": {
+      "movie": "Pehla Pyaar Doosri Baar - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T00:46:34+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
