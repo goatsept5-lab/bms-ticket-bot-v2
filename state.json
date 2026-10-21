@@ -458,9 +458,9 @@
       "time": "03:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-18T07:42:51+05:30",
+      "alerted_at": "2026-10-21T13:50:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44034_20261021_CLASSIC": {
       "movie": "Whalefall - English",
