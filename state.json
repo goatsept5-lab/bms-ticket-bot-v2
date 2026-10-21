@@ -954,7 +954,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T19:36:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44059_20261022_CLASSIC": {
@@ -1944,7 +1944,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44103_20261022_CLASSIC": {
@@ -2483,7 +2483,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-21T17:56:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14710_20261021_NORMAL": {
@@ -2659,7 +2659,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T19:06:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14768_20261021_NORMAL": {
@@ -2683,6 +2683,28 @@
       "alerted_at": "2026-10-21T19:46:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "MCSK_16619_20261021_SPECIAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261021",
+      "time": "07:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T19:56:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48162_20261021_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261021",
+      "time": "08:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-21T19:56:11+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
