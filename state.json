@@ -2680,9 +2680,9 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T19:46:11+05:30",
+      "alerted_at": "2026-10-21T21:16:34+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16619_20261021_SPECIAL": {
       "movie": "Baththa - Tamil",
