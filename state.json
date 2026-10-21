@@ -1448,8 +1448,8 @@
       "time": "12:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T12:30:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_14568_20261021_NORMAL": {
@@ -1493,7 +1493,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T10:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14559_20261021_NORMAL": {
@@ -2340,6 +2340,61 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:40:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91998_20261022_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261022",
+      "time": "12:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91963_20261024_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91964_20261024_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91965_20261024_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "04:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_91966_20261024_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "07:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-21T12:50:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
