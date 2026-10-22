@@ -470,7 +470,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T22:17:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16656_20261022_SPECIAL": {
@@ -888,7 +888,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T20:42:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91969_20261022_EXECUTIVE": {
@@ -1251,7 +1251,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T13:10:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16662_20261023_SPECIAL": {
@@ -4539,8 +4539,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-22T22:02:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T22:47:31+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_14806_20261022_NORMAL": {
@@ -4561,8 +4561,8 @@
       "time": "11:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-22T22:27:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T22:47:31+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
