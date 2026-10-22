@@ -3805,6 +3805,39 @@
       "alerted_at": "2026-10-22T13:27:03+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_44242_20261023_CLASSIC": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "12:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T14:17:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44243_20261024_CLASSIC": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "12:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T14:17:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44244_20261025_CLASSIC": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "12:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T14:17:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
