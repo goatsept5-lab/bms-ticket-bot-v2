@@ -557,8 +557,8 @@
       "time": "06:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T16:37:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T18:27:18+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44089_20261022_CLASSIC": {
@@ -569,7 +569,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T16:52:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44093_20261022_CLASSIC": {
@@ -788,8 +788,8 @@
       "time": "09:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T16:17:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T18:27:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44112_20261022_CLASSIC": {
@@ -844,7 +844,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44117_20261022_CLASSIC": {
@@ -4025,6 +4025,39 @@
       "alerted_at": "2026-10-22T18:07:18+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14743_20261022_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "07:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T18:27:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92114_20261024_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T18:27:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92115_20261025_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T18:27:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
