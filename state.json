@@ -602,7 +602,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-21T11:30:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44101_20261022_CLASSIC": {
@@ -789,7 +789,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T18:27:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44112_20261022_CLASSIC": {
@@ -4069,6 +4069,28 @@
       "alerted_at": "2026-10-22T18:37:17+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92117_20261025_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "11:00 AM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-22T18:47:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92120_20261025_EXECUTIVE": {
+      "movie": "Tum Mere Ho - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "01:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T18:47:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
