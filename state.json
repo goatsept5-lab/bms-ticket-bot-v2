@@ -249,9 +249,9 @@
       "time": "10:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T20:15:08+05:30",
+      "alerted_at": "2026-10-22T20:17:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44083_20261023_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -4408,6 +4408,50 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-22T20:07:31+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14744_20261022_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T20:17:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44264_20261024_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "09:15 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T20:17:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44265_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "09:15 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T20:17:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44263_20261025_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "11:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T20:17:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
