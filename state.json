@@ -667,9 +667,9 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-21T11:40:56+05:30",
+      "alerted_at": "2026-10-22T10:32:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44099_20261022_CLASSIC": {
       "movie": "Ranabaali - Telugu",
@@ -899,7 +899,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:20:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91970_20261022_EXECUTIVE": {
@@ -910,7 +910,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:20:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91971_20261022_EXECUTIVE": {
