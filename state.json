@@ -1152,7 +1152,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:30:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44088_20261022_CLASSIC": {
@@ -3924,6 +3924,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-22T17:07:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92113_20261023_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T17:17:17+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
