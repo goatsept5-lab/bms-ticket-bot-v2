@@ -326,8 +326,8 @@
       "time": "10:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-20T21:25:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T22:27:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91958_20261022_EXECUTIVE": {
@@ -932,7 +932,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-22T21:37:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91989_20261022_EXECUTIVE": {
@@ -1151,8 +1151,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T21:27:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T22:27:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44088_20261022_CLASSIC": {
@@ -1537,7 +1537,7 @@
       "category": "CLASSIC",
       "price": 66.74,
       "alerted_at": "2026-10-22T19:42:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16701_20261024_SPECIAL": {
@@ -3924,7 +3924,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-22T17:07:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92113_20261023_EXECUTIVE": {
@@ -4001,7 +4001,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-22T22:07:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14759_20261022_NORMAL": {
@@ -4551,6 +4551,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T22:07:32+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_14734_20261022_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T22:27:32+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
