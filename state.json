@@ -436,8 +436,8 @@
       "time": "06:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T10:15:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T19:22:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16659_20261022_SPECIAL": {
@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T18:27:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44089_20261022_CLASSIC": {
@@ -4023,7 +4023,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T18:07:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14743_20261022_NORMAL": {
