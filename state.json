@@ -931,8 +931,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T12:20:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T13:27:03+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_91989_20261022_EXECUTIVE": {
@@ -1163,7 +1163,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T13:17:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91998_20261022_EXECUTIVE": {
@@ -3792,6 +3792,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T13:17:03+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44147_20261023_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "01:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T13:27:03+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
