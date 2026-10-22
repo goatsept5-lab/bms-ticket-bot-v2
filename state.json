@@ -4034,7 +4034,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T18:27:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92114_20261024_EXECUTIVE": {
@@ -4177,6 +4177,50 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T19:32:31+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92122_20261024_EXECUTIVE": {
+      "movie": "Tum Mere Ho - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "01:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T19:37:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92123_20261024_EXECUTIVE": {
+      "movie": "Hope - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-22T19:37:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92124_20261024_EXECUTIVE": {
+      "movie": "Doosra - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "08:20 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T19:37:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92125_20261024_EXECUTIVE": {
+      "movie": "Pehla Pyaar Doosri Baar - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T19:37:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
