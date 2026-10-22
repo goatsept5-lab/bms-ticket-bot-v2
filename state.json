@@ -3849,6 +3849,17 @@
       "alerted_at": "2026-10-22T14:27:18+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14764_20261022_NORMAL": {
+      "movie": "Prahaar - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "03:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T14:37:17+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
