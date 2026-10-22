@@ -1041,9 +1041,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-21T12:30:56+05:30",
+      "alerted_at": "2026-10-22T14:22:17+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_91991_20261022_EXECUTIVE": {
       "movie": "Baththa - Tamil",
