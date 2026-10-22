@@ -590,8 +590,8 @@
       "time": "10:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T20:27:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-22T21:12:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44094_20261022_CLASSIC": {
@@ -822,7 +822,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T20:12:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44102_20261022_CLASSIC": {
@@ -4419,7 +4419,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-22T21:02:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44264_20261024_CLASSIC": {
@@ -4476,6 +4476,17 @@
       "alerted_at": "2026-10-22T20:27:32+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14758_20261022_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "10:10 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T21:12:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
