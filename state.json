@@ -3981,6 +3981,28 @@
       "alerted_at": "2026-10-22T17:37:18+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14765_20261022_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261022",
+      "time": "06:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T17:57:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92121_20261023_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T17:57:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
