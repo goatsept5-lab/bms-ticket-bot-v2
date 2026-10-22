@@ -2736,7 +2736,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T05:31:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44140_20261023_CLASSIC": {
@@ -2747,6 +2747,127 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T05:31:47+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44160_20261023_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "12:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44164_20261023_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "01:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44156_20261023_CLASSIC": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "03:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44152_20261023_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "04:20 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44165_20261023_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "04:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44153_20261023_CLASSIC": {
+      "movie": "Titans - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44157_20261023_CLASSIC": {
+      "movie": "Doosra - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44166_20261023_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "07:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44158_20261023_CLASSIC": {
+      "movie": "418 - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "09:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44154_20261023_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44167_20261023_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "11:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-22T06:06:47+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
