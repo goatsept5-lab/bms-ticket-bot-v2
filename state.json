@@ -480,9 +480,9 @@
       "time": "07:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T13:28:13+05:30",
+      "alerted_at": "2026-10-23T17:13:13+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16685_20261023_SPECIAL": {
       "movie": "Haiku - Tamil",
@@ -1481,9 +1481,9 @@
       "time": "05:20 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-22T00:46:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T17:13:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92033_20261023_EXECUTIVE": {
       "movie": "Doosra - Hindi",
@@ -2714,7 +2714,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:28:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44147_20261023_CLASSIC": {
@@ -2780,7 +2780,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T15:43:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92118_20261023_EXECUTIVE": {
@@ -3363,7 +3363,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:53:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14960_20261023_NORMAL": {
@@ -3373,8 +3373,8 @@
       "time": "11:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T15:33:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T17:13:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
