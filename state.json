@@ -668,7 +668,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:23:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16705_20261025_SPECIAL": {
@@ -843,9 +843,9 @@
       "time": "07:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T19:28:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92011_20261023_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -3374,7 +3374,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T19:18:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
@@ -3715,6 +3715,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T19:08:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92029_20261023_EXECUTIVE": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-23T19:28:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92005_20261023_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "07:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T19:28:25+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
