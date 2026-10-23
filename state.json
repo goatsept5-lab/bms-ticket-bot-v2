@@ -3263,9 +3263,9 @@
       "time": "03:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "alerted_at": "2026-10-23T13:18:13+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14909_20261023_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -3429,6 +3429,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T12:58:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92022_20261023_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T13:18:13+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
