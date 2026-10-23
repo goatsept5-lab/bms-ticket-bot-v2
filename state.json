@@ -448,7 +448,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T16:13:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16681_20261023_SPECIAL": {
@@ -3648,8 +3648,8 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-23T16:23:14+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T16:38:14+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92023_20261023_EXECUTIVE": {
