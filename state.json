@@ -854,9 +854,9 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T22:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92045_20261024_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1294,9 +1294,9 @@
       "time": "10:45 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T22:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92084_20261024_EXECUTIVE": {
       "movie": "Dorothy - Tamil",
@@ -1503,9 +1503,9 @@
       "time": "10:40 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-22T00:46:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T22:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92094_20261024_EXECUTIVE": {
       "movie": "Hope - English",
@@ -2406,7 +2406,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44232_20261025_CLASSIC": {
@@ -4221,7 +4221,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T21:53:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14843_20261024_NORMAL": {
@@ -4375,7 +4375,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-23T21:53:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15109_20261024_NORMAL": {
@@ -4443,6 +4443,28 @@
       "alerted_at": "2026-10-23T21:18:25+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92006_20261023_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "11:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T22:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "PVHR_44150_20261023_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T22:03:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
