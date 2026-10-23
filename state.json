@@ -1734,9 +1734,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T12:27:04+05:30",
+      "alerted_at": "2026-10-23T10:53:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44164_20261023_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -2680,9 +2680,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T13:17:03+05:30",
+      "alerted_at": "2026-10-23T10:53:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44142_20261023_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2735,9 +2735,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T14:17:18+05:30",
+      "alerted_at": "2026-10-23T10:53:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44243_20261024_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
@@ -3211,6 +3211,17 @@
       "alerted_at": "2026-10-22T20:27:32+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14904_20261023_NORMAL": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "11:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T10:53:00+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
