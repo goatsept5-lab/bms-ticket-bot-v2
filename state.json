@@ -1756,9 +1756,9 @@
       "time": "03:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T06:06:47+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T15:13:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44152_20261023_CLASSIC": {
       "movie": "Clayface - English",
@@ -1767,9 +1767,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-22T06:06:47+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T15:13:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44165_20261023_CLASSIC": {
       "movie": "Haiku - Tamil",
@@ -1778,9 +1778,9 @@
       "time": "04:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T06:06:47+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T15:13:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44153_20261023_CLASSIC": {
       "movie": "Titans - Malayalam",
@@ -3451,7 +3451,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:03:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14902_20261023_NORMAL": {
@@ -3463,6 +3463,17 @@
       "price": 54.35,
       "alerted_at": "2026-10-23T14:53:13+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "PVHR_44161_20261023_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261023",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T15:13:14+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
