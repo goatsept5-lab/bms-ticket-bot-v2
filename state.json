@@ -282,8 +282,8 @@
       "time": "07:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T17:03:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_16665_20261023_SPECIAL": {
@@ -294,7 +294,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T16:58:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16666_20261024_SPECIAL": {
@@ -315,8 +315,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T18:11:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16668_20261024_SPECIAL": {
@@ -326,8 +326,8 @@
       "time": "04:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T18:11:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16669_20261024_SPECIAL": {
@@ -337,8 +337,8 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T18:11:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16670_20261024_SPECIAL": {
@@ -348,8 +348,8 @@
       "time": "11:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T18:11:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16671_20261025_SPECIAL": {
@@ -513,8 +513,8 @@
       "time": "10:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:41:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16683_20261023_SPECIAL": {
@@ -557,8 +557,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16688_20261024_SPECIAL": {
@@ -601,8 +601,8 @@
       "time": "04:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16699_20261024_SPECIAL": {
@@ -612,8 +612,8 @@
       "time": "07:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16703_20261024_SPECIAL": {
@@ -634,8 +634,8 @@
       "time": "07:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16704_20261024_SPECIAL": {
@@ -667,8 +667,8 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16705_20261025_SPECIAL": {
@@ -1812,7 +1812,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T17:53:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44158_20261023_CLASSIC": {
@@ -3197,8 +3197,8 @@
       "time": "10:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-23T14:53:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92102_20261025_EXECUTIVE": {
@@ -3373,8 +3373,8 @@
       "time": "11:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T17:53:26+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
@@ -3682,6 +3682,17 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-23T18:03:26+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14900_20261023_NORMAL": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "07:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-23T18:23:26+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
