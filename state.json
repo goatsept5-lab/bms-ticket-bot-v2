@@ -470,7 +470,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T13:28:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16682_20261023_SPECIAL": {
@@ -1096,9 +1096,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T16:23:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92015_20261023_EXECUTIVE": {
       "movie": "Baththa - Tamil",
@@ -1778,8 +1778,8 @@
       "time": "04:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-23T15:13:14+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T16:23:14+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44153_20261023_CLASSIC": {
@@ -3638,6 +3638,28 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-23T16:13:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92028_20261023_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-23T16:23:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92023_20261023_EXECUTIVE": {
+      "movie": "Clayface - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-23T16:23:14+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
