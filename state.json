@@ -3374,7 +3374,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:58:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
@@ -3704,6 +3704,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:48:26+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14898_20261023_NORMAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "08:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T19:08:25+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
