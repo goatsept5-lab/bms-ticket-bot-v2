@@ -217,7 +217,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91965_20261024_EXECUTIVE": {
@@ -2879,7 +2879,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-22T18:52:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44247_20261023_CLASSIC": {
@@ -3197,8 +3197,8 @@
       "time": "10:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T20:27:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T14:53:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92102_20261025_EXECUTIVE": {
@@ -3362,8 +3362,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T11:02:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T14:53:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14960_20261023_NORMAL": {
@@ -3451,6 +3451,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:03:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14902_20261023_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "03:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T14:53:13+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
