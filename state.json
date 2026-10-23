@@ -162,7 +162,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T09:32:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44084_20261023_CLASSIC": {
@@ -206,7 +206,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-21T12:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_91964_20261024_EXECUTIVE": {
@@ -2724,9 +2724,9 @@
       "time": "01:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T13:27:03+05:30",
+      "alerted_at": "2026-10-23T11:02:59+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44242_20261023_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
@@ -3220,8 +3220,162 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T10:53:00+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_14919_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "11:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14908_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "12:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14920_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "03:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14961_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "03:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14909_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "03:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14913_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "03:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14897_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "04:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14910_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "06:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14914_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "07:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14962_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14922_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "10:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14915_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14918_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14960_20261023_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "11:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T11:02:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
