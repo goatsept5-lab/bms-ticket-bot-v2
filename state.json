@@ -513,8 +513,8 @@
       "time": "10:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T18:23:26+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:43:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16683_20261023_SPECIAL": {
@@ -800,7 +800,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16696_20261025_SPECIAL": {
@@ -3373,8 +3373,8 @@
       "time": "11:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T18:23:26+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T18:43:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
