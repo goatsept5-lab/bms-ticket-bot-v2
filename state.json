@@ -503,7 +503,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T17:48:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16686_20261023_SPECIAL": {
@@ -3198,7 +3198,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:53:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92102_20261025_EXECUTIVE": {
@@ -3671,6 +3671,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-23T17:23:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14949_20261023_NORMAL": {
+      "movie": "Hope - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "07:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-23T18:03:26+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
