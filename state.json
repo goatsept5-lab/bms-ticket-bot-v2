@@ -1085,9 +1085,9 @@
       "time": "01:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T12:58:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92019_20261023_EXECUTIVE": {
       "movie": "Tom and Jerry: Forbidden Compass - English",
@@ -3319,7 +3319,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T11:02:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14962_20261023_NORMAL": {
@@ -3330,7 +3330,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T11:02:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14922_20261023_NORMAL": {
@@ -3418,6 +3418,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T12:28:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92027_20261023_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T12:58:14+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
