@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T16:43:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44086_20261023_CLASSIC": {
@@ -2779,9 +2779,9 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-23T15:43:13+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T17:23:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92118_20261023_EXECUTIVE": {
       "movie": "Tum Mere Ho - Hindi",
@@ -3362,8 +3362,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T14:53:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T17:23:14+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14960_20261023_NORMAL": {
@@ -3638,7 +3638,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-23T16:13:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92028_20261023_EXECUTIVE": {
@@ -3661,6 +3661,17 @@
       "price": 66.74,
       "alerted_at": "2026-10-23T16:23:14+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_14906_20261023_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "06:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-23T17:23:14+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
