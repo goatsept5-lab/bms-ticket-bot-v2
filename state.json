@@ -1811,9 +1811,9 @@
       "time": "07:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-23T12:48:14+05:30",
+      "alerted_at": "2026-10-23T17:53:26+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44158_20261023_CLASSIC": {
       "movie": "418 - Telugu",
@@ -3373,8 +3373,8 @@
       "time": "11:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T17:13:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T17:53:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
