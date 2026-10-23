@@ -1680,7 +1680,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T14:23:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44134_20261023_CLASSIC": {
@@ -1768,7 +1768,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-23T15:13:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44165_20261023_CLASSIC": {
@@ -1800,9 +1800,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-22T13:17:03+05:30",
+      "alerted_at": "2026-10-23T17:08:13+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44166_20261023_CLASSIC": {
       "movie": "Drones - Tamil",
