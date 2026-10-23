@@ -514,7 +514,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:43:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16683_20261023_SPECIAL": {
@@ -1789,9 +1789,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-22T06:06:47+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-23T18:48:26+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44157_20261023_CLASSIC": {
       "movie": "Doosra - Hindi",
@@ -1801,7 +1801,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-23T17:08:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44166_20261023_CLASSIC": {
@@ -3374,7 +3374,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:43:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14921_20261023_NORMAL": {
@@ -3693,6 +3693,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-23T18:23:26+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92024_20261023_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261023",
+      "time": "07:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T18:48:26+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
