@@ -3319,7 +3319,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T13:08:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14962_20261023_NORMAL": {
@@ -3351,8 +3351,8 @@
       "time": "10:40 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T11:02:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T14:03:14+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14918_20261023_NORMAL": {
@@ -3440,6 +3440,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-23T13:18:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_14905_20261023_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261023",
+      "time": "02:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-23T14:03:14+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
