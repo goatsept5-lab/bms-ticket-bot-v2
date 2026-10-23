@@ -1569,8 +1569,8 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-23T10:42:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T11:37:59+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44128_20261023_CLASSIC": {
@@ -3396,7 +3396,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T11:17:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
