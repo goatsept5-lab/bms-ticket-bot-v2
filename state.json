@@ -348,8 +348,8 @@
       "time": "11:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T20:13:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-23T22:18:26+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16671_20261025_SPECIAL": {
@@ -4342,7 +4342,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-23T21:18:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48192_20261023_PEARL": {
@@ -4375,7 +4375,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-23T22:08:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15109_20261024_NORMAL": {
