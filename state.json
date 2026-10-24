@@ -117,9 +117,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-23T12:28:13+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_91964_20261024_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -788,9 +788,9 @@
       "time": "09:05 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:46:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92056_20261024_EXECUTIVE": {
       "movie": "Baththa - Tamil",
@@ -3156,6 +3156,50 @@
       "alerted_at": "2026-10-24T08:04:05+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_14844_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "07:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14841_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14858_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14951_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "08:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
