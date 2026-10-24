@@ -3297,7 +3297,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T18:14:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92197_20261026_EXECUTIVE": {
