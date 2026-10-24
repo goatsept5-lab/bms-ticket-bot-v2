@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T09:14:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92066_20261024_EXECUTIVE": {
@@ -1317,7 +1317,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T07:24:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44198_20261024_CLASSIC": {
@@ -1328,7 +1328,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T07:24:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44206_20261024_CLASSIC": {
@@ -3087,9 +3087,9 @@
       "time": "12:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T21:18:25+05:30",
+      "alerted_at": "2026-10-24T10:09:04+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14819_20261024_NORMAL": {
       "movie": "Prahaar - Hindi",
