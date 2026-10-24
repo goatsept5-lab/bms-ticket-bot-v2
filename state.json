@@ -964,9 +964,9 @@
       "time": "01:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T13:19:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92076_20261024_EXECUTIVE": {
       "movie": "Clayface - English",
@@ -1449,7 +1449,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:22:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44180_20261024_CLASSIC": {
@@ -1525,8 +1525,8 @@
       "time": "07:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:19:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44236_20261024_CLASSIC": {
@@ -1614,7 +1614,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T12:59:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44182_20261024_CLASSIC": {
