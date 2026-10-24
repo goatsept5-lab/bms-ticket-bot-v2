@@ -1273,7 +1273,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T18:04:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44192_20261024_CLASSIC": {
@@ -1746,7 +1746,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44211_20261025_CLASSIC": {
@@ -2306,8 +2306,8 @@
       "time": "11:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T20:07:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T20:14:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44258_20261025_CLASSIC": {
@@ -3759,7 +3759,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T17:59:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48205_20261024_PEARL": {
