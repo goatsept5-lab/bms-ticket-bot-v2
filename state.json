@@ -140,7 +140,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T16:09:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91966_20261024_EXECUTIVE": {
@@ -811,7 +811,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T16:09:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92058_20261024_EXECUTIVE": {
@@ -1492,9 +1492,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
+      "alerted_at": "2026-10-24T17:04:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44221_20261024_CLASSIC": {
       "movie": "Doosra - Hindi",
@@ -3747,8 +3747,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:19:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T17:04:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48200_20261024_PEARL": {
