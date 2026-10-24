@@ -2108,8 +2108,8 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T18:27:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T15:29:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92115_20261025_EXECUTIVE": {
@@ -3792,6 +3792,28 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T14:59:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14811_20261024_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "04:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T15:29:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "PVHR_44300_20261024_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261024",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T15:29:18+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
