@@ -1625,7 +1625,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:22:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44173_20261025_CLASSIC": {
@@ -3770,7 +3770,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T18:19:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48261_20261024_PEARL": {
@@ -5023,8 +5023,8 @@
       "time": "07:50 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-24T17:54:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48201_20261024_PEARL": {
@@ -5035,7 +5035,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T17:39:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15163_20261024_NORMAL": {
@@ -5068,7 +5068,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T18:59:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14870_20261025_NORMAL": {
@@ -5079,6 +5079,215 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T18:14:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92197_20261026_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92212_20261026_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92182_20261026_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "11:00 AM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92198_20261026_EXECUTIVE": {
+      "movie": "Dorothy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92169_20261026_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92183_20261026_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92213_20261026_EXECUTIVE": {
+      "movie": "Tum Mere Ho - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "01:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92199_20261026_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92170_20261026_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92184_20261026_EXECUTIVE": {
+      "movie": "Clayface - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92214_20261026_EXECUTIVE": {
+      "movie": "Hope - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "04:55 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92185_20261026_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "07:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92171_20261026_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92200_20261026_EXECUTIVE": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92215_20261026_EXECUTIVE": {
+      "movie": "Doosra - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "08:20 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92216_20261026_EXECUTIVE": {
+      "movie": "Pehla Pyaar Doosri Baar - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92186_20261026_EXECUTIVE": {
+      "movie": "Clayface - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:30 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92172_20261026_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92201_20261026_EXECUTIVE": {
+      "movie": "Titans - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T19:09:40+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
