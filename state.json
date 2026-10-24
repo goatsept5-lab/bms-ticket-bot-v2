@@ -238,8 +238,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T18:11:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16673_20261025_SPECIAL": {
@@ -359,8 +359,8 @@
       "time": "07:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T13:09:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16703_20261024_SPECIAL": {
@@ -392,8 +392,8 @@
       "time": "10:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16700_20261024_SPECIAL": {
@@ -436,8 +436,8 @@
       "time": "09:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16706_20261025_SPECIAL": {
@@ -447,8 +447,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16693_20261025_SPECIAL": {
@@ -458,8 +458,8 @@
       "time": "12:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16710_20261025_SPECIAL": {
@@ -1251,7 +1251,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T10:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44190_20261024_CLASSIC": {
@@ -1372,7 +1372,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T10:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44199_20261024_CLASSIC": {
@@ -1470,8 +1470,8 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44235_20261024_CLASSIC": {
@@ -3450,8 +3450,8 @@
       "time": "06:45 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-24T12:24:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92141_20261026_EXECUTIVE": {
