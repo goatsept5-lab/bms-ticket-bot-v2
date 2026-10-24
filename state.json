@@ -5782,8 +5782,8 @@
       "time": "11:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-24T22:14:54+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T22:59:54+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92145_20261027_EXECUTIVE": {
