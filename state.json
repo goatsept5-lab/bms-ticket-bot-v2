@@ -304,8 +304,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T10:34:04+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T10:54:18+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_16688_20261024_SPECIAL": {
@@ -1250,9 +1250,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:12:03+05:30",
+      "alerted_at": "2026-10-24T10:54:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44190_20261024_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1371,9 +1371,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
+      "alerted_at": "2026-10-24T10:54:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44199_20261024_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2064,9 +2064,9 @@
       "time": "12:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T14:17:18+05:30",
+      "alerted_at": "2026-10-24T10:54:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44244_20261025_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
@@ -2086,8 +2086,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T01:03:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T10:54:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92112_20261025_EXECUTIVE": {
@@ -3109,8 +3109,8 @@
       "time": "03:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T21:18:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T10:54:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14848_20261024_NORMAL": {
@@ -3165,7 +3165,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T08:54:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14841_20261024_NORMAL": {
@@ -3186,8 +3186,8 @@
       "time": "07:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T08:54:05+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T10:54:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14951_20261024_NORMAL": {
