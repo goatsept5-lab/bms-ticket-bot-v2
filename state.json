@@ -887,9 +887,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-21T23:56:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T16:19:17+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92069_20261024_EXECUTIVE": {
       "movie": "Ranabaali - Telugu",
@@ -975,9 +975,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T16:19:17+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92077_20261024_EXECUTIVE": {
       "movie": "Haiku - Tamil",
@@ -3638,7 +3638,7 @@
       "category": "PEARL",
       "price": 59.0,
       "alerted_at": "2026-10-24T16:09:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48204_20261024_PEARL": {
@@ -3747,8 +3747,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T16:19:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48200_20261024_PEARL": {
@@ -3781,7 +3781,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T14:59:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44301_20261025_CLASSIC": {
@@ -4608,6 +4608,17 @@
       "alerted_at": "2026-10-24T16:09:18+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92085_20261024_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T16:19:17+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
