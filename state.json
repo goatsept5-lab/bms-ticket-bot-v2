@@ -1525,9 +1525,9 @@
       "time": "07:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T13:19:18+05:30",
+      "alerted_at": "2026-10-24T17:54:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44236_20261024_CLASSIC": {
       "movie": "Drones - Tamil",
@@ -5023,9 +5023,9 @@
       "time": "07:50 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-24T17:09:39+05:30",
+      "alerted_at": "2026-10-24T17:54:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48201_20261024_PEARL": {
       "movie": "Jailer 2 - Tamil",
