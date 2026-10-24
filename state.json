@@ -3758,9 +3758,9 @@
       "time": "07:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-24T14:59:17+05:30",
+      "alerted_at": "2026-10-24T17:59:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48205_20261024_PEARL": {
       "movie": "Jailer 2 - Tamil",
