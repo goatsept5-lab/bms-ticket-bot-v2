@@ -5782,9 +5782,9 @@
       "time": "11:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-24T21:09:39+05:30",
+      "alerted_at": "2026-10-24T21:49:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92145_20261027_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
