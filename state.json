@@ -8,7 +8,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T07:04:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44070_20261024_CLASSIC": {
@@ -118,7 +118,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T08:54:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_91964_20261024_EXECUTIVE": {
@@ -3011,7 +3011,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T07:34:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14855_20261024_NORMAL": {
@@ -3253,6 +3253,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T09:24:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92083_20261024_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261024",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T09:49:04+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
