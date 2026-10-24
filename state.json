@@ -1382,9 +1382,9 @@
       "time": "12:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
+      "alerted_at": "2026-10-24T10:59:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44207_20261024_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -3274,9 +3274,9 @@
       "time": "12:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T10:29:05+05:30",
+      "alerted_at": "2026-10-24T10:59:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14817_20261024_NORMAL": {
       "movie": "Baththa - Tamil",
