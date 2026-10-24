@@ -1460,7 +1460,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T14:24:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44214_20261024_CLASSIC": {
@@ -3748,7 +3748,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-24T17:04:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48200_20261024_PEARL": {
@@ -3813,9 +3813,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:29:18+05:30",
+      "alerted_at": "2026-10-24T17:09:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44378_20261027_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -4617,7 +4617,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T16:54:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44314_20261026_CLASSIC": {
@@ -5013,6 +5013,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T16:54:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14832_20261024_NORMAL": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T17:09:39+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
