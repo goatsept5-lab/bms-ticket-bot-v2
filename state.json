@@ -4616,8 +4616,8 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:19:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44314_20261026_CLASSIC": {
@@ -4815,6 +4815,160 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T16:29:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44330_20261026_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "12:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44326_20261026_CLASSIC": {
+      "movie": "Udumbanchola Vision - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "12:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44322_20261026_CLASSIC": {
+      "movie": "Hope (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "12:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44319_20261026_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "02:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44331_20261026_CLASSIC": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "03:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44327_20261026_CLASSIC": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "03:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44323_20261026_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "04:20 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44320_20261026_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "06:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44324_20261026_CLASSIC": {
+      "movie": "Titans - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44328_20261026_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44333_20261026_CLASSIC": {
+      "movie": "Baththa - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44329_20261026_CLASSIC": {
+      "movie": "418 - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "09:45 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44325_20261026_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44332_20261026_CLASSIC": {
+      "movie": "Tum Mere Ho - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "10:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-24T16:34:41+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
