@@ -3121,7 +3121,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T21:18:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14840_20261024_NORMAL": {
@@ -3187,7 +3187,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T10:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14951_20261024_NORMAL": {
