@@ -183,9 +183,9 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "alerted_at": "2026-10-24T10:34:04+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16668_20261024_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
@@ -304,9 +304,9 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T18:23:26+05:30",
+      "alerted_at": "2026-10-24T10:34:04+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16688_20261024_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
