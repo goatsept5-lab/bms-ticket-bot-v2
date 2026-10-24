@@ -557,8 +557,8 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-21T20:46:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T15:19:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92045_20261024_EXECUTIVE": {
@@ -1603,7 +1603,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:22:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44172_20261024_CLASSIC": {
@@ -3736,9 +3736,9 @@
       "time": "05:15 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-24T14:54:17+05:30",
+      "alerted_at": "2026-10-24T15:19:17+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14822_20261024_NORMAL": {
       "movie": "418 - Telugu",
