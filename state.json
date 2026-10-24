@@ -161,8 +161,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T22:14:54+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:34:53+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_16666_20261024_SPECIAL": {
@@ -656,8 +656,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T01:01:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:34:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92049_20261024_EXECUTIVE": {
@@ -667,8 +667,8 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T01:01:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:34:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92050_20261025_EXECUTIVE": {
@@ -689,8 +689,8 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:34:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92051_20261025_EXECUTIVE": {
@@ -1020,7 +1020,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T22:34:53+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92088_20261025_EXECUTIVE": {
@@ -3725,8 +3725,8 @@
       "time": "09:55 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T22:04:40+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:34:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48260_20261024_PEARL": {
