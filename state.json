@@ -3517,7 +3517,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92173_20261027_EXECUTIVE": {
@@ -3527,8 +3527,8 @@
       "time": "01:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T04:55:05+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92188_20261027_EXECUTIVE": {
@@ -3539,7 +3539,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92218_20261027_EXECUTIVE": {
@@ -3561,7 +3561,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92189_20261027_EXECUTIVE": {
@@ -3583,7 +3583,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92219_20261027_EXECUTIVE": {
@@ -3605,7 +3605,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92175_20261027_EXECUTIVE": {
@@ -3616,7 +3616,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92205_20261027_EXECUTIVE": {
@@ -3627,7 +3627,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92220_20261027_EXECUTIVE": {
@@ -3638,7 +3638,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92221_20261027_EXECUTIVE": {
@@ -3649,7 +3649,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92191_20261027_EXECUTIVE": {
@@ -3660,7 +3660,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92176_20261027_EXECUTIVE": {
@@ -3671,7 +3671,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92206_20261027_EXECUTIVE": {
@@ -3682,7 +3682,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92207_20261028_EXECUTIVE": {
@@ -3989,8 +3989,8 @@
       "time": "11:20 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T04:55:05+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92157_20261027_EXECUTIVE": {
@@ -4000,8 +4000,8 @@
       "time": "11:40 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T04:55:05+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92227_20261027_EXECUTIVE": {
@@ -4012,7 +4012,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T04:40:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92146_20261027_EXECUTIVE": {
@@ -4023,7 +4023,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92158_20261027_EXECUTIVE": {
@@ -4056,7 +4056,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92159_20261027_EXECUTIVE": {
@@ -4099,8 +4099,8 @@
       "time": "10:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T04:55:05+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92230_20261027_EXECUTIVE": {
@@ -4111,7 +4111,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T21:24:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92231_20261028_EXECUTIVE": {
