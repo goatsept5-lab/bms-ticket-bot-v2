@@ -986,9 +986,9 @@
       "time": "07:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T18:49:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92086_20261024_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
@@ -2207,8 +2207,8 @@
       "time": "04:55 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-24T14:04:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T18:49:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92127_20261025_EXECUTIVE": {
@@ -3781,7 +3781,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T18:34:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44301_20261025_CLASSIC": {
@@ -5056,8 +5056,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 61.74,
-      "alerted_at": "2026-10-24T18:14:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T18:49:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15162_20261024_NORMAL": {
