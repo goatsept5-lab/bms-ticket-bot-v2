@@ -161,9 +161,9 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T20:04:39+05:30",
+      "alerted_at": "2026-10-24T21:44:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16666_20261024_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
@@ -3726,7 +3726,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T14:44:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48260_20261024_PEARL": {
