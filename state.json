@@ -51,9 +51,9 @@
       "time": "11:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T20:49:40+05:30",
+      "alerted_at": "2026-10-24T21:24:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44074_20261025_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -5783,6 +5783,182 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T21:09:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92145_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "11:20 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92157_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "11:40 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92227_20261027_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "12:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92146_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "03:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92158_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "03:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92228_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "03:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92147_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "06:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92159_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "07:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92229_20261027_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "07:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92148_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "10:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92160_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92230_20261027_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92231_20261028_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261028",
+      "time": "12:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92232_20261028_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261028",
+      "time": "03:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92233_20261028_EXECUTIVE": {
+      "movie": "Baththa - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261028",
+      "time": "07:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92234_20261028_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261028",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T21:24:39+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
