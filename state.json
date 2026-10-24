@@ -1558,9 +1558,9 @@
       "time": "08:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:22:04+05:30",
+      "alerted_at": "2026-10-24T18:09:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44222_20261024_CLASSIC": {
       "movie": "418 - Telugu",
