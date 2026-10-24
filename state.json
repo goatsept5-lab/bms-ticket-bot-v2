@@ -161,8 +161,8 @@
       "time": "11:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T13:10:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T20:04:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16666_20261024_SPECIAL": {
@@ -371,7 +371,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T19:39:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16690_20261024_SPECIAL": {
@@ -2307,7 +2307,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T20:07:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44258_20261025_CLASSIC": {
