@@ -73,8 +73,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T23:19:53+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T00:49:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16673_20261025_SPECIAL": {
