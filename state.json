@@ -503,7 +503,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-23T18:33:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16711_20261025_SPECIAL": {
@@ -3748,7 +3748,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-24T16:19:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48200_20261024_PEARL": {
@@ -4616,8 +4616,8 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T16:54:39+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44314_20261026_CLASSIC": {
@@ -4969,6 +4969,50 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-24T16:34:41+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44334_20261026_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "12:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:54:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44335_20261026_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "03:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:54:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44336_20261026_CLASSIC": {
+      "movie": "Drones - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "06:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:54:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44337_20261026_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261026",
+      "time": "10:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T16:54:39+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
