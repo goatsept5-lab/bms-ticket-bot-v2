@@ -359,9 +359,9 @@
       "time": "07:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T13:39:17+05:30",
+      "alerted_at": "2026-10-24T17:14:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16703_20261024_SPECIAL": {
       "movie": "Haiku - Tamil",
@@ -1262,7 +1262,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-24T14:29:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44191_20261024_CLASSIC": {
@@ -2108,9 +2108,9 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:29:18+05:30",
+      "alerted_at": "2026-10-24T17:14:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92115_20261025_EXECUTIVE": {
       "movie": "Drones - Tamil",
