@@ -2086,8 +2086,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T10:54:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T14:59:17+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92112_20261025_EXECUTIVE": {
@@ -3748,6 +3748,50 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-24T14:54:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48200_20261024_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261024",
+      "time": "07:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-24T14:59:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48205_20261024_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261024",
+      "time": "08:15 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-24T14:59:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48261_20261024_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261024",
+      "time": "08:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-10-24T14:59:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44301_20261025_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261025",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T14:59:17+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
