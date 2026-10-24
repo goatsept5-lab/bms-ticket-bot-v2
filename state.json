@@ -162,7 +162,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T22:14:54+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16666_20261024_SPECIAL": {
@@ -898,9 +898,9 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-21T23:56:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T22:24:53+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92070_20261025_EXECUTIVE": {
       "movie": "Ranabaali - Telugu",
@@ -1008,9 +1008,9 @@
       "time": "10:30 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-24T20:24:39+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T22:24:53+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92087_20261024_EXECUTIVE": {
       "movie": "Titans - Malayalam",
@@ -5771,8 +5771,8 @@
       "time": "11:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-24T21:34:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T22:24:53+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48262_20261024_PEARL": {
