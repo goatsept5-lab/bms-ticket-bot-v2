@@ -689,8 +689,8 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T23:34:53+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-24T23:49:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92051_20261025_EXECUTIVE": {
@@ -5772,7 +5772,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-24T23:44:53+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48262_20261024_PEARL": {
