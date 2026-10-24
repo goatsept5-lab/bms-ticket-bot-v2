@@ -568,9 +568,9 @@
       "time": "09:10 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T09:04:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92035_20261024_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -579,9 +579,9 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-24T09:04:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92046_20261024_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -3198,6 +3198,50 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-24T08:54:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14845_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T09:04:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14859_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T09:04:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14952_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "11:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T09:04:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14853_20261024_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261024",
+      "time": "11:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-24T09:04:05+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
