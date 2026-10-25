@@ -865,9 +865,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-22T10:52:04+05:30",
+      "alerted_at": "2026-10-25T17:00:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44224_20261025_CLASSIC": {
       "movie": "Doosra - Hindi",
@@ -1184,9 +1184,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T20:07:31+05:30",
+      "alerted_at": "2026-10-25T17:00:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44257_20261025_CLASSIC": {
       "movie": "Tum Mere Ho - Hindi",
