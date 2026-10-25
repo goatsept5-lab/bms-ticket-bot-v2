@@ -832,8 +832,8 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-25T14:20:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T15:15:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44195_20261025_CLASSIC": {
@@ -4495,9 +4495,9 @@
       "time": "05:15 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-25T13:00:19+05:30",
+      "alerted_at": "2026-10-25T15:15:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48209_20261025_PEARL": {
       "movie": "Jailer 2 - Tamil",
@@ -4518,7 +4518,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-25T14:35:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14868_20261025_NORMAL": {
