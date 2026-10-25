@@ -29,8 +29,8 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-20T16:40:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T11:30:19+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44077_20261025_CLASSIC": {
@@ -183,8 +183,8 @@
       "time": "04:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-24T11:04:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T11:30:19+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16708_20261025_SPECIAL": {
@@ -755,8 +755,8 @@
       "time": "01:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-25T11:00:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T11:30:19+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44238_20261025_CLASSIC": {
@@ -1174,7 +1174,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T20:07:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44261_20261025_CLASSIC": {
@@ -2010,7 +2010,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-24T12:49:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92156_20261026_EXECUTIVE": {
@@ -4297,9 +4297,9 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T10:05:19+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T11:30:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_14875_20261025_NORMAL": {
       "movie": "Baththa - Tamil",
