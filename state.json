@@ -843,9 +843,9 @@
       "time": "04:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-22T10:52:04+05:30",
+      "alerted_at": "2026-10-25T14:25:19+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44239_20261025_CLASSIC": {
       "movie": "Haiku - Tamil",
@@ -899,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44240_20261025_CLASSIC": {
@@ -910,7 +910,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44186_20261025_CLASSIC": {
@@ -4518,7 +4518,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-10-25T13:55:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14868_20261025_NORMAL": {
