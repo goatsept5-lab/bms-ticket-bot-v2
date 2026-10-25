@@ -4550,8 +4550,8 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-25T20:50:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T22:50:51+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15164_20261025_NORMAL": {
