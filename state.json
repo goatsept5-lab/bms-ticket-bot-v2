@@ -4506,9 +4506,9 @@
       "time": "05:00 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-10-25T13:15:20+05:30",
+      "alerted_at": "2026-10-25T15:00:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_14890_20261025_NORMAL": {
       "movie": "Clayface - English",
