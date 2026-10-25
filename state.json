@@ -261,7 +261,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T09:10:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92040_20261025_EXECUTIVE": {
@@ -447,9 +447,9 @@
       "time": "10:00 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T09:55:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92089_20261025_EXECUTIVE": {
       "movie": "Dorothy - Tamil",
@@ -646,7 +646,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-25T07:10:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44193_20261025_CLASSIC": {
