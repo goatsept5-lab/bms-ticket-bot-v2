@@ -249,8 +249,8 @@
       "time": "11:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T17:30:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:10:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92050_20261025_EXECUTIVE": {
@@ -1184,8 +1184,8 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-25T17:00:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:10:35+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44257_20261025_CLASSIC": {
@@ -4407,8 +4407,8 @@
       "time": "10:40 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T17:40:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:10:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14889_20261025_NORMAL": {
@@ -4440,8 +4440,8 @@
       "time": "11:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T16:05:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:10:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48213_20261025_PEARL": {
