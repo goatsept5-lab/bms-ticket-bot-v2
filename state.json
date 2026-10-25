@@ -283,7 +283,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T12:30:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92041_20261025_EXECUTIVE": {
@@ -294,7 +294,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T12:30:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92052_20261025_EXECUTIVE": {
@@ -371,7 +371,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T12:30:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92062_20261025_EXECUTIVE": {
@@ -469,9 +469,9 @@
       "time": "01:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T13:25:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92090_20261025_EXECUTIVE": {
       "movie": "418 - Telugu",
@@ -701,7 +701,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-25T10:40:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44184_20261025_CLASSIC": {
@@ -833,7 +833,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44195_20261025_CLASSIC": {
@@ -1163,7 +1163,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-25T10:40:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44262_20261025_CLASSIC": {
