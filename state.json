@@ -1064,7 +1064,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T20:35:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92115_20261025_EXECUTIVE": {
@@ -4628,7 +4628,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-25T20:00:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
