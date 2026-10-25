@@ -51,9 +51,9 @@
       "time": "11:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-25T20:25:36+05:30",
+      "alerted_at": "2026-10-25T21:20:50+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16671_20261025_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
