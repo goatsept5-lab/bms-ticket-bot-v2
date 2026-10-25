@@ -4168,6 +4168,39 @@
       "alerted_at": "2026-10-25T08:10:06+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92235_20261026_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261026",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-25T08:20:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92236_20261027_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-25T08:20:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92237_20261028_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261028",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-25T08:20:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
