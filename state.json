@@ -250,7 +250,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-25T18:10:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92050_20261025_EXECUTIVE": {
@@ -4408,7 +4408,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-25T18:10:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_14889_20261025_NORMAL": {
@@ -4539,9 +4539,9 @@
       "time": "08:20 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-25T14:55:20+05:30",
+      "alerted_at": "2026-10-25T18:20:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92239_20261025_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
