@@ -3296,9 +3296,9 @@
       "time": "09:30 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T01:54:53+05:30",
+      "alerted_at": "2026-10-25T07:30:05+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92197_20261026_EXECUTIVE": {
       "movie": "418 - Telugu",
