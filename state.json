@@ -436,8 +436,8 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-25T14:55:20+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:55:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92088_20261025_EXECUTIVE": {
@@ -502,9 +502,9 @@
       "time": "07:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T18:55:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92091_20261025_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
@@ -1063,8 +1063,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-22T17:37:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T18:55:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92115_20261025_EXECUTIVE": {
@@ -1185,7 +1185,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-25T18:45:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44257_20261025_CLASSIC": {
