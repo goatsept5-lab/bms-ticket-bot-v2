@@ -524,9 +524,9 @@
       "time": "10:30 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-22T00:06:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T22:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92092_20261025_EXECUTIVE": {
       "movie": "Titans - Malayalam",
