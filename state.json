@@ -712,7 +712,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44194_20261025_CLASSIC": {
@@ -734,7 +734,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44203_20261025_CLASSIC": {
@@ -1151,8 +1151,8 @@
       "time": "09:40 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-25T07:40:05+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T09:30:05+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44259_20261025_CLASSIC": {
@@ -4223,6 +4223,17 @@
       "alerted_at": "2026-10-25T09:10:05+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_14888_20261025_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261025",
+      "time": "10:20 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-25T09:30:05+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
