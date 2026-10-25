@@ -304,9 +304,9 @@
       "time": "04:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T16:05:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92042_20261025_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -315,9 +315,9 @@
       "time": "04:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T16:05:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92053_20261025_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -4440,8 +4440,8 @@
       "time": "11:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T12:50:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T16:05:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48213_20261025_PEARL": {
@@ -4561,8 +4561,8 @@
       "time": "04:20 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-25T15:25:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T16:05:35+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
