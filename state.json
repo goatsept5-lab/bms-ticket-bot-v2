@@ -415,7 +415,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-25T13:00:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92072_20261025_EXECUTIVE": {
@@ -800,7 +800,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-22T10:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44175_20261025_CLASSIC": {
@@ -4507,6 +4507,28 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-10-25T13:15:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14890_20261025_NORMAL": {
+      "movie": "Clayface - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261025",
+      "time": "05:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-25T13:55:19+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_14868_20261025_NORMAL": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261025",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-25T13:55:19+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
