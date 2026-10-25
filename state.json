@@ -228,7 +228,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-25T22:45:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16709_20261025_SPECIAL": {
@@ -348,9 +348,9 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T23:15:52+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92044_20261025_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -359,9 +359,9 @@
       "time": "11:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-21T23:36:34+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-25T23:15:52+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92061_20261025_EXECUTIVE": {
       "movie": "Baththa - Tamil",
@@ -525,7 +525,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-25T22:20:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92092_20261025_EXECUTIVE": {
@@ -4650,7 +4650,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-25T22:05:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14872_20261025_NORMAL": {
@@ -4661,7 +4661,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-25T22:05:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15166_20261025_NORMAL": {
