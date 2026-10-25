@@ -7,9 +7,9 @@
       "time": "09:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-25T01:14:53+05:30",
+      "alerted_at": "2026-10-25T07:00:05+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44075_20261025_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
