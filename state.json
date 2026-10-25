@@ -436,8 +436,8 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-25T12:50:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T14:55:20+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92088_20261025_EXECUTIVE": {
@@ -4407,8 +4407,8 @@
       "time": "10:40 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-25T10:10:20+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-25T14:55:20+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_14889_20261025_NORMAL": {
@@ -4529,6 +4529,28 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-25T13:55:19+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92238_20261025_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "08:20 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-25T14:55:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92239_20261025_EXECUTIVE": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261025",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-25T14:55:20+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
