@@ -1900,7 +1900,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-26T17:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44333_20261026_CLASSIC": {
@@ -1911,7 +1911,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-26T17:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44329_20261026_CLASSIC": {
@@ -1932,9 +1932,9 @@
       "time": "09:50 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T19:51:50+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44332_20261026_CLASSIC": {
       "movie": "Tum Mere Ho - Hindi",
@@ -2922,9 +2922,9 @@
       "time": "09:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-26T09:11:20+05:30",
+      "alerted_at": "2026-10-26T19:51:50+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15025_20261026_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -3231,7 +3231,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-26T19:16:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44426_20261029_CLASSIC": {
