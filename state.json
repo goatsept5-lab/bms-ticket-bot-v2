@@ -755,8 +755,8 @@
       "time": "03:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T12:49:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-26T16:01:38+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92155_20261026_EXECUTIVE": {
@@ -3123,6 +3123,17 @@
       "alerted_at": "2026-10-26T15:41:39+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92252_20261027_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261027",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-26T16:01:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
