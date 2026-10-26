@@ -1933,7 +1933,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-26T19:51:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44332_20261026_CLASSIC": {
@@ -2923,7 +2923,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-26T19:51:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15025_20261026_NORMAL": {
