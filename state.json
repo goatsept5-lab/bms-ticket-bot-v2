@@ -1811,9 +1811,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T10:26:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44322_20261026_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
@@ -1954,9 +1954,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:54:39+05:30",
+      "alerted_at": "2026-10-26T10:26:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44335_20261026_CLASSIC": {
       "movie": "Haiku - Tamil",
