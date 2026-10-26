@@ -1636,7 +1636,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-26T10:01:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44318_20261026_CLASSIC": {
@@ -1833,9 +1833,9 @@
       "time": "02:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T12:31:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44331_20261026_CLASSIC": {
       "movie": "Anbil Avan - Tamil",
@@ -2967,7 +2967,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-26T11:26:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_14986_20261026_NORMAL": {
@@ -2978,7 +2978,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-26T11:36:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15017_20261026_NORMAL": {
@@ -2989,7 +2989,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-26T11:56:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
