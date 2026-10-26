@@ -1680,7 +1680,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-26T13:26:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44311_20261026_CLASSIC": {
@@ -1877,9 +1877,9 @@
       "time": "06:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T16:11:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44324_20261026_CLASSIC": {
       "movie": "Titans - Malayalam",
