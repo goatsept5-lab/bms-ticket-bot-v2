@@ -436,9 +436,9 @@
       "time": "03:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T20:13:25+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-26T14:46:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_16733_20261026_SPECIAL": {
       "movie": "Drones - Tamil",
@@ -3110,7 +3110,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-26T14:26:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
