@@ -711,8 +711,8 @@
       "time": "10:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-24T12:34:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-26T22:52:15+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92153_20261026_EXECUTIVE": {
@@ -1768,7 +1768,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-26T20:27:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44309_20261026_CLASSIC": {
