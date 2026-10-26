@@ -1723,9 +1723,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:29:17+05:30",
+      "alerted_at": "2026-10-26T17:01:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44312_20261026_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1888,9 +1888,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T17:01:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44328_20261026_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
