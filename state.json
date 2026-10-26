@@ -524,8 +524,8 @@
       "time": "10:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-23T20:13:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-26T23:12:15+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16758_20261028_SPECIAL": {
@@ -1944,7 +1944,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-26T20:27:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44334_20261026_CLASSIC": {
