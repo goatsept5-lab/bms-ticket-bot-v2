@@ -469,9 +469,9 @@
       "time": "06:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-26T13:26:19+05:30",
+      "alerted_at": "2026-10-26T16:31:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16734_20261026_SPECIAL": {
       "movie": "Haiku - Tamil",
@@ -1701,9 +1701,9 @@
       "time": "06:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:29:17+05:30",
+      "alerted_at": "2026-10-26T16:31:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44304_20261026_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
