@@ -18,9 +18,9 @@
       "time": "03:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-23T15:43:13+05:30",
+      "alerted_at": "2026-10-26T13:06:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44268_20261026_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -3068,6 +3068,17 @@
       "alerted_at": "2026-10-26T13:01:19+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15034_20261026_NORMAL": {
+      "movie": "Drones - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261026",
+      "time": "02:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-26T13:06:20+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
