@@ -1867,7 +1867,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-26T14:21:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44320_20261026_CLASSIC": {
@@ -1899,9 +1899,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T17:06:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44333_20261026_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -1910,9 +1910,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:34:41+05:30",
+      "alerted_at": "2026-10-26T17:06:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44329_20261026_CLASSIC": {
       "movie": "418 - Telugu",
@@ -3167,6 +3167,17 @@
       "alerted_at": "2026-10-26T16:06:39+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15027_20261026_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261026",
+      "time": "05:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-26T17:06:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
