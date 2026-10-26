@@ -2856,9 +2856,9 @@
       "time": "10:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-26T07:46:05+05:30",
+      "alerted_at": "2026-10-26T08:31:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92236_20261027_EXECUTIVE": {
       "movie": "Haiku - Tamil",
