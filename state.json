@@ -2900,9 +2900,9 @@
       "time": "03:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-27T13:22:24+05:30",
+      "alerted_at": "2026-10-27T13:27:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15141_20261027_NORMAL": {
       "movie": "418 - Telugu",
