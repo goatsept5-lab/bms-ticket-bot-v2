@@ -2900,8 +2900,8 @@
       "time": "03:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-27T13:27:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-27T14:07:25+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15141_20261027_NORMAL": {
@@ -2911,8 +2911,8 @@
       "time": "03:30 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-27T13:32:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-27T14:07:25+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15076_20261027_NORMAL": {
