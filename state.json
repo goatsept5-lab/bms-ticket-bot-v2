@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-27T10:52:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44371_20261027_CLASSIC": {
@@ -612,9 +612,9 @@
       "time": "03:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T13:37:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44339_20261027_CLASSIC": {
       "movie": "Haiku - Tamil",
