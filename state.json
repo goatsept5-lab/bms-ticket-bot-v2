@@ -3132,7 +3132,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92302_20261030_EXECUTIVE": {
@@ -3143,7 +3143,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92292_20261030_EXECUTIVE": {
@@ -3176,7 +3176,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92303_20261030_EXECUTIVE": {
@@ -3198,7 +3198,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92320_20261030_EXECUTIVE": {
@@ -3220,7 +3220,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92304_20261030_EXECUTIVE": {
@@ -3341,7 +3341,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92354_20261031_EXECUTIVE": {
@@ -3363,7 +3363,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92364_20261031_EXECUTIVE": {
@@ -3418,7 +3418,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92347_20261101_EXECUTIVE": {
@@ -3506,7 +3506,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92368_20261101_EXECUTIVE": {
@@ -3528,6 +3528,237 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-28T01:57:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92307_20261030_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92317_20261030_EXECUTIVE": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92293_20261030_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "03:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92316_20261030_EXECUTIVE": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "04:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92315_20261030_EXECUTIVE": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92291_20261030_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92306_20261030_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92380_20261031_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92369_20261031_EXECUTIVE": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92381_20261031_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "03:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92370_20261031_EXECUTIVE": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "04:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92371_20261031_EXECUTIVE": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92382_20261031_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92383_20261031_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92384_20261101_EXECUTIVE": {
+      "movie": "Haiku - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92373_20261101_EXECUTIVE": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92385_20261101_EXECUTIVE": {
+      "movie": "Drones - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "03:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92374_20261101_EXECUTIVE": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "04:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92375_20261101_EXECUTIVE": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92386_20261101_EXECUTIVE": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "07:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92387_20261101_EXECUTIVE": {
+      "movie": "418 - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T03:07:48+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
