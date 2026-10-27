@@ -3110,7 +3110,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-27T17:07:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15045_20261027_NORMAL": {
@@ -3123,6 +3123,61 @@
       "alerted_at": "2026-10-27T17:27:25+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15174_20261027_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-27T17:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15053_20261027_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-27T17:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15077_20261027_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "07:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-27T17:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15049_20261027_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-27T17:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15136_20261027_NORMAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-27T17:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
