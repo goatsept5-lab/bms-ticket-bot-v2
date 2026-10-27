@@ -657,7 +657,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-27T14:22:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44372_20261027_CLASSIC": {
@@ -711,9 +711,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T17:07:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44364_20261027_CLASSIC": {
       "movie": "Titans - Malayalam",
@@ -722,9 +722,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T17:07:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44356_20261027_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -733,9 +733,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T17:07:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44348_20261027_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -744,9 +744,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T17:07:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44388_20261027_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1305,8 +1305,8 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-24T19:19:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-27T17:07:24+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92189_20261027_EXECUTIVE": {
@@ -3099,6 +3099,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-27T16:57:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15144_20261027_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261027",
+      "time": "06:00 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-27T17:07:24+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
