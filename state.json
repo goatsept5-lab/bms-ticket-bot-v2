@@ -755,9 +755,9 @@
       "time": "07:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T15:59:18+05:30",
+      "alerted_at": "2026-10-27T17:12:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44373_20261027_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1943,9 +1943,9 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-26T13:01:19+05:30",
+      "alerted_at": "2026-10-27T17:12:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92247_20261027_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
