@@ -480,9 +480,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T17:03:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44368_20261028_CLASSIC": {
       "movie": "Titans - Malayalam",
@@ -491,9 +491,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T17:03:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44360_20261028_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
