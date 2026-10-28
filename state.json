@@ -7,9 +7,9 @@
       "time": "11:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-23T15:43:13+05:30",
+      "alerted_at": "2026-10-28T09:33:01+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44275_20261028_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1030,9 +1030,9 @@
       "time": "10:30 AM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-26T20:52:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44426_20261029_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -3760,6 +3760,193 @@
       "price": 59.43,
       "alerted_at": "2026-10-28T03:07:48+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44489_20261030_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44490_20261030_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44491_20261030_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "06:50 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44492_20261030_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44528_20261031_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "09:20 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44529_20261031_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44530_20261031_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44531_20261031_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "06:50 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44532_20261031_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44533_20261101_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "09:20 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44534_20261101_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44535_20261101_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44536_20261101_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "06:50 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44537_20261101_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92326_20261101_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "09:30 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92327_20261101_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92350_20261101_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "10:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
