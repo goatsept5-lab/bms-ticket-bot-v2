@@ -315,9 +315,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T10:28:01+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44366_20261028_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
