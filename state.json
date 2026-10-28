@@ -4179,6 +4179,17 @@
       "alerted_at": "2026-10-28T20:53:21+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15182_20261028_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261028",
+      "time": "10:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T21:03:23+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
