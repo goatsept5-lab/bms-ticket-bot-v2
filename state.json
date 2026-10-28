@@ -41,7 +41,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-23T15:43:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16756_20261028_SPECIAL": {
@@ -4144,7 +4144,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T20:03:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
