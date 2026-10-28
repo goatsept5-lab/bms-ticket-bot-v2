@@ -503,7 +503,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-28T17:08:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44352_20261028_CLASSIC": {
@@ -1008,9 +1008,9 @@
       "time": "09:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-26T13:01:19+05:30",
+      "alerted_at": "2026-10-28T19:53:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92255_20261028_EXECUTIVE": {
       "movie": "Tom and Jerry: Forbidden Compass - English",
@@ -4133,7 +4133,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T18:38:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15148_20261028_NORMAL": {
@@ -4144,7 +4144,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T19:38:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
