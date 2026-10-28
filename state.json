@@ -4025,6 +4025,39 @@
       "alerted_at": "2026-10-28T10:58:01+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15150_20261028_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261028",
+      "time": "12:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T11:28:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92379_20261031_EXECUTIVE": {
+      "movie": "The Influencer Project - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "10:25 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-28T11:28:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92378_20261101_EXECUTIVE": {
+      "movie": "The Influencer Project - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "10:25 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-28T11:28:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
