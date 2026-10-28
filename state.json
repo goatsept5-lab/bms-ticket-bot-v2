@@ -3992,6 +3992,28 @@
       "alerted_at": "2026-10-28T10:33:01+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "INTO_92377_20261030_EXECUTIVE": {
+      "movie": "The Influencer Project - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "10:25 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-28T10:48:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44583_20261101_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261101",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T10:48:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
