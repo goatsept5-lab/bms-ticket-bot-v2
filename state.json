@@ -557,9 +557,9 @@
       "time": "09:50 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-28T20:33:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44385_20261028_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -4155,6 +4155,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T20:23:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15185_20261028_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261028",
+      "time": "09:25 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-28T20:33:21+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
