@@ -4078,7 +4078,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-28T16:33:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92280_20261029_EXECUTIVE": {
@@ -4089,8 +4089,19 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-28T16:33:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15187_20261028_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261028",
+      "time": "06:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T17:38:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
