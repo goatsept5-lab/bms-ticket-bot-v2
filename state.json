@@ -447,9 +447,9 @@
       "time": "06:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T16:33:10+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44408_20261028_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -4069,6 +4069,28 @@
       "alerted_at": "2026-10-28T14:23:11+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "INTO_92276_20261029_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261029",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-28T16:33:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92280_20261029_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261029",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-10-28T16:33:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
