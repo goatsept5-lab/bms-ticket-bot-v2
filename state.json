@@ -293,9 +293,9 @@
       "time": "12:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T10:18:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44342_20261028_CLASSIC": {
       "movie": "Drones - Tamil",
