@@ -4210,7 +4210,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T21:53:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
