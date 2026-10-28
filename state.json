@@ -481,7 +481,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-28T17:03:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44368_20261028_CLASSIC": {
@@ -492,7 +492,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-28T17:03:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44360_20261028_CLASSIC": {
@@ -535,9 +535,9 @@
       "time": "09:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T19:48:22+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44361_20261028_CLASSIC": {
       "movie": "418 - Telugu",
@@ -546,9 +546,9 @@
       "time": "09:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-24T16:09:18+05:30",
+      "alerted_at": "2026-10-28T19:48:22+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44369_20261028_CLASSIC": {
       "movie": "Clayface - English",
@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-24T16:09:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44385_20261028_CLASSIC": {
