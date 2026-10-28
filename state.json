@@ -613,7 +613,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-28T20:38:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44393_20261028_CLASSIC": {
@@ -4188,6 +4188,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-28T21:03:23+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15217_20261028_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261028",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-28T21:23:21+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
