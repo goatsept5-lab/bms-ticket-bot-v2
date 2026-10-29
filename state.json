@@ -1030,8 +1030,8 @@
       "time": "03:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-29T16:59:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44457_20261030_CLASSIC": {
@@ -2109,7 +2109,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92319_20261030_EXECUTIVE": {
@@ -3484,7 +3484,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92398_20261030_EXECUTIVE": {
@@ -3495,7 +3495,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92400_20261030_EXECUTIVE": {
@@ -3506,7 +3506,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92399_20261030_EXECUTIVE": {
@@ -3517,7 +3517,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92410_20261030_EXECUTIVE": {
@@ -3528,6 +3528,39 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:49:18+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "CBMC_15102_20261029_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "05:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T16:59:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92389_20261031_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "04:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T16:59:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92390_20261101_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "04:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T16:59:18+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
