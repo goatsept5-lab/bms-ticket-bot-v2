@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T12:34:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44427_20261029_CLASSIC": {
@@ -3319,8 +3319,63 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-29T14:59:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_15216_20261029_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "06:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:19:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15205_20261029_NORMAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "07:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:19:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15214_20261029_NORMAL": {
+      "movie": "Ranabaali - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "09:25 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-29T15:19:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15206_20261029_NORMAL": {
+      "movie": "Clayface - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T15:19:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15107_20261029_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:19:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
