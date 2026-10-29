@@ -85,7 +85,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T10:29:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44438_20261029_CLASSIC": {
@@ -95,9 +95,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-29T10:59:04+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44434_20261029_CLASSIC": {
       "movie": "Hope (Tamil) - Tamil",
@@ -3066,7 +3066,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-29T10:49:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15096_20261029_NORMAL": {
