@@ -3299,6 +3299,17 @@
       "alerted_at": "2026-10-29T12:39:04+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15208_20261029_NORMAL": {
+      "movie": "418 - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "03:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-29T14:54:04+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
