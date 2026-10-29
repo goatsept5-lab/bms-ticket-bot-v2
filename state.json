@@ -305,7 +305,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T15:29:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44444_20261029_CLASSIC": {
@@ -2725,7 +2725,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-29T15:09:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44490_20261030_CLASSIC": {
@@ -3330,7 +3330,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-29T15:19:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15205_20261029_NORMAL": {
@@ -3352,7 +3352,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-29T15:19:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15206_20261029_NORMAL": {
@@ -3429,6 +3429,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92388_20261030_EXECUTIVE": {
+      "movie": "Tom and Jerry: Forbidden Compass - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "04:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T15:39:17+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
