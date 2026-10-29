@@ -338,7 +338,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T19:49:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44441_20261029_CLASSIC": {
@@ -348,9 +348,9 @@
       "time": "09:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-29T19:54:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44437_20261029_CLASSIC": {
       "movie": "Clayface - English",
@@ -359,9 +359,9 @@
       "time": "09:50 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
+      "alerted_at": "2026-10-29T19:54:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44429_20261029_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2724,8 +2724,8 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-29T19:14:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-29T19:54:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44490_20261030_CLASSIC": {
@@ -3904,6 +3904,17 @@
       "alerted_at": "2026-10-29T19:14:18+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15219_20261029_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "08:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T19:54:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
