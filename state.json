@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44448_20261029_CLASSIC": {
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T17:04:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44436_20261029_CLASSIC": {
@@ -315,9 +315,9 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
+      "alerted_at": "2026-10-29T17:09:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44424_20261029_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2142,7 +2142,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92300_20261030_EXECUTIVE": {
@@ -2505,7 +2505,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92293_20261030_EXECUTIVE": {
@@ -2516,7 +2516,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92316_20261030_EXECUTIVE": {
@@ -2527,7 +2527,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92315_20261030_EXECUTIVE": {
@@ -2593,7 +2593,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92370_20261031_EXECUTIVE": {
@@ -2604,7 +2604,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92371_20261031_EXECUTIVE": {
@@ -2912,7 +2912,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-28T10:48:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44583_20261101_CLASSIC": {
@@ -2945,7 +2945,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-28T11:28:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92378_20261101_EXECUTIVE": {
@@ -3440,7 +3440,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-29T15:39:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15204_20261029_NORMAL": {
@@ -3539,7 +3539,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:59:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92389_20261031_EXECUTIVE": {
@@ -3561,6 +3561,39 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-29T16:59:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44589_20261031_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T17:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44590_20261031_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261031",
+      "time": "04:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T17:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92391_20261101_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T17:09:18+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
