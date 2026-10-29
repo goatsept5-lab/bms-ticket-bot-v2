@@ -117,9 +117,9 @@
       "time": "02:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
+      "alerted_at": "2026-10-29T12:34:05+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44427_20261029_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -3176,6 +3176,50 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-29T12:29:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16850_20261101_SPECIAL": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261101",
+      "time": "09:45 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T12:34:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16851_20261101_SPECIAL": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261101",
+      "time": "12:55 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T12:34:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16852_20261101_SPECIAL": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261101",
+      "time": "03:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T12:34:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16853_20261101_SPECIAL": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261101",
+      "time": "07:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T12:34:05+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
