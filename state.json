@@ -304,8 +304,8 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-26T19:06:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44444_20261029_CLASSIC": {
@@ -3375,6 +3375,61 @@
       "price": 54.35,
       "alerted_at": "2026-10-29T15:19:04+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44584_20261030_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44586_20261030_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "03:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44585_20261030_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "04:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44588_20261030_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "07:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44587_20261030_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261030",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
