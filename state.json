@@ -3473,7 +3473,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92397_20261030_EXECUTIVE": {
@@ -3517,6 +3517,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T16:34:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92410_20261030_EXECUTIVE": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "10:10 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T16:49:18+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
