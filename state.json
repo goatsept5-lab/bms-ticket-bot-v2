@@ -2724,8 +2724,8 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-29T18:04:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-29T19:14:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44490_20261030_CLASSIC": {
@@ -3858,6 +3858,50 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T18:54:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92415_20261031_EXECUTIVE": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "10:05 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T19:14:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92414_20261031_EXECUTIVE": {
+      "movie": "The Influencer Project - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T19:14:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92416_20261101_EXECUTIVE": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "10:05 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-29T19:14:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92417_20261101_EXECUTIVE": {
+      "movie": "The Influencer Project - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T19:14:18+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
