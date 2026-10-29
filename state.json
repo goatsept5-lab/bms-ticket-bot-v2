@@ -3442,6 +3442,17 @@
       "alerted_at": "2026-10-29T15:39:17+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15204_20261029_NORMAL": {
+      "movie": "Clayface - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261029",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-29T15:49:17+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
