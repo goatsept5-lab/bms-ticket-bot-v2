@@ -701,7 +701,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-28T01:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44502_20261031_CLASSIC": {
@@ -3000,7 +3000,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T21:30:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15282_20261030_NORMAL": {
@@ -3022,7 +3022,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T21:20:15+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15278_20261030_NORMAL": {
@@ -3044,6 +3044,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T21:40:14+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15289_20261030_NORMAL": {
+      "movie": "Cult - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261030",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-30T21:50:14+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
