@@ -140,7 +140,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:14:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44477_20261030_CLASSIC": {
@@ -260,8 +260,8 @@
       "time": "10:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-30T15:20:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T16:55:03+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44472_20261030_CLASSIC": {
@@ -1217,8 +1217,8 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T16:55:03+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92300_20261030_EXECUTIVE": {
@@ -1273,7 +1273,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-10-30T15:25:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92331_20261031_EXECUTIVE": {
@@ -1877,8 +1877,8 @@
       "time": "06:50 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-30T15:55:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T16:55:03+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44532_20261031_CLASSIC": {
@@ -2296,7 +2296,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T15:29:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44587_20261030_CLASSIC": {
@@ -2857,8 +2857,19 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-30T16:05:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "INTO_92312_20261030_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "04:25 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-30T16:55:03+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
