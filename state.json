@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T17:50:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44485_20261030_CLASSIC": {
@@ -271,9 +271,9 @@
       "time": "10:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-30T20:10:13+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44495_20261030_CLASSIC": {
       "movie": "Singgaramm - Tamil",
@@ -1877,8 +1877,8 @@
       "time": "06:50 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-30T18:50:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T20:10:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44532_20261031_CLASSIC": {
@@ -2934,7 +2934,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-30T19:00:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16796_20261030_SPECIAL": {
