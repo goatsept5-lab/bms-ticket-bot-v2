@@ -2879,7 +2879,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T17:25:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15285_20261030_NORMAL": {
@@ -2945,7 +2945,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-10-30T19:40:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
