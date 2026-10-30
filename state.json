@@ -1834,7 +1834,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44528_20261031_CLASSIC": {
@@ -2285,7 +2285,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-29T15:29:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44588_20261030_CLASSIC": {
@@ -2329,7 +2329,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-30T11:39:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92397_20261030_EXECUTIVE": {
@@ -2791,7 +2791,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15299_20261030_NORMAL": {
@@ -2802,7 +2802,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15280_20261030_NORMAL": {
@@ -2813,7 +2813,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15341_20261030_NORMAL": {
@@ -2824,7 +2824,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15291_20261030_NORMAL": {
@@ -2835,7 +2835,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15295_20261030_NORMAL": {
@@ -2846,7 +2846,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T12:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
