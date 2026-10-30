@@ -51,9 +51,9 @@
       "time": "12:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-30T10:49:52+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44494_20261030_CLASSIC": {
       "movie": "Pulavar - Tamil",
@@ -62,9 +62,9 @@
       "time": "12:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-30T10:49:52+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44466_20261030_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -107,7 +107,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T10:29:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44457_20261030_CLASSIC": {
@@ -2727,6 +2727,17 @@
       "alerted_at": "2026-10-30T10:39:51+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15298_20261030_NORMAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261030",
+      "time": "11:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-30T10:49:52+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
