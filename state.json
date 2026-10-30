@@ -29,8 +29,8 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T10:39:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44482_20261030_CLASSIC": {
@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T10:19:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44472_20261030_CLASSIC": {
@@ -293,8 +293,8 @@
       "time": "10:50 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T10:39:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44459_20261030_CLASSIC": {
@@ -2714,6 +2714,17 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-29T19:14:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92412_20261030_EXECUTIVE": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261030",
+      "time": "10:15 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-10-30T10:39:51+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
