@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-30T17:15:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44487_20261030_CLASSIC": {
@@ -206,7 +206,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44463_20261030_CLASSIC": {
@@ -2870,6 +2870,17 @@
       "alerted_at": "2026-10-30T16:55:03+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "MCSK_16791_20261030_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261030",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-30T17:25:03+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
