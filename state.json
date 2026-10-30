@@ -921,7 +921,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T18:30:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -1878,7 +1878,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-30T18:50:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44532_20261031_CLASSIC": {
@@ -2923,6 +2923,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-30T18:40:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15334_20261030_NORMAL": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261030",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-30T19:00:03+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
