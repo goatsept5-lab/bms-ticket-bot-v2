@@ -2692,7 +2692,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-30T13:54:52+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92416_20261101_EXECUTIVE": {
@@ -2791,7 +2791,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-30T14:30:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15299_20261030_NORMAL": {
@@ -2802,7 +2802,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:30:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15280_20261030_NORMAL": {
@@ -2813,7 +2813,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:30:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15341_20261030_NORMAL": {
@@ -2824,7 +2824,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:30:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15291_20261030_NORMAL": {
@@ -2835,7 +2835,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:30:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15295_20261030_NORMAL": {
@@ -2846,7 +2846,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-30T14:09:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
