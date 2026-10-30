@@ -921,7 +921,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-30T19:30:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -1878,7 +1878,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-30T20:10:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44532_20261031_CLASSIC": {
@@ -2947,6 +2947,17 @@
       "alerted_at": "2026-10-30T19:40:02+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15286_20261030_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261030",
+      "time": "09:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-30T20:20:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
