@@ -2306,9 +2306,9 @@
       "time": "10:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-29T15:29:06+05:30",
+      "alerted_at": "2026-10-30T20:15:14+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92388_20261030_EXECUTIVE": {
       "movie": "Tom and Jerry: Forbidden Compass - English",
