@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-30T14:20:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44459_20261030_CLASSIC": {
@@ -1812,7 +1812,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-30T14:20:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44491_20261030_CLASSIC": {
@@ -2790,9 +2790,9 @@
       "time": "03:00 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-30T12:54:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-30T14:30:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_15299_20261030_NORMAL": {
       "movie": "Baththa - Tamil",
@@ -2801,8 +2801,8 @@
       "time": "03:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-30T13:44:52+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T14:30:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15280_20261030_NORMAL": {
@@ -2812,8 +2812,8 @@
       "time": "03:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-30T13:24:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T14:30:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15341_20261030_NORMAL": {
@@ -2823,8 +2823,8 @@
       "time": "03:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-30T13:34:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-30T14:30:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15291_20261030_NORMAL": {
@@ -2834,9 +2834,9 @@
       "time": "03:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-30T12:54:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-30T14:30:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_15295_20261030_NORMAL": {
       "movie": "Jailer 2 - Tamil",
