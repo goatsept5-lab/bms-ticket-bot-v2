@@ -107,7 +107,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T10:40:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44519_20261031_CLASSIC": {
@@ -359,8 +359,8 @@
       "time": "10:50 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-31T10:25:38+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T11:45:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44502_20261031_CLASSIC": {
@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-31T11:05:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92352_20261031_EXECUTIVE": {
@@ -1196,7 +1196,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92385_20261101_EXECUTIVE": {
@@ -1218,7 +1218,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92375_20261101_EXECUTIVE": {
@@ -1657,8 +1657,8 @@
       "time": "12:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T10:00:38+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T11:45:39+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44590_20261031_CLASSIC": {
@@ -1911,7 +1911,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T18:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92415_20261031_EXECUTIVE": {
@@ -2131,7 +2131,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T11:15:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15264_20261031_NORMAL": {
