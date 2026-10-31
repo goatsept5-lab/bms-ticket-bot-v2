@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:25:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44500_20261031_CLASSIC": {
@@ -579,8 +579,8 @@
       "time": "03:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T12:55:38+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T13:55:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -1878,7 +1878,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:35:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92408_20261031_EXECUTIVE": {
@@ -2691,8 +2691,8 @@
       "time": "04:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:30:50+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T13:55:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15355_20261031_NORMAL": {
@@ -2702,8 +2702,8 @@
       "time": "04:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:30:50+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T13:55:51+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44648_20261104_CLASSIC": {
@@ -3154,6 +3154,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-31T13:40:50+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92343_20261031_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261031",
+      "time": "04:25 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T13:55:51+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
