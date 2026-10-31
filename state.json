@@ -3670,8 +3670,8 @@
       "time": "09:40 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-31T21:01:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T21:21:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
