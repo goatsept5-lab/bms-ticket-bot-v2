@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T17:50:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -1470,8 +1470,8 @@
       "time": "07:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T17:40:52+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T18:05:51+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_16820_20261031_SPECIAL": {
@@ -1504,7 +1504,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T14:45:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16850_20261101_SPECIAL": {
@@ -3519,6 +3519,17 @@
       "alerted_at": "2026-10-31T16:30:51+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15351_20261031_NORMAL": {
+      "movie": "Sense and Sensibility - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "07:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-31T18:05:51+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
