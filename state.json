@@ -195,7 +195,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-31T12:30:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44510_20261031_CLASSIC": {
@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T12:05:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -1107,8 +1107,8 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-31T12:20:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T12:40:38+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92369_20261031_EXECUTIVE": {
@@ -1878,7 +1878,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-29T18:54:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92408_20261031_EXECUTIVE": {
@@ -2142,7 +2142,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T11:30:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15250_20261031_NORMAL": {
@@ -2208,6 +2208,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T12:20:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15338_20261031_NORMAL": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "01:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T12:40:38+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
