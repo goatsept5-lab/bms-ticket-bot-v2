@@ -1459,9 +1459,9 @@
       "time": "04:05 PM",
       "category": "SPECIAL",
       "price": 59.43,
-      "alerted_at": "2026-10-28T22:28:22+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_16824_20261031_SPECIAL": {
       "movie": "Jailer 2 - Tamil",
@@ -1481,8 +1481,8 @@
       "time": "07:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-28T22:28:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16814_20261031_SPECIAL": {
@@ -1492,8 +1492,8 @@
       "time": "10:35 PM",
       "category": "SPECIAL",
       "price": 59.43,
-      "alerted_at": "2026-10-28T22:28:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16825_20261031_SPECIAL": {
@@ -1503,8 +1503,8 @@
       "time": "10:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-28T22:28:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16850_20261101_SPECIAL": {
@@ -1580,9 +1580,9 @@
       "time": "03:50 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-29T12:39:04+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_16848_20261031_SPECIAL": {
       "movie": "Singgaramm - Tamil",
@@ -1591,8 +1591,8 @@
       "time": "07:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-10-29T12:39:04+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16854_20261102_SPECIAL": {
@@ -3166,6 +3166,39 @@
       "price": 59.43,
       "alerted_at": "2026-10-31T13:55:51+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "MCSK_16813_20261031_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261031",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16815_20261031_SPECIAL": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261031",
+      "time": "10:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16821_20261031_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261031",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T14:45:50+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
