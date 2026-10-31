@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T10:15:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -843,9 +843,9 @@
       "time": "12:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T11:15:38+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92342_20261031_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1108,7 +1108,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-31T10:40:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92369_20261031_EXECUTIVE": {
@@ -2111,6 +2111,28 @@
       "alerted_at": "2026-10-31T08:45:38+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15271_20261031_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T11:15:38+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15236_20261031_NORMAL": {
+      "movie": "Haiku - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T11:15:38+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
