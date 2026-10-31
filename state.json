@@ -371,7 +371,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T21:01:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44512_20261031_CLASSIC": {
@@ -382,7 +382,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T21:11:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44522_20261031_CLASSIC": {
@@ -3672,6 +3672,28 @@
       "price": 59.43,
       "alerted_at": "2026-10-31T21:21:01+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_15243_20261031_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "10:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:36:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15257_20261031_NORMAL": {
+      "movie": "Hope - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-31T21:36:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
