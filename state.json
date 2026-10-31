@@ -63,7 +63,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T07:20:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44560_20261031_CLASSIC": {
@@ -239,7 +239,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-31T09:55:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44561_20261031_CLASSIC": {
@@ -1272,8 +1272,8 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-28T09:33:01+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T10:05:38+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44530_20261031_CLASSIC": {
