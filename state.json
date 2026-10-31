@@ -2086,9 +2086,9 @@
       "time": "07:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T14:30:51+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T19:01:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_15247_20261031_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -3572,6 +3572,61 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T18:41:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44636_20261102_CLASSIC": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "01:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T19:01:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44637_20261102_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T19:01:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44638_20261102_CLASSIC": {
+      "movie": "Clayface - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "07:15 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-10-31T19:01:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44639_20261102_CLASSIC": {
+      "movie": "Haiku - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "09:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T19:01:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44635_20261102_CLASSIC": {
+      "movie": "Cult - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "10:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T19:01:02+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
