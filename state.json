@@ -239,7 +239,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-31T08:25:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44561_20261031_CLASSIC": {
@@ -1262,7 +1262,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-31T07:20:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44529_20261031_CLASSIC": {
@@ -1394,7 +1394,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-31T00:55:15+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44583_20261101_CLASSIC": {
@@ -1932,9 +1932,9 @@
       "time": "10:30 AM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-10-31T08:15:39+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92416_20261101_EXECUTIVE": {
       "movie": "Enemy Of The Smuggler - Tamil",
@@ -1977,7 +1977,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-10-31T08:05:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15241_20261031_NORMAL": {
@@ -1988,7 +1988,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T08:05:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15263_20261031_NORMAL": {
@@ -1999,7 +1999,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T08:05:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15249_20261031_NORMAL": {
@@ -2010,7 +2010,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T08:25:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15258_20261031_NORMAL": {
@@ -2021,8 +2021,74 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T08:25:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_15246_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "01:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15272_20261031_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15265_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "03:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15273_20261031_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "06:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15261_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15237_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
