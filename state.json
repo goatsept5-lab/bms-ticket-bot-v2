@@ -1635,9 +1635,9 @@
       "time": "04:40 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-10-29T16:59:18+05:30",
+      "alerted_at": "2026-10-31T14:40:50+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92390_20261101_EXECUTIVE": {
       "movie": "Tom and Jerry: Forbidden Compass - English",
@@ -3153,9 +3153,9 @@
       "time": "04:40 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-31T14:30:51+05:30",
+      "alerted_at": "2026-10-31T14:40:50+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92343_20261031_EXECUTIVE": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
