@@ -161,9 +161,9 @@
       "time": "03:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-31T13:20:51+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44574_20261031_CLASSIC": {
       "movie": "Haiku - Tamil",
@@ -360,7 +360,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-31T13:10:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44502_20261031_CLASSIC": {
@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:00:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92352_20261031_EXECUTIVE": {
@@ -2670,6 +2670,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:10:50+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16811_20261031_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261031",
+      "time": "12:50 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T13:20:51+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
