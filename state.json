@@ -359,8 +359,8 @@
       "time": "10:50 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-31T06:55:28+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T08:05:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44502_20261031_CLASSIC": {
@@ -1921,9 +1921,9 @@
       "time": "10:05 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-29T19:14:18+05:30",
+      "alerted_at": "2026-10-31T08:05:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92414_20261031_EXECUTIVE": {
       "movie": "The Influencer Project - English",
@@ -1968,6 +1968,39 @@
       "alerted_at": "2026-10-30T20:50:14+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15270_20261031_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T08:05:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15241_20261031_NORMAL": {
+      "movie": "Baththa - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:05:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15263_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T08:05:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
