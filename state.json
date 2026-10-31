@@ -360,7 +360,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-31T16:05:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44502_20261031_CLASSIC": {
@@ -898,8 +898,8 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-31T14:25:51+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92334_20261031_EXECUTIVE": {
@@ -1691,7 +1691,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:35:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44593_20261031_CLASSIC": {
@@ -3242,6 +3242,193 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T16:10:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44607_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "11:45 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44615_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "12:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44611_20261102_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "12:15 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44619_20261102_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "12:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44608_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "03:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44612_20261102_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "03:25 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44616_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "03:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44620_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "04:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44605_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "06:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44613_20261102_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44609_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "06:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44617_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44621_20261102_CLASSIC": {
+      "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44606_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "09:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44614_20261102_CLASSIC": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44610_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "10:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44618_20261102_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261102",
+      "time": "10:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T16:20:52+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
