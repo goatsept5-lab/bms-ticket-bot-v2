@@ -3153,8 +3153,8 @@
       "time": "04:40 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-10-31T14:40:50+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-10-31T15:20:50+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92343_20261031_EXECUTIVE": {
