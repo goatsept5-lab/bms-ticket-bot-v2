@@ -337,9 +337,9 @@
       "time": "10:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-31T20:11:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44557_20261031_CLASSIC": {
       "movie": "Singgaramm - Tamil",
@@ -2087,7 +2087,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T19:01:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15247_20261031_NORMAL": {
