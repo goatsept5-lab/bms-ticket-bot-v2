@@ -3706,6 +3706,138 @@
       "alerted_at": "2026-10-31T21:46:02+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15252_20261031_NORMAL": {
+      "movie": "Clayface - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15262_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15238_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15344_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "12:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15320_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "12:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15325_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "01:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15312_20261101_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15345_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "03:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15321_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "04:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15326_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15346_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "07:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15322_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
