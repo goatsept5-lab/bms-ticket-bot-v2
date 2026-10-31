@@ -865,9 +865,9 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-10-31T11:05:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92352_20261031_EXECUTIVE": {
       "movie": "Cult - Telugu",
@@ -2031,9 +2031,9 @@
       "time": "01:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T08:35:38+05:30",
+      "alerted_at": "2026-10-31T11:05:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15272_20261031_NORMAL": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
