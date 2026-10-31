@@ -62,9 +62,9 @@
       "time": "09:20 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-10-31T07:20:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44560_20261031_CLASSIC": {
       "movie": "418 (Tamil) - Tamil",
@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T07:05:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44500_20261031_CLASSIC": {
@@ -239,7 +239,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-10-31T06:55:28+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44561_20261031_CLASSIC": {
@@ -1261,9 +1261,9 @@
       "time": "09:20 AM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "alerted_at": "2026-10-31T07:20:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44529_20261031_CLASSIC": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -1933,7 +1933,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-10-31T07:05:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92416_20261101_EXECUTIVE": {
