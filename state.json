@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T10:45:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44573_20261031_CLASSIC": {
@@ -129,7 +129,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T10:45:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44539_20261031_CLASSIC": {
@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T12:55:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44505_20261101_CLASSIC": {
@@ -2208,7 +2208,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-10-31T12:20:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15338_20261031_NORMAL": {
@@ -2230,7 +2230,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-10-31T12:45:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44644_20261103_CLASSIC": {
@@ -2681,6 +2681,28 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-10-31T13:20:51+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15260_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "04:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T13:30:50+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15355_20261031_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261031",
+      "time": "04:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-10-31T13:30:50+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
