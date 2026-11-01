@@ -458,9 +458,9 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-01T10:46:28+05:30",
+      "alerted_at": "2026-11-01T10:56:27+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92357_20261101_EXECUTIVE": {
       "movie": "Cult - Telugu",
@@ -975,8 +975,8 @@
       "time": "10:30 AM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-10-29T19:14:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T10:56:27+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44603_20261102_CLASSIC": {
