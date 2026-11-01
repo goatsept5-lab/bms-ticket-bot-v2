@@ -524,9 +524,9 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T22:19:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92368_20261101_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
