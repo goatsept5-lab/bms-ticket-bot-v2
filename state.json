@@ -2372,9 +2372,9 @@
       "time": "04:30 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-01T14:06:39+05:30",
+      "alerted_at": "2026-11-01T14:31:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15346_20261101_NORMAL": {
       "movie": "Jailer 2 - Tamil",
