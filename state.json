@@ -227,9 +227,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T14:21:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44580_20261101_CLASSIC": {
       "movie": "Clayface - English",
