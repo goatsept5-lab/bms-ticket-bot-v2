@@ -502,9 +502,9 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92359_20261101_EXECUTIVE": {
       "movie": "Cult - Telugu",
@@ -513,9 +513,9 @@
       "time": "07:45 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92340_20261101_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -601,9 +601,9 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92386_20261101_EXECUTIVE": {
       "movie": "Ranabaali - Telugu",
@@ -612,9 +612,9 @@
       "time": "07:10 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92387_20261101_EXECUTIVE": {
       "movie": "418 - Telugu",
@@ -942,9 +942,9 @@
       "time": "07:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-29T18:14:18+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92404_20261101_EXECUTIVE": {
       "movie": "Haiku - Tamil",
@@ -3803,7 +3803,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-01T18:29:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16830_20261101_SPECIAL": {
@@ -3814,6 +3814,28 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-01T18:29:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92349_20261101_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-01T18:59:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_92329_20261101_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "07:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-01T18:59:36+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
