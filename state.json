@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-28T01:07:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44558_20261101_CLASSIC": {
@@ -282,9 +282,9 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T18:29:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44526_20261101_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -293,9 +293,9 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T18:29:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44554_20261101_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -668,7 +668,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-01T16:51:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44537_20261101_CLASSIC": {
@@ -679,7 +679,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-10-28T09:33:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92326_20261101_EXECUTIVE": {
@@ -822,7 +822,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-01T16:41:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92391_20261101_EXECUTIVE": {
@@ -3164,9 +3164,9 @@
       "time": "07:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-01T15:46:40+05:30",
+      "alerted_at": "2026-11-01T18:29:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15307_20261101_NORMAL": {
       "movie": "Enemy Of The Smuggler - Tamil",
@@ -3794,6 +3794,28 @@
       "alerted_at": "2026-11-01T16:41:40+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15468_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "06:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-01T18:29:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MCSK_16830_20261101_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261101",
+      "time": "07:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-01T18:29:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
