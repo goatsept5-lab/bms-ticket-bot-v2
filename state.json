@@ -2328,9 +2328,9 @@
       "time": "01:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T21:51:01+05:30",
+      "alerted_at": "2026-11-01T11:06:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15312_20261101_NORMAL": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
