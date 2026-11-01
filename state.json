@@ -733,9 +733,9 @@
       "time": "10:25 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-10-28T11:28:10+05:30",
+      "alerted_at": "2026-11-01T20:29:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_16850_20261101_SPECIAL": {
       "movie": "418 (Tamil) - Tamil",
@@ -3165,7 +3165,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-01T18:29:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15307_20261101_NORMAL": {
@@ -3825,7 +3825,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-01T18:59:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92329_20261101_EXECUTIVE": {
