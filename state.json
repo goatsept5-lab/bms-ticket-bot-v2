@@ -183,9 +183,9 @@
       "time": "04:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T14:01:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44570_20261101_CLASSIC": {
       "movie": "Cult - Telugu",
@@ -898,9 +898,9 @@
       "time": "04:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-29T17:24:19+05:30",
+      "alerted_at": "2026-11-01T14:01:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44594_20261101_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
