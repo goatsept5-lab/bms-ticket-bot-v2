@@ -480,8 +480,8 @@
       "time": "04:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T16:41:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92366_20261101_EXECUTIVE": {
@@ -590,8 +590,8 @@
       "time": "04:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T16:41:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92375_20261101_EXECUTIVE": {
@@ -821,8 +821,8 @@
       "time": "04:40 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-10-29T16:59:18+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T16:41:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92391_20261101_EXECUTIVE": {
@@ -3770,6 +3770,28 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T15:56:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92328_20261101_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-01T16:41:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92348_20261101_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261101",
+      "time": "04:25 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-01T16:41:40+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
