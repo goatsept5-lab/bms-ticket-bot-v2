@@ -459,7 +459,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T10:56:27+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92357_20261101_EXECUTIVE": {
@@ -557,9 +557,9 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T18:03:21+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T11:16:28+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92373_20261101_EXECUTIVE": {
       "movie": "Singgaramm - Tamil",
@@ -568,9 +568,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T03:07:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-01T11:16:28+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92385_20261101_EXECUTIVE": {
       "movie": "Drones - Tamil",
@@ -976,7 +976,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-01T10:56:27+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44603_20261102_CLASSIC": {
@@ -2307,7 +2307,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-01T10:26:28+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15320_20261101_NORMAL": {
@@ -2515,9 +2515,9 @@
       "time": "01:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-01T10:16:27+05:30",
+      "alerted_at": "2026-11-01T11:16:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15311_20261101_NORMAL": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
