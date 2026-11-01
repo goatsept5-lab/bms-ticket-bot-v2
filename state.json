@@ -2405,9 +2405,9 @@
       "time": "10:05 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-10-31T21:56:02+05:30",
+      "alerted_at": "2026-11-01T08:06:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15313_20261101_NORMAL": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -2430,6 +2430,28 @@
       "alerted_at": "2026-10-31T22:06:01+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15310_20261101_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-01T08:06:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15329_20261101_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "09:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-01T08:06:25+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
