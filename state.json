@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T19:09:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92395_20261101_EXECUTIVE": {
@@ -3837,6 +3837,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-01T18:59:36+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_15314_20261101_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261101",
+      "time": "09:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-01T20:49:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
