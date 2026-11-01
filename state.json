@@ -74,7 +74,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-01T10:26:28+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44504_20261101_CLASSIC": {
@@ -95,9 +95,9 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T10:41:27+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44569_20261101_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -106,9 +106,9 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T10:41:27+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44524_20261101_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -459,7 +459,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T10:31:28+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92357_20261101_EXECUTIVE": {
@@ -843,9 +843,9 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-29T17:19:18+05:30",
+      "alerted_at": "2026-11-01T10:41:27+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92393_20261101_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
