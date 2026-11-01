@@ -734,7 +734,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-11-01T20:29:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16850_20261101_SPECIAL": {
