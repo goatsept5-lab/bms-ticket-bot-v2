@@ -84,9 +84,9 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:07:48+05:30",
+      "alerted_at": "2026-11-01T10:31:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44514_20261101_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -194,8 +194,8 @@
       "time": "04:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-01T08:31:25+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T10:31:28+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44515_20261101_CLASSIC": {
@@ -458,8 +458,8 @@
       "time": "12:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-10-28T01:57:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-01T10:31:28+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92357_20261101_EXECUTIVE": {
@@ -645,9 +645,9 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-28T09:33:01+05:30",
+      "alerted_at": "2026-11-01T10:31:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44535_20261101_CLASSIC": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -2504,9 +2504,9 @@
       "time": "12:30 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-01T10:11:26+05:30",
+      "alerted_at": "2026-11-01T10:31:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15464_20261101_NORMAL": {
       "movie": "Jailer 2 - Tamil",
