@@ -722,9 +722,9 @@
       "time": "09:25 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-28T10:48:01+05:30",
+      "alerted_at": "2026-11-01T07:26:26+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92378_20261101_EXECUTIVE": {
       "movie": "The Influencer Project - English",
