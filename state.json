@@ -932,7 +932,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-01T20:19:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92402_20261101_EXECUTIVE": {
