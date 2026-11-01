@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-01T14:01:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44570_20261101_CLASSIC": {
@@ -481,7 +481,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T16:41:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92366_20261101_EXECUTIVE": {
@@ -591,7 +591,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T16:41:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92375_20261101_EXECUTIVE": {
@@ -899,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-01T14:01:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44594_20261101_CLASSIC": {
@@ -2560,7 +2560,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-01T14:46:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_16839_20261101_SPECIAL": {
