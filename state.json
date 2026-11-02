@@ -1239,9 +1239,9 @@
       "time": "10:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T16:30:51+05:30",
+      "alerted_at": "2026-11-02T20:10:22+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44626_20261102_CLASSIC": {
       "movie": "Singgaramm - Tamil",
@@ -1603,7 +1603,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-02T18:55:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92432_20261102_EXECUTIVE": {
