@@ -1008,9 +1008,9 @@
       "time": "12:15 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "alerted_at": "2026-11-02T10:20:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44619_20261102_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -1459,8 +1459,8 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-02T06:55:00+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-02T10:20:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92466_20261102_EXECUTIVE": {
