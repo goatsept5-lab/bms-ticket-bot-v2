@@ -1119,7 +1119,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-02T17:45:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44606_20261102_CLASSIC": {
@@ -1162,9 +1162,9 @@
       "time": "10:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "alerted_at": "2026-11-02T20:30:23+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44627_20261102_CLASSIC": {
       "movie": "418 (Tamil) - Tamil",
@@ -1338,8 +1338,8 @@
       "time": "09:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-02T20:00:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-02T20:30:23+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44635_20261102_CLASSIC": {
