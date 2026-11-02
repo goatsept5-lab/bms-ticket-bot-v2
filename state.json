@@ -965,7 +965,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-02T12:30:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44600_20261102_CLASSIC": {
@@ -2692,6 +2692,138 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:15:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16865_20261103_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "12:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16873_20261103_SPECIAL": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "12:35 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16869_20261103_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "12:50 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16874_20261103_SPECIAL": {
+      "movie": "Pulavar - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "03:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16866_20261103_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "03:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16870_20261103_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "04:05 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16875_20261103_SPECIAL": {
+      "movie": "Singgaramm - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "07:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16867_20261103_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16871_20261103_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16876_20261103_SPECIAL": {
+      "movie": "418 (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "10:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16872_20261103_SPECIAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "10:35 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16868_20261103_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261103",
+      "time": "10:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-02T14:25:11+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
