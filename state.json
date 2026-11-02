@@ -1712,9 +1712,9 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-02T17:20:23+05:30",
+      "alerted_at": "2026-11-02T21:00:23+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92469_20261102_EXECUTIVE": {
       "movie": "Clayface - English",
