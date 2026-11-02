@@ -2571,7 +2571,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:15:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16889_20261104_SPECIAL": {
@@ -2703,7 +2703,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16873_20261103_SPECIAL": {
@@ -2714,7 +2714,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16869_20261103_SPECIAL": {
@@ -2725,7 +2725,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-02T14:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16874_20261103_SPECIAL": {
@@ -2747,7 +2747,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16870_20261103_SPECIAL": {
@@ -2802,7 +2802,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T14:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16872_20261103_SPECIAL": {
