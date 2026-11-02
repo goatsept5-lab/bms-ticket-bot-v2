@@ -1218,7 +1218,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T16:30:51+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44625_20261102_CLASSIC": {
@@ -1283,9 +1283,9 @@
       "time": "06:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T18:41:02+05:30",
+      "alerted_at": "2026-11-02T16:55:10+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44630_20261102_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -2835,7 +2835,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-02T15:45:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15396_20261102_NORMAL": {
@@ -2846,6 +2846,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-02T16:50:11+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15358_20261102_NORMAL": {
+      "movie": "The Influencer Project - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261102",
+      "time": "05:50 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-02T16:55:10+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
