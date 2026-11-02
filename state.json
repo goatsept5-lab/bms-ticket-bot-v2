@@ -997,9 +997,9 @@
       "time": "12:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T16:20:52+05:30",
+      "alerted_at": "2026-11-02T10:00:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44611_20261102_CLASSIC": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -1261,9 +1261,9 @@
       "time": "12:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T18:41:02+05:30",
+      "alerted_at": "2026-11-02T10:00:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44632_20261102_CLASSIC": {
       "movie": "Cult - Telugu",
@@ -1460,7 +1460,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-02T06:55:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92466_20261102_EXECUTIVE": {
