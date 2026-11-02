@@ -1217,9 +1217,9 @@
       "time": "07:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-02T17:10:23+05:30",
+      "alerted_at": "2026-11-02T17:20:23+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44625_20261102_CLASSIC": {
       "movie": "Enemy Of The Smuggler - Tamil",
@@ -1284,7 +1284,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-02T16:55:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44630_20261102_CLASSIC": {
@@ -1712,8 +1712,8 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-01T15:21:38+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-02T17:20:23+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92469_20261102_EXECUTIVE": {
