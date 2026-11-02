@@ -2881,6 +2881,17 @@
       "alerted_at": "2026-11-02T18:05:22+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15371_20261102_NORMAL": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261102",
+      "time": "07:10 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-02T18:15:22+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
