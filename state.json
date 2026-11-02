@@ -1338,8 +1338,8 @@
       "time": "09:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-02T20:50:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-02T21:20:22+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44635_20261102_CLASSIC": {
