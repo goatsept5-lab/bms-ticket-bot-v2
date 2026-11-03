@@ -293,9 +293,9 @@
       "time": "07:15 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T17:15:04+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44694_20261103_CLASSIC": {
       "movie": "418 (Tamil) - Tamil",
