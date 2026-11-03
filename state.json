@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-03T12:31:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44641_20261103_CLASSIC": {
@@ -129,7 +129,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-03T13:01:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44653_20261103_CLASSIC": {
@@ -151,7 +151,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-03T13:26:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44701_20261103_CLASSIC": {
@@ -162,7 +162,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-03T13:26:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44669_20261103_CLASSIC": {
@@ -216,9 +216,9 @@
       "time": "04:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T16:10:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44646_20261103_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -227,9 +227,9 @@
       "time": "06:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T16:10:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44642_20261103_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -943,7 +943,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-01T15:21:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92423_20261103_EXECUTIVE": {
@@ -964,9 +964,9 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-01T15:21:38+05:30",
+      "alerted_at": "2026-11-03T16:10:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92460_20261103_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -1141,7 +1141,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-03T13:51:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92500_20261103_EXECUTIVE": {
@@ -1162,9 +1162,9 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-03T16:10:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92471_20261103_EXECUTIVE": {
       "movie": "Tom and Jerry: Forbidden Compass - English",
@@ -1173,9 +1173,9 @@
       "time": "04:40 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-03T16:10:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92501_20261103_EXECUTIVE": {
       "movie": "Enemy Of The Smuggler - Tamil",
@@ -1218,7 +1218,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-03T10:21:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92502_20261103_EXECUTIVE": {
