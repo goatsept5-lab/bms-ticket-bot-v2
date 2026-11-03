@@ -1174,7 +1174,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-03T16:10:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92501_20261103_EXECUTIVE": {
@@ -2375,6 +2375,17 @@
       "alerted_at": "2026-11-03T16:45:03+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_44760_20261105_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261105",
+      "time": "06:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-03T17:25:04+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
