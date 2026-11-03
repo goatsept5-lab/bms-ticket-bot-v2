@@ -2485,6 +2485,105 @@
       "alerted_at": "2026-11-04T04:55:16+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_44877_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "06:40 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44878_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "09:50 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44863_20261107_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "12:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44879_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "01:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44864_20261107_CLASSIC": {
+      "movie": "Disco - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44880_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "04:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44881_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "07:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44882_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "10:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44865_20261107_CLASSIC": {
+      "movie": "Summer Holidays - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-04T05:10:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
