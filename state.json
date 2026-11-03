@@ -84,9 +84,9 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T10:31:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44676_20261103_CLASSIC": {
       "movie": "Doraemon: Castle of the Undersea Devil (Tamil) - Tamil",
@@ -2309,6 +2309,28 @@
       "alerted_at": "2026-11-03T10:06:37+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15418_20261103_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261103",
+      "time": "11:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-03T10:31:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15398_20261103_NORMAL": {
+      "movie": "Enemy Of The Smuggler - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261103",
+      "time": "01:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-03T10:31:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
