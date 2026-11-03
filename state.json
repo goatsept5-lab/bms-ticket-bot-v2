@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-03T16:40:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44654_20261103_CLASSIC": {
@@ -316,7 +316,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-03T17:30:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44678_20261103_CLASSIC": {
