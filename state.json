@@ -40,9 +40,9 @@
       "time": "12:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T10:01:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44700_20261103_CLASSIC": {
       "movie": "Baththa - Tamil",
@@ -51,9 +51,9 @@
       "time": "12:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:10:50+05:30",
+      "alerted_at": "2026-11-03T10:01:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44660_20261103_CLASSIC": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -1218,7 +1218,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-01T15:56:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92502_20261103_EXECUTIVE": {
