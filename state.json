@@ -1118,9 +1118,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-03T11:01:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92470_20261103_EXECUTIVE": {
       "movie": "Cult - Telugu",
@@ -1129,9 +1129,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-03T11:01:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92515_20261103_EXECUTIVE": {
       "movie": "Drones - Tamil",
