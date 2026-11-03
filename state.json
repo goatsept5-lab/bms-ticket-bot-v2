@@ -1385,6 +1385,72 @@
       "alerted_at": "2026-11-03T17:45:04+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_44762_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "06:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44763_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "09:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44764_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44765_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "03:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44766_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44767_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T03:35:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
