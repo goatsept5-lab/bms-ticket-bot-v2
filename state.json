@@ -898,9 +898,9 @@
       "time": "12:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-02T14:45:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-03T12:21:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92422_20261103_EXECUTIVE": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -2339,9 +2339,9 @@
       "time": "02:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-03T11:51:37+05:30",
+      "alerted_at": "2026-11-03T12:21:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15427_20261103_NORMAL": {
       "movie": "Haiku - Tamil",
