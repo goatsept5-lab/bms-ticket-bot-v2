@@ -18,9 +18,9 @@
       "time": "11:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:35:50+05:30",
+      "alerted_at": "2026-11-04T09:30:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44656_20261104_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -480,9 +480,9 @@
       "time": "11:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-04T09:30:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92438_20261104_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
