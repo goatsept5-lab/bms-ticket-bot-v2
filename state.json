@@ -129,7 +129,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T13:00:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44657_20261104_CLASSIC": {
@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T13:30:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44697_20261104_CLASSIC": {
@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-10-31T13:35:50+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44689_20261104_CLASSIC": {
@@ -579,9 +579,9 @@
       "time": "03:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-04T13:50:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92505_20261104_EXECUTIVE": {
       "movie": "Pulavar - Tamil",
@@ -1470,8 +1470,8 @@
       "time": "06:35 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-04T13:50:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44785_20261106_CLASSIC": {
