@@ -910,7 +910,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92610_20261107_EXECUTIVE": {
@@ -965,7 +965,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92598_20261108_EXECUTIVE": {
@@ -1031,7 +1031,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92616_20261108_EXECUTIVE": {
@@ -1075,7 +1075,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92618_20261109_EXECUTIVE": {
@@ -1097,7 +1097,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92619_20261109_EXECUTIVE": {
@@ -1152,7 +1152,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92607_20261109_EXECUTIVE": {
@@ -2296,7 +2296,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92692_20261109_EXECUTIVE": {
@@ -2318,7 +2318,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92631_20261109_EXECUTIVE": {
@@ -2340,7 +2340,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92663_20261109_EXECUTIVE": {
@@ -2362,7 +2362,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92694_20261109_EXECUTIVE": {
@@ -2395,7 +2395,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92665_20261109_EXECUTIVE": {
@@ -2416,8 +2416,8 @@
       "time": "06:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T11:55:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92697_20261106_EXECUTIVE": {
@@ -3660,7 +3660,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92767_20261110_EXECUTIVE": {
@@ -3682,7 +3682,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92749_20261110_EXECUTIVE": {
@@ -3726,7 +3726,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92718_20261110_EXECUTIVE": {
@@ -4573,6 +4573,138 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T00:29:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92737_20261107_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261107",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92738_20261107_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261107",
+      "time": "02:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92739_20261107_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261107",
+      "time": "06:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92740_20261107_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261107",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92741_20261108_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261108",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92742_20261108_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261108",
+      "time": "02:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92743_20261108_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261108",
+      "time": "06:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92744_20261108_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261108",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92745_20261109_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92746_20261109_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "02:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92747_20261109_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "06:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92748_20261109_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T04:11:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
