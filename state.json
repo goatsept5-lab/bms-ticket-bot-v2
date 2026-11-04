@@ -436,8 +436,8 @@
       "time": "10:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T20:39:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-04T22:24:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92518_20261104_EXECUTIVE": {
@@ -2802,7 +2802,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92685_20261107_EXECUTIVE": {
