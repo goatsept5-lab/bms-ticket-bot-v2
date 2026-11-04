@@ -623,9 +623,9 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-01T15:56:40+05:30",
+      "alerted_at": "2026-11-04T14:25:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92490_20261104_EXECUTIVE": {
       "movie": "Udta Teer - Hindi",
@@ -3506,7 +3506,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16932_20261106_SPECIAL": {
@@ -3517,7 +3517,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16944_20261106_SPECIAL": {
@@ -3528,7 +3528,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16933_20261106_SPECIAL": {
@@ -3539,7 +3539,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16951_20261106_SPECIAL": {
@@ -3550,7 +3550,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16945_20261106_SPECIAL": {
@@ -3561,7 +3561,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16934_20261106_SPECIAL": {
@@ -3572,7 +3572,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16946_20261106_SPECIAL": {
@@ -3583,7 +3583,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16935_20261106_SPECIAL": {
@@ -3594,7 +3594,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16953_20261106_SPECIAL": {
@@ -3605,7 +3605,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16947_20261106_SPECIAL": {
@@ -3616,7 +3616,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16954_20261106_SPECIAL": {
