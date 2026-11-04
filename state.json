@@ -151,7 +151,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-04T13:25:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44705_20261104_CLASSIC": {
@@ -1669,7 +1669,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44799_20261106_CLASSIC": {
@@ -3836,7 +3836,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17020_20261109_SPECIAL": {
@@ -3847,7 +3847,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17014_20261109_SPECIAL": {
@@ -3858,7 +3858,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17003_20261109_SPECIAL": {
@@ -3869,7 +3869,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17021_20261109_SPECIAL": {
@@ -3880,7 +3880,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17015_20261109_SPECIAL": {
@@ -3891,7 +3891,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17004_20261109_SPECIAL": {
@@ -3902,7 +3902,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17022_20261109_SPECIAL": {
@@ -3913,7 +3913,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17016_20261109_SPECIAL": {
@@ -3924,7 +3924,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17005_20261109_SPECIAL": {
@@ -3935,7 +3935,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17017_20261109_SPECIAL": {
@@ -3946,7 +3946,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17006_20261109_SPECIAL": {
@@ -3957,6 +3957,160 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T14:50:35+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "MCSK_17038_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "09:20 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17033_20261110_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "09:50 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17039_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17034_20261110_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "01:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17025_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "01:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17040_20261110_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "03:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17035_20261110_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "04:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17026_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17041_20261110_SPECIAL": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "07:05 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17036_20261110_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17027_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "07:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17037_20261110_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17028_20261110_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17042_20261110_SPECIAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261110",
+      "time": "11:05 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:00:36+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
