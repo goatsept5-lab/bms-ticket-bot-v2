@@ -4089,7 +4089,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T15:00:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17028_20261110_SPECIAL": {
@@ -4100,7 +4100,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T15:00:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17042_20261110_SPECIAL": {
@@ -4111,6 +4111,116 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-04T15:00:36+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44909_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "09:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44891_20261109_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "09:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44892_20261109_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44910_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "12:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44893_20261109_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "03:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44911_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44894_20261109_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44912_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "06:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44895_20261109_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "09:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44913_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T15:25:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
