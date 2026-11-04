@@ -140,7 +140,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T13:15:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44665_20261104_CLASSIC": {
@@ -216,9 +216,9 @@
       "time": "04:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-10-31T13:35:50+05:30",
+      "alerted_at": "2026-11-04T14:15:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44650_20261104_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -3486,6 +3486,149 @@
       "alerted_at": "2026-11-04T13:55:36+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_15452_20261104_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261104",
+      "time": "03:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MCSK_16943_20261106_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "06:40 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16932_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "07:00 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16944_20261106_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "09:50 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16933_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "10:15 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16951_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16945_20261106_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "01:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16934_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "01:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16946_20261106_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "04:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16935_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16953_20261106_SPECIAL": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "07:05 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16947_20261106_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16954_20261106_SPECIAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "11:05 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T14:15:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
