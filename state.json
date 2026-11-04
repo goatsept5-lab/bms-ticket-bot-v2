@@ -3409,6 +3409,28 @@
       "alerted_at": "2026-11-04T11:40:35+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92696_20261106_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261106",
+      "time": "06:15 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T11:55:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92697_20261106_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261106",
+      "time": "06:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-04T11:55:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
