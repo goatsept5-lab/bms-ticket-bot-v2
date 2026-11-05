@@ -447,8 +447,8 @@
       "time": "09:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T03:35:16+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T20:57:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44764_20261106_CLASSIC": {
