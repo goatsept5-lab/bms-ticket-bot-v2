@@ -271,9 +271,9 @@
       "time": "03:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-03T05:06:54+05:30",
+      "alerted_at": "2026-11-05T13:56:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44738_20261105_CLASSIC": {
       "movie": "Ramayana - Hindi",
@@ -415,7 +415,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-05T13:06:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44761_20261105_CLASSIC": {
@@ -436,8 +436,8 @@
       "time": "06:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T11:16:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T13:56:47+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44763_20261106_CLASSIC": {
@@ -4837,7 +4837,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T10:06:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15590_20261107_NORMAL": {
