@@ -470,7 +470,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92609_20261107_EXECUTIVE": {
@@ -4385,8 +4385,8 @@
       "time": "10:15 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-05T12:16:47+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T00:18:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15573_20261106_NORMAL": {
