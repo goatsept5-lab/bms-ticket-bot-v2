@@ -921,7 +921,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92595_20261107_EXECUTIVE": {
@@ -4716,8 +4716,63 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T08:36:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_15533_20261105_NORMAL": {
+      "movie": "Anbil Avan - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "02:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15522_20261105_NORMAL": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "04:10 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16949_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "06:10 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16936_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "07:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16958_20261107_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
