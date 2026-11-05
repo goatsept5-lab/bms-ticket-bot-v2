@@ -2570,8 +2570,8 @@
       "time": "04:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T08:56:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16953_20261106_SPECIAL": {
@@ -4727,7 +4727,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T08:46:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15522_20261105_NORMAL": {
@@ -4738,7 +4738,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-05T08:46:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16949_20261106_SPECIAL": {
@@ -4771,6 +4771,50 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T08:46:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15505_20261105_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "05:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:56:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15530_20261105_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:56:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16937_20261106_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261106",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:56:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16959_20261107_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "07:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:56:48+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
