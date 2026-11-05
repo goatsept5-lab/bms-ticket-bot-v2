@@ -370,9 +370,9 @@
       "time": "10:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-03T05:06:54+05:30",
+      "alerted_at": "2026-11-05T20:47:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44751_20261105_CLASSIC": {
       "movie": "Ramayana (Tamil) - Tamil",
@@ -448,7 +448,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T03:35:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44764_20261106_CLASSIC": {
@@ -1779,7 +1779,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-05T20:22:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92667_20261107_EXECUTIVE": {
@@ -5013,6 +5013,292 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-05T20:22:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44992_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "07:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44999_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "09:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44993_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "10:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44994_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "01:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44995_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "04:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44998_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44996_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44997_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45003_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "07:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45015_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "09:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45004_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "10:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45005_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "01:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45006_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "04:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45016_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45007_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45008_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45023_20261107_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "11:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45009_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "07:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45020_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "09:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45010_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "10:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45011_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "01:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45012_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "04:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45021_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45013_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45014_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45019_20261108_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "11:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:47:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
