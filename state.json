@@ -326,9 +326,9 @@
       "time": "07:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-03T05:06:54+05:30",
+      "alerted_at": "2026-11-05T17:17:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44755_20261105_CLASSIC": {
       "movie": "Haiku - Tamil",
@@ -690,7 +690,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44778_20261106_CLASSIC": {
@@ -4881,7 +4881,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T16:57:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15513_20261105_NORMAL": {
@@ -4925,6 +4925,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-05T17:12:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92778_20261106_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261106",
+      "time": "04:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T17:17:36+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
