@@ -4707,6 +4707,17 @@
       "alerted_at": "2026-11-05T04:11:37+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_15504_20261105_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "09:35 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T08:36:47+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
