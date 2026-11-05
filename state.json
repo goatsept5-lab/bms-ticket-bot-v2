@@ -206,7 +206,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-05T11:16:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44737_20261105_CLASSIC": {
@@ -217,7 +217,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-05T12:36:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44749_20261105_CLASSIC": {
@@ -437,7 +437,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-05T13:56:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44763_20261106_CLASSIC": {
@@ -480,8 +480,8 @@
       "time": "06:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T05:56:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44767_20261106_CLASSIC": {
@@ -3890,8 +3890,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92731_20261110_EXECUTIVE": {
@@ -4188,7 +4188,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T13:41:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15553_20261106_NORMAL": {
@@ -4551,7 +4551,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T00:29:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15541_20261106_NORMAL": {
@@ -4870,6 +4870,50 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-05T12:16:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15575_20261105_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "09:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15513_20261105_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261105",
+      "time": "09:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15573_20261106_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261106",
+      "time": "01:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16957_20261107_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "01:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T16:07:36+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
