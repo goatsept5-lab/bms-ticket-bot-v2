@@ -3769,8 +3769,8 @@
       "time": "12:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:09:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T01:08:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15540_20261106_NORMAL": {
@@ -4386,7 +4386,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-06T00:18:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15573_20261106_NORMAL": {
