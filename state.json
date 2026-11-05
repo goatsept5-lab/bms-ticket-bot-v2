@@ -216,9 +216,9 @@
       "time": "02:35 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-03T05:06:54+05:30",
+      "alerted_at": "2026-11-05T12:36:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44749_20261105_CLASSIC": {
       "movie": "Ramayana (Tamil) - Tamil",
