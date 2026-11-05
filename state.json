@@ -1778,8 +1778,8 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T20:22:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92667_20261107_EXECUTIVE": {
@@ -4924,8 +4924,8 @@
       "time": "09:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T17:12:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-05T20:22:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92778_20261106_EXECUTIVE": {
@@ -4958,7 +4958,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-05T19:37:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15485_20261105_NORMAL": {
@@ -5002,6 +5002,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-05T18:52:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45022_20261106_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261106",
+      "time": "11:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-05T20:22:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
