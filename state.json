@@ -18,9 +18,9 @@
       "time": "09:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T20:57:37+05:30",
+      "alerted_at": "2026-11-06T07:13:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44764_20261106_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -95,8 +95,8 @@
       "time": "06:40 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T07:13:46+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44795_20261106_CLASSIC": {
@@ -117,9 +117,9 @@
       "time": "09:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T19:27:37+05:30",
+      "alerted_at": "2026-11-06T07:13:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44769_20261106_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -4958,6 +4958,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-06T06:43:46+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16974_20261107_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "12:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T07:13:46+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16960_20261107_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T07:13:46+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
