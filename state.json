@@ -3209,7 +3209,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92707_20261110_EXECUTIVE": {
@@ -4528,8 +4528,8 @@
       "time": "10:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T09:13:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T09:38:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44994_20261106_CLASSIC": {
@@ -5046,6 +5046,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-06T09:28:46+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48426_20261106_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261106",
+      "time": "07:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-06T09:38:45+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
