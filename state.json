@@ -5684,7 +5684,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-06T14:54:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
