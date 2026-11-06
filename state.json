@@ -30,7 +30,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T03:35:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44765_20261106_CLASSIC": {
@@ -349,7 +349,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92573_20261106_EXECUTIVE": {
@@ -1218,7 +1218,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T09:08:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92587_20261106_EXECUTIVE": {
@@ -5508,6 +5508,116 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-06T10:03:46+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45037_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "09:45 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45070_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45038_20261111_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "12:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45071_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "01:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45039_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "04:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45072_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "04:30 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45040_20261111_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "07:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45073_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45074_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45041_20261111_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "11:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-06T10:08:45+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
