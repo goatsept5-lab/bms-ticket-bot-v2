@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T10:43:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44770_20261106_CLASSIC": {
@@ -1173,8 +1173,8 @@
       "time": "07:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:10:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T13:29:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44882_20261107_CLASSIC": {
@@ -1240,7 +1240,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T12:28:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92588_20261106_EXECUTIVE": {
@@ -2119,9 +2119,9 @@
       "time": "01:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-06T13:29:00+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_16946_20261106_SPECIAL": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -2163,8 +2163,8 @@
       "time": "07:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:15:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T13:29:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16954_20261106_SPECIAL": {
@@ -4408,7 +4408,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-05T16:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92777_20261106_EXECUTIVE": {
@@ -4583,8 +4583,8 @@
       "time": "10:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T01:48:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T13:29:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45003_20261107_CLASSIC": {
@@ -5034,8 +5034,8 @@
       "time": "10:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-06T09:28:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T13:29:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48552_20261106_PEARL": {
