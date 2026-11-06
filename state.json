@@ -227,9 +227,9 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
+      "alerted_at": "2026-11-06T14:09:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44788_20261106_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -3175,9 +3175,9 @@
       "time": "02:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T20:59:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-06T14:09:00+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92649_20261106_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -4584,7 +4584,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T13:59:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45003_20261107_CLASSIC": {
@@ -5046,7 +5046,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-06T13:59:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48426_20261106_PEARL": {
