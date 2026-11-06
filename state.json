@@ -414,9 +414,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
+      "alerted_at": "2026-11-06T14:34:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92591_20261106_EXECUTIVE": {
       "movie": "Disco - Malayalam",
@@ -5023,9 +5023,9 @@
       "time": "04:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-06T09:28:46+05:30",
+      "alerted_at": "2026-11-06T14:34:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48427_20261106_PEARL": {
       "movie": "Scene - Tamil",
@@ -5045,8 +5045,8 @@
       "time": "11:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-06T14:19:01+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T14:34:02+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48426_20261106_PEARL": {
