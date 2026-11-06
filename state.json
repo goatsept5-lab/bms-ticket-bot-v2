@@ -5771,8 +5771,8 @@
       "time": "09:20 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-06T19:32:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T21:17:05+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16975_20261107_SPECIAL": {
@@ -5805,7 +5805,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T20:22:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
