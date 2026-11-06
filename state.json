@@ -2417,7 +2417,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T00:57:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92705_20261108_EXECUTIVE": {
@@ -4320,7 +4320,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-06T19:32:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16977_20261107_SPECIAL": {
