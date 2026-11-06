@@ -4473,8 +4473,8 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-06T20:22:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-06T21:02:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92784_20261107_EXECUTIVE": {
