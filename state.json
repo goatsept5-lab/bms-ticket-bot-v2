@@ -161,9 +161,9 @@
       "time": "12:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
+      "alerted_at": "2026-11-06T10:33:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44802_20261106_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -5002,7 +5002,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-06T09:23:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48442_20261106_PEARL": {
