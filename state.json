@@ -1525,8 +1525,8 @@
       "time": "10:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T18:45:01+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T20:45:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16997_20261108_SPECIAL": {
@@ -5640,7 +5640,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T18:35:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92653_20261107_EXECUTIVE": {
