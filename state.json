@@ -1504,7 +1504,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T16:55:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16990_20261108_SPECIAL": {
@@ -2428,7 +2428,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T19:39:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92727_20261110_EXECUTIVE": {
@@ -3638,7 +3638,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T17:20:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92789_20261108_EXECUTIVE": {
@@ -5111,8 +5111,8 @@
       "time": "07:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T17:44:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T18:30:00+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MAYJ_242010_20261107_SECOND CLASS": {
@@ -5144,9 +5144,9 @@
       "time": "08:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T08:44:44+05:30",
+      "alerted_at": "2026-11-07T18:30:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241993_20261107_SECOND CLASS": {
       "movie": "Scene - Tamil",
@@ -5332,7 +5332,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T12:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15591_20261107_NORMAL": {
@@ -5398,7 +5398,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T18:20:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48543_20261107_PEARL": {
