@@ -513,9 +513,9 @@
       "time": "07:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:35:16+05:30",
+      "alerted_at": "2026-11-07T17:39:59+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44821_20261107_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -536,7 +536,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:35:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44856_20261107_CLASSIC": {
@@ -546,8 +546,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:35:16+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T17:39:59+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_44857_20261108_CLASSIC": {
@@ -921,7 +921,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92672_20261108_EXECUTIVE": {
@@ -3517,7 +3517,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T16:55:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45009_20261108_CLASSIC": {
@@ -5398,7 +5398,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T17:09:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48543_20261107_PEARL": {
