@@ -216,9 +216,9 @@
       "time": "06:50 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T19:39:34+05:30",
+      "alerted_at": "2026-11-08T04:51:15+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44858_20261108_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -4287,6 +4287,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T23:50:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92599_20261108_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261108",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T04:51:15+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
