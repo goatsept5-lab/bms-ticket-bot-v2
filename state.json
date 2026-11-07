@@ -1525,8 +1525,8 @@
       "time": "10:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T13:59:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T17:09:59+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16997_20261108_SPECIAL": {
@@ -3638,7 +3638,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T00:48:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92789_20261108_EXECUTIVE": {
@@ -5068,7 +5068,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T15:54:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241777_20261107_SECOND CLASS": {
@@ -5397,8 +5397,8 @@
       "time": "10:55 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T12:19:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T17:09:59+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48543_20261107_PEARL": {
@@ -5695,6 +5695,39 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T17:05:00+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48498_20261108_PEARL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "03:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T17:09:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48503_20261108_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "04:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T17:09:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48514_20261108_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "07:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T17:09:59+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
