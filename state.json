@@ -51,8 +51,8 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-07T14:34:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T14:59:58+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92611_20261107_EXECUTIVE": {
@@ -4672,7 +4672,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T13:34:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48483_20261107_PEARL": {
@@ -5013,7 +5013,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T14:44:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242009_20261107_SECOND CLASS": {
@@ -5079,7 +5079,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241980_20261107_SECOND CLASS": {
@@ -5629,6 +5629,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242068_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "08:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T14:59:58+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
