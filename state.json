@@ -668,7 +668,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:54:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44863_20261107_CLASSIC": {
@@ -4616,9 +4616,9 @@
       "time": "12:35 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "alerted_at": "2026-11-07T10:39:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15594_20261107_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -4671,8 +4671,8 @@
       "time": "03:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T10:39:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48483_20261107_PEARL": {
@@ -4716,7 +4716,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:49:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15617_20261107_NORMAL": {
@@ -5222,7 +5222,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T10:19:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16968_20261107_SPECIAL": {
