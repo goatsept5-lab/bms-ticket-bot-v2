@@ -426,7 +426,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T11:14:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44819_20261107_CLASSIC": {
@@ -1525,8 +1525,8 @@
       "time": "10:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:30:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16997_20261108_SPECIAL": {
@@ -3626,8 +3626,8 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-07T13:09:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92788_20261108_EXECUTIVE": {
@@ -5530,6 +5530,105 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T13:49:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45093_20261107_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45090_20261107_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261107",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45092_20261108_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45091_20261108_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261108",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48556_20261108_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "07:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45094_20261109_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45095_20261109_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45096_20261110_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261110",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45097_20261110_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261110",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T13:59:58+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
