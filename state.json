@@ -74,7 +74,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T20:50:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92612_20261107_EXECUTIVE": {
@@ -3252,9 +3252,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-07T22:45:59+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92741_20261108_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -5728,7 +5728,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T17:09:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16971_20261107_SPECIAL": {
