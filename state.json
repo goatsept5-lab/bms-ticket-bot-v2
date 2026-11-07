@@ -52,7 +52,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T14:59:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92611_20261107_EXECUTIVE": {
@@ -458,8 +458,8 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-07T14:24:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T15:19:58+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_44809_20261107_CLASSIC": {
@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92655_20261107_EXECUTIVE": {
@@ -1152,7 +1152,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T12:49:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44825_20261108_CLASSIC": {
@@ -3241,8 +3241,8 @@
       "time": "06:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T15:19:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92740_20261107_EXECUTIVE": {
@@ -4672,7 +4672,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T15:09:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48483_20261107_PEARL": {
@@ -5056,8 +5056,8 @@
       "time": "05:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T13:39:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T15:19:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241818_20261107_SECOND CLASS": {
@@ -5321,7 +5321,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T12:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15596_20261107_NORMAL": {
@@ -5642,6 +5642,17 @@
       "alerted_at": "2026-11-07T14:59:58+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92653_20261107_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261107",
+      "time": "04:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T15:19:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
