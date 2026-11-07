@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92629_20261108_EXECUTIVE": {
@@ -5728,6 +5728,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T17:09:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_16971_20261107_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261107",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T17:49:59+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
