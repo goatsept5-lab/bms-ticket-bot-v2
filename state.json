@@ -1537,7 +1537,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T05:29:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16991_20261108_SPECIAL": {
@@ -4573,7 +4573,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15587_20261107_NORMAL": {
@@ -4584,7 +4584,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15720_20261107_NORMAL": {
@@ -4606,7 +4606,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T09:19:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15593_20261107_NORMAL": {
@@ -4705,7 +4705,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:49:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15609_20261107_NORMAL": {
@@ -4727,7 +4727,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-07T07:49:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15604_20261107_NORMAL": {
@@ -4749,7 +4749,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:59:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15588_20261107_NORMAL": {
@@ -5202,6 +5202,17 @@
       "alerted_at": "2026-11-07T08:44:44+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15602_20261107_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "10:25 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T09:29:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
