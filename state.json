@@ -4605,9 +4605,9 @@
       "time": "11:05 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-07T09:19:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_15593_20261107_NORMAL": {
       "movie": "Jailer 2 - Tamil",
@@ -4639,7 +4639,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48540_20261107_PEARL": {
