@@ -85,7 +85,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92598_20261108_EXECUTIVE": {
@@ -6234,6 +6234,83 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15867_20261108_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "07:15 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15643_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "07:30 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15873_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "07:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15852_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "07:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15633_20261108_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "09:10 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15628_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "10:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15718_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "10:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T23:40:59+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
