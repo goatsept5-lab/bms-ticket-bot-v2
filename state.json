@@ -3230,9 +3230,9 @@
       "time": "02:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-07T13:49:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92739_20261107_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -3627,7 +3627,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T13:09:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92788_20261108_EXECUTIVE": {
@@ -5442,7 +5442,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T13:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241796_20261107_SECOND CLASS": {
@@ -5519,6 +5519,17 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48553_20261108_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "12:20 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T13:49:58+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
