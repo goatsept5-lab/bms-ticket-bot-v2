@@ -459,7 +459,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T14:24:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44809_20261107_CLASSIC": {
@@ -3242,7 +3242,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92740_20261107_EXECUTIVE": {
@@ -3627,7 +3627,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-07T13:59:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92788_20261108_EXECUTIVE": {
@@ -4671,8 +4671,8 @@
       "time": "03:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T13:34:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T15:09:58+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48483_20261107_PEARL": {
@@ -5057,7 +5057,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T13:39:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241818_20261107_SECOND CLASS": {
@@ -5265,9 +5265,9 @@
       "time": "05:05 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-07T12:04:45+05:30",
+      "alerted_at": "2026-11-07T15:09:58+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15615_20261107_NORMAL": {
       "movie": "Ramayana (Tamil) - Tamil",
