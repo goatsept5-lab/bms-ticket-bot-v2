@@ -2702,9 +2702,9 @@
       "time": "07:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-07T22:05:59+05:30",
+      "alerted_at": "2026-11-08T05:01:14+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45020_20261108_CLASSIC": {
       "movie": "Scene - Tamil",
