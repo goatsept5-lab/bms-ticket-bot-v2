@@ -4562,7 +4562,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15712_20261107_NORMAL": {
@@ -4825,9 +4825,9 @@
       "time": "10:50 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T08:44:44+05:30",
+      "alerted_at": "2026-11-07T08:54:44+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241829_20261107_SECOND CLASS": {
       "movie": "Scene - Tamil",
