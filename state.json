@@ -4649,9 +4649,9 @@
       "time": "10:15 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "alerted_at": "2026-11-07T08:19:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48541_20261107_PEARL": {
       "movie": "Scene - Tamil",
@@ -4760,6 +4760,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T07:59:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15655_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "08:35 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T08:19:45+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
