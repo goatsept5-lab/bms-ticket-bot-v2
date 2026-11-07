@@ -1460,7 +1460,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T12:10:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16995_20261108_SPECIAL": {
@@ -1526,7 +1526,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T21:10:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16997_20261108_SPECIAL": {
@@ -3594,7 +3594,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T00:37:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45014_20261108_CLASSIC": {
@@ -5530,7 +5530,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T13:49:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45093_20261107_CLASSIC": {
@@ -5695,7 +5695,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T17:05:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48498_20261108_PEARL": {
