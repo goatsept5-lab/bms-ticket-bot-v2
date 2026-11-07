@@ -51,9 +51,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-07T14:34:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92611_20261107_EXECUTIVE": {
       "movie": "Disco - Malayalam",
@@ -4947,7 +4947,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T12:24:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242022_20261107_SECOND CLASS": {
@@ -4958,7 +4958,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T12:44:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241776_20261107_SECOND CLASS": {
@@ -4979,8 +4979,8 @@
       "time": "03:50 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T13:54:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T14:34:58+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MAYJ_242001_20261107_SECOND CLASS": {
@@ -5013,7 +5013,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242009_20261107_SECOND CLASS": {
@@ -5299,7 +5299,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T12:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15611_20261107_NORMAL": {
