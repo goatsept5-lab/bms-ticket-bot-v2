@@ -788,9 +788,9 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T21:07:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-07T12:29:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92667_20261107_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -5343,7 +5343,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T12:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15854_20261107_NORMAL": {
@@ -5398,6 +5398,28 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T12:19:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48543_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "07:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T12:29:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48555_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "11:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T12:29:45+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
