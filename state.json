@@ -3461,9 +3461,9 @@
       "time": "01:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T20:47:37+05:30",
+      "alerted_at": "2026-11-07T11:24:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45006_20261107_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -4660,9 +4660,9 @@
       "time": "01:20 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "alerted_at": "2026-11-07T11:24:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48478_20261107_PEARL": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -4837,7 +4837,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T09:14:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241817_20261107_SECOND CLASS": {
@@ -4902,9 +4902,9 @@
       "time": "01:20 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T08:44:44+05:30",
+      "alerted_at": "2026-11-07T11:24:46+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241879_20261107_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
