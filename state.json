@@ -7,9 +7,9 @@
       "time": "09:35 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
+      "alerted_at": "2026-11-07T07:39:44+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92608_20261107_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -338,7 +338,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-07T04:54:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44830_20261107_CLASSIC": {
@@ -4553,6 +4553,149 @@
       "alerted_at": "2026-11-07T07:14:32+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15612_20261107_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "08:35 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15712_20261107_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "09:10 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15587_20261107_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "10:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15720_20261107_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "10:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15608_20261107_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "11:05 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15593_20261107_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "12:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15594_20261107_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261107",
+      "time": "04:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48476_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "09:00 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48540_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "10:15 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48541_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "01:20 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48478_20261107_PEARL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "03:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48483_20261107_PEARL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "04:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48542_20261107_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261107",
+      "time": "04:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
