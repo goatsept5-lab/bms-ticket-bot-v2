@@ -4506,8 +4506,8 @@
       "time": "07:05 PM",
       "category": "SPECIAL",
       "price": 59.43,
-      "alerted_at": "2026-11-07T05:44:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T10:29:46+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15624_20261107_NORMAL": {
@@ -4672,7 +4672,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T07:39:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48483_20261107_PEARL": {
@@ -4804,7 +4804,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242007_20261107_SECOND CLASS": {
