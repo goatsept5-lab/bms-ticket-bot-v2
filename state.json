@@ -4682,9 +4682,9 @@
       "time": "04:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-07T07:39:44+05:30",
+      "alerted_at": "2026-11-07T14:14:59+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48542_20261107_PEARL": {
       "movie": "Scene - Tamil",
@@ -4936,7 +4936,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T12:04:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241992_20261107_SECOND CLASS": {
