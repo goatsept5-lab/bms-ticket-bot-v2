@@ -1657,8 +1657,8 @@
       "time": "11:05 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T16:55:00+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T23:30:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17013_20261109_SPECIAL": {
@@ -5937,7 +5937,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241995_20261108_SECOND CLASS": {
