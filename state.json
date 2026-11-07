@@ -1503,8 +1503,8 @@
       "time": "09:20 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T16:55:00+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T18:40:00+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16990_20261108_SPECIAL": {
@@ -1526,7 +1526,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T17:09:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16997_20261108_SPECIAL": {
@@ -5090,7 +5090,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T17:00:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241808_20261107_SECOND CLASS": {
@@ -5145,7 +5145,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T18:30:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241993_20261107_SECOND CLASS": {
@@ -5155,9 +5155,9 @@
       "time": "08:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T08:44:44+05:30",
+      "alerted_at": "2026-11-07T18:40:00+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242023_20261107_SECOND CLASS": {
       "movie": "Scene - Tamil",
