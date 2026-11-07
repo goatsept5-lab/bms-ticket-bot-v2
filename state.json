@@ -602,7 +602,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-04T04:55:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44860_20261108_CLASSIC": {
@@ -701,7 +701,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-04T05:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44880_20261107_CLASSIC": {
@@ -1152,7 +1152,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44825_20261108_CLASSIC": {
@@ -3869,7 +3869,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45027_20261109_CLASSIC": {
@@ -3935,7 +3935,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45062_20261109_CLASSIC": {
@@ -4034,7 +4034,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45033_20261110_CLASSIC": {
@@ -4100,7 +4100,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45068_20261110_CLASSIC": {
@@ -5189,7 +5189,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241890_20261107_SECOND CLASS": {
