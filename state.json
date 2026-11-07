@@ -52,7 +52,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92611_20261107_EXECUTIVE": {
@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T23:47:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44820_20261107_CLASSIC": {
@@ -4969,7 +4969,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T13:34:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241979_20261107_SECOND CLASS": {
@@ -5056,8 +5056,8 @@
       "time": "05:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241818_20261107_SECOND CLASS": {
@@ -5178,7 +5178,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T08:44:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241981_20261107_SECOND CLASS": {
@@ -5442,6 +5442,83 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T13:04:45+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241796_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242047_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:05 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242011_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:15 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242034_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242069_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:45 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241994_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241819_20261107_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261107",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-07T13:39:58+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
