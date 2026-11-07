@@ -4507,7 +4507,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-07T17:05:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15624_20261107_NORMAL": {
