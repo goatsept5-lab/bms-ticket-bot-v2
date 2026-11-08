@@ -29,9 +29,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T12:51:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92615_20261108_EXECUTIVE": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -613,7 +613,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44814_20261108_CLASSIC": {
@@ -998,7 +998,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T12:26:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16999_20261108_SPECIAL": {
@@ -4639,7 +4639,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:16:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15687_20261109_NORMAL": {
@@ -4837,7 +4837,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T12:41:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17019_20261109_SPECIAL": {
