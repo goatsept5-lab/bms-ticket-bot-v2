@@ -4903,7 +4903,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-08T17:11:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15678_20261109_NORMAL": {
@@ -4947,7 +4947,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T16:16:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242016_20261108_SECOND CLASS": {
