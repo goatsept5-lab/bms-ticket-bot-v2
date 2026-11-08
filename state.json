@@ -414,9 +414,9 @@
       "time": "08:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T20:06:53+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92629_20261108_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -4584,7 +4584,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:16:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15686_20261109_NORMAL": {
