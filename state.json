@@ -514,7 +514,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:46:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44812_20261108_CLASSIC": {
@@ -2614,9 +2614,9 @@
       "time": "10:00 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T09:56:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92742_20261108_EXECUTIVE": {
       "movie": "Ramayana (Tamil) - Tamil",
@@ -4474,7 +4474,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:41:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15855_20261108_NORMAL": {
