@@ -976,7 +976,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T16:55:00+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16992_20261108_SPECIAL": {
@@ -4693,8 +4693,8 @@
       "time": "02:40 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-08T08:26:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:36:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15677_20261109_NORMAL": {
@@ -4826,6 +4826,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:16:29+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15913_20261108_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T11:36:29+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
