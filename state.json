@@ -3583,7 +3583,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T21:40:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45092_20261108_CLASSIC": {
@@ -3682,7 +3682,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-07T22:05:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48513_20261108_PEARL": {
@@ -4309,7 +4309,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:36:28+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15656_20261108_NORMAL": {
