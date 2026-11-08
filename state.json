@@ -3736,8 +3736,8 @@
       "time": "01:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T08:26:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:41:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241780_20261108_SECOND CLASS": {
@@ -3825,7 +3825,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T09:31:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241781_20261108_SECOND CLASS": {
