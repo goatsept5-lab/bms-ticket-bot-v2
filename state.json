@@ -2867,9 +2867,9 @@
       "time": "06:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T10:36:30+05:30",
+      "alerted_at": "2026-11-09T04:32:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15874_20261109_NORMAL": {
       "movie": "Scene - Tamil",
