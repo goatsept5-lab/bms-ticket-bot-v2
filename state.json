@@ -3332,6 +3332,17 @@
       "alerted_at": "2026-11-08T23:57:06+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "MCSK_17001_20261109_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261109",
+      "time": "07:00 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T05:27:20+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
