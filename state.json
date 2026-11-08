@@ -305,7 +305,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T04:55:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92656_20261108_EXECUTIVE": {
@@ -338,7 +338,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:56:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92687_20261108_EXECUTIVE": {
@@ -1031,7 +1031,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T05:29:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16994_20261108_SPECIAL": {
@@ -2824,7 +2824,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-08T05:31:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92790_20261108_EXECUTIVE": {
@@ -3979,7 +3979,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242014_20261108_SECOND CLASS": {
@@ -4297,9 +4297,9 @@
       "time": "12:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T04:51:15+05:30",
+      "alerted_at": "2026-11-08T10:36:30+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15650_20261108_NORMAL": {
       "movie": "Scene - Tamil",
@@ -4330,9 +4330,9 @@
       "time": "12:35 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T07:36:28+05:30",
+      "alerted_at": "2026-11-08T10:36:30+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15645_20261108_NORMAL": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -4540,7 +4540,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:56:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15871_20261109_NORMAL": {
@@ -4606,7 +4606,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:16:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15715_20261109_NORMAL": {
@@ -4771,6 +4771,39 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:26:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92812_20261109_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "06:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T10:36:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92814_20261109_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "06:15 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T10:36:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92813_20261109_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261109",
+      "time": "06:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T10:36:30+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
