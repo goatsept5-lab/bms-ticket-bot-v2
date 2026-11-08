@@ -1141,7 +1141,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:56:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17022_20261109_SPECIAL": {
@@ -4858,8 +4858,8 @@
       "time": "10:15 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T12:06:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T22:06:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48554_20261108_PEARL": {
