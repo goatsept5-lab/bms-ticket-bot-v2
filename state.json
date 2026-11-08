@@ -580,7 +580,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:51:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44825_20261108_CLASSIC": {
@@ -690,7 +690,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44888_20261108_CLASSIC": {
@@ -1019,8 +1019,8 @@
       "time": "07:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:30:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_16982_20261108_SPECIAL": {
@@ -1085,8 +1085,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17014_20261109_SPECIAL": {
@@ -1107,8 +1107,8 @@
       "time": "01:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17021_20261109_SPECIAL": {
@@ -1118,8 +1118,8 @@
       "time": "03:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17015_20261109_SPECIAL": {
@@ -1140,8 +1140,8 @@
       "time": "04:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17022_20261109_SPECIAL": {
@@ -1173,8 +1173,8 @@
       "time": "07:50 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:56:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17017_20261109_SPECIAL": {
@@ -3836,7 +3836,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T11:51:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241983_20261108_SECOND CLASS": {
