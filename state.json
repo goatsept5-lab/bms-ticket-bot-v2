@@ -4056,7 +4056,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241811_20261108_SECOND CLASS": {
@@ -4418,8 +4418,8 @@
       "time": "10:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T07:36:28+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T12:31:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15654_20261108_NORMAL": {
@@ -4837,7 +4837,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:36:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17019_20261109_SPECIAL": {
