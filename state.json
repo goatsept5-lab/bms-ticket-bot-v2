@@ -1921,9 +1921,9 @@
       "time": "07:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
+      "alerted_at": "2026-11-09T05:02:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45075_20261109_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -2966,9 +2966,9 @@
       "time": "07:00 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-08T23:57:06+05:30",
+      "alerted_at": "2026-11-09T05:02:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242078_20261109_SECOND CLASS": {
       "movie": "Scene - Tamil",
