@@ -1085,8 +1085,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T11:56:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T20:41:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17014_20261109_SPECIAL": {
@@ -1493,7 +1493,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T15:45:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44943_20261109_CLASSIC": {
@@ -2823,9 +2823,9 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T05:31:14+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T20:41:53+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92790_20261108_EXECUTIVE": {
       "movie": "Scene - Tamil",
