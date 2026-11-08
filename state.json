@@ -73,9 +73,9 @@
       "time": "07:35 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T19:31:53+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92602_20261108_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -403,8 +403,8 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T19:31:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92689_20261108_EXECUTIVE": {
@@ -1943,8 +1943,8 @@
       "time": "02:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-07T23:20:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T19:31:53+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92769_20261110_EXECUTIVE": {
