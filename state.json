@@ -2856,9 +2856,9 @@
       "time": "06:15 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T10:36:30+05:30",
+      "alerted_at": "2026-11-09T04:17:06+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92813_20261109_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -2879,7 +2879,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:16:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17019_20261109_SPECIAL": {
