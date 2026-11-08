@@ -84,8 +84,8 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T14:31:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92617_20261108_EXECUTIVE": {
@@ -1009,7 +1009,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-08T06:06:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16993_20261108_SPECIAL": {
@@ -1042,7 +1042,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T13:26:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16983_20261108_SPECIAL": {
@@ -3593,8 +3593,8 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-08T14:06:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T14:31:40+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_45091_20261108_CLASSIC": {
@@ -3990,7 +3990,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241883_20261108_SECOND CLASS": {
@@ -4001,7 +4001,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242082_20261108_SECOND CLASS": {
@@ -4463,7 +4463,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T13:56:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15647_20261108_NORMAL": {
@@ -4869,8 +4869,8 @@
       "time": "11:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-08T14:06:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T14:31:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48531_20261109_PEARL": {
