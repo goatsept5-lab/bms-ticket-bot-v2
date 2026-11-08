@@ -1064,7 +1064,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-07T23:30:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17013_20261109_SPECIAL": {
@@ -4837,7 +4837,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T13:01:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17019_20261109_SPECIAL": {
