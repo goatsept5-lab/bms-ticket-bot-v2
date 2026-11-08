@@ -2823,8 +2823,8 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-06T14:29:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T05:31:14+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92790_20261108_EXECUTIVE": {
@@ -2835,7 +2835,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T00:48:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92787_20261109_EXECUTIVE": {
@@ -4220,9 +4220,9 @@
       "time": "07:30 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-07T23:40:59+05:30",
+      "alerted_at": "2026-11-08T05:31:14+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15873_20261108_NORMAL": {
       "movie": "Scene - Tamil",
