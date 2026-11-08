@@ -987,7 +987,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:26:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_16981_20261108_SPECIAL": {
@@ -3858,7 +3858,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T10:51:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241799_20261108_SECOND CLASS": {
@@ -4011,8 +4011,8 @@
       "time": "05:10 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:16:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_242081_20261108_SECOND CLASS": {
@@ -4143,8 +4143,8 @@
       "time": "10:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:16:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241986_20261108_SECOND CLASS": {
@@ -4485,7 +4485,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T11:06:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15664_20261108_NORMAL": {
@@ -4804,6 +4804,28 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-08T10:36:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48507_20261108_PEARL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261108",
+      "time": "12:50 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-08T11:16:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15874_20261109_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261109",
+      "time": "07:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T11:16:29+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
