@@ -3758,9 +3758,9 @@
       "time": "09:30 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-07T22:55:59+05:30",
+      "alerted_at": "2026-11-08T07:31:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241881_20261108_SECOND CLASS": {
       "movie": "Jailer 2 - Tamil",
@@ -4210,7 +4210,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T05:16:14+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15643_20261108_NORMAL": {
