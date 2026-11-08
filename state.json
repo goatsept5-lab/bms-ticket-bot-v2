@@ -392,9 +392,9 @@
       "time": "04:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T16:26:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92674_20261108_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -3715,7 +3715,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-08T14:11:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48514_20261108_PEARL": {
@@ -5002,6 +5002,28 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T16:16:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15922_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "07:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T16:26:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15919_20261108_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261108",
+      "time": "08:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-08T16:26:40+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
