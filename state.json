@@ -271,9 +271,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T04:55:16+05:30",
+      "alerted_at": "2026-11-08T14:21:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44861_20261108_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -381,9 +381,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T12:36:39+05:30",
+      "alerted_at": "2026-11-08T14:21:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92658_20261108_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -2625,8 +2625,8 @@
       "time": "02:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T04:11:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T14:21:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92743_20261108_EXECUTIVE": {
@@ -3594,7 +3594,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-08T14:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45091_20261108_CLASSIC": {
@@ -4166,7 +4166,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-07T22:55:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242048_20261108_SECOND CLASS": {
@@ -4452,7 +4452,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-08T07:41:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15636_20261108_NORMAL": {
@@ -4551,7 +4551,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:16:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15725_20261109_NORMAL": {
