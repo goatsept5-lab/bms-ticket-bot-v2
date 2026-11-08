@@ -348,8 +348,8 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T10:41:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:51:29+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92672_20261108_EXECUTIVE": {
@@ -579,9 +579,9 @@
       "time": "01:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-07T12:49:45+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-08T11:51:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44825_20261108_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -3835,8 +3835,8 @@
       "time": "12:20 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-08T10:21:29+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:51:29+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MAYJ_241983_20261108_SECOND CLASS": {
@@ -4011,8 +4011,8 @@
       "time": "05:10 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-08T11:16:29+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T11:51:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_242081_20261108_SECOND CLASS": {
@@ -4738,7 +4738,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T08:26:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15700_20261109_NORMAL": {
