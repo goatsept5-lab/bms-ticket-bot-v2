@@ -568,9 +568,9 @@
       "time": "12:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:35:32+05:30",
+      "alerted_at": "2026-11-08T10:56:29+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44885_20261108_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -646,7 +646,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44887_20261108_CLASSIC": {
@@ -2735,8 +2735,8 @@
       "time": "01:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T20:47:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-08T10:56:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45012_20261108_CLASSIC": {
@@ -4441,7 +4441,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:41:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15662_20261108_NORMAL": {
@@ -4485,7 +4485,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T10:46:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15664_20261108_NORMAL": {
@@ -4518,7 +4518,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-08T07:41:29+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15658_20261108_NORMAL": {
