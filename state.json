@@ -205,8 +205,8 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-09T17:32:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T19:12:48+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92694_20261109_EXECUTIVE": {
@@ -216,8 +216,8 @@
       "time": "08:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-09T18:32:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T19:12:48+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92633_20261109_EXECUTIVE": {
@@ -3275,7 +3275,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T17:02:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242212_20261109_SECOND CLASS": {
