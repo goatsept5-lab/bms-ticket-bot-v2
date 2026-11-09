@@ -1493,7 +1493,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-05T00:04:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17057_20261111_SPECIAL": {
@@ -3451,7 +3451,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T11:27:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48626_20261109_PEARL": {
@@ -3550,7 +3550,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T08:57:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45101_20261109_CLASSIC": {
