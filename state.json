@@ -3497,6 +3497,61 @@
       "alerted_at": "2026-11-09T08:12:21+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MAYJ_241763_20261109_SECOND CLASS": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261109",
+      "time": "12:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241923_20261109_SECOND CLASS": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261109",
+      "time": "01:25 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241764_20261109_SECOND CLASS": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261109",
+      "time": "03:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241924_20261109_SECOND CLASS": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261109",
+      "time": "04:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_241765_20261109_SECOND CLASS": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261109",
+      "time": "06:40 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
