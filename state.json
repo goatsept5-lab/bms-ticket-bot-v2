@@ -3860,6 +3860,17 @@
       "alerted_at": "2026-11-09T13:32:37+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92828_20261111_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261111",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T14:37:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
