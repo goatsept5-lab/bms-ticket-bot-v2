@@ -371,7 +371,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T20:32:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17006_20261109_SPECIAL": {
@@ -3615,8 +3615,8 @@
       "time": "09:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-09T20:57:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T21:22:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15745_20261110_NORMAL": {
@@ -4008,11 +4008,11 @@
       "movie": "Scene - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
       "date": "20261110",
-      "time": "08:05 PM",
+      "time": "08:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-09T16:27:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T21:22:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "TVHP_26501_20261109_BUDGET": {
@@ -4122,7 +4122,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T21:17:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242021_20261109_SECOND CLASS": {
@@ -4188,7 +4188,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T19:27:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92825_20261109_EXECUTIVE": {
