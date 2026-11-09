@@ -1867,7 +1867,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-06T02:13:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44908_20261109_CLASSIC": {
@@ -2054,7 +2054,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-09T13:47:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45079_20261109_CLASSIC": {
@@ -3461,8 +3461,8 @@
       "time": "08:00 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-09T14:57:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T15:37:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15923_20261109_NORMAL": {
