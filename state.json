@@ -217,7 +217,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T19:12:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92633_20261109_EXECUTIVE": {
@@ -370,8 +370,8 @@
       "time": "10:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T19:17:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17006_20261109_SPECIAL": {
@@ -381,8 +381,8 @@
       "time": "11:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T19:17:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17038_20261110_SPECIAL": {
@@ -1812,7 +1812,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-09T17:22:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92748_20261109_EXECUTIVE": {
@@ -3649,7 +3649,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:27:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15857_20261109_NORMAL": {
@@ -3902,7 +3902,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T15:17:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92827_20261110_EXECUTIVE": {
