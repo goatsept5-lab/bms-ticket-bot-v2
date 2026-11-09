@@ -4055,8 +4055,8 @@
       "time": "10:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-09T18:17:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T19:57:49+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_241846_20261109_SECOND CLASS": {
