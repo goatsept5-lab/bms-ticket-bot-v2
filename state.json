@@ -29,9 +29,9 @@
       "time": "12:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T04:46:37+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-09T12:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92619_20261109_EXECUTIVE": {
       "movie": "Summer Holidays - Telugu",
@@ -150,9 +150,9 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T05:35:32+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-09T12:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92677_20261109_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -316,7 +316,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T05:37:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17004_20261109_SPECIAL": {
@@ -3759,7 +3759,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T12:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17065_20261112_SPECIAL": {
@@ -3781,7 +3781,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T12:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17066_20261112_SPECIAL": {
@@ -3792,7 +3792,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T12:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17079_20261112_SPECIAL": {
@@ -3803,7 +3803,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T12:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
