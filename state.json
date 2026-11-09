@@ -2054,7 +2054,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45079_20261109_CLASSIC": {
@@ -3406,9 +3406,9 @@
       "time": "03:30 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-09T06:17:20+05:30",
+      "alerted_at": "2026-11-09T13:32:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48523_20261109_PEARL": {
       "movie": "Jailer 2 - Tamil",
@@ -3417,8 +3417,8 @@
       "time": "04:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-09T12:47:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T13:32:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48533_20261109_PEARL": {
@@ -3847,6 +3847,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-09T13:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15690_20261109_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261109",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T13:32:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
