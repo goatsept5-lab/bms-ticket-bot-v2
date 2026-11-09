@@ -4176,9 +4176,9 @@
       "time": "11:59 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-09T21:07:48+05:30",
+      "alerted_at": "2026-11-09T22:02:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241894_20261109_SECOND CLASS": {
       "movie": "Scene - Tamil",
