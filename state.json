@@ -349,7 +349,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:27:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17005_20261109_SPECIAL": {
@@ -745,7 +745,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-09T09:47:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44946_20261109_CLASSIC": {
@@ -3693,6 +3693,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:37:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15928_20261109_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261109",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T11:57:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15679_20261109_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261109",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T11:57:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
