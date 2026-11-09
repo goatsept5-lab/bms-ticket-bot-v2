@@ -4055,9 +4055,9 @@
       "time": "10:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-09T19:57:49+05:30",
+      "alerted_at": "2026-11-09T20:02:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241846_20261109_SECOND CLASS": {
       "movie": "Scene - Tamil",
@@ -4198,8 +4198,8 @@
       "time": "07:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-09T19:37:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T20:02:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92826_20261110_EXECUTIVE": {
@@ -4209,8 +4209,8 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-09T19:37:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T20:02:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
