@@ -348,8 +348,8 @@
       "time": "07:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-09T10:27:21+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17005_20261109_SPECIAL": {
@@ -2031,8 +2031,8 @@
       "time": "07:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45028_20261109_CLASSIC": {
@@ -2769,7 +2769,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:07:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15688_20261109_NORMAL": {
@@ -3264,7 +3264,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T23:57:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241990_20261109_SECOND CLASS": {
@@ -3715,6 +3715,94 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T11:57:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17077_20261112_SPECIAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "03:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17073_20261112_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "04:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17064_20261112_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17074_20261112_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "07:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17065_20261112_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "07:50 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17075_20261112_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17066_20261112_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "11:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17079_20261112_SPECIAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261112",
+      "time": "11:05 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T12:07:36+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
