@@ -3893,6 +3893,28 @@
       "alerted_at": "2026-11-09T14:57:36+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "ACON_48535_20261109_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261109",
+      "time": "10:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-09T15:17:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92827_20261110_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261110",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T15:17:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
