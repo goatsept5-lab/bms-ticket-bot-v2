@@ -205,9 +205,9 @@
       "time": "07:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-09T16:02:37+05:30",
+      "alerted_at": "2026-11-09T17:32:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92694_20261109_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -3352,7 +3352,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T11:12:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48600_20261109_PEARL": {
