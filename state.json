@@ -3616,7 +3616,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:27:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15745_20261110_NORMAL": {
@@ -4155,7 +4155,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T20:17:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242000_20261109_SECOND CLASS": {
