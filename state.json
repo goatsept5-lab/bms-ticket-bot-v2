@@ -3022,7 +3022,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T08:02:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242017_20261109_SECOND CLASS": {
@@ -3550,6 +3550,17 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T08:57:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45101_20261109_CLASSIC": {
+      "movie": "Ramayana (3D)(Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T10:12:20+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
