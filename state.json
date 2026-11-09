@@ -2956,7 +2956,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-08T23:01:53+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242086_20261109_SECOND CLASS": {
@@ -3462,7 +3462,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T13:07:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15923_20261109_NORMAL": {
@@ -3869,6 +3869,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T14:37:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92829_20261111_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261111",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T14:47:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
