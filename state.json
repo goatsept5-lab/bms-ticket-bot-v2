@@ -151,7 +151,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T12:27:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92677_20261109_EXECUTIVE": {
@@ -3286,7 +3286,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T11:37:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242020_20261109_SECOND CLASS": {
@@ -3418,7 +3418,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T12:47:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48533_20261109_PEARL": {
@@ -3804,6 +3804,50 @@
       "price": 54.35,
       "alerted_at": "2026-11-09T12:07:36+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_44965_20261110_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261110",
+      "time": "06:50 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T13:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45103_20261110_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261110",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T13:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_44971_20261111_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "06:50 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T13:27:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45104_20261111_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T13:27:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
