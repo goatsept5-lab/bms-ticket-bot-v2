@@ -2032,7 +2032,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45028_20261109_CLASSIC": {
@@ -2922,8 +2922,8 @@
       "time": "07:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-08T15:46:40+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T11:12:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48516_20261109_PEARL": {
@@ -3242,7 +3242,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T23:57:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241845_20261109_SECOND CLASS": {
@@ -3319,7 +3319,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T23:57:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242090_20261109_SECOND CLASS": {
@@ -3351,8 +3351,8 @@
       "time": "11:05 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-09T05:37:21+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T11:12:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48600_20261109_PEARL": {
@@ -3429,7 +3429,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T06:17:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48519_20261109_PEARL": {
@@ -3451,7 +3451,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T06:17:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48626_20261109_PEARL": {
@@ -3583,7 +3583,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T10:27:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15927_20261109_NORMAL": {
