@@ -338,7 +338,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-09T06:07:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17016_20261109_SPECIAL": {
@@ -2560,7 +2560,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-09T14:07:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45095_20261109_CLASSIC": {
