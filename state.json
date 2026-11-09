@@ -40,9 +40,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-04T04:10:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-09T12:47:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92620_20261109_EXECUTIVE": {
       "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
@@ -3308,7 +3308,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-08T23:57:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242041_20261109_SECOND CLASS": {
@@ -3417,8 +3417,8 @@
       "time": "04:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-09T06:17:20+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T12:47:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48533_20261109_PEARL": {
