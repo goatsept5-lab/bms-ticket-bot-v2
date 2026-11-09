@@ -227,9 +227,9 @@
       "time": "08:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T22:41:52+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-09T20:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92695_20261109_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -756,7 +756,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-09T19:47:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44964_20261109_CLASSIC": {
@@ -4056,7 +4056,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T20:02:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_241846_20261109_SECOND CLASS": {
@@ -4155,7 +4155,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T19:27:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242000_20261109_SECOND CLASS": {
@@ -4210,6 +4210,28 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T20:02:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45098_20261111_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T20:07:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45099_20261111_CLASSIC": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T20:07:48+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
