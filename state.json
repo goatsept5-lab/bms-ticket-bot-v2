@@ -3935,7 +3935,7 @@
       "category": "BUDGET",
       "price": 59.94,
       "alerted_at": "2026-11-09T16:17:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "TVHP_26352_20261109_BUDGET": {
@@ -3957,7 +3957,7 @@
       "category": "BUDGET",
       "price": 59.94,
       "alerted_at": "2026-11-09T16:37:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "TVHP_26358_20261109_BUDGET": {
