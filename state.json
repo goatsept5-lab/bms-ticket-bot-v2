@@ -62,9 +62,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-07T19:30:59+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92606_20261109_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -3913,6 +3913,94 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T15:17:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "TVHP_26454_20261109_BUDGET": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "04:55 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "TVHP_26357_20261109_BUDGET": {
+      "movie": "Scene - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "05:25 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "TVHP_26352_20261109_BUDGET": {
+      "movie": "Scene - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "05:50 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "TVHP_26455_20261109_BUDGET": {
+      "movie": "Scene - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "06:35 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "TVHP_26358_20261109_BUDGET": {
+      "movie": "Scene - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "08:35 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "TVHP_26348_20261109_BUDGET": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "09:45 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "TVHP_26499_20261109_BUDGET": {
+      "movie": "Scene - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261109",
+      "time": "11:40 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45102_20261109_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261109",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T16:17:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
