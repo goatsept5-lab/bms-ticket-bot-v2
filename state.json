@@ -3417,8 +3417,8 @@
       "time": "04:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-09T14:12:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T14:27:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48533_20261109_PEARL": {
