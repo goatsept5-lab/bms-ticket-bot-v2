@@ -3979,7 +3979,7 @@
       "category": "BUDGET",
       "price": 59.94,
       "alerted_at": "2026-11-09T16:17:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "TVHP_26499_20261109_BUDGET": {
@@ -4067,7 +4067,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T18:17:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_241991_20261109_SECOND CLASS": {
