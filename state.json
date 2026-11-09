@@ -2857,7 +2857,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T04:17:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92813_20261109_EXECUTIVE": {
@@ -2933,9 +2933,9 @@
       "time": "09:00 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-08T18:21:53+05:30",
+      "alerted_at": "2026-11-09T07:02:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48628_20261109_PEARL": {
       "movie": "Scene - Tamil",
@@ -2988,9 +2988,9 @@
       "time": "09:00 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-08T23:57:06+05:30",
+      "alerted_at": "2026-11-09T07:02:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241842_20261109_SECOND CLASS": {
       "movie": "Scene - Tamil",
