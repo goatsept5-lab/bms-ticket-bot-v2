@@ -3231,7 +3231,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T13:17:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242083_20261109_SECOND CLASS": {
@@ -3407,7 +3407,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T13:47:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48523_20261109_PEARL": {
@@ -3418,7 +3418,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-09T14:27:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48533_20261109_PEARL": {
@@ -3858,7 +3858,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-09T13:32:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92828_20261111_EXECUTIVE": {
