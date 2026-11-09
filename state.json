@@ -546,9 +546,9 @@
       "time": "09:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T15:25:37+05:30",
+      "alerted_at": "2026-11-09T07:12:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44891_20261109_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -2967,7 +2967,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-09T05:02:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242078_20261109_SECOND CLASS": {
@@ -2999,9 +2999,9 @@
       "time": "09:10 AM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-08T23:57:06+05:30",
+      "alerted_at": "2026-11-09T07:12:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_241987_20261109_SECOND CLASS": {
       "movie": "Scene - Tamil",
@@ -3475,6 +3475,17 @@
       "alerted_at": "2026-11-09T06:32:20+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17012_20261109_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261109",
+      "time": "06:40 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T07:12:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
