@@ -282,8 +282,8 @@
       "time": "01:00 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T05:37:21+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17003_20261109_SPECIAL": {
@@ -315,8 +315,8 @@
       "time": "04:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-04T14:50:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-09T05:37:21+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17004_20261109_SPECIAL": {
@@ -3343,6 +3343,17 @@
       "alerted_at": "2026-11-09T05:27:20+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17023_20261109_SPECIAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261109",
+      "time": "11:05 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-09T05:37:21+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
