@@ -1990,6 +1990,72 @@
       "alerted_at": "2026-11-11T01:57:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92867_20261113_EXECUTIVE": {
+      "movie": "Titanic (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92868_20261113_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "01:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92898_20261113_EXECUTIVE": {
+      "movie": "Itllu Arjuna - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "03:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92901_20261113_EXECUTIVE": {
+      "movie": "John Doe - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "04:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92900_20261113_EXECUTIVE": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "06:45 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92869_20261113_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "08:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T02:02:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
