@@ -1294,9 +1294,9 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
+      "alerted_at": "2026-11-10T17:42:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45084_20261110_CLASSIC": {
       "movie": "Summer Holidays - Telugu",
@@ -1559,7 +1559,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T17:32:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92807_20261111_EXECUTIVE": {
@@ -2097,8 +2097,8 @@
       "time": "06:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-10T17:07:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T17:42:03+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15933_20261110_NORMAL": {
