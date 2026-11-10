@@ -2683,6 +2683,39 @@
       "alerted_at": "2026-11-11T02:52:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_45274_20261115_CLASSIC": {
+      "movie": "John Doe - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261115",
+      "time": "01:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T03:27:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45276_20261115_CLASSIC": {
+      "movie": "John Doe - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261115",
+      "time": "07:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T03:27:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45277_20261115_CLASSIC": {
+      "movie": "Itllu Arjuna - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261115",
+      "time": "10:55 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:27:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
