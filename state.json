@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44900_20261110_CLASSIC": {
@@ -2097,9 +2097,9 @@
       "time": "06:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-10T17:07:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_15933_20261110_NORMAL": {
       "movie": "Scene - Tamil",
