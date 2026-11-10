@@ -63,7 +63,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:47:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17035_20261110_SPECIAL": {
@@ -272,7 +272,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44950_20261110_CLASSIC": {
@@ -535,9 +535,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92729_20261110_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -546,9 +546,9 @@
       "time": "04:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-08T20:51:52+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92751_20261110_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -1262,7 +1262,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45083_20261110_CLASSIC": {
@@ -1889,7 +1889,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:57:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15742_20261110_NORMAL": {
@@ -2175,6 +2175,292 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:22:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92853_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92848_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:20 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92858_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92838_20261112_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:35 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92843_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:45 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92830_20261112_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92839_20261112_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "12:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92849_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "12:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92844_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92859_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92831_20261112_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "02:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92845_20261112_EXECUTIVE": {
+      "movie": "Aadarsha Kutumbam House No: 47 (AK 47) - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "04:15 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92840_20261112_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92855_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "04:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92860_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "04:40 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92832_20261112_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "06:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92841_20261112_EXECUTIVE": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92846_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92851_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "08:15 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92861_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "08:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92837_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "09:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92842_20261112_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92833_20261112_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92847_20261112_EXECUTIVE": {
+      "movie": "Udta Teer - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "10:55 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92862_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "11:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92857_20261112_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261112",
+      "time": "11:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T16:27:02+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
