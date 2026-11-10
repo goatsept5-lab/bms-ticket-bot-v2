@@ -1976,9 +1976,9 @@
       "time": "02:40 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-10T07:26:46+05:30",
+      "alerted_at": "2026-11-10T12:41:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15741_20261110_NORMAL": {
       "movie": "Scene - Tamil",
