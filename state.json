@@ -2353,6 +2353,39 @@
       "alerted_at": "2026-11-11T02:27:12+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92870_20261113_EXECUTIVE": {
+      "movie": "I Play Rocky - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:32:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92871_20261113_EXECUTIVE": {
+      "movie": "Wildwood - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:32:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92899_20261113_EXECUTIVE": {
+      "movie": "Ghost Soldier - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:32:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
