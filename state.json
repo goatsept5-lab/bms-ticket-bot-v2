@@ -536,7 +536,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92729_20261110_EXECUTIVE": {
@@ -1262,7 +1262,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:47:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45083_20261110_CLASSIC": {
@@ -1559,7 +1559,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:57:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92807_20261111_EXECUTIVE": {
@@ -2098,7 +2098,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T17:07:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15933_20261110_NORMAL": {
@@ -2130,8 +2130,8 @@
       "time": "07:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-10T16:37:03+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T17:17:02+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45105_20261111_CLASSIC": {
