@@ -1064,7 +1064,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92840_20261112_EXECUTIVE": {
@@ -2714,6 +2714,83 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-11T03:27:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92938_20261113_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92939_20261113_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92940_20261113_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "11:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92941_20261114_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92942_20261114_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "11:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92943_20261115_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92944_20261115_EXECUTIVE": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "11:35 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-11T03:37:12+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
