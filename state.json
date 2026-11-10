@@ -84,8 +84,8 @@
       "time": "04:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T15:22:02+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_17041_20261110_SPECIAL": {
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:02:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44968_20261110_CLASSIC": {
@@ -1867,7 +1867,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-09T14:47:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92827_20261110_EXECUTIVE": {
@@ -2131,6 +2131,50 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-10T15:07:02+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_45105_20261111_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:35 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:22:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45106_20261111_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "02:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:22:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45107_20261111_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "06:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:22:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45109_20261111_CLASSIC": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261111",
+      "time": "10:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:22:02+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
