@@ -1646,9 +1646,9 @@
       "time": "10:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "alerted_at": "2026-11-10T20:37:03+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15739_20261110_NORMAL": {
       "movie": "Scene - Tamil",
