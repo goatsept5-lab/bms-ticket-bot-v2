@@ -140,7 +140,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T20:27:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17042_20261110_SPECIAL": {
@@ -349,7 +349,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44919_20261110_CLASSIC": {
@@ -360,7 +360,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T20:02:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44952_20261110_CLASSIC": {
@@ -371,7 +371,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T20:32:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44970_20261110_CLASSIC": {
@@ -602,7 +602,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T20:07:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92761_20261110_EXECUTIVE": {
@@ -612,8 +612,8 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T23:07:10+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92752_20261110_EXECUTIVE": {
@@ -623,8 +623,8 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T23:07:10+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92771_20261110_EXECUTIVE": {
@@ -634,8 +634,8 @@
       "time": "10:55 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T23:07:10+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92711_20261110_EXECUTIVE": {
@@ -1856,7 +1856,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:52:04+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92829_20261111_EXECUTIVE": {
@@ -2859,6 +2859,28 @@
       "alerted_at": "2026-11-10T19:12:02+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15935_20261110_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261110",
+      "time": "11:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T23:07:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15752_20261110_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261110",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T23:07:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
