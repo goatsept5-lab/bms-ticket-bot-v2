@@ -30,7 +30,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T12:26:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17034_20261110_SPECIAL": {
@@ -52,7 +52,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T11:31:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17040_20261110_SPECIAL": {
@@ -84,9 +84,9 @@
       "time": "04:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-10T08:36:46+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17041_20261110_SPECIAL": {
       "movie": "Ramayana - Hindi",
@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T11:11:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44899_20261110_CLASSIC": {
@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-04T15:55:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_44917_20261110_CLASSIC": {
@@ -271,9 +271,9 @@
       "time": "03:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T15:55:36+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44950_20261110_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -282,9 +282,9 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T15:55:36+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44968_20261110_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -293,9 +293,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T15:55:36+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44900_20261110_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -470,7 +470,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T12:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92768_20261110_EXECUTIVE": {
@@ -558,7 +558,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-04T21:34:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92720_20261110_EXECUTIVE": {
@@ -1207,7 +1207,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T10:41:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45032_20261110_CLASSIC": {
@@ -1218,7 +1218,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T10:56:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45065_20261110_CLASSIC": {
@@ -1229,7 +1229,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T12:36:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45082_20261110_CLASSIC": {
@@ -1250,9 +1250,9 @@
       "time": "04:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45066_20261110_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1261,9 +1261,9 @@
       "time": "04:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45083_20261110_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1284,7 +1284,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-06T10:03:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45067_20261110_CLASSIC": {
@@ -1515,7 +1515,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T12:46:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92804_20261110_EXECUTIVE": {
@@ -1635,9 +1635,9 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-07T13:59:58+05:30",
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45097_20261110_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1977,7 +1977,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-10T12:41:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_15741_20261110_NORMAL": {
@@ -2010,7 +2010,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-10T07:26:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15743_20261110_NORMAL": {
@@ -2076,8 +2076,41 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-10T12:06:45+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_15747_20261110_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261110",
+      "time": "03:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:02:02+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15748_20261110_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261110",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:02:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15933_20261110_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261110",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-10T15:02:02+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
