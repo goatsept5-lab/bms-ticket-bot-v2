@@ -2287,6 +2287,72 @@
       "alerted_at": "2026-11-11T02:22:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_92970_20261114_EXECUTIVE": {
+      "movie": "I Play Rocky - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92971_20261114_EXECUTIVE": {
+      "movie": "Wildwood - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92972_20261114_EXECUTIVE": {
+      "movie": "Ghost Soldier - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92974_20261115_EXECUTIVE": {
+      "movie": "I Play Rocky - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "04:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92975_20261115_EXECUTIVE": {
+      "movie": "Wildwood - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "07:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92976_20261115_EXECUTIVE": {
+      "movie": "Ghost Soldier - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-11T02:27:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
