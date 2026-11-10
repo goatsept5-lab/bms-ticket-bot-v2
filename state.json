@@ -2130,8 +2130,8 @@
       "time": "07:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-10T15:57:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T16:37:03+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45105_20261111_CLASSIC": {
