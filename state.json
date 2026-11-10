@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T15:37:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44968_20261110_CLASSIC": {
@@ -887,8 +887,8 @@
       "time": "09:20 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:04:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T16:57:02+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92732_20261111_EXECUTIVE": {
@@ -1558,8 +1558,8 @@
       "time": "11:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-10T12:16:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-10T16:57:02+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92807_20261111_EXECUTIVE": {
@@ -2274,7 +2274,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92859_20261112_EXECUTIVE": {
