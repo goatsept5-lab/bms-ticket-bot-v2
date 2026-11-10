@@ -194,9 +194,9 @@
       "time": "09:50 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-04T15:55:36+05:30",
+      "alerted_at": "2026-11-10T07:51:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44966_20261110_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
