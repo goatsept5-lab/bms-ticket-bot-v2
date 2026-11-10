@@ -1676,12 +1676,12 @@
       "movie": "Scene - Tamil",
       "theatre": "Cinepolis: BSR Mall, OMR",
       "date": "20261110",
-      "time": "10:35 AM",
+      "time": "10:40 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-09T10:27:21+05:30",
+      "alerted_at": "2026-11-10T08:41:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15862_20261110_NORMAL": {
       "movie": "Ramayana (Tamil) - Tamil",
