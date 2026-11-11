@@ -1140,8 +1140,8 @@
       "time": "08:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-11T19:57:44+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92861_20261112_EXECUTIVE": {
@@ -1922,7 +1922,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92962_20261114_EXECUTIVE": {
@@ -3627,7 +3627,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17119_20261115_SPECIAL": {
@@ -3660,7 +3660,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17130_20261115_SPECIAL": {
@@ -3682,7 +3682,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17126_20261115_SPECIAL": {
@@ -3704,7 +3704,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17122_20261115_SPECIAL": {
