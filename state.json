@@ -360,7 +360,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-11T16:07:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92724_20261111_EXECUTIVE": {
@@ -381,9 +381,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:09:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-11T16:27:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92734_20261111_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -392,9 +392,9 @@
       "time": "04:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:09:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-11T16:27:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92755_20261111_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -1999,7 +1999,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T02:02:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92868_20261113_EXECUTIVE": {
@@ -2362,7 +2362,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-11T02:32:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92871_20261113_EXECUTIVE": {
@@ -2373,7 +2373,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-11T02:32:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92899_20261113_EXECUTIVE": {
@@ -2384,7 +2384,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-11T02:32:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45248_20261114_CLASSIC": {
