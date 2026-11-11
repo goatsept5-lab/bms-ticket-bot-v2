@@ -3123,6 +3123,39 @@
       "alerted_at": "2026-11-11T08:57:25+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92897_20261113_EXECUTIVE": {
+      "movie": "Black Gold - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T09:07:26+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92969_20261114_EXECUTIVE": {
+      "movie": "Black Gold - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T09:07:26+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92973_20261115_EXECUTIVE": {
+      "movie": "Black Gold - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T09:07:26+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
