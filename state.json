@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T19:52:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44925_20261111_CLASSIC": {
@@ -205,9 +205,9 @@
       "time": "10:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:04:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-11T21:42:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_44976_20261111_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -2846,7 +2846,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92924_20261114_EXECUTIVE": {
@@ -3760,6 +3760,28 @@
       "price": 54.35,
       "alerted_at": "2026-11-11T20:57:44+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_15938_20261111_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T21:42:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15932_20261111_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T21:42:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
