@@ -612,9 +612,9 @@
       "time": "04:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:28:45+05:30",
+      "alerted_at": "2026-11-11T14:27:34+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45072_20261111_CLASSIC": {
       "movie": "Scene - Tamil",
