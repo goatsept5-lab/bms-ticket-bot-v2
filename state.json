@@ -140,7 +140,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T16:42:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44924_20261111_CLASSIC": {
@@ -2912,7 +2912,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92918_20261114_EXECUTIVE": {
@@ -3395,8 +3395,8 @@
       "time": "06:40 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T17:47:44+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-11T18:32:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_15830_20261111_NORMAL": {
@@ -3407,6 +3407,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T17:47:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15822_20261111_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "07:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T18:32:45+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
