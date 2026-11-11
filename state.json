@@ -931,9 +931,9 @@
       "time": "10:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T15:22:02+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-11T21:07:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92853_20261112_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -3759,7 +3759,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T20:57:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
