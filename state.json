@@ -3200,6 +3200,28 @@
       "alerted_at": "2026-11-11T09:47:26+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_45161_20261113_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261113",
+      "time": "12:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T10:07:27+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45162_20261113_CLASSIC": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261113",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T10:07:27+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
