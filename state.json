@@ -30,7 +30,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T07:52:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_44972_20261111_CLASSIC": {
@@ -3197,8 +3197,8 @@
       "time": "10:40 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T09:47:26+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-11T10:37:33+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_45161_20261113_CLASSIC": {
@@ -3222,6 +3222,17 @@
       "alerted_at": "2026-11-11T10:07:27+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_15837_20261111_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "11:30 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T10:37:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
