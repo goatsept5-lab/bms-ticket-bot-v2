@@ -524,9 +524,9 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-06T10:03:46+05:30",
+      "alerted_at": "2026-11-11T10:42:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45087_20261111_CLASSIC": {
       "movie": "Disco - Malayalam",
@@ -3231,6 +3231,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T10:37:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15863_20261111_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "11:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T10:42:33+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
