@@ -3321,6 +3321,17 @@
       "alerted_at": "2026-11-11T14:22:33+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_15829_20261111_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "03:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T14:47:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
