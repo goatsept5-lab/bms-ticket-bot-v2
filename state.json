@@ -128,9 +128,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-05T00:04:36+05:30",
+      "alerted_at": "2026-11-11T14:22:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_44906_20261111_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T14:17:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45098_20261111_CLASSIC": {
@@ -1900,7 +1900,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92961_20261114_EXECUTIVE": {
@@ -2318,7 +2318,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-11T02:27:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92974_20261115_EXECUTIVE": {
@@ -3308,6 +3308,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-11T14:17:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15816_20261111_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261111",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-11T14:22:33+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
