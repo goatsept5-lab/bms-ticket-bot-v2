@@ -1965,8 +1965,8 @@
       "time": "09:25 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T16:24:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-12T17:54:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92904_20261114_EXECUTIVE": {
@@ -2848,6 +2848,28 @@
       "alerted_at": "2026-11-12T17:49:36+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92984_20261114_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261114",
+      "time": "09:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-12T17:54:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_92985_20261115_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261115",
+      "time": "09:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-12T17:54:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
