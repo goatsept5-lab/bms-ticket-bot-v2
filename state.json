@@ -162,7 +162,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T12:29:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92849_20261112_EXECUTIVE": {
@@ -239,7 +239,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T12:04:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92860_20261112_EXECUTIVE": {
@@ -316,7 +316,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92842_20261112_EXECUTIVE": {
@@ -481,7 +481,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-12T12:29:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45111_20261112_CLASSIC": {
@@ -492,7 +492,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-12T10:44:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45147_20261112_CLASSIC": {
@@ -503,7 +503,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-12T10:59:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45134_20261112_CLASSIC": {
@@ -525,7 +525,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-12T11:14:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45125_20261112_CLASSIC": {
@@ -547,7 +547,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:12:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45153_20261112_CLASSIC": {
@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:12:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45112_20261112_CLASSIC": {
@@ -568,9 +568,9 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T19:12:02+05:30",
+      "alerted_at": "2026-11-12T15:04:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45135_20261112_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -579,9 +579,9 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T19:12:02+05:30",
+      "alerted_at": "2026-11-12T15:04:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45117_20261112_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -590,9 +590,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T19:12:02+05:30",
+      "alerted_at": "2026-11-12T15:04:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45148_20261112_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -602,7 +602,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:12:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45126_20261112_CLASSIC": {
@@ -612,9 +612,9 @@
       "time": "04:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T19:12:02+05:30",
+      "alerted_at": "2026-11-12T15:04:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45154_20261112_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1999,7 +1999,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T10:29:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92924_20261114_EXECUTIVE": {
@@ -2702,9 +2702,9 @@
       "time": "04:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-12T11:54:32+05:30",
+      "alerted_at": "2026-11-12T15:04:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_15908_20261112_NORMAL": {
       "movie": "Scene - Tamil",
@@ -2714,7 +2714,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-12T11:54:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15894_20261112_NORMAL": {
@@ -2725,7 +2725,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-12T12:04:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
