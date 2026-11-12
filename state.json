@@ -128,9 +128,9 @@
       "time": "09:35 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-12T09:29:31+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92843_20261112_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -239,7 +239,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92860_20261112_EXECUTIVE": {
@@ -536,7 +536,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-10T19:12:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45143_20261112_CLASSIC": {
