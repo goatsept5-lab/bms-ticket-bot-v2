@@ -294,7 +294,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T17:39:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92861_20261112_EXECUTIVE": {
@@ -689,9 +689,9 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-10T19:12:02+05:30",
+      "alerted_at": "2026-11-12T17:44:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45155_20261112_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -2815,6 +2815,17 @@
       "alerted_at": "2026-11-12T17:39:35+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_92982_20261113_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261113",
+      "time": "09:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-12T17:44:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
