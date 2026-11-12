@@ -338,7 +338,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-10T16:27:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92847_20261112_EXECUTIVE": {
@@ -2681,6 +2681,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-12T10:44:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16077_20261112_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261112",
+      "time": "12:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-12T11:19:31+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
