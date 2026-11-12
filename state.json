@@ -426,7 +426,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-12T07:49:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45133_20261112_CLASSIC": {
@@ -2628,6 +2628,17 @@
       "alerted_at": "2026-11-12T08:09:31+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_45201_20261113_CLASSIC": {
+      "movie": "Gondhal (Tamil) - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261113",
+      "time": "05:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-12T08:29:31+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
