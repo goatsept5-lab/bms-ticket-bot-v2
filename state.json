@@ -63,7 +63,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T10:29:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92896_20261113_EXECUTIVE": {
@@ -128,9 +128,9 @@
       "time": "01:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:52:11+05:30",
+      "alerted_at": "2026-11-13T11:31:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45199_20261113_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -415,7 +415,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-13T10:27:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92900_20261113_EXECUTIVE": {
@@ -1547,8 +1547,8 @@
       "time": "12:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-13T10:12:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_45162_20261113_CLASSIC": {
@@ -1855,8 +1855,8 @@
       "time": "05:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-12T08:29:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45231_20261114_CLASSIC": {
@@ -1877,8 +1877,8 @@
       "time": "05:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-12T16:49:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45233_20261114_CLASSIC": {
@@ -1910,8 +1910,8 @@
       "time": "05:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-12T16:49:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45238_20261115_CLASSIC": {
@@ -2065,7 +2065,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T01:27:03+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45288_20261114_CLASSIC": {
@@ -2121,6 +2121,17 @@
       "price": 59.43,
       "alerted_at": "2026-11-13T10:17:13+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16087_20261113_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261113",
+      "time": "12:25 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
