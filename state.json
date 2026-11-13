@@ -1559,7 +1559,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T10:07:27+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17098_20261113_SPECIAL": {
@@ -2197,7 +2197,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16064_20261113_NORMAL": {
