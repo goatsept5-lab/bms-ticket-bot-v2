@@ -40,9 +40,9 @@
       "time": "04:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:12:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-13T16:31:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92890_20261113_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -745,7 +745,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-13T14:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92871_20261113_EXECUTIVE": {
@@ -2164,7 +2164,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16051_20261113_NORMAL": {
@@ -2196,8 +2196,8 @@
       "time": "06:50 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T16:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16064_20261113_NORMAL": {
@@ -2307,7 +2307,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-13T15:56:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
