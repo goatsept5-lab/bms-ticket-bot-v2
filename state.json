@@ -1273,7 +1273,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92935_20261114_EXECUTIVE": {
@@ -2285,7 +2285,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16086_20261113_NORMAL": {
@@ -2329,6 +2329,17 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-13T21:02:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16094_20261113_NORMAL": {
+      "movie": "Itllu Arjuna - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261113",
+      "time": "10:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-13T21:22:13+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
