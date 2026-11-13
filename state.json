@@ -469,8 +469,8 @@
       "time": "10:20 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-11T02:22:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T14:31:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45230_20261114_CLASSIC": {
@@ -744,9 +744,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-11T20:57:44+05:30",
+      "alerted_at": "2026-11-13T14:31:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92871_20261113_EXECUTIVE": {
       "movie": "Wildwood - English",
