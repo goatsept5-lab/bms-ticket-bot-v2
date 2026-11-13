@@ -1514,9 +1514,9 @@
       "time": "05:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T09:12:27+05:30",
+      "alerted_at": "2026-11-13T15:01:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45255_20261114_CLASSIC": {
       "movie": "Black Gold - Tamil",
