@@ -469,8 +469,8 @@
       "time": "10:20 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-13T14:31:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:57:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45230_20261114_CLASSIC": {
@@ -2230,7 +2230,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16093_20261113_NORMAL": {
@@ -2240,8 +2240,8 @@
       "time": "10:35 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:57:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16076_20261113_NORMAL": {
@@ -2274,7 +2274,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16017_20261114_NORMAL": {
