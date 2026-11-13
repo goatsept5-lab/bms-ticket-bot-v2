@@ -2328,8 +2328,8 @@
       "time": "11:00 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-13T21:02:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T22:22:12+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16094_20261113_NORMAL": {
