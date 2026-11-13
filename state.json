@@ -95,9 +95,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:52:11+05:30",
+      "alerted_at": "2026-11-13T10:27:13+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45179_20261113_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -414,8 +414,8 @@
       "time": "04:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-13T07:37:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T10:27:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92900_20261113_EXECUTIVE": {
@@ -2120,7 +2120,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-13T10:17:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
