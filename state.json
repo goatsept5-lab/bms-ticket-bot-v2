@@ -2340,8 +2340,41 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-13T21:22:13+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "ACON_48640_20261113_PEARL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261113",
+      "time": "10:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-13T21:47:12+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48651_20261114_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "01:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-13T21:47:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48647_20261114_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "04:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-13T21:47:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
