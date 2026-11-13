@@ -107,7 +107,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T10:32:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45159_20261113_CLASSIC": {
@@ -1592,7 +1592,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T12:26:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17085_20261113_SPECIAL": {
@@ -2031,8 +2031,8 @@
       "time": "11:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T18:44:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T13:16:46+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92991_20261115_EXECUTIVE": {
