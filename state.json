@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T01:52:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45160_20261113_CLASSIC": {
@@ -414,9 +414,9 @@
       "time": "04:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-13T13:46:45+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-13T16:41:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92900_20261113_EXECUTIVE": {
       "movie": "Bouma - Malayalam",
@@ -2197,7 +2197,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T16:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16064_20261113_NORMAL": {
