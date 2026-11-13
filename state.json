@@ -2298,6 +2298,17 @@
       "alerted_at": "2026-11-13T15:46:46+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16101_20261113_NORMAL": {
+      "movie": "Melcow Pondicherry - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261113",
+      "time": "04:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-13T15:56:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
