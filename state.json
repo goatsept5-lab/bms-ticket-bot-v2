@@ -41,7 +41,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-13T16:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92890_20261113_EXECUTIVE": {
@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T16:56:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45160_20261113_CLASSIC": {
@@ -272,7 +272,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T01:52:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92953_20261114_EXECUTIVE": {
@@ -415,7 +415,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-13T16:41:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92900_20261113_EXECUTIVE": {
@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-13T14:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45230_20261114_CLASSIC": {
@@ -1130,7 +1130,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-12T19:09:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92941_20261114_EXECUTIVE": {
@@ -1515,7 +1515,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:01:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45255_20261114_CLASSIC": {
@@ -1569,8 +1569,8 @@
       "time": "07:15 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17084_20261113_SPECIAL": {
@@ -1602,8 +1602,8 @@
       "time": "10:55 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17118_20261114_SPECIAL": {
@@ -1646,8 +1646,8 @@
       "time": "12:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17110_20261114_SPECIAL": {
@@ -1712,8 +1712,8 @@
       "time": "10:25 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17104_20261114_SPECIAL": {
@@ -1856,7 +1856,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45231_20261114_CLASSIC": {
@@ -1943,8 +1943,8 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T17:54:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92985_20261115_EXECUTIVE": {
@@ -1966,7 +1966,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T18:09:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15991_20261114_NORMAL": {
@@ -2241,7 +2241,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16076_20261113_NORMAL": {
@@ -2252,7 +2252,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16053_20261113_NORMAL": {
@@ -2263,7 +2263,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16018_20261114_NORMAL": {
@@ -2308,6 +2308,17 @@
       "price": 59.43,
       "alerted_at": "2026-11-13T15:56:45+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16100_20261113_NORMAL": {
+      "movie": "Gondhal (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261113",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
