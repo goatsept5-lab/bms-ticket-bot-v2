@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T10:42:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45193_20261113_CLASSIC": {
@@ -1481,9 +1481,9 @@
       "time": "01:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T09:07:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-13T13:26:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92969_20261114_EXECUTIVE": {
       "movie": "Black Gold - Tamil",
@@ -1933,7 +1933,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-13T13:11:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92984_20261114_EXECUTIVE": {
@@ -2032,7 +2032,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-13T13:16:46+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92991_20261115_EXECUTIVE": {
@@ -2142,7 +2142,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T12:56:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
