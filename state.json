@@ -96,7 +96,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T10:27:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45179_20261113_CLASSIC": {
@@ -392,9 +392,9 @@
       "time": "01:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:02:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-13T13:11:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92898_20261113_EXECUTIVE": {
       "movie": "Itllu Arjuna - Telugu",
@@ -1932,8 +1932,8 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T17:44:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T13:11:45+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92984_20261114_EXECUTIVE": {
@@ -2032,7 +2032,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-12T18:44:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92991_20261115_EXECUTIVE": {
