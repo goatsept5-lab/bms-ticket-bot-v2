@@ -2320,6 +2320,17 @@
       "alerted_at": "2026-11-13T19:52:13+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "ACON_48632_20261113_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261113",
+      "time": "11:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-13T20:57:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
