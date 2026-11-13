@@ -7,9 +7,9 @@
       "time": "12:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T19:19:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-13T12:36:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92885_20261113_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -447,9 +447,9 @@
       "time": "02:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:22:11+05:30",
+      "alerted_at": "2026-11-13T12:36:45+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45197_20261113_CLASSIC": {
       "movie": "Bouma - Malayalam",
@@ -2130,8 +2130,8 @@
       "time": "12:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-13T11:31:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-13T12:36:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
