@@ -139,9 +139,9 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:22:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T10:40:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_45222_20261114_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -161,9 +161,9 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:22:11+05:30",
+      "alerted_at": "2026-11-14T10:40:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45254_20261114_CLASSIC": {
       "movie": "Titanic (Tamil) - Tamil",
@@ -1118,9 +1118,9 @@
       "time": "12:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-13T19:52:13+05:30",
+      "alerted_at": "2026-11-14T10:40:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17110_20261114_SPECIAL": {
       "movie": "Scene - Tamil",
@@ -1559,7 +1559,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-13T21:47:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48647_20261114_PEARL": {
@@ -1625,7 +1625,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-14T09:15:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92995_20261114_EXECUTIVE": {
@@ -1713,7 +1713,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:40:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16161_20261114_NORMAL": {
@@ -1746,7 +1746,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16106_20261114_NORMAL": {
@@ -1756,8 +1756,8 @@
       "time": "06:45 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T10:15:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T10:40:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15975_20261114_NORMAL": {
