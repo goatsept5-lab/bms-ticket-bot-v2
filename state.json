@@ -700,9 +700,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-11T07:57:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T08:55:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92942_20261114_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -799,9 +799,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T08:55:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92934_20261114_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
