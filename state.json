@@ -62,8 +62,8 @@
       "time": "08:05 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92965_20261115_EXECUTIVE": {
@@ -173,7 +173,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45223_20261114_CLASSIC": {
@@ -184,7 +184,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T13:40:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45214_20261114_CLASSIC": {
@@ -195,7 +195,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T14:05:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45232_20261114_CLASSIC": {
@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T02:22:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92970_20261114_EXECUTIVE": {
@@ -304,9 +304,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-13T16:16:45+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92971_20261114_EXECUTIVE": {
       "movie": "Wildwood - English",
@@ -1042,7 +1042,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-14T13:25:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92973_20261115_EXECUTIVE": {
@@ -1338,9 +1338,9 @@
       "time": "05:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-13T11:31:45+05:30",
+      "alerted_at": "2026-11-14T15:29:30+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45233_20261114_CLASSIC": {
       "movie": "Ramayana (Tamil) - Tamil",
@@ -1372,7 +1372,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-13T11:31:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45238_20261115_CLASSIC": {
@@ -1492,9 +1492,9 @@
       "time": "04:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-12T19:19:36+05:30",
+      "alerted_at": "2026-11-14T15:29:30+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45289_20261114_CLASSIC": {
       "movie": "Ramayana (Tamil) - Tamil",
@@ -1580,8 +1580,8 @@
       "time": "07:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-13T23:27:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16105_20261114_NORMAL": {
@@ -1635,9 +1635,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-14T08:40:55+05:30",
+      "alerted_at": "2026-11-14T15:29:30+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92994_20261115_EXECUTIVE": {
       "movie": "Ghost Soldier - English",
@@ -1812,7 +1812,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15974_20261114_NORMAL": {
@@ -2010,6 +2010,336 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T13:55:57+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242235_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "04:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242457_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "04:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242467_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "04:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242374_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "05:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242506_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "05:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242441_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "05:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242500_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "05:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242504_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "05:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242319_20261114_SECOND CLASS": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "06:30 PM",
+      "category": "SECOND CLASS",
+      "price": 59.44,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242388_20261114_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "07:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242236_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "07:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242458_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "07:45 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242468_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "08:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242375_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "08:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242442_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "08:45 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242486_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "09:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242505_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "09:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242325_20261114_SECOND CLASS": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "10:30 PM",
+      "category": "SECOND CLASS",
+      "price": 59.44,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242237_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "10:40 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242389_20261114_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242459_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242338_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242376_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:40 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242443_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:55 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242469_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:58 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242488_20261114_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261114",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48691_20261114_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "04:25 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48658_20261114_PEARL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "04:35 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16026_20261115_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261115",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16047_20261115_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261115",
+      "time": "08:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T15:29:30+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
