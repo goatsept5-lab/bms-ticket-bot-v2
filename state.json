@@ -2164,7 +2164,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T18:34:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242442_20261114_SECOND CLASS": {
@@ -2218,9 +2218,9 @@
       "time": "10:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-14T17:29:33+05:30",
+      "alerted_at": "2026-11-14T20:44:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242389_20261114_SECOND CLASS": {
       "movie": "Ramayana (Tamil) - Tamil",
@@ -2285,7 +2285,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242488_20261114_SECOND CLASS": {
