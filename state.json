@@ -40,9 +40,9 @@
       "time": "04:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T15:49:30+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92955_20261114_EXECUTIVE": {
       "movie": "Bouma - Malayalam",
@@ -678,8 +678,8 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T03:27:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T15:49:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45277_20261115_CLASSIC": {
@@ -2362,7 +2362,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:39:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
