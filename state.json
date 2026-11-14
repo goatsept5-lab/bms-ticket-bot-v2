@@ -52,7 +52,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-14T18:39:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92963_20261114_EXECUTIVE": {
@@ -1196,7 +1196,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T18:29:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17133_20261115_SPECIAL": {
@@ -1415,8 +1415,8 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T18:09:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T19:34:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15991_20261114_NORMAL": {
