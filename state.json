@@ -239,7 +239,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T16:09:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45256_20261114_CLASSIC": {
@@ -843,8 +843,8 @@
       "time": "08:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-14T17:09:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T17:29:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92928_20261114_EXECUTIVE": {
@@ -2218,8 +2218,8 @@
       "time": "10:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-14T17:09:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T17:29:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MAYJ_242389_20261114_SECOND CLASS": {
