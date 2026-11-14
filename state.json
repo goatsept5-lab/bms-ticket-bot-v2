@@ -392,9 +392,9 @@
       "time": "01:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:52:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_45250_20261114_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1140,8 +1140,8 @@
       "time": "03:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17106_20261114_SPECIAL": {
@@ -1195,8 +1195,8 @@
       "time": "10:55 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17133_20261115_SPECIAL": {
@@ -1239,8 +1239,8 @@
       "time": "12:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17130_20261115_SPECIAL": {
@@ -1250,8 +1250,8 @@
       "time": "03:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17135_20261115_SPECIAL": {
@@ -1272,8 +1272,8 @@
       "time": "03:55 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17136_20261115_SPECIAL": {
@@ -1790,7 +1790,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-14T11:35:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16092_20261114_NORMAL": {
