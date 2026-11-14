@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T02:22:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45234_20261114_CLASSIC": {
@@ -767,7 +767,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:25:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92906_20261114_EXECUTIVE": {
@@ -1107,8 +1107,8 @@
       "time": "12:30 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:55:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17101_20261114_SPECIAL": {
@@ -1328,7 +1328,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T10:10:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45271_20261114_CLASSIC": {
@@ -1866,8 +1866,8 @@
       "time": "03:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:55:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15986_20261114_NORMAL": {
