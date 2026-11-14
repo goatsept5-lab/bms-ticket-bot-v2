@@ -778,7 +778,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:10:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92914_20261114_EXECUTIVE": {
@@ -1426,8 +1426,8 @@
       "time": "08:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-12T20:39:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92987_20261115_EXECUTIVE": {
@@ -1724,6 +1724,116 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:40:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15972_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "04:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15990_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "05:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16106_20261114_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "06:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15975_20261114_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15983_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "07:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15988_20261114_NORMAL": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16092_20261114_NORMAL": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15992_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "11:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15974_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "11:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16038_20261115_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261115",
+      "time": "09:20 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:50:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
