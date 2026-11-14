@@ -1493,7 +1493,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45289_20261114_CLASSIC": {
@@ -1801,7 +1801,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_15992_20261114_NORMAL": {
@@ -2219,7 +2219,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242389_20261114_SECOND CLASS": {
