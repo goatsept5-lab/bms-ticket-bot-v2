@@ -3125,5 +3125,6 @@
       "soon_alerted": false
     }
   },
-  "fail_streak": 2
+  "fail_streak": 3,
+  "outage_alerted": true
 }
