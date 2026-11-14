@@ -766,9 +766,9 @@
       "time": "12:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-14T10:25:56+05:30",
+      "alerted_at": "2026-11-14T10:45:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92906_20261114_EXECUTIVE": {
       "movie": "Scene - Tamil",
