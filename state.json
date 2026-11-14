@@ -1833,8 +1833,8 @@
       "time": "09:20 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T20:09:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16089_20261114_NORMAL": {
@@ -2175,7 +2175,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242486_20261114_SECOND CLASS": {
@@ -2296,7 +2296,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48691_20261114_PEARL": {
@@ -3088,6 +3088,17 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-14T19:29:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16103_20261114_NORMAL": {
+      "movie": "Gondhal (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T20:09:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
