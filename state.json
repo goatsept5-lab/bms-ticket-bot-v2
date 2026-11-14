@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T13:05:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45234_20261114_CLASSIC": {
@@ -393,7 +393,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T13:05:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45250_20261114_CLASSIC": {
@@ -1140,9 +1140,9 @@
       "time": "03:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "alerted_at": "2026-11-14T13:45:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17106_20261114_SPECIAL": {
       "movie": "Scene - Tamil",
@@ -1977,6 +1977,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:45:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45297_20261115_CLASSIC": {
+      "movie": "John Doe - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261115",
+      "time": "10:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T13:45:56+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
