@@ -1185,7 +1185,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-13T19:52:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17104_20261114_SPECIAL": {
@@ -2032,7 +2032,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242467_20261114_SECOND CLASS": {
@@ -2351,7 +2351,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-14T15:39:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242425_20261114_SECOND CLASS": {
@@ -2362,6 +2362,17 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T16:09:30+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48652_20261114_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "07:55 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-14T16:49:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
