@@ -238,8 +238,8 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T12:45:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T16:09:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45256_20261114_CLASSIC": {
@@ -426,7 +426,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-11T02:52:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45235_20261115_CLASSIC": {
@@ -2361,8 +2361,8 @@
       "time": "08:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-14T15:39:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T16:09:30+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
