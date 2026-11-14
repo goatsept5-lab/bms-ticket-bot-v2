@@ -1536,9 +1536,9 @@
       "time": "08:45 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-13T15:06:46+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T07:55:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_16017_20261114_NORMAL": {
       "movie": "Ramayana (Tamil) - Tamil",
