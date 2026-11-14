@@ -62,9 +62,9 @@
       "time": "08:05 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T19:29:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92965_20261115_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -777,9 +777,9 @@
       "time": "08:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-14T10:10:55+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T19:29:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92914_20261114_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -1910,8 +1910,8 @@
       "time": "11:55 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T19:29:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16162_20261115_NORMAL": {
@@ -2329,7 +2329,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T15:29:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16047_20261115_NORMAL": {
@@ -3066,6 +3066,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T19:19:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_15976_20261114_NORMAL": {
+      "movie": "Jailer 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T19:29:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16163_20261115_NORMAL": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261115",
+      "time": "07:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-14T19:29:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
