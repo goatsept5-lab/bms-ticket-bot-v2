@@ -1660,6 +1660,50 @@
       "alerted_at": "2026-11-14T08:40:55+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16016_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "10:40 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:25:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16115_20261114_NORMAL": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "11:10 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-14T09:25:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16104_20261114_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "11:20 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:25:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_15981_20261114_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "11:55 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T09:25:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
