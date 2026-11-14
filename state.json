@@ -239,7 +239,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T02:22:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45256_20261114_CLASSIC": {
@@ -393,7 +393,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:10:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45250_20261114_CLASSIC": {
@@ -766,8 +766,8 @@
       "time": "12:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-14T11:35:56+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T12:25:57+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92906_20261114_EXECUTIVE": {
@@ -844,7 +844,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_92928_20261114_EXECUTIVE": {
@@ -1130,7 +1130,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T08:40:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17114_20261114_SPECIAL": {
@@ -1570,7 +1570,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-13T21:47:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16036_20261115_NORMAL": {
@@ -1790,7 +1790,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-14T12:15:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16092_20261114_NORMAL": {
@@ -1846,6 +1846,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-14T10:25:56+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_15985_20261114_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261114",
+      "time": "01:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-14T12:25:57+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
