@@ -2175,7 +2175,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T20:19:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242486_20261114_SECOND CLASS": {
@@ -3100,6 +3100,28 @@
       "price": 54.35,
       "alerted_at": "2026-11-14T20:09:32+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "ACON_48649_20261114_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "11:05 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-14T20:59:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48660_20261114_PEARL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261114",
+      "time": "11:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-14T20:59:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
