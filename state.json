@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:45:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45208_20261115_CLASSIC": {
@@ -1834,7 +1834,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16089_20261114_NORMAL": {
@@ -1900,7 +1900,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16034_20261115_NORMAL": {
@@ -1977,7 +1977,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:45:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45297_20261115_CLASSIC": {
@@ -2142,7 +2142,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T17:49:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242468_20261114_SECOND CLASS": {
