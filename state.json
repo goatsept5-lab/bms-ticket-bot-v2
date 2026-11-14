@@ -249,9 +249,9 @@
       "time": "07:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-11T02:22:11+05:30",
+      "alerted_at": "2026-11-14T17:49:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45225_20261114_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -2076,7 +2076,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-14T15:39:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242500_20261114_SECOND CLASS": {
@@ -2141,9 +2141,9 @@
       "time": "07:45 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-14T15:29:30+05:30",
+      "alerted_at": "2026-11-14T17:49:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242468_20261114_SECOND CLASS": {
       "movie": "Scene - Tamil",
@@ -2373,7 +2373,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-14T16:49:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
