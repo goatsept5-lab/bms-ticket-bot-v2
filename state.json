@@ -29,8 +29,8 @@
       "time": "03:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T09:15:56+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_92962_20261114_EXECUTIVE": {
@@ -755,9 +755,9 @@
       "time": "09:25 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-12T20:29:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T09:15:56+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92904_20261114_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -1624,9 +1624,9 @@
       "time": "11:15 AM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-14T08:40:55+05:30",
+      "alerted_at": "2026-11-14T09:15:56+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_92995_20261114_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
