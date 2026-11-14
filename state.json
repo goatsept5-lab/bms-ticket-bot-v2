@@ -238,9 +238,9 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T16:09:30+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-14T19:09:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_45256_20261114_CLASSIC": {
       "movie": "Bouma - Malayalam",
@@ -1811,8 +1811,8 @@
       "time": "11:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T09:50:55+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-14T19:09:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_15974_20261114_NORMAL": {
@@ -1889,7 +1889,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16107_20261115_NORMAL": {
@@ -1911,7 +1911,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-14T12:35:57+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16162_20261115_NORMAL": {
@@ -2373,7 +2373,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-14T17:59:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45414_20261117_CLASSIC": {
