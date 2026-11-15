@@ -2494,7 +2494,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-15T15:39:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242472_20261115_SECOND CLASS": {
@@ -2505,7 +2505,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-15T15:49:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242503_20261115_SECOND CLASS": {
@@ -2658,8 +2658,8 @@
       "time": "09:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:29:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T17:59:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46350_20261116_CLASSIC": {
