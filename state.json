@@ -282,8 +282,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T15:59:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T16:19:13+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45239_20261115_CLASSIC": {
@@ -437,7 +437,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-15T15:19:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92931_20261115_EXECUTIVE": {
@@ -2626,6 +2626,17 @@
       "category": "DIAMOND 3D",
       "price": 30.0,
       "alerted_at": "2026-11-15T16:09:13+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46341_20261116_CLASSIC": {
+      "movie": "John Doe - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261116",
+      "time": "04:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-15T16:19:13+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
