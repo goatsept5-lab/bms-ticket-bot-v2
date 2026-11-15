@@ -2406,8 +2406,162 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-15T14:08:56+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "MAYJ_242445_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "02:25 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242326_20261115_SECOND CLASS": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "02:30 PM",
+      "category": "SECOND CLASS",
+      "price": 59.44,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MAYJ_242391_20261115_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "03:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242240_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "04:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242462_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "04:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242379_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242508_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242446_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242472_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:45 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242503_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242511_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "05:50 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242321_20261115_SECOND CLASS": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "06:30 PM",
+      "category": "SECOND CLASS",
+      "price": 59.44,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242392_20261115_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "07:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242241_20261115_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261115",
+      "time": "07:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
