@@ -2560,7 +2560,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-15T17:44:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48683_20261115_PEARL": {
@@ -2658,8 +2658,8 @@
       "time": "09:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-15T18:19:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T18:39:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46350_20261116_CLASSIC": {
