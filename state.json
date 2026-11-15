@@ -2615,7 +2615,7 @@
       "category": "DIAMOND 3D",
       "price": 30.0,
       "alerted_at": "2026-11-15T16:09:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48714_20261117_DIAMOND 3D": {
@@ -2626,7 +2626,7 @@
       "category": "DIAMOND 3D",
       "price": 30.0,
       "alerted_at": "2026-11-15T16:09:13+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46341_20261116_CLASSIC": {
