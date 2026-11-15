@@ -337,9 +337,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-11T07:57:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T07:43:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92944_20261115_EXECUTIVE": {
       "movie": "Ramayana - Hindi",
@@ -1592,7 +1592,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-15T07:23:38+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16126_20261115_NORMAL": {
