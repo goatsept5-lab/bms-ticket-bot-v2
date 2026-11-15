@@ -139,9 +139,9 @@
       "time": "12:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:52:11+05:30",
+      "alerted_at": "2026-11-15T10:43:54+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45252_20261115_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -579,9 +579,9 @@
       "time": "12:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-14T12:10:56+05:30",
+      "alerted_at": "2026-11-15T10:43:54+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17130_20261115_SPECIAL": {
       "movie": "Scene - Tamil",
