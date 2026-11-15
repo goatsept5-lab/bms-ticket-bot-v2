@@ -426,7 +426,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-15T11:23:55+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92958_20261115_EXECUTIVE": {
@@ -1294,8 +1294,8 @@
       "time": "11:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45344_20261118_CLASSIC": {
@@ -1360,8 +1360,8 @@
       "time": "01:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45377_20261118_CLASSIC": {
@@ -1404,8 +1404,8 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45411_20261118_CLASSIC": {
@@ -1481,8 +1481,8 @@
       "time": "07:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45422_20261118_CLASSIC": {
@@ -1514,8 +1514,8 @@
       "time": "09:40 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_45355_20261118_CLASSIC": {
@@ -2175,6 +2175,50 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-15T12:03:56+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48677_20261115_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261115",
+      "time": "01:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "PVHR_45324_20261116_CLASSIC": {
+      "movie": "Black Gold - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261116",
+      "time": "04:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45325_20261116_CLASSIC": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261116",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_45326_20261116_CLASSIC": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261116",
+      "time": "09:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-15T12:18:55+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
