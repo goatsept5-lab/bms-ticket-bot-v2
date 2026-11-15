@@ -635,7 +635,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-15T14:53:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17137_20261115_SPECIAL": {
@@ -2606,6 +2606,28 @@
       "alerted_at": "2026-11-15T15:59:12+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48712_20261117_DIAMOND 3D": {
+      "movie": "Ramayana (3D)(Telugu) - Telugu",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261117",
+      "time": "11:15 AM",
+      "category": "DIAMOND 3D",
+      "price": 30.0,
+      "alerted_at": "2026-11-15T16:09:13+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48714_20261117_DIAMOND 3D": {
+      "movie": "Ramayana (3D)(Hindi) - Hindi",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261117",
+      "time": "06:30 PM",
+      "category": "DIAMOND 3D",
+      "price": 30.0,
+      "alerted_at": "2026-11-15T16:09:13+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
