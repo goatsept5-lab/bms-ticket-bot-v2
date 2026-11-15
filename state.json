@@ -95,9 +95,9 @@
       "time": "09:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:52:11+05:30",
+      "alerted_at": "2026-11-15T07:33:38+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45251_20261115_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -557,9 +557,9 @@
       "time": "09:30 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-11T19:27:45+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T07:33:38+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_17134_20261115_SPECIAL": {
       "movie": "Mookuthi Amman 2 - Tamil",
