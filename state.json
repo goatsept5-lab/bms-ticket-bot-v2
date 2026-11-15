@@ -7,9 +7,9 @@
       "time": "01:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T11:23:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92966_20261115_EXECUTIVE": {
       "movie": "John Doe - Tamil",
@@ -129,7 +129,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-15T10:33:54+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45218_20261115_CLASSIC": {
@@ -414,9 +414,9 @@
       "time": "12:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T11:23:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92936_20261115_EXECUTIVE": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -425,9 +425,9 @@
       "time": "01:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T11:23:55+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92958_20261115_EXECUTIVE": {
       "movie": "Itllu Arjuna - Telugu",
@@ -1690,9 +1690,9 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-15T10:28:54+05:30",
+      "alerted_at": "2026-11-15T11:23:55+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
