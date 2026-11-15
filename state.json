@@ -18,9 +18,9 @@
       "time": "04:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T01:57:11+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T16:04:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92967_20261115_EXECUTIVE": {
       "movie": "Jailer 2 - Tamil",
@@ -40,9 +40,9 @@
       "time": "04:30 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-11T02:27:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T16:04:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92975_20261115_EXECUTIVE": {
       "movie": "Wildwood - English",
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-15T15:59:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45239_20261115_CLASSIC": {
@@ -447,9 +447,9 @@
       "time": "04:15 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T16:04:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92921_20261115_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -458,9 +458,9 @@
       "time": "04:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T16:04:13+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92959_20261115_EXECUTIVE": {
       "movie": "Bouma - Malayalam",
