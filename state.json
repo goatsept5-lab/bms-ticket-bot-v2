@@ -18,8 +18,8 @@
       "time": "04:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:04:13+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T16:54:12+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_92967_20261115_EXECUTIVE": {
@@ -205,9 +205,9 @@
       "time": "06:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-11T02:52:11+05:30",
+      "alerted_at": "2026-11-15T16:54:12+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45220_20261115_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-11T02:52:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45229_20261115_CLASSIC": {
@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-11T02:52:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_45261_20261115_CLASSIC": {
@@ -2604,7 +2604,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-15T15:59:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48712_20261117_DIAMOND 3D": {
