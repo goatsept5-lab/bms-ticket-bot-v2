@@ -469,9 +469,9 @@
       "time": "06:45 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-11T05:22:26+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T18:44:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_92912_20261115_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -2538,7 +2538,7 @@
       "category": "SECOND CLASS",
       "price": 59.44,
       "alerted_at": "2026-11-15T16:34:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242392_20261115_SECOND CLASS": {
@@ -2559,8 +2559,8 @@
       "time": "07:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-15T17:44:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-15T18:44:12+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48683_20261115_PEARL": {
@@ -2659,7 +2659,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-15T18:39:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46350_20261116_CLASSIC": {
