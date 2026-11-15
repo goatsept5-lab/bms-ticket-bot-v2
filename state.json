@@ -238,9 +238,9 @@
       "time": "07:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T14:53:58+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-15T17:44:12+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_45260_20261115_CLASSIC": {
       "movie": "Bouma - Malayalam",
@@ -690,7 +690,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-15T17:29:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_92985_20261115_EXECUTIVE": {
@@ -2472,7 +2472,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-15T15:24:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242508_20261115_SECOND CLASS": {
@@ -2483,7 +2483,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-15T15:24:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242446_20261115_SECOND CLASS": {
@@ -2559,9 +2559,9 @@
       "time": "07:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-15T14:28:58+05:30",
+      "alerted_at": "2026-11-15T17:44:12+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48683_20261115_PEARL": {
       "movie": "Scene - Tamil",
@@ -2659,7 +2659,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-15T16:29:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46350_20261116_CLASSIC": {
