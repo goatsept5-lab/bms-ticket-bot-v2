@@ -2021,7 +2021,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-16T19:09:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16160_20261116_NORMAL": {
@@ -2031,8 +2031,8 @@
       "time": "08:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-16T19:49:01+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-16T20:19:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_17141_20261116_SPECIAL": {
@@ -2045,6 +2045,17 @@
       "alerted_at": "2026-11-16T20:09:01+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16152_20261116_NORMAL": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "09:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-16T20:19:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
