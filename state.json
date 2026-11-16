@@ -1539,6 +1539,17 @@
       "alerted_at": "2026-11-15T21:41:53+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93099_20261116_EXECUTIVE": {
+      "movie": "John Doe - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261116",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-16T08:52:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
