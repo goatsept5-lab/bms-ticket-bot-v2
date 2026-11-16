@@ -943,7 +943,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-15T12:03:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93030_20261117_EXECUTIVE": {
@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-15T12:03:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93032_20261117_EXECUTIVE": {
@@ -1009,7 +1009,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-15T12:03:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93033_20261118_EXECUTIVE": {
@@ -1152,7 +1152,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T14:17:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93002_20261116_EXECUTIVE": {
@@ -1273,7 +1273,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-15T13:23:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93012_20261116_EXECUTIVE": {
@@ -1669,7 +1669,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:07:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93080_20261117_EXECUTIVE": {
@@ -1910,8 +1910,8 @@
       "time": "03:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-16T14:07:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-16T14:59:01+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16148_20261116_NORMAL": {
@@ -1922,6 +1922,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-16T14:37:20+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16171_20261116_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "03:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-16T14:59:01+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
