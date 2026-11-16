@@ -1349,9 +1349,9 @@
       "time": "10:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:29:12+05:30",
+      "alerted_at": "2026-11-16T08:32:08+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46351_20261116_CLASSIC": {
       "movie": "John Doe - Tamil",
