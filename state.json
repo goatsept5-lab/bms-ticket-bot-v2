@@ -822,7 +822,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-16T18:59:02+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45334_20261116_CLASSIC": {
@@ -2010,6 +2010,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-16T18:59:02+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16165_20261116_NORMAL": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "08:00 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-16T19:09:01+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16160_20261116_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "08:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-16T19:09:01+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
