@@ -788,9 +788,9 @@
       "time": "01:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T11:48:55+05:30",
+      "alerted_at": "2026-11-16T11:12:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45336_20261116_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -855,7 +855,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T08:37:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93026_20261116_EXECUTIVE": {
@@ -1360,9 +1360,9 @@
       "time": "01:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:29:12+05:30",
+      "alerted_at": "2026-11-16T11:12:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46342_20261116_CLASSIC": {
       "movie": "John Doe - Tamil",
