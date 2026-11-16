@@ -657,7 +657,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-16T10:32:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45316_20261116_CLASSIC": {
@@ -789,7 +789,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-16T11:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_45336_20261116_CLASSIC": {
@@ -1856,6 +1856,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:47:20+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16155_20261116_NORMAL": {
+      "movie": "Ramayana - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "02:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-16T13:17:19+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
