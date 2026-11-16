@@ -1713,7 +1713,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93089_20261118_EXECUTIVE": {
@@ -1746,7 +1746,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93090_20261118_EXECUTIVE": {
@@ -1768,7 +1768,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93058_20261118_EXECUTIVE": {
@@ -1779,7 +1779,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93059_20261118_EXECUTIVE": {
@@ -1801,7 +1801,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93091_20261118_EXECUTIVE": {
@@ -2032,8 +2032,19 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-16T19:49:01+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "MCSK_17141_20261116_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261116",
+      "time": "07:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-16T20:09:01+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
