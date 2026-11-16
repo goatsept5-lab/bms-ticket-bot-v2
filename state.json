@@ -810,9 +810,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T11:48:55+05:30",
+      "alerted_at": "2026-11-16T14:22:19+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45333_20261116_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1107,9 +1107,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T12:18:55+05:30",
+      "alerted_at": "2026-11-16T14:22:19+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45325_20261116_CLASSIC": {
       "movie": "Bouma - Malayalam",
