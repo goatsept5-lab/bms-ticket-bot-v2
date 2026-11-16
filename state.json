@@ -678,9 +678,9 @@
       "time": "03:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T11:38:55+05:30",
+      "alerted_at": "2026-11-16T13:22:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45307_20261116_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -1228,9 +1228,9 @@
       "time": "03:20 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-15T13:23:56+05:30",
+      "alerted_at": "2026-11-16T13:22:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93050_20261116_EXECUTIVE": {
       "movie": "John Doe - Tamil",
