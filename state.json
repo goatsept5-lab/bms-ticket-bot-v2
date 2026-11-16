@@ -965,7 +965,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-15T12:03:56+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93031_20261117_EXECUTIVE": {
@@ -1338,9 +1338,9 @@
       "time": "04:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:19:13+05:30",
+      "alerted_at": "2026-11-16T14:37:20+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46350_20261116_CLASSIC": {
       "movie": "Black Gold - Tamil",
@@ -1603,7 +1603,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:07:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93086_20261117_EXECUTIVE": {
@@ -1636,7 +1636,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:07:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93055_20261117_EXECUTIVE": {
@@ -1702,7 +1702,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:07:19+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93065_20261118_EXECUTIVE": {
@@ -1878,7 +1878,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-16T13:47:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93100_20261117_EXECUTIVE": {
@@ -1911,6 +1911,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-16T14:07:19+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16148_20261116_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261116",
+      "time": "03:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-16T14:37:20+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
