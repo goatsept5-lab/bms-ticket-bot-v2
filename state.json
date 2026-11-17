@@ -690,7 +690,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-17T19:58:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93044_20261117_EXECUTIVE": {
@@ -1240,7 +1240,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-16T12:12:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93084_20261118_EXECUTIVE": {
@@ -1702,7 +1702,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-17T18:58:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93121_20261119_EXECUTIVE": {
@@ -1757,7 +1757,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-17T19:23:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93130_20261119_EXECUTIVE": {
@@ -1768,7 +1768,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-17T19:23:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93131_20261119_EXECUTIVE": {
@@ -1780,6 +1780,28 @@
       "price": 61.74,
       "alerted_at": "2026-11-17T19:23:07+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "INTO_93123_20261119_EXECUTIVE": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261119",
+      "time": "12:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T20:08:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93122_20261119_EXECUTIVE": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261119",
+      "time": "03:15 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-17T20:08:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
