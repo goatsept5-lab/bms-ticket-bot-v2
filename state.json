@@ -668,7 +668,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-17T18:28:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93043_20261117_EXECUTIVE": {
@@ -689,9 +689,9 @@
       "time": "09:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-17T12:20:38+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-17T19:33:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93044_20261117_EXECUTIVE": {
       "movie": "Ghost Soldier - English",
@@ -1734,8 +1734,8 @@
       "time": "08:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-17T19:13:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-17T19:33:06+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93128_20261119_EXECUTIVE": {
@@ -1779,7 +1779,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-17T19:23:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
