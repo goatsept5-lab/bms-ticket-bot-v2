@@ -1715,6 +1715,17 @@
       "alerted_at": "2026-11-17T18:58:05+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16179_20261117_NORMAL": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "08:00 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-17T19:03:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
