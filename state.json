@@ -975,9 +975,9 @@
       "time": "11:55 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T21:41:53+05:30",
+      "alerted_at": "2026-11-17T09:55:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46359_20261117_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -1296,6 +1296,39 @@
       "price": 54.35,
       "alerted_at": "2026-11-16T13:47:20+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "CBMC_16189_20261117_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "11:30 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T09:55:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16194_20261117_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "12:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T09:55:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16190_20261117_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "01:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T09:55:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
