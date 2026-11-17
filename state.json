@@ -150,9 +150,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
+      "alerted_at": "2026-11-17T14:20:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45416_20261117_CLASSIC": {
       "movie": "Gondhal (Tamil) - Tamil",
@@ -1361,6 +1361,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-17T14:10:38+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16289_20261117_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "03:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T14:20:37+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
