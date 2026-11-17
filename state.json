@@ -1341,6 +1341,17 @@
       "alerted_at": "2026-11-17T13:20:37+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16182_20261117_NORMAL": {
+      "movie": "Ghost Soldier - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261117",
+      "time": "02:40 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-17T13:45:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
