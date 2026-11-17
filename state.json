@@ -1394,7 +1394,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-17T18:28:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16196_20261117_NORMAL": {
@@ -1691,6 +1691,28 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-17T18:28:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93120_20261119_EXECUTIVE": {
+      "movie": "Bouma - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261119",
+      "time": "06:45 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-17T18:58:05+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93121_20261119_EXECUTIVE": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261119",
+      "time": "09:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-17T18:58:05+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
