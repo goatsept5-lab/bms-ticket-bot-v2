@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-17T23:13:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93102_20261119_EXECUTIVE": {
@@ -1153,6 +1153,171 @@
       "price": 59.43,
       "alerted_at": "2026-11-17T20:33:06+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "PVHR_46425_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "07:20 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46426_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "11:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46427_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "02:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46428_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "06:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46429_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46447_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "07:20 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46448_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "11:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46449_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "02:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46450_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "06:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46451_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46452_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "07:20 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46453_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "11:00 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46454_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "02:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46455_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "06:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46456_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T03:08:12+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
