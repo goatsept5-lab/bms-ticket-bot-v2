@@ -1306,7 +1306,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-17T09:55:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16194_20261117_NORMAL": {
@@ -1317,7 +1317,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-17T10:00:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16190_20261117_NORMAL": {
@@ -1328,7 +1328,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-17T09:55:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
