@@ -326,9 +326,9 @@
       "time": "01:30 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-15T12:03:56+05:30",
+      "alerted_at": "2026-11-18T11:30:34+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93034_20261118_EXECUTIVE": {
       "movie": "Itllu Arjuna - Telugu",
@@ -2175,7 +2175,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T05:28:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93161_20261120_EXECUTIVE": {
@@ -2527,7 +2527,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-18T11:10:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93214_20261121_EXECUTIVE": {
@@ -2967,7 +2967,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-18T10:20:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16214_20261118_NORMAL": {
