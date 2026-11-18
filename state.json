@@ -2295,8 +2295,8 @@
       "time": "10:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:33:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-18T14:30:34+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93184_20261121_EXECUTIVE": {
@@ -3275,7 +3275,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-18T13:20:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16215_20261118_NORMAL": {
