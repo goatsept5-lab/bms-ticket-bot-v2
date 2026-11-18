@@ -2298,6 +2298,72 @@
       "alerted_at": "2026-11-18T07:33:12+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93184_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "07:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93195_20261121_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "01:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93186_20261121_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "03:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93196_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "04:25 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93197_20261121_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "08:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93188_20261121_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:58:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
