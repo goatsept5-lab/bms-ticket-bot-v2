@@ -2364,6 +2364,105 @@
       "alerted_at": "2026-11-18T07:58:12+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_46444_20261120_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46445_20261120_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "12:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46446_20261120_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46507_20261121_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46508_20261121_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "12:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46510_20261121_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46512_20261122_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "09:25 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46513_20261122_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "12:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46515_20261122_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "07:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
