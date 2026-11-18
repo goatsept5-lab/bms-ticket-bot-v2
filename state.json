@@ -459,7 +459,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-15T16:39:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93065_20261118_EXECUTIVE": {
@@ -1339,7 +1339,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46431_20261120_CLASSIC": {
@@ -1372,7 +1372,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46405_20261120_CLASSIC": {
@@ -1427,7 +1427,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46417_20261120_CLASSIC": {
@@ -1471,7 +1471,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46419_20261120_CLASSIC": {
@@ -1515,7 +1515,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46424_20261120_CLASSIC": {
@@ -1570,7 +1570,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46421_20261120_CLASSIC": {
@@ -2153,7 +2153,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T05:28:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93159_20261120_EXECUTIVE": {
@@ -2329,7 +2329,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93196_20261121_EXECUTIVE": {
@@ -2351,7 +2351,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93188_20261121_EXECUTIVE": {
@@ -2362,7 +2362,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46444_20261120_CLASSIC": {
@@ -2461,6 +2461,61 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T08:08:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93204_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:28:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93205_20261121_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:28:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93206_20261121_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "03:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:28:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93207_20261121_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "06:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:28:11+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93208_20261121_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "09:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T08:28:11+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
