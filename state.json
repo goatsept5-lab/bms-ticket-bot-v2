@@ -415,7 +415,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T08:33:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46357_20261118_CLASSIC": {
@@ -2956,6 +2956,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-18T10:10:34+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16268_20261118_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261118",
+      "time": "11:15 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T10:20:33+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
