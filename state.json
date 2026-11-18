@@ -2185,8 +2185,8 @@
       "time": "10:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T10:30:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93162_20261120_EXECUTIVE": {
@@ -2284,8 +2284,8 @@
       "time": "06:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:33:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93178_20261121_EXECUTIVE": {
@@ -2625,8 +2625,8 @@
       "time": "07:40 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-18T08:33:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93236_20261121_EXECUTIVE": {
@@ -3077,7 +3077,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T12:15:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93245_20261120_EXECUTIVE": {
@@ -3121,6 +3121,39 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T12:20:34+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46547_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "07:40 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46548_20261121_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "11:20 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46549_20261121_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "02:15 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T12:30:33+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
