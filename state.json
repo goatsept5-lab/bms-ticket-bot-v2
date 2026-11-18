@@ -2188,6 +2188,116 @@
       "alerted_at": "2026-11-18T05:28:11+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93162_20261120_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "07:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93164_20261120_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93165_20261120_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93167_20261120_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "03:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93166_20261120_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "06:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93168_20261120_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "09:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93174_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "07:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93175_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "10:50 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93177_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "06:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93178_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
