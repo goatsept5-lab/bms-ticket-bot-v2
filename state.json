@@ -73,9 +73,9 @@
       "time": "01:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-14T18:49:32+05:30",
+      "alerted_at": "2026-11-18T11:10:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45420_20261118_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -425,9 +425,9 @@
       "time": "01:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-15T16:39:12+05:30",
+      "alerted_at": "2026-11-18T11:10:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46347_20261118_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -2526,8 +2526,8 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-18T08:33:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-18T11:10:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93214_20261121_EXECUTIVE": {
@@ -2945,7 +2945,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-18T10:10:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16235_20261118_NORMAL": {
@@ -2956,7 +2956,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-18T10:10:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16268_20261118_NORMAL": {
@@ -2978,7 +2978,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-18T10:50:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
