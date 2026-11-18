@@ -282,9 +282,9 @@
       "time": "10:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T19:27:05+05:30",
+      "alerted_at": "2026-11-18T20:47:05+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_45423_20261118_CLASSIC": {
       "movie": "Itllu Arjuna - Telugu",
@@ -458,9 +458,9 @@
       "time": "10:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T18:42:05+05:30",
+      "alerted_at": "2026-11-18T20:47:05+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93065_20261118_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -3529,6 +3529,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-18T19:07:06+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16234_20261118_NORMAL": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261118",
+      "time": "09:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-18T20:47:05+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
