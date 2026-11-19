@@ -1691,7 +1691,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-19T21:16:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93195_20261121_EXECUTIVE": {
@@ -3562,6 +3562,28 @@
       "price": 54.35,
       "alerted_at": "2026-11-19T21:26:40+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16325_20261119_NORMAL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-19T22:06:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16317_20261119_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T22:06:39+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
