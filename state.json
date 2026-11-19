@@ -85,7 +85,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T13:08:31+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46365_20261119_CLASSIC": {
@@ -96,7 +96,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T13:23:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46398_20261119_CLASSIC": {
@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T13:43:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46391_20261119_CLASSIC": {
@@ -140,7 +140,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-17T18:28:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46378_20261119_CLASSIC": {
@@ -150,9 +150,9 @@
       "time": "06:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T16:56:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46366_20261119_CLASSIC": {
       "movie": "Jailer 2 - Tamil",
@@ -161,9 +161,9 @@
       "time": "06:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T16:56:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46399_20261119_CLASSIC": {
       "movie": "ENE Repeat - Telugu",
@@ -183,9 +183,9 @@
       "time": "06:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T16:56:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46370_20261119_CLASSIC": {
       "movie": "Mookuthi Amman 2 - Tamil",
@@ -194,9 +194,9 @@
       "time": "06:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T16:56:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46397_20261119_CLASSIC": {
       "movie": "Bouma - Malayalam",
@@ -217,7 +217,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-17T18:28:05+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46389_20261119_CLASSIC": {
@@ -535,8 +535,8 @@
       "time": "10:30 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-17T20:33:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T16:56:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46425_20261120_CLASSIC": {
@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:08:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46427_20261120_CLASSIC": {
@@ -2131,7 +2131,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-18T09:00:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93180_20261122_EXECUTIVE": {
@@ -2956,7 +2956,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T13:23:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16445_20261120_NORMAL": {
@@ -2967,7 +2967,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T11:08:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16384_20261120_NORMAL": {
@@ -3188,6 +3188,50 @@
       "price": 54.35,
       "alerted_at": "2026-11-19T13:23:32+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "CBMC_16307_20261119_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "04:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T16:56:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17208_20261120_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "07:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T16:56:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17214_20261120_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "10:30 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T16:56:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17209_20261120_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "10:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T16:56:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
