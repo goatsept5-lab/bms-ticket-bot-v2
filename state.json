@@ -205,9 +205,9 @@
       "time": "07:20 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T17:21:40+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46392_20261119_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -745,7 +745,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46438_20261120_CLASSIC": {
@@ -3220,7 +3220,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T16:56:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17209_20261120_SPECIAL": {
@@ -3253,6 +3253,50 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T17:06:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16315_20261119_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "06:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T17:21:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16304_20261119_NORMAL": {
+      "movie": "Ramayana (Telugu) - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "06:20 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-19T17:21:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "PVHR_46566_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "08:10 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T17:21:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46564_20261120_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "08:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T17:21:40+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
