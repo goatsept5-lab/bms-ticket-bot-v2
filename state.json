@@ -227,9 +227,9 @@
       "time": "09:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T19:56:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46367_20261119_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -238,9 +238,9 @@
       "time": "09:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T19:56:39+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46395_20261119_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -1691,7 +1691,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:36:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93195_20261121_EXECUTIVE": {
@@ -3230,8 +3230,8 @@
       "time": "10:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-19T17:46:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T19:56:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46563_20261120_CLASSIC": {
@@ -3241,8 +3241,8 @@
       "time": "12:55 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-19T17:06:40+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T19:56:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46565_20261120_CLASSIC": {
@@ -3341,7 +3341,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:46:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16378_20261120_NORMAL": {
@@ -3352,7 +3352,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16308_20261119_NORMAL": {
@@ -3473,6 +3473,17 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17203_20261119_SPECIAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261119",
+      "time": "07:15 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:56:39+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
