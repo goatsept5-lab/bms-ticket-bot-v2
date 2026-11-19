@@ -40,9 +40,9 @@
       "time": "11:55 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T09:58:29+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46394_20261119_CLASSIC": {
       "movie": "John Doe - Tamil",
@@ -2837,6 +2837,17 @@
       "alerted_at": "2026-11-18T23:17:05+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_16331_20261119_NORMAL": {
+      "movie": "Bachelor Party D'eux (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "10:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T09:58:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
