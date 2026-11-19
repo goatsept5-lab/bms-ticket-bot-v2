@@ -3299,6 +3299,28 @@
       "alerted_at": "2026-11-19T17:21:40+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16257_20261119_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "07:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T18:11:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "PVHR_46583_20261120_CLASSIC": {
+      "movie": "How to Rob a Bank - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261120",
+      "time": "07:35 PM",
+      "category": "CLASSIC",
+      "price": 66.74,
+      "alerted_at": "2026-11-19T18:11:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
