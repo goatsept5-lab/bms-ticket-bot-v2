@@ -986,8 +986,8 @@
       "time": "06:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T22:31:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46467_20261121_CLASSIC": {
@@ -1261,8 +1261,8 @@
       "time": "06:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T22:31:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46493_20261122_CLASSIC": {
@@ -3516,8 +3516,8 @@
       "time": "06:05 AM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-19T20:46:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T22:31:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "ACON_48770_20261120_PEARL": {
@@ -3550,7 +3550,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-19T21:26:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16316_20261119_NORMAL": {
@@ -3585,6 +3585,17 @@
       "alerted_at": "2026-11-19T22:06:39+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_16499_20261120_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "08:15 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T22:31:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
