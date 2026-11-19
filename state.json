@@ -3307,8 +3307,8 @@
       "time": "07:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-19T18:11:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T18:56:39+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_46583_20261120_CLASSIC": {
@@ -3352,7 +3352,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T18:46:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
