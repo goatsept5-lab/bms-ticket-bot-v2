@@ -789,7 +789,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46418_20261120_CLASSIC": {
@@ -2724,8 +2724,8 @@
       "time": "08:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T14:00:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T21:26:40+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93170_20261120_EXECUTIVE": {
@@ -3231,7 +3231,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T20:56:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46563_20261120_CLASSIC": {
@@ -3429,7 +3429,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:36:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46590_20261122_CLASSIC": {
@@ -3495,7 +3495,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-19T20:26:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48764_20261120_PEARL": {
@@ -3541,6 +3541,28 @@
       "alerted_at": "2026-11-19T20:46:39+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16327_20261119_NORMAL": {
+      "movie": "Bachelor Party D'eux - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-19T21:26:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16316_20261119_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "10:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T21:26:40+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
