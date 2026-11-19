@@ -95,9 +95,9 @@
       "time": "03:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-17T18:28:05+05:30",
+      "alerted_at": "2026-11-19T13:23:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46398_20261119_CLASSIC": {
       "movie": "Bachelor Party D'eux - Malayalam",
@@ -2955,8 +2955,8 @@
       "time": "09:40 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-19T11:08:30+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16445_20261120_NORMAL": {
@@ -3045,6 +3045,149 @@
       "price": 54.35,
       "alerted_at": "2026-11-19T11:53:31+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "MCSK_17189_20261119_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261119",
+      "time": "12:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17252_20261120_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "01:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17253_20261120_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "07:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17255_20261121_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "01:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17250_20261121_SPECIAL": {
+      "movie": "AOT - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "03:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17256_20261121_SPECIAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17257_20261121_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "07:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17258_20261121_SPECIAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "10:35 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17260_20261122_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "01:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17251_20261122_SPECIAL": {
+      "movie": "AOT - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "03:45 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17261_20261122_SPECIAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "04:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17262_20261122_SPECIAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "07:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17263_20261122_SPECIAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "10:35 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T13:23:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
