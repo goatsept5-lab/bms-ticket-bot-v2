@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T20:36:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93120_20261119_EXECUTIVE": {
@@ -3231,7 +3231,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T20:36:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46563_20261120_CLASSIC": {
@@ -3352,7 +3352,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T20:26:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16308_20261119_NORMAL": {
@@ -3497,6 +3497,50 @@
       "alerted_at": "2026-11-19T20:26:39+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "ACON_48764_20261120_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261120",
+      "time": "06:05 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-19T20:46:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48771_20261120_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261120",
+      "time": "06:05 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-19T20:46:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48770_20261120_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261120",
+      "time": "06:15 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-19T20:46:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48772_20261120_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261120",
+      "time": "06:30 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-19T20:46:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
