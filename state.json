@@ -195,7 +195,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T16:56:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46397_20261119_CLASSIC": {
@@ -558,7 +558,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T17:06:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46427_20261120_CLASSIC": {
@@ -1690,8 +1690,8 @@
       "time": "07:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93195_20261121_EXECUTIVE": {
@@ -3242,7 +3242,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T17:06:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46565_20261120_CLASSIC": {
@@ -3286,7 +3286,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T17:21:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46564_20261120_CLASSIC": {
@@ -3363,7 +3363,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46584_20261121_CLASSIC": {
@@ -3396,6 +3396,83 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:26:40+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46587_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "08:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46588_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "12:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46589_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "10:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46590_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "08:30 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46591_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "12:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46593_20261122_CLASSIC": {
+      "movie": "How to Rob a Bank - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "07:35 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46592_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "10:55 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T19:36:39+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
