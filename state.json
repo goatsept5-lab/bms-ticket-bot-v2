@@ -734,7 +734,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46430_20261120_CLASSIC": {
@@ -3321,6 +3321,17 @@
       "alerted_at": "2026-11-19T18:11:39+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16326_20261119_NORMAL": {
+      "movie": "Bachelor Party D'eux - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "07:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-19T18:41:39+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
