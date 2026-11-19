@@ -370,8 +370,8 @@
       "time": "03:15 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-18T18:47:06+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T10:08:29+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93102_20261119_EXECUTIVE": {
@@ -2846,6 +2846,39 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T09:58:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16297_20261119_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "10:55 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T10:08:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16309_20261119_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "11:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T10:08:29+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16313_20261119_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261119",
+      "time": "11:00 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-19T10:08:29+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
