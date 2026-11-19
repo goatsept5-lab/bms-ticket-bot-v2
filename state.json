@@ -3340,8 +3340,8 @@
       "time": "11:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-19T21:16:39+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-19T22:21:40+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16378_20261120_NORMAL": {
@@ -3517,7 +3517,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-19T20:46:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48770_20261120_PEARL": {
@@ -3583,7 +3583,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-19T22:06:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
