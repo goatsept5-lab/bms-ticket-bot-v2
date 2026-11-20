@@ -2867,9 +2867,9 @@
       "time": "10:40 PM",
       "category": "EXECUTIVE",
       "price": 66.74,
-      "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-20T21:21:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46594_20261121_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
@@ -3857,9 +3857,9 @@
       "time": "11:20 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
+      "alerted_at": "2026-11-20T21:21:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242950_20261120_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4408,7 +4408,7 @@
       "category": "BUDGET",
       "price": 59.94,
       "alerted_at": "2026-11-20T21:01:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "TVHP_26622_20261120_BUDGET": {
@@ -4421,6 +4421,17 @@
       "alerted_at": "2026-11-20T20:56:48+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17228_20261121_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "10:50 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T21:21:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
