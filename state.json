@@ -2823,9 +2823,9 @@
       "time": "07:00 AM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-21T02:56:21+05:30",
+      "alerted_at": "2026-11-21T05:01:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16420_20261121_NORMAL": {
       "movie": "O.M Operation Mole - Tamil",
@@ -2834,9 +2834,9 @@
       "time": "07:00 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T03:06:22+05:30",
+      "alerted_at": "2026-11-21T05:01:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16422_20261121_NORMAL": {
       "movie": "O.M Operation Mole - Tamil",
