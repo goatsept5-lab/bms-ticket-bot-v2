@@ -3539,7 +3539,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16358_20261120_NORMAL": {
@@ -3550,7 +3550,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16366_20261120_NORMAL": {
@@ -3571,9 +3571,9 @@
       "time": "07:10 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "alerted_at": "2026-11-20T17:11:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17231_20261121_SPECIAL": {
       "movie": "O.M Operation Mole - Tamil",
