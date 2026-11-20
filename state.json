@@ -1844,9 +1844,9 @@
       "time": "11:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T11:50:34+05:30",
+      "alerted_at": "2026-11-20T21:01:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93246_20261120_EXECUTIVE": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -3835,9 +3835,9 @@
       "time": "11:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
+      "alerted_at": "2026-11-20T21:01:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242926_20261120_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4199,7 +4199,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17295_20261124_SPECIAL": {
@@ -4210,7 +4210,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17291_20261124_SPECIAL": {
@@ -4221,7 +4221,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17287_20261124_SPECIAL": {
@@ -4276,7 +4276,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17308_20261125_SPECIAL": {
@@ -4287,7 +4287,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17297_20261125_SPECIAL": {
@@ -4309,7 +4309,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17309_20261125_SPECIAL": {
@@ -4320,7 +4320,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17298_20261125_SPECIAL": {
@@ -4342,7 +4342,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17310_20261125_SPECIAL": {
@@ -4353,7 +4353,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17311_20261125_SPECIAL": {
@@ -4364,7 +4364,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17307_20261125_SPECIAL": {
@@ -4375,7 +4375,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17303_20261125_SPECIAL": {
@@ -4407,9 +4407,9 @@
       "time": "11:00 PM",
       "category": "BUDGET",
       "price": 59.94,
-      "alerted_at": "2026-11-20T20:46:48+05:30",
+      "alerted_at": "2026-11-20T21:01:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "TVHP_26622_20261120_BUDGET": {
       "movie": "O.M Operation Mole - Tamil",
