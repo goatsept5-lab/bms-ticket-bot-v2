@@ -2947,6 +2947,17 @@
       "alerted_at": "2026-11-21T03:06:22+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16411_20261121_NORMAL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:05 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T03:21:22+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
