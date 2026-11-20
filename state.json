@@ -745,7 +745,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46462_20261122_CLASSIC": {
@@ -2186,7 +2186,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-19T21:26:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93170_20261120_EXECUTIVE": {
@@ -3275,7 +3275,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-20T11:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48774_20261120_PEARL": {
@@ -3297,7 +3297,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-20T11:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17206_20261120_SPECIAL": {
