@@ -1096,9 +1096,9 @@
       "time": "09:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:33:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-20T21:41:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93174_20261121_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
@@ -2912,7 +2912,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T20:46:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93307_20261121_EXECUTIVE": {
@@ -3781,7 +3781,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242742_20261120_SECOND CLASS": {
@@ -3879,9 +3879,9 @@
       "time": "11:40 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
+      "alerted_at": "2026-11-20T21:41:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242927_20261120_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
