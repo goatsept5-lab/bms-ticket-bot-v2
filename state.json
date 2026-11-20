@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T11:10:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46439_20261120_CLASSIC": {
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46435_20261120_CLASSIC": {
@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46407_20261120_CLASSIC": {
@@ -327,7 +327,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46443_20261120_CLASSIC": {
@@ -448,7 +448,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T22:31:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46467_20261121_CLASSIC": {
@@ -756,7 +756,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46494_20261122_CLASSIC": {
@@ -1064,7 +1064,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T10:45:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93167_20261120_EXECUTIVE": {
@@ -1229,7 +1229,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T10:45:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46446_20261120_CLASSIC": {
@@ -1569,8 +1569,8 @@
       "time": "07:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T09:00:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93209_20261122_EXECUTIVE": {
@@ -1690,8 +1690,8 @@
       "time": "04:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T09:00:34+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93212_20261122_EXECUTIVE": {
@@ -1812,7 +1812,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:15:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46530_20261120_CLASSIC": {
@@ -1822,9 +1822,9 @@
       "time": "05:10 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T11:50:34+05:30",
+      "alerted_at": "2026-11-20T16:41:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46531_20261120_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -2087,7 +2087,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T11:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93173_20261120_EXECUTIVE": {
@@ -2153,7 +2153,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T14:00:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93150_20261120_EXECUTIVE": {
@@ -2185,8 +2185,8 @@
       "time": "08:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-19T21:26:40+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93170_20261120_EXECUTIVE": {
@@ -2868,7 +2868,7 @@
       "category": "EXECUTIVE",
       "price": 66.74,
       "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46594_20261121_CLASSIC": {
@@ -3099,7 +3099,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T08:10:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16500_20261218_NORMAL": {
@@ -3231,7 +3231,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T11:00:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16443_20261120_NORMAL": {
@@ -3286,7 +3286,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-20T11:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48779_20261120_PEARL": {
@@ -3473,7 +3473,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16369_20261120_NORMAL": {
@@ -3484,7 +3484,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46611_20261120_CLASSIC": {
@@ -3495,7 +3495,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46612_20261121_CLASSIC": {
@@ -3528,6 +3528,50 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16392_20261120_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "04:55 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16358_20261120_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "04:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16366_20261120_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "05:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MCSK_17218_20261120_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261120",
+      "time": "07:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T16:41:48+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
