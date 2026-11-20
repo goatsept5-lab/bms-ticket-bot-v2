@@ -425,9 +425,9 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-20T20:11:48+05:30",
+      "alerted_at": "2026-11-20T20:41:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46408_20261120_CLASSIC": {
       "movie": "Aakasamlo Oka Tara - Telugu",
@@ -3759,7 +3759,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242931_20261120_SECOND CLASS": {
@@ -3770,7 +3770,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242883_20261120_SECOND CLASS": {
