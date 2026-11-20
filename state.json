@@ -3957,7 +3957,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17268_20261123_SPECIAL": {
@@ -4410,6 +4410,17 @@
       "alerted_at": "2026-11-20T20:46:48+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "TVHP_26622_20261120_BUDGET": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "The Vijay Park Multiplex: Injambakkam",
+      "date": "20261120",
+      "time": "10:20 PM",
+      "category": "BUDGET",
+      "price": 59.94,
+      "alerted_at": "2026-11-20T20:56:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
