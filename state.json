@@ -62,8 +62,8 @@
       "time": "07:20 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:08:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T08:50:23+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46448_20261121_CLASSIC": {
@@ -3022,7 +3022,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-20T08:00:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16295_20261217_NORMAL": {
@@ -3211,6 +3211,17 @@
       "alerted_at": "2026-11-20T08:40:23+05:30",
       "sold_out": true,
       "soon_alerted": false
+    },
+    "ACON_48777_20261120_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261120",
+      "time": "09:25 AM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-20T08:50:23+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
