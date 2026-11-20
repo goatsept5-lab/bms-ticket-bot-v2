@@ -84,8 +84,8 @@
       "time": "02:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:08:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T19:06:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46450_20261121_CLASSIC": {
@@ -1569,8 +1569,8 @@
       "time": "07:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T19:06:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93209_20261122_EXECUTIVE": {
@@ -2901,7 +2901,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93309_20261121_EXECUTIVE": {
@@ -3121,7 +3121,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-20T08:10:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16508_20261219_NORMAL": {
@@ -3517,7 +3517,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46598_20261123_CLASSIC": {
@@ -3583,7 +3583,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:56:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17224_20261121_SPECIAL": {
@@ -3627,7 +3627,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T17:06:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17234_20261121_SPECIAL": {
@@ -3693,7 +3693,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-20T18:26:47+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48775_20261120_PEARL": {
