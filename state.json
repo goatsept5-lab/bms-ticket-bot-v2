@@ -1899,9 +1899,9 @@
       "time": "09:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T12:15:33+05:30",
+      "alerted_at": "2026-11-20T07:00:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93247_20261120_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
