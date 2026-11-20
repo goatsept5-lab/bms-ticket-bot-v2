@@ -1240,7 +1240,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T17:26:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46507_20261121_CLASSIC": {
@@ -1823,7 +1823,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46531_20261120_CLASSIC": {
@@ -2945,7 +2945,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93314_20261122_EXECUTIVE": {
@@ -3662,6 +3662,17 @@
       "alerted_at": "2026-11-20T17:46:48+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16523_20261120_NORMAL": {
+      "movie": "How to Rob a Bank - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "06:50 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T17:56:47+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
