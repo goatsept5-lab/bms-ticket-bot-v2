@@ -3090,6 +3090,116 @@
       "alerted_at": "2026-11-20T08:00:23+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16346_20261120_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "07:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16500_20261218_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261218",
+      "time": "01:30 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16501_20261218_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261218",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16508_20261219_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261219",
+      "time": "10:15 AM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16505_20261219_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261219",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16506_20261219_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261219",
+      "time": "08:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16507_20261219_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261219",
+      "time": "11:15 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16513_20261220_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261220",
+      "time": "10:15 AM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16509_20261220_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261220",
+      "time": "01:30 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16510_20261220_NORMAL": {
+      "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261220",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T08:10:23+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
