@@ -1372,7 +1372,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-20T21:46:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93214_20261121_EXECUTIVE": {
@@ -2912,7 +2912,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T21:46:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93307_20261121_EXECUTIVE": {
@@ -3506,7 +3506,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46613_20261122_CLASSIC": {
@@ -3890,9 +3890,9 @@
       "time": "11:55 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
+      "alerted_at": "2026-11-20T21:56:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242870_20261120_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4441,6 +4441,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T21:26:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16363_20261120_NORMAL": {
+      "movie": "Bachelor Party D'eux - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261120",
+      "time": "10:45 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-20T21:56:48+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
