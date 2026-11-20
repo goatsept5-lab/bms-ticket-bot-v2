@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46468_20261121_CLASSIC": {
@@ -1482,7 +1482,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-19T11:48:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93237_20261121_EXECUTIVE": {
@@ -1537,7 +1537,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-19T11:48:30+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93241_20261122_EXECUTIVE": {
@@ -3220,8 +3220,19 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-20T08:50:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
+    },
+    "INTO_93317_20261120_EXECUTIVE": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261120",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-20T09:10:24+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
