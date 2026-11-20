@@ -436,8 +436,8 @@
       "time": "10:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T16:46:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46477_20261121_CLASSIC": {
@@ -1085,9 +1085,9 @@
       "time": "06:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "alerted_at": "2026-11-20T16:46:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93168_20261120_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
