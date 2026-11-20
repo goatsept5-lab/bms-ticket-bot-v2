@@ -381,9 +381,9 @@
       "time": "07:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:13:11+05:30",
+      "alerted_at": "2026-11-20T17:31:47+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46422_20261120_CLASSIC": {
       "movie": "ENE Repeat - Telugu",
@@ -2714,7 +2714,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-19T19:26:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46586_20261122_CLASSIC": {
@@ -3561,7 +3561,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17218_20261120_SPECIAL": {
