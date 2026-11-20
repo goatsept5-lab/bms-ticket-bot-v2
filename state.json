@@ -1063,9 +1063,9 @@
       "time": "12:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:33:12+05:30",
+      "alerted_at": "2026-11-20T10:45:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93167_20261120_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
@@ -1228,9 +1228,9 @@
       "time": "12:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T08:08:11+05:30",
+      "alerted_at": "2026-11-20T10:45:24+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46446_20261120_CLASSIC": {
       "movie": "AOT - Tamil",
@@ -1911,7 +1911,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T09:55:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46547_20261121_CLASSIC": {
