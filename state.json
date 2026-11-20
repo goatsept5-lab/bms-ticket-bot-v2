@@ -1086,7 +1086,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:46:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93168_20261120_EXECUTIVE": {
@@ -2120,7 +2120,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-18T14:00:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93163_20261120_EXECUTIVE": {
@@ -2186,7 +2186,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:41:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93170_20261120_EXECUTIVE": {
@@ -2240,8 +2240,8 @@
       "time": "03:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-18T23:17:05+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17239_20261122_SPECIAL": {
@@ -3583,6 +3583,72 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-20T16:56:47+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17224_20261121_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "11:40 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17233_20261121_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "12:35 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17225_20261121_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "03:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17226_20261121_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "07:00 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17234_20261121_SPECIAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "07:10 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17227_20261121_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261121",
+      "time": "10:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-20T17:06:48+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
