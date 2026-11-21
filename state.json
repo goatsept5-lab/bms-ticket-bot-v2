@@ -195,7 +195,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46460_20261121_CLASSIC": {
@@ -4418,8 +4418,8 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T19:18:35+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T19:38:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16478_20261122_NORMAL": {
@@ -4452,6 +4452,28 @@
       "category": "PEARL",
       "price": 59.0,
       "alerted_at": "2026-11-21T19:18:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242859_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "08:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T19:38:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242990_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "08:35 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T19:38:36+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
