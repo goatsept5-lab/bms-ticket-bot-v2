@@ -613,7 +613,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46476_20261122_CLASSIC": {
@@ -2978,7 +2978,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T09:31:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93327_20261122_EXECUTIVE": {
@@ -3068,6 +3068,17 @@
       "alerted_at": "2026-11-21T09:16:33+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16533_20261121_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "11:20 AM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-21T10:21:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
