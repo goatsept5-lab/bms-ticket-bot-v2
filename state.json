@@ -151,7 +151,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46458_20261121_CLASSIC": {
@@ -2901,7 +2901,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T03:06:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16432_20261121_NORMAL": {
@@ -2955,8 +2955,8 @@
       "time": "10:05 AM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-21T08:06:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T08:46:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_17223_20261121_SPECIAL": {
@@ -2967,6 +2967,17 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T08:41:33+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "INTO_93310_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T08:46:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
