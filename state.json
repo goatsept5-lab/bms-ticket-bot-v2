@@ -1339,7 +1339,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:16:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46550_20261121_CLASSIC": {
@@ -3077,7 +3077,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-21T10:21:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16406_20261121_NORMAL": {
@@ -3089,6 +3089,83 @@
       "price": 54.35,
       "alerted_at": "2026-11-21T10:41:33+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "CBMC_16446_20261121_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "01:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16436_20261121_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "02:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16401_20261121_NORMAL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "02:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16428_20261121_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "03:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16413_20261121_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "04:35 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16433_20261121_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "05:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16407_20261121_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "05:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
