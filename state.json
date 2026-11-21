@@ -96,7 +96,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:08:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46456_20261122_CLASSIC": {
@@ -183,9 +183,9 @@
       "time": "04:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:13:11+05:30",
+      "alerted_at": "2026-11-21T14:58:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46470_20261121_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -195,7 +195,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46460_20261121_CLASSIC": {
@@ -217,7 +217,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46461_20261121_CLASSIC": {
@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T10:06:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46499_20261121_CLASSIC": {
@@ -272,7 +272,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T10:06:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46489_20261121_CLASSIC": {
@@ -293,9 +293,9 @@
       "time": "03:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
+      "alerted_at": "2026-11-21T14:58:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46509_20261121_CLASSIC": {
       "movie": "Aakasamlo Oka Tara - Telugu",
@@ -304,9 +304,9 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
+      "alerted_at": "2026-11-21T14:58:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46490_20261121_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -326,9 +326,9 @@
       "time": "04:35 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
+      "alerted_at": "2026-11-21T14:58:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46491_20261121_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -349,7 +349,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46518_20261121_CLASSIC": {
@@ -382,7 +382,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46482_20261122_CLASSIC": {
@@ -733,9 +733,9 @@
       "time": "03:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93196_20261121_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
@@ -932,7 +932,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T11:31:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93228_20261121_EXECUTIVE": {
@@ -964,9 +964,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-18T08:33:12+05:30",
+      "alerted_at": "2026-11-21T14:58:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93229_20261121_EXECUTIVE": {
       "movie": "Aakasamlo Oka Tara - Telugu",
@@ -1196,7 +1196,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:36:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93232_20261122_EXECUTIVE": {
@@ -1361,7 +1361,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T12:40:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46552_20261121_CLASSIC": {
@@ -1647,7 +1647,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-19T19:16:40+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46585_20261121_CLASSIC": {
@@ -1735,7 +1735,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-19T19:36:39+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46592_20261122_CLASSIC": {
@@ -2120,7 +2120,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46607_20261125_CLASSIC": {
@@ -3033,7 +3033,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T09:06:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48802_20261121_PEARL": {
@@ -3066,7 +3066,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T12:36:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16533_20261121_NORMAL": {
@@ -3143,7 +3143,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-21T11:26:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16433_20261121_NORMAL": {
@@ -3165,7 +3165,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:26:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16439_20261121_NORMAL": {
@@ -3176,7 +3176,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:51:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16425_20261121_NORMAL": {
@@ -3187,7 +3187,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:51:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16429_20261121_NORMAL": {
@@ -3198,7 +3198,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16419_20261121_NORMAL": {
@@ -3220,7 +3220,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16440_20261121_NORMAL": {
@@ -3231,7 +3231,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16431_20261121_NORMAL": {
@@ -3242,7 +3242,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16519_20261121_NORMAL": {
@@ -3264,7 +3264,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16415_20261121_NORMAL": {
@@ -3276,6 +3276,72 @@
       "price": 59.43,
       "alerted_at": "2026-11-21T11:56:32+05:30",
       "sold_out": true,
+      "soon_alerted": false
+    },
+    "MAYJ_242895_20261121_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "03:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242896_20261121_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "07:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46614_20261121_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261121",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48805_20261121_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "11:25 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48811_20261121_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "11:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46615_20261122_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261122",
+      "time": "06:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
