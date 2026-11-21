@@ -2900,9 +2900,9 @@
       "time": "10:45 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T03:06:22+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T09:06:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_16432_20261121_NORMAL": {
       "movie": "O.M Operation Mole - Tamil",
@@ -2945,7 +2945,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T03:06:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16411_20261121_NORMAL": {
@@ -2989,6 +2989,50 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T08:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93336_20261121_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261121",
+      "time": "09:50 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T09:06:33+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48808_20261121_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "01:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T09:06:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48790_20261121_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "01:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T09:06:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93337_20261122_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261122",
+      "time": "09:50 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T09:06:33+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
