@@ -854,9 +854,9 @@
       "time": "12:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-21T03:26:21+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T12:16:32+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93206_20261121_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
@@ -3011,7 +3011,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48790_20261121_PEARL": {
@@ -3044,7 +3044,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T12:06:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48809_20261121_PEARL": {
@@ -3066,7 +3066,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T09:16:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16533_20261121_NORMAL": {
@@ -3110,7 +3110,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:26:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16401_20261121_NORMAL": {
@@ -3275,7 +3275,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
