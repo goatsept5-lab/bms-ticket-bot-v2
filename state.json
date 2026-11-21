@@ -1570,7 +1570,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17258_20261121_SPECIAL": {
@@ -4452,7 +4452,7 @@
       "category": "PEARL",
       "price": 59.0,
       "alerted_at": "2026-11-21T19:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242859_20261121_SECOND CLASS": {
