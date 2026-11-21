@@ -1482,7 +1482,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17247_20261122_SPECIAL": {
@@ -2802,7 +2802,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T01:21:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93225_20261122_EXECUTIVE": {
@@ -4518,7 +4518,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T22:45:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48799_20261121_PEARL": {
