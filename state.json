@@ -74,7 +74,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:28:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46454_20261122_CLASSIC": {
@@ -810,8 +810,8 @@
       "time": "09:25 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T08:08:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46513_20261122_CLASSIC": {
@@ -887,8 +887,8 @@
       "time": "09:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T08:28:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93226_20261121_EXECUTIVE": {
@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93221_20261121_EXECUTIVE": {
@@ -1569,9 +1569,9 @@
       "time": "07:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-19T13:23:32+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_17258_20261121_SPECIAL": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -4177,6 +4177,160 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T17:18:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242904_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "09:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242747_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "10:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242910_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "10:15 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242762_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "10:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242732_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242988_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242956_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:10 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242984_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242989_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242934_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:55 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242851_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:58 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242982_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:58 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242860_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242991_20261121_SECOND CLASS": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "11:59 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T18:43:35+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
