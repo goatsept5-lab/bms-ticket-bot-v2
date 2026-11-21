@@ -85,7 +85,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46455_20261122_CLASSIC": {
@@ -228,7 +228,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T19:58:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46487_20261121_CLASSIC": {
@@ -481,7 +481,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46495_20261122_CLASSIC": {
@@ -524,8 +524,8 @@
       "time": "04:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T22:45:16+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46496_20261122_CLASSIC": {
@@ -756,7 +756,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T19:58:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93188_20261121_EXECUTIVE": {
@@ -767,7 +767,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46507_20261121_CLASSIC": {
@@ -1030,9 +1030,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-18T08:33:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T22:45:16+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93238_20261122_EXECUTIVE": {
       "movie": "How to Rob a Bank - English",
@@ -1449,7 +1449,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17246_20261122_SPECIAL": {
@@ -1493,7 +1493,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17248_20261122_SPECIAL": {
@@ -1801,7 +1801,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T20:23:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46595_20261122_CLASSIC": {
@@ -1845,7 +1845,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93313_20261122_EXECUTIVE": {
@@ -2978,7 +2978,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93327_20261122_EXECUTIVE": {
@@ -3329,9 +3329,9 @@
       "time": "11:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T22:45:16+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46615_20261122_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4078,7 +4078,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T16:28:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16482_20261122_NORMAL": {
@@ -4188,7 +4188,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T19:33:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242747_20261121_SECOND CLASS": {
@@ -4210,7 +4210,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T20:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242762_20261121_SECOND CLASS": {
@@ -4221,7 +4221,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242732_20261121_SECOND CLASS": {
@@ -4231,9 +4231,9 @@
       "time": "11:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "alerted_at": "2026-11-21T22:45:16+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242988_20261121_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4243,7 +4243,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242956_20261121_SECOND CLASS": {
@@ -4254,7 +4254,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242984_20261121_SECOND CLASS": {
@@ -4265,7 +4265,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242989_20261121_SECOND CLASS": {
@@ -4298,7 +4298,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242982_20261121_SECOND CLASS": {
@@ -4308,9 +4308,9 @@
       "time": "11:58 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "alerted_at": "2026-11-21T22:45:16+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242860_20261121_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4320,7 +4320,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242991_20261121_SECOND CLASS": {
@@ -4353,7 +4353,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16466_20261122_NORMAL": {
@@ -4364,7 +4364,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T20:23:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16477_20261122_NORMAL": {
@@ -4375,7 +4375,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16493_20261122_NORMAL": {
@@ -4397,7 +4397,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T20:33:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16483_20261122_NORMAL": {
@@ -4430,7 +4430,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16494_20261122_NORMAL": {
@@ -4441,7 +4441,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48792_20261121_PEARL": {
@@ -4463,7 +4463,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T19:38:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242990_20261121_SECOND CLASS": {
@@ -4474,7 +4474,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T19:38:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242841_20261121_SECOND CLASS": {
@@ -4485,7 +4485,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T20:03:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17235_20261121_SPECIAL": {
@@ -4496,6 +4496,39 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T20:33:36+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16441_20261121_NORMAL": {
+      "movie": "Bachelor Party D'eux - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T22:45:16+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48793_20261121_PEARL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "11:45 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T22:45:16+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48799_20261121_PEARL": {
+      "movie": "Scene - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "11:50 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-21T22:45:16+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
