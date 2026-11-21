@@ -909,9 +909,9 @@
       "time": "06:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-20T01:50:24+05:30",
+      "alerted_at": "2026-11-22T04:32:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93312_20261122_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
