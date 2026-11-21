@@ -74,7 +74,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T07:51:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46454_20261122_CLASSIC": {
@@ -998,7 +998,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T10:31:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93236_20261121_EXECUTIVE": {
@@ -3079,6 +3079,17 @@
       "alerted_at": "2026-11-21T10:21:33+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16406_20261121_NORMAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "02:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T10:41:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
