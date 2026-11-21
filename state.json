@@ -866,7 +866,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T08:28:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93207_20261121_EXECUTIVE": {
@@ -3043,9 +3043,9 @@
       "time": "01:10 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-21T09:16:33+05:30",
+      "alerted_at": "2026-11-21T11:11:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "ACON_48809_20261121_PEARL": {
       "movie": "O.M Operation Mole - Tamil",
