@@ -3209,7 +3209,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-21T17:28:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16414_20261121_NORMAL": {
@@ -3363,7 +3363,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T17:33:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46616_20261123_CLASSIC": {
