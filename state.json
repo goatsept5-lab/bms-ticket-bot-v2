@@ -4232,7 +4232,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T22:45:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MAYJ_242988_20261121_SECOND CLASS": {
@@ -4531,6 +4531,61 @@
       "alerted_at": "2026-11-21T22:45:16+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_46709_20261123_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "12:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T22:50:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46707_20261123_CLASSIC": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T22:50:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46711_20261123_CLASSIC": {
+      "movie": "Bachelor Party D'eux - Malayalam",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "04:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T22:50:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46708_20261123_CLASSIC": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "10:20 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T22:50:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46710_20261123_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "10:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T22:50:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
