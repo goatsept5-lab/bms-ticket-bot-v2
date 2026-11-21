@@ -1855,8 +1855,8 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T06:51:22+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16292_20261217_NORMAL": {
@@ -2262,8 +2262,8 @@
       "time": "11:40 AM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-20T17:06:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T06:51:22+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17233_20261121_SPECIAL": {
