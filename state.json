@@ -3296,9 +3296,9 @@
       "time": "07:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T14:58:36+05:30",
+      "alerted_at": "2026-11-21T17:03:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46614_20261121_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
