@@ -227,8 +227,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:13:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T19:58:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46487_20261121_CLASSIC": {
@@ -755,9 +755,9 @@
       "time": "08:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-18T07:58:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-21T19:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93188_20261121_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -4364,7 +4364,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16477_20261122_NORMAL": {
@@ -4476,6 +4476,17 @@
       "alerted_at": "2026-11-21T19:38:36+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MAYJ_242841_20261121_SECOND CLASS": {
+      "movie": "AOT - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261121",
+      "time": "10:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-21T19:58:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
