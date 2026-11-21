@@ -206,7 +206,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T17:33:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46471_20261121_CLASSIC": {
@@ -4209,9 +4209,9 @@
       "time": "10:15 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "alerted_at": "2026-11-21T20:18:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242762_20261121_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4276,7 +4276,7 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MAYJ_242934_20261121_SECOND CLASS": {
@@ -4364,7 +4364,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T20:08:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16477_20261122_NORMAL": {
@@ -4375,7 +4375,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16493_20261122_NORMAL": {
@@ -4396,8 +4396,8 @@
       "time": "11:15 AM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T20:18:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16483_20261122_NORMAL": {
