@@ -3010,8 +3010,8 @@
       "time": "01:00 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-21T11:01:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48790_20261121_PEARL": {
@@ -3044,7 +3044,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T11:11:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48809_20261121_PEARL": {
@@ -3098,9 +3098,9 @@
       "time": "01:55 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T11:26:32+05:30",
+      "alerted_at": "2026-11-21T11:56:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16436_20261121_NORMAL": {
       "movie": "O.M Operation Mole - Tamil",
@@ -3120,8 +3120,8 @@
       "time": "02:50 PM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-21T11:26:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16428_20261121_NORMAL": {
@@ -3132,7 +3132,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:26:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16413_20261121_NORMAL": {
@@ -3187,6 +3187,94 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T11:51:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16429_20261121_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "07:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16419_20261121_NORMAL": {
+      "movie": "The Hunger Games: Sunrise on the Reaping - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "07:25 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16414_20261121_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16440_20261121_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "08:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16431_20261121_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16519_20261121_NORMAL": {
+      "movie": "John Doe - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16430_20261121_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16415_20261121_NORMAL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T11:56:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
