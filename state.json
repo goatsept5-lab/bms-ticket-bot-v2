@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T17:23:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93221_20261121_EXECUTIVE": {
@@ -1559,7 +1559,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "MCSK_17257_20261121_SPECIAL": {
@@ -3208,9 +3208,9 @@
       "time": "07:25 PM",
       "category": "NORMAL",
       "price": 61.74,
-      "alerted_at": "2026-11-21T11:56:32+05:30",
+      "alerted_at": "2026-11-21T17:28:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16414_20261121_NORMAL": {
       "movie": "ENE Repeat - Telugu",
@@ -3252,8 +3252,8 @@
       "time": "10:05 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T11:56:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T17:28:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16430_20261121_NORMAL": {
@@ -3308,7 +3308,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T17:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48805_20261121_PEARL": {
