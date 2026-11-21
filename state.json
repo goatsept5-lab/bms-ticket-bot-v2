@@ -1856,7 +1856,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-20T01:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16292_20261217_NORMAL": {
@@ -2835,7 +2835,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T06:26:21+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16422_20261121_NORMAL": {
@@ -2878,9 +2878,9 @@
       "time": "08:35 AM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-21T03:06:22+05:30",
+      "alerted_at": "2026-11-21T06:36:22+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16437_20261121_NORMAL": {
       "movie": "ENE Repeat - Telugu",
