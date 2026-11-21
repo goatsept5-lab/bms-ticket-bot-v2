@@ -205,9 +205,9 @@
       "time": "07:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T17:08:35+05:30",
+      "alerted_at": "2026-11-21T17:33:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46471_20261121_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -3362,9 +3362,9 @@
       "time": "07:30 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T15:08:36+05:30",
+      "alerted_at": "2026-11-21T17:33:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46616_20261123_CLASSIC": {
       "movie": "Scene - Tamil",
