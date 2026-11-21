@@ -2771,6 +2771,28 @@
       "alerted_at": "2026-11-21T22:50:16+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93338_20261216_EXECUTIVE": {
+      "movie": "Dune: Part Three - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261216",
+      "time": "07:25 PM",
+      "category": "EXECUTIVE",
+      "price": 66.74,
+      "alerted_at": "2026-11-22T01:40:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93339_20261216_EXECUTIVE": {
+      "movie": "Dune: Part Three - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261216",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T01:40:16+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
