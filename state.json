@@ -4198,9 +4198,9 @@
       "time": "10:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T18:43:35+05:30",
+      "alerted_at": "2026-11-21T20:03:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MAYJ_242910_20261121_SECOND CLASS": {
       "movie": "O.M Operation Mole - Tamil",
@@ -4484,9 +4484,9 @@
       "time": "10:00 PM",
       "category": "SECOND CLASS",
       "price": 57.98,
-      "alerted_at": "2026-11-21T19:58:36+05:30",
+      "alerted_at": "2026-11-21T20:03:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
