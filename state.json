@@ -3464,6 +3464,61 @@
       "alerted_at": "2026-11-21T15:53:35+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "PVHR_46637_20261123_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "10:55 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T16:03:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46638_20261123_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "01:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T16:03:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46639_20261123_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "04:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T16:03:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46640_20261123_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "07:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T16:03:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46641_20261123_CLASSIC": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "10:35 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T16:03:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
