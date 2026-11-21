@@ -2878,8 +2878,8 @@
       "time": "08:35 AM",
       "category": "NORMAL",
       "price": 59.43,
-      "alerted_at": "2026-11-21T06:36:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T08:26:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16437_20261121_NORMAL": {
