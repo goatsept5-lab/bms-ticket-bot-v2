@@ -1008,9 +1008,9 @@
       "time": "07:45 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-21T01:21:22+05:30",
+      "alerted_at": "2026-11-21T17:48:35+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93237_20261121_EXECUTIVE": {
       "movie": "Bachelor Party D'eux - Malayalam",
@@ -3319,7 +3319,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48811_20261121_PEARL": {
