@@ -997,8 +997,8 @@
       "time": "07:40 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-21T18:18:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93236_20261121_EXECUTIVE": {
@@ -1603,7 +1603,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17261_20261122_SPECIAL": {
@@ -4331,6 +4331,116 @@
       "category": "SECOND CLASS",
       "price": 57.98,
       "alerted_at": "2026-11-21T18:43:35+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16409_20261121_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261121",
+      "time": "11:05 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16539_20261122_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "08:05 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16466_20261122_NORMAL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "10:05 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16477_20261122_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "10:35 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16493_20261122_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "10:45 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16488_20261122_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "11:15 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16483_20261122_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "11:55 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16467_20261122_NORMAL": {
+      "movie": "AOT - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "01:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16478_20261122_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "01:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16494_20261122_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "01:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-21T18:48:36+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
