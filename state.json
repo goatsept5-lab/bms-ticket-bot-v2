@@ -1801,7 +1801,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-21T01:21:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93327_20261122_EXECUTIVE": {
@@ -2791,6 +2791,39 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-22T01:40:16+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "INTO_93341_20261123_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "10:50 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T02:15:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93343_20261123_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "06:55 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T02:15:17+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93344_20261123_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "10:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T02:15:17+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
