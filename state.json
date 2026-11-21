@@ -525,7 +525,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46496_20261122_CLASSIC": {
@@ -888,7 +888,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:43:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93226_20261121_EXECUTIVE": {
@@ -998,7 +998,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-21T19:08:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93236_20261121_EXECUTIVE": {
@@ -1086,7 +1086,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-21T19:08:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93189_20261122_EXECUTIVE": {
@@ -4342,7 +4342,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16539_20261122_NORMAL": {
@@ -4386,7 +4386,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16488_20261122_NORMAL": {
@@ -4418,8 +4418,8 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-21T18:48:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-21T19:18:35+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16478_20261122_NORMAL": {
@@ -4443,6 +4443,17 @@
       "alerted_at": "2026-11-21T18:48:36+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "ACON_48792_20261121_PEARL": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261121",
+      "time": "08:30 PM",
+      "category": "PEARL",
+      "price": 59.0,
+      "alerted_at": "2026-11-21T19:18:35+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
