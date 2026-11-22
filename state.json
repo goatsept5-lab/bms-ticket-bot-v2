@@ -3057,6 +3057,50 @@
       "alerted_at": "2026-11-22T06:52:32+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_46727_20261125_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261125",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T07:02:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46728_20261125_CLASSIC": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261125",
+      "time": "03:40 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T07:02:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46729_20261125_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261125",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T07:02:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46730_20261125_CLASSIC": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261125",
+      "time": "10:20 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T07:02:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
