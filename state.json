@@ -52,7 +52,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T10:56:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46482_20261122_CLASSIC": {
@@ -3022,7 +3022,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16476_20261122_NORMAL": {
@@ -3396,6 +3396,28 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16456_20261122_NORMAL": {
+      "movie": "Mookuthi Amman 2 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "11:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T10:57:42+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93377_20261123_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T10:57:42+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
