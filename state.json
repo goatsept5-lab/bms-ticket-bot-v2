@@ -525,7 +525,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T15:07:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93232_20261122_EXECUTIVE": {
@@ -568,8 +568,8 @@
       "time": "06:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T11:42:43+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T15:32:43+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93233_20261122_EXECUTIVE": {
