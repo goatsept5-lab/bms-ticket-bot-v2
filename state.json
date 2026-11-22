@@ -316,7 +316,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46516_20261122_CLASSIC": {
@@ -613,7 +613,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T19:52:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93183_20261122_EXECUTIVE": {
@@ -4364,7 +4364,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-22T19:07:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48816_20261122_PEARL": {
