@@ -316,7 +316,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-22T21:17:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46516_20261122_CLASSIC": {
@@ -953,9 +953,9 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-21T06:51:22+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-22T21:27:45+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "CBMC_16292_20261217_NORMAL": {
       "movie": "Avengers: Doomsday (MS - Infinity Vision 2D) - English",
