@@ -381,8 +381,8 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-18T08:33:12+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93240_20261122_EXECUTIVE": {
@@ -3285,8 +3285,8 @@
       "time": "08:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-22T07:47:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17245_20261122_SPECIAL": {
@@ -3330,6 +3330,72 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T10:32:42+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "INTO_93365_20261123_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "09:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93376_20261123_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93366_20261123_EXECUTIVE": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93367_20261123_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93368_20261123_EXECUTIVE": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93369_20261123_EXECUTIVE": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T10:47:43+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
