@@ -701,7 +701,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-18T13:00:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17237_20261122_SPECIAL": {
@@ -4342,6 +4342,39 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-22T18:32:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16675_20261122_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "08:00 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T19:07:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48834_20261122_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261122",
+      "time": "08:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-22T19:07:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48816_20261122_PEARL": {
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261122",
+      "time": "08:30 PM",
+      "category": "PEARL",
+      "price": 59.0,
+      "alerted_at": "2026-11-22T19:07:44+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
