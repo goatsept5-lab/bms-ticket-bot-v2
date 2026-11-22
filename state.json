@@ -1933,7 +1933,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46637_20261123_CLASSIC": {
@@ -3825,6 +3825,72 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "ACON_48832_20261122_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261122",
+      "time": "01:00 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48826_20261122_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261122",
+      "time": "01:10 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "ACON_48814_20261122_PEARL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "AGS Cinemas OMR: Navalur (Vivira Mall)",
+      "date": "20261122",
+      "time": "01:30 PM",
+      "category": "PEARL",
+      "price": 54.0,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93453_20261123_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "12:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93454_20261123_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "03:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93455_20261123_EXECUTIVE": {
+      "movie": "Scene - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261123",
+      "time": "07:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T12:12:43+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
