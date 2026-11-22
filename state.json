@@ -524,9 +524,9 @@
       "time": "03:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-21T11:36:32+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-22T15:07:42+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93232_20261122_EXECUTIVE": {
       "movie": "AOT - Tamil",
@@ -1174,7 +1174,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:20:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46603_20261124_CLASSIC": {
@@ -1185,7 +1185,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:20:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46604_20261124_CLASSIC": {
@@ -2142,7 +2142,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46622_20261124_CLASSIC": {
@@ -4275,8 +4275,8 @@
       "time": "04:45 PM",
       "category": "PEARL",
       "price": 54.0,
-      "alerted_at": "2026-11-22T14:47:42+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T15:07:42+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "ACON_48828_20261122_PEARL": {
