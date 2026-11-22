@@ -51,8 +51,8 @@
       "time": "10:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T10:56:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T11:07:42+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46482_20261122_CLASSIC": {
@@ -118,7 +118,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-22T10:07:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46503_20261122_CLASSIC": {
@@ -3407,7 +3407,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T10:57:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93377_20261123_EXECUTIVE": {
@@ -3418,6 +3418,28 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T10:57:42+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46721_20261123_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "12:20 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:07:42+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46722_20261123_CLASSIC": {
+      "movie": "AOT - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261123",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:07:42+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
