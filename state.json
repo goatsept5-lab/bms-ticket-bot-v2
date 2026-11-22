@@ -469,9 +469,9 @@
       "time": "12:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-21T18:28:35+05:30",
+      "alerted_at": "2026-11-22T10:02:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93231_20261122_EXECUTIVE": {
       "movie": "Aakasamlo Oka Tara - Telugu",
