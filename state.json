@@ -656,9 +656,9 @@
       "time": "11:20 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T13:00:34+05:30",
+      "alerted_at": "2026-11-22T09:22:32+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46559_20261122_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -3165,7 +3165,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T07:37:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16489_20261122_NORMAL": {
@@ -3176,7 +3176,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T09:02:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16457_20261122_NORMAL": {
@@ -3220,7 +3220,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T07:37:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16490_20261122_NORMAL": {
@@ -3231,7 +3231,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T09:12:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16485_20261122_NORMAL": {
@@ -3286,6 +3286,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T07:47:33+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MCSK_17245_20261122_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261122",
+      "time": "08:50 AM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T09:22:32+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
