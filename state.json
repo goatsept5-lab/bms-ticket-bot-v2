@@ -821,9 +821,9 @@
       "time": "04:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-22T13:57:42+05:30",
+      "alerted_at": "2026-11-22T14:42:42+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "MCSK_17262_20261122_SPECIAL": {
       "movie": "Appakutty - Tamil",
@@ -2164,7 +2164,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46700_20261124_CLASSIC": {
@@ -2186,7 +2186,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46663_20261124_CLASSIC": {
@@ -2241,7 +2241,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46664_20261124_CLASSIC": {
@@ -3385,7 +3385,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-22T10:47:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93369_20261123_EXECUTIVE": {
