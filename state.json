@@ -1822,8 +1822,8 @@
       "time": "09:50 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T05:07:33+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T07:22:33+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46615_20261122_CLASSIC": {
