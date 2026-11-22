@@ -315,9 +315,9 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-22T20:07:44+05:30",
+      "alerted_at": "2026-11-22T20:42:44+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46516_20261122_CLASSIC": {
       "movie": "Aakasamlo Oka Tara - Telugu",
@@ -788,9 +788,9 @@
       "time": "10:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-18T23:17:05+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-22T20:42:44+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "MCSK_17260_20261122_SPECIAL": {
       "movie": "Appakutty - Tamil",
@@ -1812,7 +1812,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-22T20:27:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93337_20261122_EXECUTIVE": {
@@ -3340,8 +3340,8 @@
       "time": "09:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T17:47:44+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T20:42:44+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93376_20261123_EXECUTIVE": {
@@ -3374,7 +3374,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T10:47:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93368_20261123_EXECUTIVE": {
@@ -4375,7 +4375,7 @@
       "category": "PEARL",
       "price": 59.0,
       "alerted_at": "2026-11-22T20:12:45+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
