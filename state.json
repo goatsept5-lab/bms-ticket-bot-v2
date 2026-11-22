@@ -260,8 +260,8 @@
       "time": "07:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-22T17:22:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T18:32:44+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "PVHR_46465_20261122_CLASSIC": {
@@ -4332,6 +4332,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-22T18:17:44+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16469_20261122_NORMAL": {
+      "movie": "The Hunger Games: Sunrise on the Reaping - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "07:25 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T18:32:44+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
