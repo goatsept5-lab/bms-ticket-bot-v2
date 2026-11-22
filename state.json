@@ -645,9 +645,9 @@
       "time": "07:40 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-22T00:00:17+05:30",
+      "alerted_at": "2026-11-22T05:42:33+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46558_20261122_CLASSIC": {
       "movie": "Appakutty - Tamil",
