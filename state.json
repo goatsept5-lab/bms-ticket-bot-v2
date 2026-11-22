@@ -172,9 +172,9 @@
       "time": "03:30 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
+      "alerted_at": "2026-11-22T13:32:43+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46474_20261122_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
