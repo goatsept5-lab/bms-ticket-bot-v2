@@ -909,8 +909,8 @@
       "time": "06:30 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-22T04:32:32+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T06:17:32+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93312_20261122_EXECUTIVE": {
