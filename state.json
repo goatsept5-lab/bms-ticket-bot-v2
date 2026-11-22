@@ -30,7 +30,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-22T11:47:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46455_20261122_CLASSIC": {
@@ -613,7 +613,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-18T09:00:34+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93183_20261122_EXECUTIVE": {
@@ -1867,7 +1867,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:28:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46619_20261123_CLASSIC": {
@@ -1878,7 +1878,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:28:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46628_20261123_CLASSIC": {
@@ -1889,7 +1889,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46629_20261123_CLASSIC": {
@@ -1911,7 +1911,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46631_20261123_CLASSIC": {
@@ -1922,7 +1922,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46632_20261123_CLASSIC": {
@@ -3473,6 +3473,358 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-22T11:42:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242779_20261122_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261122",
+      "time": "01:10 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "MAYJ_242899_20261122_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261122",
+      "time": "03:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242780_20261122_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261122",
+      "time": "04:20 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242900_20261122_SECOND CLASS": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261122",
+      "time": "07:00 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "MAYJ_242781_20261122_SECOND CLASS": {
+      "movie": "Scene - Tamil",
+      "theatre": "MAYAJAAL Multiplex: ECR",
+      "date": "20261122",
+      "time": "07:30 PM",
+      "category": "SECOND CLASS",
+      "price": 57.98,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93410_20261124_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261124",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93411_20261124_EXECUTIVE": {
+      "movie": "How to Rob a Bank - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261124",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93412_20261124_EXECUTIVE": {
+      "movie": "The Hunger Games: Sunrise on the Reaping - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261124",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93413_20261124_EXECUTIVE": {
+      "movie": "Ebenezer: A Christmas Carol - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261124",
+      "time": "07:45 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93414_20261124_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261124",
+      "time": "10:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93387_20261125_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "09:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93405_20261125_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "09:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93415_20261125_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "10:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93396_20261125_EXECUTIVE": {
+      "movie": "John Doe - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "12:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93388_20261125_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "12:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93406_20261125_EXECUTIVE": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93426_20261125_EXECUTIVE": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93416_20261125_EXECUTIVE": {
+      "movie": "How to Rob a Bank - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "01:30 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93389_20261125_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "03:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93407_20261125_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93427_20261125_EXECUTIVE": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "04:10 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93417_20261125_EXECUTIVE": {
+      "movie": "The Hunger Games: Sunrise on the Reaping - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "04:20 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93390_20261125_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "06:45 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93398_20261125_EXECUTIVE": {
+      "movie": "John Doe - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "07:20 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93408_20261125_EXECUTIVE": {
+      "movie": "Aakasamlo Oka Tara - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "07:30 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93428_20261125_EXECUTIVE": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "07:40 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93418_20261125_EXECUTIVE": {
+      "movie": "Ebenezer: A Christmas Carol - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "07:45 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93391_20261125_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "09:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93419_20261125_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "10:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93399_20261125_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "10:35 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93409_20261125_EXECUTIVE": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93429_20261125_EXECUTIVE": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261125",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T11:57:43+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
