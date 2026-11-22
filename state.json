@@ -128,9 +128,9 @@
       "time": "12:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-22T11:32:43+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46473_20261122_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -1295,7 +1295,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:40:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46600_20261123_CLASSIC": {
@@ -1328,7 +1328,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:50:24+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16484_20261122_NORMAL": {
@@ -3451,6 +3451,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T11:17:42+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93378_20261122_EXECUTIVE": {
+      "movie": "AOT - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261122",
+      "time": "10:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-22T11:32:43+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
