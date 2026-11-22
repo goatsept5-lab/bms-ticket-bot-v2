@@ -568,8 +568,8 @@
       "time": "06:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-20T18:46:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T09:37:32+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93233_20261122_EXECUTIVE": {
@@ -3297,7 +3297,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-22T09:22:32+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48831_20261122_PEARL": {
@@ -3308,7 +3308,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-22T09:27:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
