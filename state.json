@@ -227,9 +227,9 @@
       "time": "04:35 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-18T03:43:12+05:30",
+      "alerted_at": "2026-11-22T14:37:42+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46475_20261122_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -2109,7 +2109,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46644_20261124_CLASSIC": {
@@ -4265,7 +4265,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-22T14:17:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "ACON_48827_20261122_PEARL": {
@@ -4287,7 +4287,7 @@
       "category": "PEARL",
       "price": 54.0,
       "alerted_at": "2026-11-22T14:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93473_20261124_EXECUTIVE": {
