@@ -2956,7 +2956,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93373_20261123_EXECUTIVE": {
@@ -4342,7 +4342,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-22T18:32:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16675_20261122_NORMAL": {
@@ -4353,7 +4353,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-22T19:07:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "ACON_48834_20261122_PEARL": {
@@ -4375,7 +4375,7 @@
       "category": "PEARL",
       "price": 59.0,
       "alerted_at": "2026-11-22T19:07:44+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
