@@ -788,8 +788,8 @@
       "time": "10:40 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-22T21:17:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T21:47:44+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_17260_20261122_SPECIAL": {
@@ -4387,6 +4387,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-22T21:07:45+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16470_20261122_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261122",
+      "time": "10:40 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-22T21:47:44+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
