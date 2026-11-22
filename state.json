@@ -612,8 +612,8 @@
       "time": "09:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T19:52:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T20:12:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93183_20261122_EXECUTIVE": {
@@ -4374,8 +4374,8 @@
       "time": "08:30 PM",
       "category": "PEARL",
       "price": 59.0,
-      "alerted_at": "2026-11-22T19:52:45+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-22T20:12:45+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
