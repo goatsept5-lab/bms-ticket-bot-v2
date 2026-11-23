@@ -1646,9 +1646,9 @@
       "time": "10:50 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T02:15:17+05:30",
+      "alerted_at": "2026-11-23T08:52:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93343_20261123_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
