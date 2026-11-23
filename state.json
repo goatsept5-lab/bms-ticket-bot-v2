@@ -1647,7 +1647,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-23T08:52:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93343_20261123_EXECUTIVE": {
@@ -2428,7 +2428,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T12:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93465_20261124_EXECUTIVE": {
@@ -2813,6 +2813,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T09:17:07+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16546_20261123_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261123",
+      "time": "10:30 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-23T09:32:07+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
