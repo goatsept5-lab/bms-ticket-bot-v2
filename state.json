@@ -2890,7 +2890,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T15:48:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16557_20261123_NORMAL": {
@@ -2923,6 +2923,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T16:03:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16550_20261123_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261123",
+      "time": "05:10 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-23T16:18:48+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
