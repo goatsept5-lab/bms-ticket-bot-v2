@@ -1581,7 +1581,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-23T15:48:49+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46711_20261123_CLASSIC": {
@@ -2923,7 +2923,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T16:03:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16550_20261123_NORMAL": {
