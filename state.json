@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:20:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46606_20261125_CLASSIC": {
@@ -272,7 +272,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46608_20261125_CLASSIC": {
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46609_20261125_CLASSIC": {
@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-20T12:30:23+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46610_20261125_CLASSIC": {
@@ -306,193 +306,6 @@
       "price": 54.35,
       "alerted_at": "2026-11-20T12:30:23+05:30",
       "sold_out": false,
-      "soon_alerted": false
-    },
-    "PVHR_46596_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "08:00 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T12:40:24+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46597_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "11:40 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T12:40:24+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46599_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:03:49+05:30",
-      "sold_out": false,
-      "soon_alerted": true
-    },
-    "PVHR_46600_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:40 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T12:40:24+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46598_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "03:20 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:38:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17268_20261123_SPECIAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "10:50 AM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17272_20261123_SPECIAL": {
-      "movie": "Scene - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "12:35 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T13:08:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17276_20261123_SPECIAL": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "12:50 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T13:18:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17273_20261123_SPECIAL": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "03:45 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:58:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17277_20261123_SPECIAL": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "03:55 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17266_20261123_SPECIAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17274_20261123_SPECIAL": {
-      "movie": "Scene - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "07:10 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17278_20261123_SPECIAL": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "07:20 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17279_20261123_SPECIAL": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "10:10 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17275_20261123_SPECIAL": {
-      "movie": "Aakasamlo Oka Tara - Telugu",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "10:20 PM",
-      "category": "SPECIAL",
-      "price": 59.43,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17271_20261123_SPECIAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "10:30 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "MCSK_17267_20261123_SPECIAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "10:40 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
       "soon_alerted": false
     },
     "MCSK_17284_20261124_SPECIAL": {
@@ -803,160 +616,6 @@
       "sold_out": true,
       "soon_alerted": false
     },
-    "PVHR_46616_20261123_CLASSIC": {
-      "movie": "Scene - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "12:40 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:53:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46617_20261123_CLASSIC": {
-      "movie": "Scene - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "03:50 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:48:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "PVHR_46618_20261123_CLASSIC": {
-      "movie": "Scene - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T15:28:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46619_20261123_CLASSIC": {
-      "movie": "Scene - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:10 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T15:28:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46628_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:05 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T20:52:44+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46629_20261123_CLASSIC": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "01:45 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "PVHR_46630_20261123_CLASSIC": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "04:45 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:03:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46631_20261123_CLASSIC": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:45 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46632_20261123_CLASSIC": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:45 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46637_20261123_CLASSIC": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:55 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:03:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46638_20261123_CLASSIC": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "01:50 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "PVHR_46639_20261123_CLASSIC": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "04:45 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:03:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46640_20261123_CLASSIC": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:40 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:03:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46641_20261123_CLASSIC": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:35 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:03:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
     "PVHR_46660_20261124_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -1020,7 +679,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46661_20261124_CLASSIC": {
@@ -1031,7 +690,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46643_20261124_CLASSIC": {
@@ -1097,7 +756,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46688_20261124_CLASSIC": {
@@ -1119,7 +778,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46715_20261124_CLASSIC": {
@@ -1163,7 +822,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46689_20261124_CLASSIC": {
@@ -1218,7 +877,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46665_20261125_CLASSIC": {
@@ -1240,7 +899,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46690_20261125_CLASSIC": {
@@ -1262,7 +921,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46717_20261125_CLASSIC": {
@@ -1273,7 +932,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46624_20261125_CLASSIC": {
@@ -1295,7 +954,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46648_20261125_CLASSIC": {
@@ -1306,7 +965,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46691_20261125_CLASSIC": {
@@ -1317,7 +976,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46625_20261125_CLASSIC": {
@@ -1339,7 +998,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46649_20261125_CLASSIC": {
@@ -1350,7 +1009,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46667_20261125_CLASSIC": {
@@ -1361,7 +1020,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46692_20261125_CLASSIC": {
@@ -1372,7 +1031,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46626_20261125_CLASSIC": {
@@ -1394,7 +1053,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46704_20261125_CLASSIC": {
@@ -1405,7 +1064,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46650_20261125_CLASSIC": {
@@ -1416,7 +1075,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46668_20261125_CLASSIC": {
@@ -1427,7 +1086,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46693_20261125_CLASSIC": {
@@ -1438,7 +1097,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46627_20261125_CLASSIC": {
@@ -1460,7 +1119,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46651_20261125_CLASSIC": {
@@ -1471,7 +1130,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46669_20261125_CLASSIC": {
@@ -1482,138 +1141,6 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-21T16:18:35+05:30",
-      "sold_out": false,
-      "soon_alerted": false
-    },
-    "PVHR_46682_20261123_CLASSIC": {
-      "movie": "Jailer 2 - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "11:45 AM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:28:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46683_20261123_CLASSIC": {
-      "movie": "Mookuthi Amman 2 - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "03:10 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:38:48+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46684_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "06:20 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:28:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46695_20261123_CLASSIC": {
-      "movie": "John Doe - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:30 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:28:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46685_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T16:28:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46694_20261123_CLASSIC": {
-      "movie": "John Doe - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "12:15 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46712_20261123_CLASSIC": {
-      "movie": "ENE Repeat - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-11-21T17:18:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46709_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "12:25 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46707_20261123_CLASSIC": {
-      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "03:40 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-11-23T15:48:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46711_20261123_CLASSIC": {
-      "movie": "Bachelor Party D'eux - Malayalam",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "04:05 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-11-21T22:50:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46708_20261123_CLASSIC": {
-      "movie": "Aakasamlo Oka Tara - Telugu",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:20 PM",
-      "category": "CLASSIC",
-      "price": 59.43,
-      "alerted_at": "2026-11-21T22:50:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46710_20261123_CLASSIC": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "10:25 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-21T22:50:16+05:30",
       "sold_out": true,
       "soon_alerted": false
     },
@@ -1639,237 +1166,6 @@
       "sold_out": true,
       "soon_alerted": false
     },
-    "INTO_93341_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:50 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T08:52:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93343_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "06:55 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T02:15:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93344_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:45 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T02:15:17+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93345_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "09:00 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T07:02:08+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93351_20261123_EXECUTIVE": {
-      "movie": "John Doe - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "12:00 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T10:02:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93346_20261123_EXECUTIVE": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "12:45 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T10:47:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93356_20261123_EXECUTIVE": {
-      "movie": "Godzilla Minus Zero - Japanese",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "01:00 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T11:02:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93371_20261123_EXECUTIVE": {
-      "movie": "How to Rob a Bank - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "01:30 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T12:53:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93362_20261123_EXECUTIVE": {
-      "movie": "Scene - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "03:25 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93347_20261123_EXECUTIVE": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "03:45 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T13:48:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93357_20261123_EXECUTIVE": {
-      "movie": "ENE Repeat - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "04:10 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93372_20261123_EXECUTIVE": {
-      "movie": "The Hunger Games: Sunrise on the Reaping - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "04:20 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T14:23:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93348_20261123_EXECUTIVE": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "06:45 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T14:48:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93353_20261123_EXECUTIVE": {
-      "movie": "John Doe - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "07:20 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:58:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93358_20261123_EXECUTIVE": {
-      "movie": "Godzilla Minus Zero - Japanese",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "07:40 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93373_20261123_EXECUTIVE": {
-      "movie": "Ebenezer: A Christmas Carol - English",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "07:45 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T17:48:49+05:30",
-      "sold_out": false,
-      "soon_alerted": true
-    },
-    "INTO_93349_20261123_EXECUTIVE": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "09:50 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": false,
-      "soon_alerted": false
-    },
-    "INTO_93374_20261123_EXECUTIVE": {
-      "movie": "Bachelor Party D'eux - Malayalam",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:30 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93354_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:35 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T14:23:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93364_20261123_EXECUTIVE": {
-      "movie": "Scene - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:50 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": false,
-      "soon_alerted": false
-    },
-    "INTO_93359_20261123_EXECUTIVE": {
-      "movie": "Party Animals - Hindi",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:50 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
     "PVHR_46727_20261125_CLASSIC": {
       "movie": "AOT - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
@@ -1889,7 +1185,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-22T07:02:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46729_20261125_CLASSIC": {
@@ -1911,7 +1207,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-22T07:02:33+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46723_20261124_CLASSIC": {
@@ -1955,127 +1251,6 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-22T07:12:32+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93365_20261123_EXECUTIVE": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "09:30 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T07:47:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93376_20261123_EXECUTIVE": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:30 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T09:57:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93366_20261123_EXECUTIVE": {
-      "movie": "Aakasamlo Oka Tara - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "12:50 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T12:07:42+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93367_20261123_EXECUTIVE": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "04:10 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T14:13:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93368_20261123_EXECUTIVE": {
-      "movie": "Aakasamlo Oka Tara - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "07:30 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T10:47:43+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93369_20261123_EXECUTIVE": {
-      "movie": "Godzilla Minus Zero - Japanese",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:50 PM",
-      "category": "EXECUTIVE",
-      "price": 61.74,
-      "alerted_at": "2026-11-22T10:47:43+05:30",
-      "sold_out": false,
-      "soon_alerted": false
-    },
-    "INTO_93377_20261123_EXECUTIVE": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:00 AM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T08:02:08+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "PVHR_46721_20261123_CLASSIC": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "12:20 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "PVHR_46722_20261123_CLASSIC": {
-      "movie": "AOT - Tamil",
-      "theatre": "PVR: Heritage RSL ECR",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "CLASSIC",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T11:07:42+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93381_20261123_EXECUTIVE": {
-      "movie": "AOT - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:30 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T11:17:42+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93380_20261123_EXECUTIVE": {
-      "movie": "ENE Repeat - Telugu",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "10:50 PM",
-      "category": "EXECUTIVE",
-      "price": 59.43,
-      "alerted_at": "2026-11-22T16:57:44+05:30",
       "sold_out": true,
       "soon_alerted": false
     },
@@ -2131,7 +1306,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T11:57:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93387_20261125_EXECUTIVE": {
@@ -2376,39 +1551,6 @@
       "sold_out": true,
       "soon_alerted": false
     },
-    "INTO_93453_20261123_EXECUTIVE": {
-      "movie": "Scene - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "12:05 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T10:07:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "INTO_93454_20261123_EXECUTIVE": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "03:20 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-22T12:12:43+05:30",
-      "sold_out": true,
-      "soon_alerted": false
-    },
-    "INTO_93455_20261123_EXECUTIVE": {
-      "movie": "Scene - Tamil",
-      "theatre": "INOX: The Marina Mall, OMR",
-      "date": "20261123",
-      "time": "07:05 PM",
-      "category": "EXECUTIVE",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:28:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
     "INTO_93382_20261124_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
@@ -2494,7 +1636,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-22T12:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93458_20261124_EXECUTIVE": {
@@ -2571,7 +1713,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T12:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93459_20261124_EXECUTIVE": {
@@ -2794,181 +1936,104 @@
       "sold_out": false,
       "soon_alerted": false
     },
-    "CBMC_16562_20261123_NORMAL": {
+    "PVHR_46732_20261126_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "09:50 AM",
-      "category": "NORMAL",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "11:40 AM",
+      "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-23T08:57:08+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16580_20261123_NORMAL": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "10:15 AM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T09:17:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16546_20261123_NORMAL": {
-      "movie": "Sathyavan Savithiri - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "10:30 AM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T09:57:07+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16558_20261123_NORMAL": {
-      "movie": "Scene - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "01:30 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:53:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16673_20261123_NORMAL": {
-      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "01:55 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T12:58:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16563_20261123_NORMAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "02:25 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T14:23:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16551_20261123_NORMAL": {
-      "movie": "The Hunger Games: Sunrise on the Reaping - English",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "02:35 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T13:38:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16578_20261123_NORMAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "03:25 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T14:53:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16545_20261123_NORMAL": {
-      "movie": "Appakutty - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "04:10 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:48:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16557_20261123_NORMAL": {
-      "movie": "Scene - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "04:35 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:38:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "MCSK_17265_20261123_SPECIAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Miraj Cinemas: Sekaran Mall",
-      "date": "20261123",
-      "time": "03:20 PM",
-      "category": "SPECIAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T15:58:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
-    "CBMC_16584_20261123_NORMAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "05:00 PM",
-      "category": "NORMAL",
+    "PVHR_46736_20261126_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "12:40 PM",
+      "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-23T16:03:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16550_20261123_NORMAL": {
-      "movie": "Godzilla Minus Zero - Japanese",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "05:10 PM",
-      "category": "NORMAL",
-      "price": 61.74,
-      "alerted_at": "2026-11-23T16:18:48+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16568_20261123_NORMAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "06:00 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T17:03:49+05:30",
-      "sold_out": true,
-      "soon_alerted": true
-    },
-    "CBMC_16567_20261123_NORMAL": {
-      "movie": "O.M Operation Mole - Tamil",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
-      "time": "07:00 PM",
-      "category": "NORMAL",
-      "price": 54.35,
-      "alerted_at": "2026-11-23T18:08:48+05:30",
+      "alerted_at": "2026-11-24T01:30:09+05:30",
       "sold_out": false,
-      "soon_alerted": true
+      "soon_alerted": false
     },
-    "CBMC_16575_20261123_NORMAL": {
+    "PVHR_46737_20261126_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "03:50 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46738_20261126_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "07:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46772_20261126_CLASSIC": {
       "movie": "ENE Repeat - Telugu",
-      "theatre": "Cinepolis: BSR Mall, OMR",
-      "date": "20261123",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
       "time": "07:00 PM",
-      "category": "NORMAL",
+      "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-23T18:08:48+05:30",
+      "alerted_at": "2026-11-24T01:30:09+05:30",
       "sold_out": false,
-      "soon_alerted": true
+      "soon_alerted": false
+    },
+    "PVHR_46761_20261126_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "10:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46739_20261126_CLASSIC": {
+      "movie": "Scene - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "10:10 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46773_20261126_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "10:25 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46735_20261126_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "10:40 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
