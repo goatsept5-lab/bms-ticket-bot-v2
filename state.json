@@ -1992,14 +1992,14 @@
       "soon_alerted": false
     },
     "INTO_93367_20261123_EXECUTIVE": {
-      "movie": "AOT - Tamil",
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
       "theatre": "INOX: The Marina Mall, OMR",
       "date": "20261123",
       "time": "04:10 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T10:47:43+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T14:03:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93368_20261123_EXECUTIVE": {
@@ -2856,8 +2856,8 @@
       "time": "02:25 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-23T13:28:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T14:03:48+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16551_20261123_NORMAL": {
