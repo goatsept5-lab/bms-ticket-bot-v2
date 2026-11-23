@@ -1713,7 +1713,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-23T11:02:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93371_20261123_EXECUTIVE": {
@@ -1745,9 +1745,9 @@
       "time": "03:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
+      "alerted_at": "2026-11-23T13:48:48+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93357_20261123_EXECUTIVE": {
       "movie": "ENE Repeat - Telugu",
@@ -2835,7 +2835,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T12:53:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16673_20261123_NORMAL": {
