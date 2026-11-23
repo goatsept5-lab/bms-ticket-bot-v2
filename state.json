@@ -865,9 +865,9 @@
       "time": "01:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T15:53:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-23T12:58:49+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46630_20261123_CLASSIC": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -920,9 +920,9 @@
       "time": "01:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T16:03:36+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-23T12:58:49+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46639_20261123_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -1547,8 +1547,8 @@
       "time": "12:15 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T16:38:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T12:58:49+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46712_20261123_CLASSIC": {
@@ -1559,7 +1559,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-21T17:18:35+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46709_20261123_CLASSIC": {
@@ -1569,8 +1569,8 @@
       "time": "12:25 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T22:50:16+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T12:58:49+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46707_20261123_CLASSIC": {
@@ -2036,14 +2036,14 @@
       "soon_alerted": true
     },
     "PVHR_46721_20261123_CLASSIC": {
-      "movie": "AOT - Tamil",
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
       "theatre": "PVR: Heritage RSL ECR",
       "date": "20261123",
       "time": "12:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-22T11:07:42+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T12:58:49+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46722_20261123_CLASSIC": {
@@ -2835,6 +2835,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T12:53:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16673_20261123_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261123",
+      "time": "01:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-23T12:58:49+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
