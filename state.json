@@ -2879,6 +2879,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-23T14:53:48+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16545_20261123_NORMAL": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261123",
+      "time": "04:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-23T15:18:49+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
