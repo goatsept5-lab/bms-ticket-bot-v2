@@ -397,14 +397,14 @@
       "soon_alerted": false
     },
     "MCSK_17273_20261123_SPECIAL": {
-      "movie": "AOT - Tamil",
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
       "theatre": "Miraj Cinemas: Sekaran Mall",
       "date": "20261123",
       "time": "03:45 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-20T20:26:48+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T15:58:48+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "MCSK_17277_20261123_SPECIAL": {
@@ -1504,7 +1504,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-23T15:38:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46684_20261123_CLASSIC": {
@@ -2903,6 +2903,17 @@
       "alerted_at": "2026-11-23T15:38:48+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17265_20261123_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261123",
+      "time": "03:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-23T15:58:48+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
