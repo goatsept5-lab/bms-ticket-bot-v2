@@ -1712,9 +1712,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-22T04:15:16+05:30",
+      "alerted_at": "2026-11-23T11:02:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93371_20261123_EXECUTIVE": {
       "movie": "How to Rob a Bank - English",
