@@ -2793,6 +2793,17 @@
       "alerted_at": "2026-11-22T13:17:43+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16562_20261123_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261123",
+      "time": "09:50 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-23T08:57:08+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
