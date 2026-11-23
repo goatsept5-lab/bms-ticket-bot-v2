@@ -821,9 +821,9 @@
       "time": "03:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T15:28:35+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-23T15:48:49+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46618_20261123_CLASSIC": {
       "movie": "Scene - Tamil",
@@ -1574,14 +1574,14 @@
       "soon_alerted": false
     },
     "PVHR_46707_20261123_CLASSIC": {
-      "movie": "Aakasamlo Oka Tara - Telugu",
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
       "theatre": "PVR: Heritage RSL ECR",
       "date": "20261123",
       "time": "03:40 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-21T22:50:16+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T15:48:49+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46711_20261123_CLASSIC": {
@@ -2889,8 +2889,8 @@
       "time": "04:10 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-23T15:18:49+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-23T15:48:49+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16557_20261123_NORMAL": {
