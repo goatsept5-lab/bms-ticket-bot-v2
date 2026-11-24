@@ -722,9 +722,9 @@
       "time": "03:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-24T13:00:27+05:30",
+      "alerted_at": "2026-11-24T13:50:29+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46714_20261124_CLASSIC": {
       "movie": "Bachelor Party D'eux - Malayalam",
