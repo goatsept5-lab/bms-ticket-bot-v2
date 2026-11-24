@@ -1283,9 +1283,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-24T14:20:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93413_20261124_EXECUTIVE": {
       "movie": "Ebenezer: A Christmas Carol - English",
@@ -1515,7 +1515,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T11:57:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93399_20261125_EXECUTIVE": {
