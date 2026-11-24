@@ -2416,9 +2416,9 @@
       "time": "02:35 PM",
       "category": "NORMAL",
       "price": 61.74,
-      "alerted_at": "2026-11-24T10:10:27+05:30",
+      "alerted_at": "2026-11-24T12:35:28+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16654_20261124_NORMAL": {
       "movie": "Appakutty - Tamil",
