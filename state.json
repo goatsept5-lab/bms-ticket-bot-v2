@@ -777,9 +777,9 @@
       "time": "12:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-25T10:00:10+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93388_20261125_EXECUTIVE": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T08:50:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93461_20261125_EXECUTIVE": {
@@ -1889,7 +1889,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93527_20261127_EXECUTIVE": {
