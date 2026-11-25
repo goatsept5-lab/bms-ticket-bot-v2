@@ -568,9 +568,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T16:18:35+05:30",
+      "alerted_at": "2026-11-25T17:02:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46719_20261125_CLASSIC": {
       "movie": "ENE Repeat - Telugu",
