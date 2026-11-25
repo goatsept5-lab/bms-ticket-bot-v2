@@ -876,8 +876,8 @@
       "time": "06:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T16:47:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-25T17:57:24+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93398_20261125_EXECUTIVE": {
