@@ -821,9 +821,9 @@
       "time": "01:30 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-25T11:30:10+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93389_20261125_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
@@ -855,7 +855,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-25T11:25:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93417_20261125_EXECUTIVE": {
@@ -2967,6 +2967,39 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T11:15:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46819_20261127_CLASSIC": {
+      "movie": "Thiruvilaiyadal - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 54.12,
+      "alerted_at": "2026-11-25T11:30:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46882_20261128_CLASSIC": {
+      "movie": "Thiruvilaiyadal - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 54.12,
+      "alerted_at": "2026-11-25T11:30:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46886_20261129_CLASSIC": {
+      "movie": "Thiruvilaiyadal - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 54.12,
+      "alerted_at": "2026-11-25T11:30:10+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
