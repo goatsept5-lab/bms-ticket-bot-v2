@@ -877,7 +877,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T18:57:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93398_20261125_EXECUTIVE": {
@@ -3134,6 +3134,28 @@
       "alerted_at": "2026-11-25T19:02:26+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_93587_20261128_EXECUTIVE": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-25T19:27:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93591_20261129_EXECUTIVE": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261129",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-25T19:27:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
