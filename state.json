@@ -767,7 +767,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T08:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93396_20261125_EXECUTIVE": {
@@ -789,7 +789,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T10:45:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93406_20261125_EXECUTIVE": {
@@ -855,7 +855,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-25T10:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93417_20261125_EXECUTIVE": {
@@ -2010,7 +2010,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46883_20261128_CLASSIC": {
@@ -2307,7 +2307,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-25T11:05:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -2936,6 +2936,39 @@
       "alerted_at": "2026-11-25T09:40:09+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "PVHR_46817_20261127_CLASSIC": {
+      "movie": "Jedusi - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "02:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T11:15:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46891_20261128_CLASSIC": {
+      "movie": "Jedusi - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "02:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T11:15:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46896_20261129_CLASSIC": {
+      "movie": "Jedusi - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "02:00 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T11:15:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
