@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T10:40:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46666_20261125_CLASSIC": {
@@ -513,9 +513,9 @@
       "time": "03:50 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-21T16:18:35+05:30",
+      "alerted_at": "2026-11-25T15:12:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46718_20261125_CLASSIC": {
       "movie": "Bachelor Party D'eux - Malayalam",
@@ -778,7 +778,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T10:00:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93388_20261125_EXECUTIVE": {
@@ -811,7 +811,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-25T11:05:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93416_20261125_EXECUTIVE": {
@@ -822,7 +822,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-25T11:30:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93389_20261125_EXECUTIVE": {
@@ -832,9 +832,9 @@
       "time": "03:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-25T15:12:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93407_20261125_EXECUTIVE": {
       "movie": "AOT - Tamil",
@@ -865,9 +865,9 @@
       "time": "04:20 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-25T15:12:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93390_20261125_EXECUTIVE": {
       "movie": "Sathyavan Savithiri - Tamil",
@@ -954,7 +954,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T11:57:43+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93409_20261125_EXECUTIVE": {
@@ -998,7 +998,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T10:05:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93462_20261125_EXECUTIVE": {
@@ -1009,7 +1009,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T12:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93450_20261125_EXECUTIVE": {
@@ -1019,9 +1019,9 @@
       "time": "03:25 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T12:27:42+05:30",
+      "alerted_at": "2026-11-25T15:12:25+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93471_20261125_EXECUTIVE": {
       "movie": "O.M Operation Mole - Tamil",
@@ -1031,7 +1031,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-22T12:27:42+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93463_20261125_EXECUTIVE": {
@@ -2274,7 +2274,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93576_20261128_EXECUTIVE": {
@@ -2306,8 +2306,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-25T11:05:11+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -3000,6 +3000,61 @@
       "category": "CLASSIC",
       "price": 54.12,
       "alerted_at": "2026-11-25T11:30:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46741_20261126_CLASSIC": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "01:45 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46818_20261127_CLASSIC": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46893_20261128_CLASSIC": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93589_20261129_EXECUTIVE": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261129",
+      "time": "04:05 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46898_20261129_CLASSIC": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "07:05 PM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T15:12:25+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
