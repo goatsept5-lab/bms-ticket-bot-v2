@@ -2307,7 +2307,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-25T20:27:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -2329,7 +2329,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-25T19:17:26+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93559_20261128_EXECUTIVE": {
@@ -3156,6 +3156,17 @@
       "alerted_at": "2026-11-25T19:27:25+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16622_20261125_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261125",
+      "time": "09:35 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-25T20:37:26+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
