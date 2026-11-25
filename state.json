@@ -766,9 +766,9 @@
       "time": "10:30 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-22T11:57:43+05:30",
+      "alerted_at": "2026-11-25T08:30:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93396_20261125_EXECUTIVE": {
       "movie": "John Doe - Tamil",
@@ -1900,7 +1900,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93517_20261127_EXECUTIVE": {
