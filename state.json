@@ -2306,8 +2306,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-25T16:27:24+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-25T18:07:25+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -3079,6 +3079,39 @@
       "alerted_at": "2026-11-25T15:47:24+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "PVHR_46810_20261127_CLASSIC": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "04:35 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-11-25T18:07:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46892_20261128_CLASSIC": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "04:35 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-11-25T18:07:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46897_20261129_CLASSIC": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "04:35 PM",
+      "category": "CLASSIC",
+      "price": 61.74,
+      "alerted_at": "2026-11-25T18:07:25+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
