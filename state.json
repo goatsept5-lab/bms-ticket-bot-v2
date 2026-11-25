@@ -2307,7 +2307,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-25T15:12:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -2428,7 +2428,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46887_20261129_CLASSIC": {
@@ -3066,6 +3066,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-25T15:37:24+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16680_20261125_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261125",
+      "time": "04:45 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-25T15:47:24+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
