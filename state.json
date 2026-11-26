@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93524_20261127_EXECUTIVE": {
@@ -2339,8 +2339,8 @@
       "time": "01:20 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-26T12:27:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T13:07:59+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "MCSK_17381_20261129_SPECIAL": {
@@ -2384,7 +2384,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-26T12:57:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     }
   },
