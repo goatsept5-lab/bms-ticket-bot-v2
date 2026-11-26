@@ -250,7 +250,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-24T01:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46738_20261126_CLASSIC": {
@@ -260,9 +260,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "alerted_at": "2026-11-26T17:37:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46772_20261126_CLASSIC": {
       "movie": "ENE Repeat - Telugu",
@@ -271,9 +271,9 @@
       "time": "07:00 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-24T01:30:09+05:30",
+      "alerted_at": "2026-11-26T17:37:21+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46761_20261126_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
@@ -283,7 +283,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-24T01:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46739_20261126_CLASSIC": {
@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-24T01:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46773_20261126_CLASSIC": {
@@ -305,7 +305,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-24T01:30:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46735_20261126_CLASSIC": {
@@ -415,7 +415,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-26T12:57:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93502_20261126_EXECUTIVE": {
@@ -492,7 +492,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T13:47:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93477_20261126_EXECUTIVE": {
@@ -646,7 +646,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-26T11:07:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93511_20261126_EXECUTIVE": {
@@ -679,7 +679,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-26T13:47:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46816_20261127_CLASSIC": {
@@ -888,7 +888,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46811_20261127_CLASSIC": {
@@ -943,7 +943,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46796_20261127_CLASSIC": {
@@ -1350,7 +1350,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46824_20261128_CLASSIC": {
@@ -1448,8 +1448,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-26T11:57:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T17:37:21+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -1812,7 +1812,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93580_20261129_EXECUTIVE": {
@@ -2373,7 +2373,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-26T12:57:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16739_20261126_NORMAL": {
