@@ -1448,8 +1448,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-26T08:12:58+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T09:17:57+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -2230,6 +2230,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-26T09:07:57+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "INTO_93496_20261126_EXECUTIVE": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261126",
+      "time": "09:30 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-26T09:17:57+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16727_20261126_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "10:20 AM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-26T09:17:57+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
