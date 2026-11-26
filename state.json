@@ -645,9 +645,9 @@
       "time": "01:05 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-24T21:09:31+05:30",
+      "alerted_at": "2026-11-26T11:07:58+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93511_20261126_EXECUTIVE": {
       "movie": "You Can See Everything - English",
@@ -1405,7 +1405,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93557_20261128_EXECUTIVE": {
@@ -1460,7 +1460,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93578_20261128_EXECUTIVE": {
