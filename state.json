@@ -2120,7 +2120,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T15:12:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46818_20261127_CLASSIC": {
@@ -2263,6 +2263,28 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-26T10:07:57+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "PVHR_46740_20261126_CLASSIC": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261126",
+      "time": "10:05 AM",
+      "category": "CLASSIC",
+      "price": 54.35,
+      "alerted_at": "2026-11-26T10:27:59+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16752_20261126_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "11:15 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T10:27:59+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
