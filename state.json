@@ -448,7 +448,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T05:45:53+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93489_20261126_EXECUTIVE": {
@@ -634,9 +634,9 @@
       "time": "10:00 AM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-24T21:09:31+05:30",
+      "alerted_at": "2026-11-26T08:12:58+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "INTO_93513_20261126_EXECUTIVE": {
       "movie": "Hail Mary - Malayalam",
@@ -1448,8 +1448,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-26T04:35:54+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T08:12:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -1800,8 +1800,8 @@
       "time": "09:15 AM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T08:12:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93552_20261129_EXECUTIVE": {
