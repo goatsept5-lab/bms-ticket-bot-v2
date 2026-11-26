@@ -2307,8 +2307,30 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-26T11:17:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
+    },
+    "CBMC_16756_20261126_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "01:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-26T12:17:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16751_20261126_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "01:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T12:17:58+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
