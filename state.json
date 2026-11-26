@@ -667,9 +667,9 @@
       "time": "12:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-24T21:09:31+05:30",
+      "alerted_at": "2026-11-26T10:07:57+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46774_20261126_CLASSIC": {
       "movie": "Hail Mary - Malayalam",
@@ -2253,6 +2253,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-26T09:17:57+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16753_20261126_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "11:05 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T10:07:57+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
