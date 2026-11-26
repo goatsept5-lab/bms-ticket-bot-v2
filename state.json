@@ -601,9 +601,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-24T02:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-26T22:42:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93500_20261126_EXECUTIVE": {
       "movie": "Godzilla Minus Zero - Japanese",
@@ -612,9 +612,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-24T02:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-26T22:42:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93510_20261126_EXECUTIVE": {
       "movie": "ENE Repeat - Telugu",
@@ -623,9 +623,9 @@
       "time": "10:50 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-24T02:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-26T22:42:21+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93512_20261126_EXECUTIVE": {
       "movie": "Appakutty - Tamil",
@@ -1448,8 +1448,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-26T21:17:22+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T22:42:21+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
