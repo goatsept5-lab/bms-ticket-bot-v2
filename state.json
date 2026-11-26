@@ -316,7 +316,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-26T18:57:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93487_20261126_EXECUTIVE": {
@@ -2428,6 +2428,50 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46903_20261127_CLASSIC": {
+      "movie": "Dad's Little Friend - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "01:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T19:27:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46907_20261128_CLASSIC": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T19:27:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46904_20261128_CLASSIC": {
+      "movie": "Dad's Little Friend - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261128",
+      "time": "01:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T19:27:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46908_20261129_CLASSIC": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T19:27:20+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
