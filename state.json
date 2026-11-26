@@ -315,8 +315,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-24T01:30:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93487_20261126_EXECUTIVE": {
@@ -513,8 +513,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-26T18:42:21+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "INTO_93494_20261126_EXECUTIVE": {
@@ -656,8 +656,8 @@
       "time": "10:35 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-24T21:09:31+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46775_20261126_CLASSIC": {
@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T13:27:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93524_20261127_EXECUTIVE": {
@@ -1405,7 +1405,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T11:27:58+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93557_20261128_EXECUTIVE": {
@@ -1460,7 +1460,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T11:17:59+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93578_20261128_EXECUTIVE": {
@@ -2395,8 +2395,41 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-26T18:32:21+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16758_20261126_NORMAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261126",
+      "time": "07:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "PVHR_46900_20261127_CLASSIC": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261127",
+      "time": "11:30 AM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "PVHR_46911_20261129_CLASSIC": {
+      "movie": "Dad's Little Friend - Telugu",
+      "theatre": "PVR: Heritage RSL ECR",
+      "date": "20261129",
+      "time": "01:05 PM",
+      "category": "CLASSIC",
+      "price": 59.43,
+      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
