@@ -491,8 +491,8 @@
       "time": "06:45 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-24T02:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-26T13:47:58+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93477_20261126_EXECUTIVE": {
@@ -678,9 +678,9 @@
       "time": "03:45 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-24T21:09:31+05:30",
+      "alerted_at": "2026-11-26T13:47:58+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46816_20261127_CLASSIC": {
       "movie": "Chitukurinji - Tamil",
