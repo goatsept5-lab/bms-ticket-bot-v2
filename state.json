@@ -1946,6 +1946,17 @@
       "alerted_at": "2026-11-27T14:20:06+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16804_20261127_NORMAL": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "03:45 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T14:50:07+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
