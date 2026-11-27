@@ -1789,9 +1789,9 @@
       "time": "01:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-26T19:27:20+05:30",
+      "alerted_at": "2026-11-27T11:05:06+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46907_20261128_CLASSIC": {
       "movie": "Yeh Prem Mol Liya - Hindi",
