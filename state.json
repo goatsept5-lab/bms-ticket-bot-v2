@@ -601,9 +601,9 @@
       "time": "11:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-27T23:09:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "PVHR_46820_20261128_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
@@ -986,8 +986,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-27T22:14:19+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-27T23:09:19+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -2109,7 +2109,7 @@
       "category": "SPECIAL",
       "price": 59.43,
       "alerted_at": "2026-11-27T21:49:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16779_20261127_NORMAL": {
