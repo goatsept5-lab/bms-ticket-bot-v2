@@ -371,7 +371,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46788_20261127_CLASSIC": {
@@ -491,8 +491,8 @@
       "time": "10:40 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-27T19:29:18+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46797_20261127_CLASSIC": {
@@ -568,9 +568,9 @@
       "time": "07:35 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T10:20:10+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-27T19:29:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93527_20261127_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -2021,7 +2021,7 @@
       "category": "NORMAL",
       "price": 61.74,
       "alerted_at": "2026-11-27T19:09:18+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16789_20261127_NORMAL": {
