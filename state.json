@@ -293,9 +293,9 @@
       "time": "02:55 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-27T12:55:06+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46805_20261127_CLASSIC": {
       "movie": "Yeh Prem Mol Liya - Hindi",
@@ -1922,6 +1922,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-27T12:50:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93543_20261127_EXECUTIVE": {
+      "movie": "Bhogi - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T12:55:06+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
