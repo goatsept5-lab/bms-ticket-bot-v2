@@ -1825,6 +1825,17 @@
       "alerted_at": "2026-11-26T19:27:20+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93529_20261127_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T09:50:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
