@@ -227,9 +227,9 @@
       "time": "11:00 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-27T09:30:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46790_20261127_CLASSIC": {
       "movie": "Niram - Tamil",
@@ -238,9 +238,9 @@
       "time": "11:10 AM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-26T12:47:58+05:30",
+      "alerted_at": "2026-11-27T09:30:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46793_20261127_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
@@ -261,7 +261,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-26T22:57:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46786_20261127_CLASSIC": {
@@ -986,8 +986,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-27T07:55:16+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-27T09:30:07+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -1624,9 +1624,9 @@
       "time": "11:30 AM",
       "category": "CLASSIC",
       "price": 54.12,
-      "alerted_at": "2026-11-25T11:30:10+05:30",
+      "alerted_at": "2026-11-27T09:30:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46882_20261128_CLASSIC": {
       "movie": "Thiruvilaiyadal - Tamil",
@@ -1767,9 +1767,9 @@
       "time": "11:30 AM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-26T18:57:20+05:30",
+      "alerted_at": "2026-11-27T09:30:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46911_20261129_CLASSIC": {
       "movie": "Dad's Little Friend - Telugu",
