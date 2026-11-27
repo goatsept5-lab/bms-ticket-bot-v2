@@ -2120,6 +2120,28 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T21:59:19+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "INTO_93541_20261127_EXECUTIVE": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "10:10 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-27T22:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16790_20261127_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T22:09:18+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
