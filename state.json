@@ -987,7 +987,7 @@
       "category": "EXECUTIVE",
       "price": 61.74,
       "alerted_at": "2026-11-27T10:50:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -1845,8 +1845,52 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T10:50:07+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16791_20261127_NORMAL": {
+      "movie": "Ramayana (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "12:10 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T11:00:06+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16784_20261127_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "12:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T11:00:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16777_20261127_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "01:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T11:00:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16787_20261127_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "01:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T11:00:06+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
