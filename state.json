@@ -294,7 +294,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-27T12:55:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46805_20261127_CLASSIC": {
@@ -305,7 +305,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-27T13:05:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46794_20261127_CLASSIC": {
@@ -316,7 +316,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-27T13:20:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46787_20261127_CLASSIC": {
@@ -327,7 +327,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-27T13:45:07+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46802_20261127_CLASSIC": {
@@ -349,7 +349,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-27T14:40:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46813_20261127_CLASSIC": {
@@ -382,7 +382,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46795_20261127_CLASSIC": {
@@ -393,7 +393,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46803_20261127_CLASSIC": {
@@ -414,9 +414,9 @@
       "time": "08:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-27T19:09:18+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46799_20261127_CLASSIC": {
       "movie": "Appakutty - Tamil",
@@ -459,7 +459,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46807_20261127_CLASSIC": {
@@ -668,7 +668,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46830_20261128_CLASSIC": {
@@ -1537,7 +1537,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93607_20261129_EXECUTIVE": {
@@ -1702,7 +1702,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-27T14:35:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46892_20261128_CLASSIC": {
@@ -1955,6 +1955,83 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-27T14:50:07+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "INTO_93530_20261127_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "06:30 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93534_20261127_EXECUTIVE": {
+      "movie": "Appakutty - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "06:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "INTO_93542_20261127_EXECUTIVE": {
+      "movie": "You Can See Everything - English",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "07:05 PM",
+      "category": "EXECUTIVE",
+      "price": 61.74,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16806_20261127_NORMAL": {
+      "movie": "Gunmaaster G9 - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "07:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16769_20261127_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "07:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16807_20261127_NORMAL": {
+      "movie": "Focker-In-Law - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "07:45 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16789_20261127_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "07:55 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T19:09:18+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
