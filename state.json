@@ -326,9 +326,9 @@
       "time": "03:45 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-27T13:45:07+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46802_20261127_CLASSIC": {
       "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
@@ -525,7 +525,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-27T12:50:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93524_20261127_EXECUTIVE": {
@@ -1922,7 +1922,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-27T12:50:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93543_20261127_EXECUTIVE": {
