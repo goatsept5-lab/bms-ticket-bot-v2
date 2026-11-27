@@ -2045,6 +2045,28 @@
       "alerted_at": "2026-11-27T19:49:19+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "CBMC_16766_20261127_NORMAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "10:00 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T21:14:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16770_20261127_NORMAL": {
+      "movie": "You Can See Everything - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "10:05 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-27T21:14:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
