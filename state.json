@@ -2177,6 +2177,17 @@
       "alerted_at": "2026-11-27T22:39:18+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_93538_20261127_EXECUTIVE": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "11:05 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T22:54:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
