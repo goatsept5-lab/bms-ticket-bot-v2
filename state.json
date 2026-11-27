@@ -2100,6 +2100,17 @@
       "alerted_at": "2026-11-27T21:39:18+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17342_20261127_SPECIAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261127",
+      "time": "10:20 PM",
+      "category": "SPECIAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T21:49:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
