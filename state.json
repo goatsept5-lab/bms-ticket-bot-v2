@@ -1891,6 +1891,17 @@
       "alerted_at": "2026-11-27T11:00:06+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16905_20261127_NORMAL": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "01:45 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T11:30:07+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
