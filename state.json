@@ -524,9 +524,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-26T20:32:21+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-27T12:50:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93524_20261127_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -986,8 +986,8 @@
       "time": "07:05 PM",
       "category": "EXECUTIVE",
       "price": 61.74,
-      "alerted_at": "2026-11-27T11:50:07+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-27T12:50:06+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93567_20261128_EXECUTIVE": {
@@ -1911,6 +1911,17 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-27T12:40:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93533_20261127_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T12:50:06+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
