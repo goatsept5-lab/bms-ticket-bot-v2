@@ -436,9 +436,9 @@
       "time": "09:45 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-27T19:49:19+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46812_20261127_CLASSIC": {
       "movie": "Cosmic Samson - Malayalam",
@@ -579,9 +579,9 @@
       "time": "08:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-27T19:49:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93517_20261127_EXECUTIVE": {
       "movie": "AOT - Aakasamlo Oka Tara - Telugu",
@@ -2032,6 +2032,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T19:09:18+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93532_20261127_EXECUTIVE": {
+      "movie": "Gunmaaster G9 - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "08:00 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T19:49:19+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
