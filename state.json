@@ -2142,6 +2142,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T22:09:18+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "INTO_93528_20261127_EXECUTIVE": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "10:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T22:29:19+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
