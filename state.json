@@ -1515,7 +1515,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-26T22:32:22+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93598_20261129_EXECUTIVE": {
@@ -2087,6 +2087,17 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T21:29:19+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16799_20261127_NORMAL": {
+      "movie": "Cosmic Samson - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261127",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-27T21:39:18+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
