@@ -1944,7 +1944,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-27T14:20:06+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16804_20261127_NORMAL": {
