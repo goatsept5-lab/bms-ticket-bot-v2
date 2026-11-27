@@ -1902,6 +1902,17 @@
       "alerted_at": "2026-11-27T12:10:06+05:30",
       "sold_out": true,
       "soon_alerted": true
+    },
+    "INTO_93546_20261127_EXECUTIVE": {
+      "movie": "Delivery Boy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261127",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-27T12:40:06+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
