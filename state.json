@@ -360,7 +360,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46806_20261127_CLASSIC": {
@@ -1701,9 +1701,9 @@
       "time": "04:35 PM",
       "category": "CLASSIC",
       "price": 61.74,
-      "alerted_at": "2026-11-25T18:07:25+05:30",
+      "alerted_at": "2026-11-27T14:35:06+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46892_20261128_CLASSIC": {
       "movie": "Focker-In-Law - English",
