@@ -371,7 +371,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46884_20261128_CLASSIC": {
@@ -382,7 +382,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46839_20261128_CLASSIC": {
@@ -536,7 +536,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-28T09:00:48+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93575_20261128_EXECUTIVE": {
@@ -1471,6 +1471,28 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-28T08:40:48+05:30",
+      "sold_out": true,
+      "soon_alerted": true
+    },
+    "INTO_93548_20261128_EXECUTIVE": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "10:00 AM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T10:08:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16852_20261128_NORMAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "10:40 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T10:08:36+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
