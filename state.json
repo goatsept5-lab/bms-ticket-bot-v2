@@ -337,8 +337,8 @@
       "time": "03:20 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46831_20261128_CLASSIC": {
@@ -1504,7 +1504,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T10:18:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16847_20261128_NORMAL": {
@@ -1561,6 +1561,116 @@
       "alerted_at": "2026-11-28T11:18:37+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "CBMC_16848_20261128_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "02:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16901_20261128_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "03:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16831_20261128_NORMAL": {
+      "movie": "Godzilla Minus Zero - Japanese",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "03:55 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16903_20261128_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "04:30 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16853_20261128_NORMAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "04:40 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16843_20261128_NORMAL": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "05:20 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16827_20261128_NORMAL": {
+      "movie": "ENE Repeat - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "07:45 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16854_20261128_NORMAL": {
+      "movie": "Scene - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "08:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16833_20261128_NORMAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "09:55 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
+    },
+    "CBMC_16828_20261128_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
