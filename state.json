@@ -293,9 +293,9 @@
       "time": "12:35 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-28T10:38:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46867_20261128_CLASSIC": {
       "movie": "Minnum Oar Iravu - Tamil",
