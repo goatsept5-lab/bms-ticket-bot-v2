@@ -2188,6 +2188,17 @@
       "alerted_at": "2026-11-28T21:09:10+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16869_20261129_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261129",
+      "time": "11:00 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T21:14:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
