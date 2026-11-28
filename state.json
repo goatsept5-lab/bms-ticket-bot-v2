@@ -1030,8 +1030,8 @@
       "time": "03:40 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T15:08:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93561_20261129_EXECUTIVE": {
@@ -1173,8 +1173,8 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-28T13:13:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T15:08:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93599_20261129_EXECUTIVE": {
@@ -1394,7 +1394,7 @@
       "category": "SPECIAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T00:39:20+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16908_20261128_NORMAL": {
@@ -1712,8 +1712,8 @@
       "time": "03:40 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-28T13:43:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T15:08:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16906_20261128_NORMAL": {
@@ -1725,6 +1725,17 @@
       "price": 54.35,
       "alerted_at": "2026-11-28T12:53:36+05:30",
       "sold_out": true,
+      "soon_alerted": true
+    },
+    "CBMC_16858_20261128_NORMAL": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "04:05 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T15:08:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     }
   },
