@@ -1206,9 +1206,9 @@
       "time": "02:00 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T11:15:10+05:30",
+      "alerted_at": "2026-11-28T12:03:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46896_20261129_CLASSIC": {
       "movie": "Jedusi - Tamil",
@@ -1548,7 +1548,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-28T11:18:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16825_20261128_NORMAL": {
@@ -1558,8 +1558,8 @@
       "time": "01:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-28T11:18:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T12:03:37+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16848_20261128_NORMAL": {
@@ -1668,8 +1668,8 @@
       "time": "11:00 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-28T11:28:37+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T12:03:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     }
   },
