@@ -480,9 +480,9 @@
       "time": "10:05 PM",
       "category": "CLASSIC",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-28T20:09:09+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46840_20261128_CLASSIC": {
       "movie": "Yeh Prem Mol Liya - Hindi",
@@ -1823,7 +1823,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47003_20261202_CLASSIC": {
@@ -1867,7 +1867,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47008_20261202_CLASSIC": {
@@ -1889,7 +1889,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46927_20261202_CLASSIC": {
@@ -1955,7 +1955,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46928_20261202_CLASSIC": {
@@ -1977,7 +1977,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47014_20261202_CLASSIC": {
@@ -2010,7 +2010,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46941_20261202_CLASSIC": {
@@ -2043,7 +2043,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47010_20261202_CLASSIC": {
@@ -2076,7 +2076,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47015_20261202_CLASSIC": {
@@ -2087,7 +2087,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47007_20261202_CLASSIC": {
@@ -2109,7 +2109,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46930_20261202_CLASSIC": {
@@ -2153,7 +2153,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47037_20261202_CLASSIC": {
@@ -2164,7 +2164,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93594_20261128_EXECUTIVE": {
