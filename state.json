@@ -459,7 +459,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46885_20261128_CLASSIC": {
@@ -492,7 +492,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46856_20261128_CLASSIC": {
@@ -569,7 +569,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-28T13:58:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93576_20261128_EXECUTIVE": {
@@ -756,7 +756,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46835_20261129_CLASSIC": {
@@ -866,7 +866,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46899_20261129_CLASSIC": {
@@ -888,7 +888,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46837_20261129_CLASSIC": {
@@ -1284,7 +1284,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-28T14:38:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46897_20261129_CLASSIC": {
@@ -1737,6 +1737,17 @@
       "alerted_at": "2026-11-28T15:08:36+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17344_20261128_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261128",
+      "time": "03:20 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T15:38:36+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
