@@ -2186,7 +2186,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T21:24:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16869_20261129_NORMAL": {
@@ -2496,6 +2496,39 @@
       "alerted_at": "2026-11-28T21:29:10+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16860_20261128_NORMAL": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "10:30 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T21:39:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16845_20261128_NORMAL": {
+      "movie": "You Can See Everything - English",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "10:30 PM",
+      "category": "NORMAL",
+      "price": 61.74,
+      "alerted_at": "2026-11-28T21:39:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16823_20261128_NORMAL": {
+      "movie": "Cosmic Samson - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "10:35 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T21:39:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
