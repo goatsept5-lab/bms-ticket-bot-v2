@@ -2527,7 +2527,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-28T22:09:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "INTO_93663_20261201_EXECUTIVE": {
@@ -3044,7 +3044,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T21:49:11+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     }
   },
