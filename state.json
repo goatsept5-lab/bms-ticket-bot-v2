@@ -338,7 +338,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46831_20261128_CLASSIC": {
@@ -1526,6 +1526,39 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T11:13:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16910_20261128_NORMAL": {
+      "movie": "Cosmic Samson - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "12:15 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T11:18:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16857_20261128_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara - Telugu",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "12:50 PM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T11:18:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "CBMC_16825_20261128_NORMAL": {
+      "movie": "AOT - Aakasamlo Oka Tara (Tamil) - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "01:15 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T11:18:37+05:30",
       "sold_out": false,
       "soon_alerted": true
     }
