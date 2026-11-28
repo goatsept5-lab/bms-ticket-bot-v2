@@ -481,7 +481,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T20:09:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "PVHR_46840_20261128_CLASSIC": {
@@ -2186,7 +2186,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T22:29:10+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16869_20261129_NORMAL": {
@@ -3068,6 +3068,17 @@
       "alerted_at": "2026-11-28T22:39:10+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "MCSK_17346_20261128_SPECIAL": {
+      "movie": "O.M Operation Mole - Tamil",
+      "theatre": "Miraj Cinemas: Sekaran Mall",
+      "date": "20261128",
+      "time": "10:40 PM",
+      "category": "SPECIAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T22:54:10+05:30",
+      "sold_out": false,
+      "soon_alerted": false
     }
   },
   "fail_streak": 0
