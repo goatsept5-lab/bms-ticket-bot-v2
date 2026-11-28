@@ -404,7 +404,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46823_20261128_CLASSIC": {
@@ -437,7 +437,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46869_20261128_CLASSIC": {
@@ -470,7 +470,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46833_20261128_CLASSIC": {
@@ -634,8 +634,8 @@
       "time": "11:20 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T15:18:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "PVHR_46825_20261129_CLASSIC": {
@@ -1251,7 +1251,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-25T15:12:25+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93589_20261129_EXECUTIVE": {
@@ -1393,8 +1393,8 @@
       "time": "07:20 PM",
       "category": "SPECIAL",
       "price": 54.35,
-      "alerted_at": "2026-11-28T00:39:20+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T15:18:36+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "CBMC_16908_20261128_NORMAL": {
@@ -1647,7 +1647,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T14:58:37+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "CBMC_16833_20261128_NORMAL": {
@@ -1713,7 +1713,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-28T15:08:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16906_20261128_NORMAL": {
