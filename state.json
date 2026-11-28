@@ -1778,9 +1778,9 @@
       "time": "10:20 PM",
       "category": "SPECIAL",
       "price": 59.43,
-      "alerted_at": "2026-11-28T19:29:09+05:30",
+      "alerted_at": "2026-11-28T20:24:10+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16859_20261128_NORMAL": {
       "movie": "Gunmaaster G9 - Hindi",
@@ -1812,7 +1812,7 @@
       "category": "EXECUTIVE",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47012_20261202_CLASSIC": {
@@ -1834,7 +1834,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46989_20261202_CLASSIC": {
@@ -1845,7 +1845,7 @@
       "category": "CLASSIC",
       "price": 54.12,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46939_20261202_CLASSIC": {
@@ -1856,7 +1856,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47034_20261202_CLASSIC": {
@@ -1878,7 +1878,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47038_20261202_CLASSIC": {
@@ -1900,7 +1900,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47013_20261202_CLASSIC": {
@@ -1922,7 +1922,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46990_20261202_CLASSIC": {
@@ -1933,7 +1933,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46940_20261202_CLASSIC": {
@@ -1944,7 +1944,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47035_20261202_CLASSIC": {
@@ -1966,7 +1966,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47039_20261202_CLASSIC": {
@@ -1999,7 +1999,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46991_20261202_CLASSIC": {
@@ -2021,7 +2021,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46929_20261202_CLASSIC": {
@@ -2054,7 +2054,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47006_20261202_CLASSIC": {
@@ -2098,7 +2098,7 @@
       "category": "CLASSIC",
       "price": 61.74,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46992_20261202_CLASSIC": {
@@ -2120,7 +2120,7 @@
       "category": "CLASSIC",
       "price": 54.35,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47016_20261202_CLASSIC": {
@@ -2131,7 +2131,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_46942_20261202_CLASSIC": {
@@ -2142,7 +2142,7 @@
       "category": "CLASSIC",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:39:08+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "PVHR_47041_20261202_CLASSIC": {
