@@ -3057,6 +3057,17 @@
       "alerted_at": "2026-11-28T22:29:10+05:30",
       "sold_out": false,
       "soon_alerted": true
+    },
+    "INTO_93603_20261128_EXECUTIVE": {
+      "movie": "Cosmic Samson - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "10:50 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T22:39:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
