@@ -326,9 +326,9 @@
       "time": "03:05 PM",
       "category": "CLASSIC",
       "price": 59.43,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
+      "alerted_at": "2026-11-28T13:08:36+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "PVHR_46822_20261128_CLASSIC": {
       "movie": "O.M Operation Mole - Tamil",
