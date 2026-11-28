@@ -612,9 +612,9 @@
       "time": "08:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-26T11:17:59+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-28T19:54:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93578_20261128_EXECUTIVE": {
       "movie": "AOT - Aakasamlo Oka Tara - Telugu",
@@ -1790,7 +1790,7 @@
       "category": "NORMAL",
       "price": 59.43,
       "alerted_at": "2026-11-28T19:29:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": true
     },
     "CBMC_16844_20261128_NORMAL": {
@@ -2166,6 +2166,17 @@
       "alerted_at": "2026-11-28T19:39:08+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93594_20261128_EXECUTIVE": {
+      "movie": "Gunmaaster G9 - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "08:00 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T19:54:09+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
