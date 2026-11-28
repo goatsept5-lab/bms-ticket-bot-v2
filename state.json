@@ -1174,7 +1174,7 @@
       "category": "EXECUTIVE",
       "price": 59.43,
       "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93599_20261129_EXECUTIVE": {
@@ -1569,8 +1569,8 @@
       "time": "02:15 PM",
       "category": "NORMAL",
       "price": 54.35,
-      "alerted_at": "2026-11-28T12:18:36+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T12:53:36+05:30",
+      "sold_out": false,
       "soon_alerted": true
     },
     "CBMC_16901_20261128_NORMAL": {
@@ -1669,7 +1669,7 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T12:48:36+05:30",
-      "sold_out": false,
+      "sold_out": true,
       "soon_alerted": false
     },
     "INTO_93600_20261128_EXECUTIVE": {
@@ -1715,6 +1715,17 @@
       "alerted_at": "2026-11-28T12:28:37+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16906_20261128_NORMAL": {
+      "movie": "Signal at 11:30 - Tamil",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "01:50 PM",
+      "category": "NORMAL",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T12:53:36+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
