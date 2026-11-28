@@ -1712,9 +1712,9 @@
       "time": "03:40 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "alerted_at": "2026-11-28T13:43:37+05:30",
       "sold_out": false,
-      "soon_alerted": false
+      "soon_alerted": true
     },
     "CBMC_16906_20261128_NORMAL": {
       "movie": "Signal at 11:30 - Tamil",
