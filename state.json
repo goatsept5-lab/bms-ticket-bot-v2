@@ -623,8 +623,8 @@
       "time": "11:00 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-25T19:17:26+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T23:04:10+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93559_20261128_EXECUTIVE": {
@@ -1151,8 +1151,8 @@
       "time": "10:40 PM",
       "category": "EXECUTIVE",
       "price": 59.43,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T23:04:10+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93607_20261129_EXECUTIVE": {
@@ -3079,6 +3079,17 @@
       "alerted_at": "2026-11-28T22:54:10+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "INTO_93595_20261128_EXECUTIVE": {
+      "movie": "Yeh Prem Mol Liya - Hindi",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "11:05 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T23:04:10+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
