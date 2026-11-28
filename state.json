@@ -1396,6 +1396,17 @@
       "alerted_at": "2026-11-28T00:39:20+05:30",
       "sold_out": false,
       "soon_alerted": false
+    },
+    "CBMC_16908_20261128_NORMAL": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "Cinepolis: BSR Mall, OMR",
+      "date": "20261128",
+      "time": "07:50 AM",
+      "category": "NORMAL",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T06:55:48+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     }
   },
   "fail_streak": 0
