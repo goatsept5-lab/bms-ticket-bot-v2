@@ -546,9 +546,9 @@
       "time": "12:40 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93565_20261128_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -557,9 +557,9 @@
       "time": "01:00 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-26T11:27:58+05:30",
-      "sold_out": true,
-      "soon_alerted": false
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
     },
     "INTO_93557_20261128_EXECUTIVE": {
       "movie": "Scene - Tamil",
@@ -568,8 +568,8 @@
       "time": "03:55 PM",
       "category": "EXECUTIVE",
       "price": 54.35,
-      "alerted_at": "2026-11-25T06:00:09+05:30",
-      "sold_out": true,
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
       "soon_alerted": false
     },
     "INTO_93576_20261128_EXECUTIVE": {
@@ -1669,6 +1669,50 @@
       "category": "NORMAL",
       "price": 54.35,
       "alerted_at": "2026-11-28T12:03:37+05:30",
+      "sold_out": true,
+      "soon_alerted": false
+    },
+    "INTO_93600_20261128_EXECUTIVE": {
+      "movie": "Delivery Boy - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "12:50 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93584_20261128_EXECUTIVE": {
+      "movie": "Sathyavan Savithiri - Tamil",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "01:00 PM",
+      "category": "EXECUTIVE",
+      "price": 54.35,
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93592_20261128_EXECUTIVE": {
+      "movie": "Bhogi - Telugu",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "01:05 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T12:28:37+05:30",
+      "sold_out": false,
+      "soon_alerted": true
+    },
+    "INTO_93601_20261128_EXECUTIVE": {
+      "movie": "Hail Mary - Malayalam",
+      "theatre": "INOX: The Marina Mall, OMR",
+      "date": "20261128",
+      "time": "03:40 PM",
+      "category": "EXECUTIVE",
+      "price": 59.43,
+      "alerted_at": "2026-11-28T12:28:37+05:30",
       "sold_out": false,
       "soon_alerted": false
     }
